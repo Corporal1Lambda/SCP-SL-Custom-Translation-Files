@@ -1,0 +1,18 @@
+Custom
+Preset 📝#[index]
+SAVE ✔
+CLEAR ATTACHMENTS ❌
+Default
+📝PRESETS📝
+<size=250><color=red>\n🔒</color></size>
+<color=#0096FF>SITE-02</color> FIREARM CUSTOMIZATION POINT</size>
+WELCOME!
+WORKSTATION IS BOOTING UP
+<size=250><color=#00b300>\n🔓</color></size>
+<size=42>EQUIP YOUR GUN, WTF YOU WANT TO MODIFY?</size>
+POWERING DOWN
+WORKSTATION IS SHUTTING DOWN
+SHOW SUMMARY
+CLOSE SUMMARY
+[Attachment] Customization
+Press [Key] to edit attachments.

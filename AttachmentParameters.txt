@@ -1,0 +1,21 @@
+ADS zoom
+---
+Damage
+Penetration
+Fire rate
+Recoil
+Recoil when aiming
+Bullet accuracy
+Hip-firing accuracy
+Aiming accuracy
+Equip time
+Gunshot loudness
+Magazine capacity
+Equip time
+Reload time
+---
+Aiming speed
+Pellet spread
+Pattern consistency
+Projectiles number
+Reload speed

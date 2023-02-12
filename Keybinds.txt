@@ -1,0 +1,38 @@
+Shoot
+Zoom
+Jump
+Interact
+Inventory
+Reload
+Run
+Voice Chat
+Sneak
+Move Forward
+Move Backward
+Move Left
+Move Right
+Player List
+Character Info
+Remote Admin
+Toggle Flashlight
+Alt Voice Chat
+Noclip
+Game Console
+Keycard Hotkey
+Inspect
+Cock Revolver
+Throw Item
+Primary Weapon Hotkey
+Secondary Weapon Hotkey
+Medical Hotkey
+Hide GUI
+Toggle Noclip Fog
+Grenade Hotkey
+Pause Menu
+Debug Log
+Free Look Mode
+Lock Door
+Release All Locks
+Blackout
+Lockdown
+Ping

@@ -1,0 +1,7 @@
+Sprint:Increases your movement speed, but also increases sound made while moving.
+Sneak:Your movements become silent, at the cost of a lot of speed.
+Inventory:Open your inventory and select an item you have picked up using LMB, or drop it using RMB.
+Unarmed:You have nothing. Find something. Anything.
+Access Card:You have an access card, it's not the best but don't lose it.
+Standard Issue:You are equipped with a Firearm, an Access Card, and some utility items.
+Armed & Dangerous:You have been consigned with heavy weaponry, an Access Device, and medical supplies.

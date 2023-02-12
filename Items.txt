@@ -1,0 +1,44 @@
+0~<color=#bcb1e4>💳 Janitor Keycard 💳</color>
+1~<color=#FFFF7C>💳 Scientist Keycard 💳</color>
+2~<color=#ddab20>💳 Research Supervisor Keycard 💳</color>
+3~<color=#217778>💳 Zone Manager Keycard 💳</color>
+4~<color=#5B6370>💳 Guard Keycard 💳</color>
+5~<color=#70C3FF>💳 MTF Private Keycard 💳</color>
+6~<color=#b6887f>💳 Containment Engineer Keycard 💳</color>
+7~<color=#0096FF>💳 MTF Sergeant Keycard 💳</color>
+8~<color=#003DCA>💳 MTF Captain Keycard 💳</color>
+9~<color=#ba1846>💳 Facility Manager Keycard 💳</color>
+10~<color=#008F1C>📟 C.I. Breaking Card 📟</color>
+11~<color=#000000>💳 O5-level Keycard 💳</color>
+12~<color=#5B6370>📻 Radio 📻</color>
+13~<color=#FFFF7C>🔫 COM-15 🔫</color>
+14~<color=#FFFF7C>⚕ First Aid Kit ⚕</color>~Heals 65HP.
+15~<color=#606770>🔦 Flashlight 🔦</color>
+16~<color=#003DCA>⚡ Micro H.I.D. ⚡</color>~Mobile High Intensity Discharge (H.I.D.).
+17~<color=#ff0000>💊 SCP-500 💊</color>~Fully heals player.\nCan regenerate up to 200hp.
+18~<color=#ff0000>🍼 SCP-207 🍼</color>~Harmfully increases motor skills.\n<color=red>DO NOT USE WITH <b>SCP-1853</b>.</color>
+20~<color=#0096FF>🔫 MTF-Ԑ-11-SR 🔫</color>
+21~<color=#70C3FF>🔫 Crossvec 🔫</color>
+23~<color=#5B6370>🔫 FSP-9 🔫</color>
+24~<color=#0D7D35>🔫 LGC5 🔫</color>
+25~<color=#0096FF>💣 HE Grenade 💣</color>~Kilogram trotylu w dźwigu osobowym.
+26~<color=#5B6370>💣 Flashbang Grenade 💣</color>~Blind your teammates!
+30~<color=#5B6370>🔫 COM-18 🔫</color>
+31~<color=#ff0000>⚽ SCP-018 ⚽</color>~Superball able to bounce with extreme efficiency.
+32~<color=#ff0000>🎩 SCP-268 🎩</color>~Makes you go for milk for 15s.
+33~<color=#FFFF7C>💉 Adrenaline 💉</color>~Gives player 40AHP.\nRefills stamina bar.\nGives player infinite sprint for 8 seconds.
+34~<color=#FFFF7C>💊 Sanity Pills 💊</color>~Regenerates up to 50HP in 15s.
+35~💿 Coin 💿
+36~<color=#5B6370>🎽 P.C.V. -Light 🎽</color>
+37~<color=#0096FF>🎽 P.C.V. -Standard 🎽</color>
+38~<color=#0D7D35>🎽 P.C.V. -Heavy 🎽</color>
+39~<color=#006826>🔫 .44 Magnum 🔫</color>
+40~<color=#008F1C>🔫 KEK-72B 🔫</color>
+41~<color=#006826>🔫 DBB 🔫</color>
+42~<color=#ff0000>🍬 SCP-330 🍬</color>~A bag containing the following candies:
+43~<color=#ff0000>💡 SCP-2176 💡</color>~Affects electricity in the room.
+44~<color=#ff0000>⚱ SCP-244-A ⚱</color>~An ancient vase. Creates a large cloud of icy fog when placed.
+45~<color=#ff0000>⚱ SCP-244-B ⚱</color>~An ancient bongo. Creates a large cloud of icy fog when placed.
+46~<color=red>💉 SCP-1853 💉~Improves weapon manipulation.\n<color=red>DO NOT USE WITH <b>SCP-207</b>.</color>
+47~<color=#003DCA>🔫 3-X Particle Disruptor 🔫</color>
+48~<color=#ff0000>🔫🔫🔫COM-45🔫🔫🔫</color>

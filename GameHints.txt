@@ -1,0 +1,6 @@
+<color=red>Access denied</color>
+Reached the limit of <color=#ff80bc>[type] ammo</color> (<color=#ff80bc>[max_type_count] rounds</color>).
+<b>Already</b> reached the limit of <color=#ff80bc>[type] ammo</color> (<color=#ff80bc>[max_type_count] rounds</color>).
+Reached the limit of <color=#ff80bc>[type]</color> (<color=#ff80bc>[max_type_count] items</color>).
+<b>Already</b> reached the limit of <color=#ff80bc>[type]</color> (<color=#ff80bc>[max_type_count] items</color>).
+Only <color=#ff80bc>[max_item_count] items</color> can be carried.

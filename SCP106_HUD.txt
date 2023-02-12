@@ -1,0 +1,8 @@
+ATTACK COOLDOWN
+Unavailable on Surface.
+Unavailable during elevator travel.
+An unstoppable force capable of easily bypassing any door in the facility.
+Capture:Ensnares a human in close distance, entrapping them within the pocket dimension — a deadly prison dictated by your rule. The joy of capturing new prey replenishes Vigor.
+Stalk:Submerges you into the floor. Move around quickly and invisibly, regenerate, and prepare to strike your prey. Uses Vigor, which regenerates slowly while Stalk is inactive.
+Hunter’s Atlas:Quickly move to a nearby room, at a great Vigor cost. Such movement is instinct to you, having prowled through the Site's corridors for as long as you have.
+Blissful Agony:While Stalking, you can only see injured humans. The greater their agony, the greater the distance you can spot them from. Escapees of the pocket dimension are traumatized, leaving them visible from anywhere.

@@ -1,0 +1,74 @@
+🔍ZOOM [amount]x
+<color=#8080FF>💳 ACCESS TIER [tier]</color>
+📖 EXP [current] / [next]
+💳 MAX TIER 🔓
+❌ NO CAMERA ❌
+<color=#8080FF>📡</color> GO TO: [camera]
+❌ NOT ENOUGH AUXILIARY POWER ❌
+ETA: [time] seconds
+⛔ ACCESS DENIED - HIGHER TIER REQUIRED ⛔
+❌ INVALID CAMERA ❌
+⛔ DOOR ACCESS DENIED ⛔
+<color=green>○</color> OPEN DOOR ([cost])
+<color=#07A2FF>●</color> CLOSE DOOR ([cost])
+<color=red>🔒</color> LOCK DOOR ([cost])
+<color=green>🔓</color> UNLOCK DOOR 
+<color=yellow>⚠</color> DOOR LOCK COOLDOWN <color=yellow>⚠</color>
+⚡ AUXILIARY POWER
+<color=yellow>⚠</color><color=red> ACTIVE GENERATOR </color><color=yellow>⚠</color>
+<color=green>🔓</color> RELEASE ALL DOOR LOCKS ([num] total)
+OPEN FACILITY MAP
+CLOSE 
+<color=#f5eb9c>LIGHT CONTAINMENT ZONE</color>
+<color=#ca2642>HEAVY CONTAINMENT ZONE</color>
+<color=#bcfab2>ENTRANCE ZONE</color>
+\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<color=#9cc7f5>SURFACE ZONE</color>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFREDDY FAZBEAR'S PIZZERIA\n\n<size=15><size=32>╔═══╗<color=black>════</color>╔═══╗<color=black>════</color>╔═══╗<color=black>════</color>╔═══╗<color=black>════</color>╔═══╗\n║<color=black>═══</color>╠════╣<color=black>═══</color>╠════╣<color=black>═══</color>╠════╣<color=black>═══</color>╠════╣<color=black>═══</color>║\n╚═══╝<color=black>════</color>╚═══╝<color=black>════</color>╚═══╝<color=black>════</color>╚═══╝<color=black>════</color>╚═══╝\n<color=black>═</color>║<color=black>═════════</color>║<color=black>═══</color>┌─────────┐<color=black>═══</color>║<color=black>═════════</color>║<color=black>═</color>\n<color=black>═</color>║<color=black>═════════</color>║<color=black>═══</color>│<color=black>═════════</color>│<color=black>═══</color>║<color=black>═════════</color>║<color=black>═</color>\n╔═══╗<color=black>════</color>╔═══╗<color=black>═</color>│<color=black>═════════</color>│<color=black>═</color>╔═══╗<color=black>════</color>╔═══╗\n║<color=black>═══</color>╠════╣<color=black>═══</color>║<color=black>═</color>│<color=black>═════════</color>│<color=black>═</color>║<color=black>═══</color>╠════╣<color=black>═══</color>║\n╚═══╝<color=black>════</color>╚═══╝<color=black>═</color>│<color=black>═════════</color>│<color=black>═</color>╚═══╝<color=black>════</color>╚═══╝\n<color=black>═</color>║<color=black>═════════</color>║<color=black>═══</color>│<color=black>═════════</color>│<color=black>═══</color>║<color=black>═════════</color>║<color=black>═</color>\n<color=black>═</color>║<color=black>═════════</color>║<color=black>═══</color>└─────────┘<color=black>═══</color>║<color=black>═════════</color>║<color=black>═</color>\n╔═══╗<color=black>════</color>╔═══╗<color=black>════</color>╔═══╗<color=black>════</color>╔═══╗<color=black>════</color>╔═══╗\n║<color=black>═══</color>╠════╣<color=black>═══</color>╠════╣<color=black>═══</color>╠════╣<color=black>═══</color>╠════╣<color=black>═══</color>║\n╚═══╝<color=black>════</color>╚═══╝<color=black>════</color>╚═══╝<color=black>════</color>╚═══╝<color=black>════</color>╚═══╝
+<color=#FFD700>💡</color> BLACKOUT ([cost])
+❌ BLACKOUT UNAVAILABLE ❌
+🚨 LIMIT OF BLACKOUTS REACHED 🚨
+<color=yellow>⚠</color> BLACKOUT COOLDOWN <color=yellow>⚠</color>
+<color=orange>🔺🔻</color> SEND ELEVATOR ([cost])
+<color=red>🔒</color> LOCKDOWN ([cost])
+<color=yellow>⚠</color> LOCKDOWN COOLDOWN <color=yellow>⚠</color>
+❌ NO DOORS AVAILABLE ❌
+<color=#8080FF>🚨</color> PING LOCATION ([cost])
+🚨 PING RATE LIMIT REACHED 🚨
+❌ CAMERA SWITCH FAILED ❌
+<size=20><color=#ff80bc>\n\n\n\n\nHey guys, did you know that in terms of male human and female SCP breeding, SCP-939 is the most compatible SCP for humans? \nNot only are they mammals, 939s are an average of 2.2m tall and 250kgs, this means they’re large enough to be able handle human dicks, \nand with their impressive Base Stats for HP (2400) and access to Hume Shield, you can be rough with one. Due to their mostly meat based biology, \nthere’s no doubt in my mind that an aroused 939 would be incredibly soft, so soft that you could easily have sex with one for hours. \nThey can also learn to mimic someone's voice so they can pretend to be someone you have a crush on, along with not having fur to hide nipples, \nso it’d be incredibly easy for one to get you in the mood, especially with it's model having the most polygons on it's thick juicy ass. \nWith her new lunge ability she can pounce on you all day without any cooldown. SCP-939 is literally built for human dick. \nUngodly defense stat+high HP pool+Hume Shield means it can take cock all day, all shapes and sizes and still come for more.</color></size>
+\n\n\n\n\n\n\n\n\n\n\n<color=#ff80bc>You will turn into <b>furry</b> in [time]s</color>
+<color=yellow>⚡</color> FIRE TESLA GATE ([cost])
+<color=yellow>⚠</color> TESLA GATE ACTIVATION COOLDOWN <color=yellow>⚠</color>
+$💳 Access Tier [tier]$ - UNLOCKED
+$⚡ AUXILIARY POWER$ limit increased to $[limit]$.
+$<color=#FFD700>💡</color> BLACKOUT$ now available - press $[key]$ to disable room lights.
+$<color=#FFD700>💡</color> BLACKOUT$ capacity increased to $[number]$ rooms.
+$<color=red>🔒</color> LOCKDOWN$ now available - press $[key]$ to temporarily lock down all doors in a room.
++[amount] EXP - <color=#ff00b0>Admin Command</color>
++[amount] EXP - <color=#FF8E00>Class-D Personnel</color> termination assist 💀
++[amount] EXP - <color=#FFFF7C>Science Personnel</color> termination assist 💀
++[amount] EXP - <color=#5B6370>Security Guard</color> termination assist 💀
++[amount] EXP - <color=#0096FF>Epsilon-11</color> termination assist 💀
++[amount] EXP - <color=#008F1C>Chaos Insurgency</color> termination assist 💀
++[amount] EXP - <color=#00FF58>[REDACTED]</color> termination assist 💀
++[amount] EXP - Witnessed termination by a teammate 📷
++[amount] EXP - Teammate's pursuit assist 🚪
++[amount] EXP - Protection of teammate(s) 🎽
++[amount] EXP - Prevented use of Micro H.I.D. ⚡
+CAMERA FEED: <color=#32CD32>ONLINE</color>
+<color=#ff9e00>☀ ZONE-WIDE BLACKOUT</color> ([cost])
+$<color=#ff9e00>☀</color> ZONE-WIDE BLACKOUT$ now available - next to zone labels on the $Facility Map$.
+<color=yellow>⚠</color> ZONE-WIDE BLACKOUT COOLDOWN <color=yellow>⚠</color>
+🚨 BLACKOUT ALREADY ACTIVE 🚨
+❌ BLACKOUT UNAVAILABLE FOR THIS ZONE ❌
+🔬 TOTAL LIFEFORMS
+💀 TARGETS
+<color=#EC2222>🌀 SCP SUBJECTS</color>
+<color=#f5eb9c>📋 CIVILIAN</color>
+<color=#9cc7f5>🔫 MILITARY</color>
+<color=#8080FF>🔊</color> USE SPEAKER
+⛔ ELEVATOR ACCESS DENIED ⛔
+SCP-079 has no direct combat or movement capabilities. Instead, you view and interact with the world through security cameras found in every room. All available abilities are listed in the top-right corner of your HUD.
+Virtually Indestructible:There are three generators in Heavy Containment Zone. If all are engaged, you can be recontained from your chamber. Generators have a countdown sequence that can be interrupted by pressing the "CANCEL" button on the generator.
+Unlimited Access:You can manipulate numerous systems in the facility to assist the other SCPs. The top right of your screen shows what abilities are available. These abilities cost auxiliary power (AP) to use, which regenerates over time. 
+Deep Learning:Assisting in terminations, or performing helpful actions for the other SCPs will grant you experience towards a new access tier. Each new tier provides more AP, and grants you new abilities.
+Overwatch:Being everywhere and nowhere grants you a unique perspective. You can ping locations, people, and objects of interest, allowing you to assist in the slaughter. 

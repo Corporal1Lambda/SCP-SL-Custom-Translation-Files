@@ -1,0 +1,23 @@
+MUTED BY ADMIN
+GLOBALLY MUTED
+UNAUTHENTICATED
+ADJUST PRIVACY SETTINGS
+Your microphone is disabled due to your privacy settings.
+Voice Chat Privacy Settings
+This game uses voice chat. Using the push-to-talk keys (default "Q" and "V") will capture your microphone input and transmit it to other users connected to the server.\nCertain game features may temporarily store short samples of your transmissions, which will be automatically erased after disconnecting from the server.
+Reject all (disable microphone capture)
+Personalize settings
+Accept all
+Accept
+Deny
+Microphone Capture
+Allow the game to capture your microphone and transmit it to users when push-to-talk keys are held. A microphone icon will be displayed at the bottom of the screen, indicating active transmission. The game will never transmit, or use your microphone without the indicator being visible.
+Short Recordings
+Allow game mechanics to use short recordings of your voice. This includes SCP-939's "With Many Voices" ability, which can record and play back short voice samples of killed players. All recordings are discarded the moment you leave the server, or once the round restarts.
+Apply settings
+Return
+Press "[key]" and navigate to "Settings" to adjust.
+Mute alive players
+Mute other spectators
+Mute lobby
+Mute round summary global chat

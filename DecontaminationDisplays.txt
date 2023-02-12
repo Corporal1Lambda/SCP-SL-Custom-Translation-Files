@@ -1,0 +1,7 @@
+<color=#F00>DECONTAMINATION PROCESS BEGINS IN</color>
+<color=#F00>PLEASE EXIT THE AREA</color>
+<color=yellow>⚠</color>-<color=#F00>PLEASE EVACUATE</color>-<color=yellow>⚠</color>
+threat analysis in progress
+PREPARING SECURITY SYSTEMS
+systems ready to commence
+<color=#F00>initializing procedure P-B-3</color>
