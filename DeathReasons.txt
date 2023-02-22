@@ -20,7 +20,7 @@ You've been caught by a Tesla Gate.
 Shrapnel and severe burns present.\n Caused by: <color=#5180f7>High Explosive Grenade</color>/<color=#ff80bc>Funny</color>
 You've been killed by a nearby explosion.\n Caused by: <color=#5180f7>High Explosive Grenade</color>/<color=#ff80bc>Funny</color>
 Massive lacerations and excessive blood loss.\n Caused By: <color=#e52121>SCP-096</color>
-Cervical fracture at the base of the skull.\n Caused By: <color=#e52121>SCP-173</color>
+Sticky yellow substance and sweet smell suggest the work of the Pope's statue!\n Caused By: <color=#e52121>SCP-173</color>
 The bite of 87\n Caused By: <color=#e52121>SCP-939</color>
 Blunt trauma and minor scratches present.\n Caused By: <color=#e52121>SCP-049-2</color>
 [ammotype] bullet wounds.
