@@ -1,2 +1,2 @@
-You have been detained by [player].
+You have been detained by [player]
 an administrator

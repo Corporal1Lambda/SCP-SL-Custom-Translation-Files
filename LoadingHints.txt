@@ -1,9 +1,9 @@
-You can disarm a player by pressing [E] them while holding a firearm.
+You can disarm a player by pressing E them while holding a firearm.
 Adrenaline can be used to instantly refresh your stamina and gives you advantage in combat.
 Radios have four range settings. The longer the range, the faster the battery drains.
 The Alpha Warhead detonation sequence can be canceled from its room in Heavy Containment and it can be activated from the Surface Zone.
 The Intercom room in the Entrance Zone can be used to broadcast a voice message to all players.
-You can throw items by pressing [T]. This can be used to open keycard doors from a distance or to break glass.
+You can throw items by pressing T. This can be used to open keycard doors from a distance or to break glass.
 The Light Containment zone will lock down after 15 minutes; killing anyone left inside. Escape while you can!
 Maximize your advantage by adjusting your weapon attachments based on the situation you find yourself in.
 The more attachments a weapon has on it, the heavier it gets. This affects stamina usage and movement speed.
@@ -12,7 +12,7 @@ Longer and heavier weapons are less accurate if fired while running.
 Wearing body armor increases the number of items and ammo you can carry.
 Armor-piercing rounds (AP) perform best against armored targets.
 Hollow-point rounds (JHP) do higher damage to unarmored targets but are weaker against armor.
-Press and hold the [R] button to unload a weapon, adding its ammunition to your inventory.
+Press and hold the R button to unload a weapon, adding its ammunition to your inventory.
 Chaos Insurgency weapons are powerful but their ammunition does not spawn in the Facility. Make it count.
 Grenades can be used to destroy most of the doors.
 Grenades can be thrown with less force using the right mouse button.
@@ -39,7 +39,7 @@ SCP-173 can create a puddle of (REDACTED) that slows down humans that walk throu
 SCP-106 can use it's Hunters Atlas to move around on the map.
 SCP-106 regenerates his Hume Shield while using stalk, it is also a quick way to move around.
 SCP-106 can walk through doors and glass windows.
-SCP-096 is (REDACTED) UNBALANCED. JESUS CHRIST REMOVE THAT SUPID (REDACTED)...
+SCP-096 is (REDACTED) UNBALANCED. JESUS CHRIST REMOVE THAT SUPID (REDACTED).
 SCP-096 can charge forward while enraged – breaking doors and damaging targets.
 SCP-096 can destroy doors and pry open closed gates when enraged.
 SCP-939's claw attack is affected by body armor and AHP.
