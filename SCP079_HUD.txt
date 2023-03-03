@@ -3,7 +3,7 @@
 📖 EXP [current] / [next]
 💳 MAX TIER 🔓
 ❌ NO CAMERA ❌
-<color=#8080FF>📡</color> GO TO: [camera]
+<color=#8080FF>📡</color> GO TO: [camera] ([cost])
 ❌ NOT ENOUGH AUXILIARY POWER ❌
 ETA: [time] seconds
 ⛔ ACCESS DENIED - HIGHER TIER REQUIRED ⛔
