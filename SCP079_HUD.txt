@@ -3,7 +3,7 @@
 📖 EXP [current] / [next]
 💳 MAX TIER 🔓
 ❌ NO CAMERA ❌
-<color=#8080FF>📡</color> GO TO: [camera]
+<color=#8080FF>📡</color> GO TO: [camera] ([cost])
 ❌ NOT ENOUGH AUXILIARY POWER ❌
 ETA: [time] seconds
 ⛔ ACCESS DENIED - HIGHER TIER REQUIRED ⛔
@@ -40,9 +40,9 @@ CLOSE
 <color=yellow>⚠</color> TESLA GATE ACTIVATION COOLDOWN <color=yellow>⚠</color>
 $💳 Access Tier [tier]$ - UNLOCKED
 $⚡ AUXILIARY POWER$ limit increased to $[limit]$.
-$<color=#FFD700>💡</color> BLACKOUT$ now available - press $[key]$ to disable room lights.
+$<color=#FFD700>💡</color> BLACKOUT$ now available - press $[key]$ to disable room lights for 15s.
 $<color=#FFD700>💡</color> BLACKOUT$ capacity increased to $[number]$ rooms.
-$<color=red>🔒</color> LOCKDOWN$ now available - press $[key]$ to temporarily lock down all doors in a room.
+$<color=red>🔒</color> LOCKDOWN$ now available - press $[key]$ to temporarily lock down all doors in a room for 10s.
 +[amount] EXP - <color=#ff00b0>Admin Command</color>
 +[amount] EXP - <color=#FF8E00>Class-D Personnel</color> termination assist 💀
 +[amount] EXP - <color=#FFFF7C>Science Personnel</color> termination assist 💀
@@ -55,7 +55,7 @@ $<color=red>🔒</color> LOCKDOWN$ now available - press $[key]$ to temporarily 
 +[amount] EXP - Protection of teammate(s) 🎽
 +[amount] EXP - Prevented use of Micro H.I.D. ⚡
 CAMERA FEED: <color=#32CD32>ONLINE</color>
-<color=#ff9e00>☀ ZONE-WIDE BLACKOUT</color> ([cost])
+<color=#ff9e00>☀ ZONE-WIDE BLACKOUT</color> - disable zone light for 60s - ([cost])
 $<color=#ff9e00>☀</color> ZONE-WIDE BLACKOUT$ now available - next to zone labels on the $Facility Map$.
 <color=yellow>⚠</color> ZONE-WIDE BLACKOUT COOLDOWN <color=yellow>⚠</color>
 🚨 BLACKOUT ALREADY ACTIVE 🚨
@@ -71,4 +71,4 @@ SCP-079 has no direct combat or movement capabilities. Instead, you view and int
 Virtually Indestructible:There are three generators in Heavy Containment Zone. If all are engaged, you can be recontained from your chamber. Generators have a countdown sequence that can be interrupted by pressing the "CANCEL" button on the generator.
 Unlimited Access:You can manipulate numerous systems in the facility to assist the other SCPs. The top right of your screen shows what abilities are available. These abilities cost auxiliary power (AP) to use, which regenerates over time. 
 Deep Learning:Assisting in terminations, or performing helpful actions for the other SCPs will grant you experience towards a new access tier. Each new tier provides more AP, and grants you new abilities.
-Awake. Never Sleep. :Being everywhere and nowhere grants you a unique perspective. You can ping locations, people, and objects of interest, allowing you to assist in the slaughter. 
+Awake. Never Sleep. :Being everywhere and nowhere grants you a unique perspective. You can ping locations, people, and objects of interest, allowing you to assist in the slaughter. You are also able to access facility surveillance map.
