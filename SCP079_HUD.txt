@@ -22,7 +22,7 @@ CLOSE
 <color=#f5eb9c>LIGHT CONTAINMENT ZONE</color>
 <color=#ca2642>HEAVY CONTAINMENT ZONE</color>
 <color=#bcfab2>ENTRANCE ZONE</color>
-\<color=#9cc7f5>SURFACE ZONE</color>
+<color=#9cc7f5>SURFACE ZONE</color>
 <color=#FFD700>💡</color> BLACKOUT ([cost])
 ❌ BLACKOUT UNAVAILABLE ❌
 🚨 LIMIT OF BLACKOUTS REACHED 🚨
@@ -83,12 +83,12 @@ RETURN TO MAP
 <color=#ffa500>🎥 BREACH SCANNER</color> - [cnt] zone(s)
 SELECTED ZONES: [cnt]
 <color=red>SELECT ZONES TO SCAN</color>
-Scan result: $No stationary targets detected$.
+<color=red>Scan failed</color> - No stationary targets detected
 Retrying in [time] seconds...
-Scan result: $[role]$ detected at ‘$[camera_name]$’ ([zone]).
-SCAN IN: [time] s
+<color=lime>Scan successful</color> - $<b>[role]</b>$ detected - <color=red><b>[camera_name]</b></color> <b>[zone]</b>
+<color=#8080FF>SCAN IN: [time]s</color>
 Scanning...
-<color=red>SYSTEM OFFLINE</color>
+<color=red><b>SYSTEM OFFLINE</b></color>
 <color=#8080FF>SELECT TEAMS TO DETECT</color>
 <color=#8080FF>Breach Scanner detects remaining targets that stay within the same area for an extended period of time.</color>
-<color=red>Select at least one filter to continue!</color>
+<color=yellow>⚠</color><color=red>Select at least one filter to continue!</color><color=yellow>⚠</color>
