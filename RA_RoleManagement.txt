@@ -1,6 +1,6 @@
 None
 <color=#EC2222>SCP-173</color>
-<color=#FF8E00>Class-D Personnel</color>
+<color=#FF8E00>Class-D</color>
 Spectator
 <color=#EC2222>SCP-106</color>
 <color=#0096FF>Ԑ-11 Specialist</color>
