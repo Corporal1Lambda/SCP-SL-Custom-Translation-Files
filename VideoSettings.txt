@@ -1,0 +1,46 @@
+Very Low
+Low
+Medium
+High
+Very High
+Ultra
+Enabled
+Disabled
+Shadows
+Shadow Resolution
+Facility Lights
+Resolution
+Aspect Ratio
+Display Mode
+Max Frame Rate
+Anti-aliasing
+V-Sync
+Decals
+Texture Quality
+Brightness
+Screen Settings
+Quality & Performance
+Ragdoll Freezing
+Ragdoll Freeze Time
+FPS Limiter
+Visual Effects
+Head Bobbing
+Explosion Screen Shake
+Flashbang Dark Mode
+All
+Other
+1/2 Refresh Rate
+1/3 Refresh Rate
+1/4 Refresh Rate
+Selected aspect ratio is not supported by your monitor
+Exclusive Fullscreen
+Borderless Window
+Maximized Window
+Windowed
+SMAA Quality Preset
+Ambient Occlusion
+Bloom Quality
+Disables physics for ragdolls (dead bodies) after a specified time to reduce CPU usage.
+Aspect ratio of your current resolution is not supported!\nSome interface elements may not appear correct.
+Bullet Holes
+Blood Decals

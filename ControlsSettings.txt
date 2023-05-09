@@ -1,0 +1,11 @@
+Mouse Settings
+Sensitivity
+Aiming Sens. Reduction
+Raw Input
+Invert Y-Axis
+While aiming down sights, mouse sensitivity is divided by the scope's zoom amount. Targets will always appear to move by the same distance on the screen in relation to your mouse movement. You can increase or decrease the intensity of the reduction by adjusting this setting.
+Hold
+Toggle
+Aim Down Sights - Activation Mode
+Sprint - Activation Mode
+Pickup Items - Activation Mode

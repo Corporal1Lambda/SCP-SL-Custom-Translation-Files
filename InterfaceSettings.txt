@@ -1,0 +1,15 @@
+Server IP Display Mode
+Interface Language
+Changes won't take immediate effect in some places.\nFull game restart recommended.
+Loading...
+Subtitles
+Healthbar Mode
+Exact HP Number
+Percentage
+Role Intro Animation
+Regular
+Fast
+Controls the duration of the full-screen text animation containing the name of your new role.
+Hidden
+Allows server IP address to be hidden on interface elements.
+Flash Taskbar on Respawn

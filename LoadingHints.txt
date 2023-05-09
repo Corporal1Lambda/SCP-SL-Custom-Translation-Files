@@ -51,7 +51,7 @@ SCP-079 starts off relatively weak but gets more powerful as a match goes on.
 SCP-079 can lock doors, turn off lights, and overcharge Tesla gates.
 A Tesla gate being looked at by SCP-079 will always appear active.
 SCP-079 is recontained using generators found in the Heavy Containment Zone, and a final button in its containment chamber.
-SCP-079 can change its cameras zoom using the mouse wheel.
+SCP-079 can change its cameras’ zoom using the mouse wheel.
 The longer SCP-079 has a door locked, the more power it will take to keep locked.
 SCP-079 unlocks a breach scanner at level 4. If it detects a human hiding in a room, an alarm will sound.
 SCP-079 can activate the Alpha Warhead at level 5. It will survive the detonation if it’s the one that starts the countdown.
@@ -65,7 +65,7 @@ SCP-106 can open up a map of nearby rooms to teleport to, bound to ‘TAB’ by 
 SCP-106’s abilities rely on a resource known as ‘Vigor’, which drains with each ability he uses.
 SCP-106 is most vulnerable immediately after emerging from the ground.
 SCP-096 is most vulnerable when it has just begun to calm down.
-SCP-096 can charge forward while enraged — breaking doors and damaging targets.
+SCP-096 can charge forward while enraged — breaking doors and killing targets.
 SCP-096 will destroy doors and pry open closed gates when enraged.
 SCP-939 can mimic the voices of players it has previously killed.
 SCP-939 can release a cloud of amnestic gas. Humans under its effects cannot perceive SCP-939 until it attacks.
@@ -73,7 +73,7 @@ Using adrenaline negates the effects of SCP-939’s amnestic cloud.
 Flashbangs are especially effective against SCP-939.
 The lower SCP-939’s stamina is, the poorer its perception of players becomes.
 The longer SCP-939 is in Focus, the more effective Ultrasensitive becomes.
-SCPs have different footsteps than humans. Listen carefully!
+SCPs’ footsteps are distinct from human ones. Listen carefully!
 Being attacked by SCP-049 inflicts cardiac arrest on a human. Health and stamina drain rapidly during this time.
 SCP-049 can instantly kill any human already under the effects of cardiac arrest.
 Cardiac arrest drains your health rapidly. You’ll need medical supplies if you want to survive it.
