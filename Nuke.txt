@@ -1,4 +1,4 @@
-<size=250>-<color=red>☢</color>-</size><size=80>\nALPHA WARHEAD -<color=red>DISABLED</color>-</size>
-<color=blue><size=600>-☢-</size></color>
-<size=250>-<color=#00b300>☢</color>-</size><size=80>\nALPHA WARHEAD -<color=#00b300>READY</color>-</size>
-<size=20><color=yellow>⚠️</color>-DETONATION INEVITABLE-<color=yellow>⚠️</color></size>
+<size=275>-<color=red>☢</color>-</size><size=100>\nALPHA WARHEAD: -<color=red>DISABLED</color>-</size>
+<color=cyan><size=700>-☢-</size></color>
+<size=275>-<color=#00b300>☢</color>-</size><size=100>\nALPHA WARHEAD: -<color=#00b300>READY</color>-</size>
+<size=20>⚠️-DETONATION INEVITABLE-⚠️
