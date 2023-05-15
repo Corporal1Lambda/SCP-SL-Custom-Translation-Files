@@ -13,7 +13,7 @@ Secure <color=#0096ff>Site-02</color>.\n――――――――――――\nEv
 Secure <color=#0096ff>Site-02</color>.\n――――――――――――\nEvacuate all <color=#FFFF7CFF>Scientists</color>.\nRecapture <color=#FF8E00>Class-D Personnel</color>.\nTerminate all <color=#008F1e>Chaos Insurgency Agents</color>.\nInstruct your <color=#6dc3ff>soldiers</color>.
 Secure <color=#0096ff>Site-02</color>.\n――――――――――――\nEvacuate all <color=#FFFF7CFF>Scientists</color>.\nRecapture <color=#FF8E00>Class-D Personnel</color>.\nTerminate all <color=#008F1e>Chaos Insurgency Agents</color>.\nFollow the orders of your <color=#003bca>superiors</color>.
 Someone is getting banned.
-Evacuate all <color=#FFFF7CFF>Scientists</color>.\nRecapture <color=#FF8E00>Class-D Personnel</color>.\n――――――――――――.\nSecure <color=#0096ff>Site-02</color>.\nFollow order of <color=#0096FF>MTF</color>.
+Evacuate all <color=#FFFF7CFF>Scientists</color>.\nRecapture <color=#FF8E00>Class-D Personnel</color>.\n――――――――――――\nSecure <color=#0096ff>Site-02</color>.\nFollow order of <color=#0096FF>MTF</color>.
 Kill everyone inside <color=#0096ff>Site-02</color>.\n――――――――――――\nCooperate with other <color=#F00>SCP subjects</color>.
 Kill everyone inside <color=#0096ff>Site-02</color>.\n――――――――――――\nCooperate with other <color=#F00>SCP subjects</color>.
 Take over <color=#0096ff>Site-02</color>.\n――――――――――――\nEvacuate all <color=#FF8E00>Class-D Personnel</color>.\nKidnap <color=#FFFF7CFF>Scientists</color>.\nTerminate all <color=#5B6370>Security</color> and <color=#0096FF>MTF</color>.

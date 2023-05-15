@@ -18,7 +18,7 @@ Admin
 <color=#EC2222>SCP-939-89</color>
 Custom Role
 <color=#008F1C>Rifleman</color>
-<color=#0D7D35>Repressor</color>
 <color=#006826>Marauder</color>
+<color=#0D7D35>Repressor</color>
 Overwatch
 <color=#A020F0>Filmmaker</color>
