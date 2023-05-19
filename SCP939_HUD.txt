@@ -1,8 +1,8 @@
 Press [key_attack] or [key_jump] to Lunge.
-Preview the voice (only you can hear this)
+🔍 Preview the voice (only you can hear this)
 -
-Remove the voice (hold)
-Play the voice (everyone can hear this)
+❌ Remove the voice (hold)
+🔊 Play the voice (everyone can hear this)
 SCP-939 has killed you and has stolen your voice!
 If you do not wish your voice to be used, you can turn this feature off.
 Remember my choice
@@ -19,18 +19,18 @@ Amnestic Cloud:Fill your air sacs with a dangerous neurochemical gas, projecting
 With Many Voices:Humans you kill have a chance at giving you their last words, allowing you to steal their voice and utilize it to deceive others. In addition, SCP-939 can also mimic some basic sounds, such as disguising their footsteps to match humans. 
 Ultrasensitive:SCP-939 is able to sense nearby heat sources, represented by a small radius of normal vision. Outside of this however, you must rely on sound in order to track nearby prey. The louder the sound, the further away you can hear it from. The range of your vision is affected by your stamina levels. 
 -
-Place Mimic Point
+Place Mimic Point 🌀
 Override position of Mimicry's sounds source
-Remove Mimic Point
+❌ Remove Mimic Point ❌
 Make all sounds come from your current location
 Mimic Point set!
-Mimic Point removed!
-Mimic Point destroyed. You're out of range.
+<color=yellow>⚠</color> Mimic Point removed <color=yellow>⚠</color>
+<color=yellow>⚠</color> Mimic Point destroyed. You're out of range. <color=yellow>⚠</color>
 Stolen Voices
 -
 Environmental Mimicry
 -
-(Cooldown: [time]s)
+Cooldown: [time]s
 -
 Impersonation 📋
 Shooting 🔫
@@ -39,7 +39,7 @@ Miscellaneous 💉
 -
 Roles
 Hotkey  [key]
-Play the selected sound (everyone can hear this)
+🔊 Play the selected sound (everyone can hear this)
 Stop the playback
 Drag to trim the recording
 Toggle favorite. Recordings marked as favorite are bound to a hotkey.

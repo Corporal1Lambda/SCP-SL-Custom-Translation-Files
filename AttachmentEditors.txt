@@ -1,17 +1,17 @@
-Custom
+Custom 📝
 Preset 📝#[index]
-SAVE ✔
-CLEAR ATTACHMENTS ❌
+<color=green>SAVE ✔</color>
+<color=red>CLEAR ATTACHMENTS ❌</color>
 Default
-📝PRESETS📝
-<size=250><color=red>\n🔒</color></size>
-<color=#0096FF>SITE-02</color> FIREARM CUSTOMIZATION POINT</size>
+📝 PRESETS 📝
+<size=250><color=red>\n-🔒-</color></size>
+<color=#0096FF>SITE-02</color> FIREARM CUSTOMIZATION POINT\n<size=75%>PLEASE TOUCH THE SCREEN TO BOOT UP THE WORKSTATION</size>
 WELCOME!
-WORKSTATION IS BOOTING UP
-<size=250><color=#00b300>\n🔓</color></size>
-<size=42>EQUIP YOUR GUN, WTF YOU WANT TO MODIFY?</size>
-POWERING DOWN
-WORKSTATION IS SHUTTING DOWN
+WORKSTATION IS BOOTING UP...
+<size=250><color=#00b300>\n-🔓-</color></size>
+<size=42>EQUIP YOUR GUN YOU MORON, WTF YOU WANT TO MODIFY?</size>
+POWERING DOWN...
+WORKSTATION IS SHUTTING DOWN...
 SHOW SUMMARY
 CLOSE SUMMARY
 [Attachment] Customization
