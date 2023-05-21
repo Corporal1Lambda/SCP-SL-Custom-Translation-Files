@@ -85,7 +85,7 @@ SELECTED ZONES: [cnt]
 <color=red>SELECT ZONES TO SCAN</color>
 <color=red>Scan failed</color> - No stationary targets detected
 Retrying in [time] seconds...
-<color=lime>Scan successful</color> - $<b>[role]</b>$ detected - <color=red><b>[camera_name]</b></color> <b>[zone]</b>
+<color=green>Scan successful</color> - $<b>[role]</b>$ detected - <color=red><b>[camera_name]</b></color> - <b>[zone]</b>
 <color=#8080FF>SCAN IN: [time]s</color>
 Scanning...
 <color=red><b>SYSTEM OFFLINE</b></color>
