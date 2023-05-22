@@ -1,2 +1,2 @@
-You have been detained by [player]
-an administrator
+<color=#ff80bc>You have been detained by [player]</color>
+<color=#ff80bc>an administrator</color>
