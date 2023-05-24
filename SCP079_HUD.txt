@@ -38,24 +38,24 @@ CLOSE
 You will turn into <color=#ff80bc><b>furry</b></color> in [time]s
 <color=yellow>⚡</color> FIRE TESLA GATE ([cost])
 <color=yellow>⚠</color> TESLA GATE ACTIVATION COOLDOWN <color=yellow>⚠</color>
-$💳 Access Tier [tier]$ - UNLOCKED
-$⚡ AUXILIARY POWER$ limit increased to $[limit]$.
+$<color=#8080FF>💳 Access Tier [tier]</color>$ - UNLOCKED
+$<color=#8080FF>⚡ AUXILIARY POWER</color>$ limit increased to $[limit]$.
 $<color=#FFD700>💡</color> BLACKOUT$ now available - press $[key]$ to disable room lights for 15s.
 $<color=#FFD700>💡</color> BLACKOUT$ capacity increased to $[number]$ rooms.
 $<color=red>🔒</color> LOCKDOWN$ now available - press $[key]$ to temporarily lock down all doors in a room for 10s.
 +[amount] EXP - <color=#ff00b0>Admin Command</color>
-+[amount] EXP - <color=#FF8E00>Class-D Personnel</color> termination assist 💀
-+[amount] EXP - <color=#FFFF7C>Science Personnel</color> termination assist 💀
-+[amount] EXP - <color=#5B6370>Security Guard</color> termination assist 💀
-+[amount] EXP - <color=#0096FF>Epsilon-11</color> termination assist 💀
-+[amount] EXP - <color=#008F1C>Chaos Insurgency</color> termination assist 💀
-+[amount] EXP - <color=#00FF58>[REDACTED]</color> termination assist 💀
-+[amount] EXP - Witnessed termination by a teammate 📷
-+[amount] EXP - Teammate's pursuit assist 🚪
-+[amount] EXP - Protection of teammate(s) 🎽
-+[amount] EXP - Prevented use of Micro H.I.D. ⚡
++[amount] EXP - <color=#FF8E00>Class-D Personnel</color> termination assist <color=#FF8E00>💀</color>
++[amount] EXP - <color=#FFFF7C>Science Personnel</color> termination assist <color=#FFFF7C>💀</color>
++[amount] EXP - <color=#5B6370>Security Guard</color> termination assist <color=#5B6370>💀</color>
++[amount] EXP - <color=#0096FF>Epsilon-11</color> termination assist <color=#0096FF>💀</color>
++[amount] EXP - <color=#008F1C>Chaos Insurgency</color> termination assist <color=#008F1C>💀</color>
++[amount] EXP - <color=#00FF58>[REDACTED]</color> termination assist <color=#00FF58>💀</color>
++[amount] EXP - Witnessed termination by a teammate <color=#8080FF>📷</color>
++[amount] EXP - Teammate's pursuit assist <color=#8080FF>🚪</color>
++[amount] EXP - Protection of teammate(s) <color=#8080FF>🎽</color>
++[amount] EXP - Prevented use of Micro H.I.D. <color=#8080FF>⚡</color>
 CAMERA FEED: <color=#32CD32>ONLINE</color>
-<color=#ff9e00>☀ ZONE-WIDE BLACKOUT</color> - disable zone light for 60s - ([cost])
+<color=#ff9e00>☀ ZONE-WIDE BLACKOUT</color> - disable zone lights for 60s - ([cost])
 $<color=#ff9e00>☀</color> ZONE-WIDE BLACKOUT$ now available - next to zone labels on the $Facility Map$.
 <color=yellow>⚠</color> ZONE-WIDE BLACKOUT COOLDOWN <color=yellow>⚠</color>
 🚨 BLACKOUT ALREADY ACTIVE 🚨
@@ -90,5 +90,5 @@ Retrying in [time] seconds...
 Scanning...
 <color=red><b>SYSTEM OFFLINE</b></color>
 <color=#8080FF>SELECT TEAMS TO DETECT</color>
-<color=#8080FF>Breach Scanner detects remaining targets that stay within the same area for an extended period of time.</color>
+Breach Scanner detects remaining targets that stay within the same area for an extended period of time.
 <color=yellow>⚠</color><color=red>Select at least one filter to continue!</color><color=yellow>⚠</color>
