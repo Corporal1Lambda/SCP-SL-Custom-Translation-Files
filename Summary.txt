@@ -1,7 +1,7 @@
 The round has finished!
 <color=#EC2222>「SCPS WIN」</color>
-<color=#0096FF>「FOUNDATION WINS」</color>
-<color=#008F1C>「INSURGENCY WINS」</color>
+<size=85%><color=#0096FF>「FOUNDATION WINS」</color></size>
+<size=85%><color=#008F1C>「INSURGENCY WINS」</color></size>
 「STALEMATE」
 <color=#EC2222>The escaped subjects have overrun the facility. Emergency response has been scrambled.</color>
 <color=#0096FF>All threats to safety have been neutralized. Site-02 is secure once again.</color>
