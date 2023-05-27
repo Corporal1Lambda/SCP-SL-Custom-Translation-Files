@@ -32,7 +32,7 @@
 36~<color=#5B6370>🎽 P.C.V. -Light 🎽</color>
 37~<color=#0096FF>🎽 P.C.V. -Standard 🎽</color>
 38~<color=#0D7D35>🎽 P.C.V. -Heavy 🎽</color>
-39~<color=#006826>🔫 .44 Magnum 🔫</color>
+39~<color=#006826>🔫 .357 Magnum 🔫n<size=40%>A GUN</size></color>
 40~<color=#008F1C>🔫 KEK-72B 🔫</color>
 41~<color=#006826>🔫 DBB 🔫</color>
 42~<color=#ff0000>🍬 SCP-330 🍬</color>~A bag containing the following candies:
@@ -41,4 +41,4 @@
 45~<color=#ff0000>⚱ SCP-244-B ⚱</color>~An ancient bongo. Creates a large cloud of icy fog when placed.
 46~<color=red>💉 SCP-1853 💉~Improves weapon manipulation.\n<color=red>DO NOT USE WITH <b>SCP-207</b>.</color>
 47~<color=#003DCA>🔫 3-X Particle Disruptor 🔫</color>
-48~<color=#ff0000>🔫🔫🔫COM-45🔫🔫🔫</color>
+48~<color=#ff0000>🔫 COM-45 🔫</color>
