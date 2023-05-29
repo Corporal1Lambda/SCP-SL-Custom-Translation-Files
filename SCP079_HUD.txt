@@ -1,7 +1,7 @@
 🔍ZOOM [amount]x
 <color=#8080FF>💳 ACCESS TIER [tier]</color>
 📖 EXP [current] / [next]
-💳 MAX TIER 🔓
+<color=#8080FF>💳 MAX TIER 🔓</color>
 ❌ NO CAMERA ❌
 <color=#8080FF>📡</color> GO TO: [camera] ([cost])
 ❌ NOT ENOUGH AUXILIARY POWER ❌
@@ -14,7 +14,7 @@ ETA: [time] seconds
 <color=red>🔒</color> LOCK DOOR ([cost])
 <color=green>🔓</color> UNLOCK DOOR 
 <color=yellow>⚠</color> DOOR LOCK COOLDOWN <color=yellow>⚠</color>
-⚡ AUXILIARY POWER
+<color=#8080FF>⚡ AUXILIARY POWER</color>
 <color=yellow>⚠</color><color=red> ACTIVE GENERATOR </color><color=yellow>⚠</color>
 <color=green>🔓</color> RELEASE ALL DOOR LOCKS ([num] total)
 OPEN FACILITY MAP
@@ -76,7 +76,7 @@ $<color=#ffa500>🎥</color>BREACH SCANNER$ now available — select team(s)/zon
 <color=red>⚠ POWER REGEN SUSPENDED ⚠</color>
 <color=red>⚠ POWER REGEN REDUCED ([precentage]) ⚠</color>
 🚨 DOOR LOCK ACTIVE 🚨
-🔊 SPEAKER IN USE 🔊
+<color=#8080FF>🔊 SPEAKER IN USE 🔊</color>
 🔒 LOCKDOWN IN PROGRESS 🔒
 <color=#ffa500>🎥 BREACH SCANNER</color>
 RETURN TO MAP
