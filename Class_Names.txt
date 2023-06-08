@@ -6,7 +6,7 @@
 <color=#EC2222>「SCP-049」</color>
 <color=#FFFF7C>Scientist</color>
 <color=#8080FF>「SCP-079」</color>
-<color=#008F1C>Chaos Conscript</color>
+<color=#008F1C>Chaos Recon</color>
 <color=#EC2222>「SCP-096」</color>
 <color=#EC2222>「SCP-049-2」</color>
 <color=#0096FF>Epsilon-11 Sergeant</color>
@@ -17,5 +17,5 @@
 <color=#EC2222>「SCP-939-89」</color>
 -
 <color=#008F1C>Chaos Rifleman</color>
-<color=#006826>Chaos Marauder</color>
-<color=#0D7D35>Chaos Repressor</color>
+<color=#006826>Chaos Executor</color>
+<color=#0D7D35>Chaos H.C.S.</color>
