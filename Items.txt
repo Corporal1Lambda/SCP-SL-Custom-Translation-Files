@@ -15,7 +15,7 @@
 14~<color=#FFFF7C>⚕ First Aid Kit ⚕</color>~Heals 65HP.
 15~<color=#606770>🔦 Flashlight 🔦</color>
 16~<color=#003DCA>⚡ Micro H.I.D. ⚡</color>~Mobile High Intensity Discharge (H.I.D.)
-17~<color=#ff0000>💊 SCP-500 💊</color>~Fully heals player.\nCan regenerate up to 200hp.
+17~<color=#ff0000>💊 SCP-500 💊</color>~Fully heals player.\nCan regenerate up to 200hp.\nLet's just hope it's not estrogen
 18~<color=#ff0000>🍼 SCP-207 🍼</color>~Harmfully increases motor skills.\n<color=red>DO NOT USE WITH <b>SCP-1853</b>.</color>
 20~<color=#0096FF>🔫 MTF-Ԑ-11-SR 🔫\n<size=75%>Facility Recovery-Standard Rifle</size></color>
 21~<color=#70C3FF>🔫 Crossvec 🔫</color>
