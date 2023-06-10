@@ -34,8 +34,8 @@ CLOSE
 <color=#8080FF>🚨</color> PING LOCATION ([cost])
 🚨 PING RATE LIMIT REACHED 🚨
 ❌ CAMERA SWITCH FAILED ❌
-❌SIGNAL LOST❌
-You will turn into <color=#ff80bc><b>furry</b></color> in [time]s
+Connecting to <color=#00549F>e621.net</color>
+You will turn into <color=#FDBA31><b>furry</b></color> in [time]s
 <color=yellow>⚡</color> FIRE TESLA GATE ([cost])
 <color=yellow>⚠</color> TESLA GATE ACTIVATION COOLDOWN <color=yellow>⚠</color>
 $<color=#8080FF>💳 Access Tier [tier]</color>$ - UNLOCKED
