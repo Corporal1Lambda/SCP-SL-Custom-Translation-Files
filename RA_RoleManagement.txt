@@ -7,7 +7,7 @@ None
 <color=#EC2222>「SCP-049」</color>
 <color=#FFFF7C>Scientist</color>
 <color=#8080FF>「SCP-079」</color>
-<color=#008F1C>Conscript</color>
+<color=#008F1C>Recon</color>
 <color=#EC2222>「SCP-096」</color>
 <color=#EC2222>「SCP-049-2」</color>
 <color=#0096FF>Ԑ-11 Sergeant</color>
@@ -17,8 +17,8 @@ None
 <color=#5B6370>Facility Guard</color>
 <color=#EC2222>「SCP-939-89」</color>
 Custom Role
-<color=#008F1C>Rifleman</color>
-<color=#006826>Marauder</color>
-<color=#0D7D35>Repressor</color>
+<color=#008F1C>Trooper</color>
+<color=#006826>Executor</color>
+<color=#0D7D35>H.C.S.</color>
 「Overwatch」
 <color=#A020F0>「Filmmaker」</color>
