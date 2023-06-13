@@ -82,3 +82,4 @@ SCP-049 can give a small shield to SCP-049-2 instances who are nearby.
 SCP-049-2 is vulnerable to headshots.
 SCP-049-2s make good scouts and are dangerous in large numbers.
 Most playable SCP instances have a secondary health bar called ‘Hume Shield’, which absorbs damage and regenerates over time.
+Half-Life! λ
