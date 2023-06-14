@@ -1,7 +1,7 @@
 🍬Candies🍬
 <color=purple>🍬 R</color><color=yellow>a</color><color=red>i</color><color=#f47fff>n</color><color=blue>b</color><color=green>o</color><color=purple>w</color> <color=yellow>C</color><color=red>a</color><color=blue>n</color><color=green>d</color><color=#f47fff>y 🍬</color>
 Its a hard piece of rock candy, packed with all sorts of flavours.
-Instantly restores 15 HP. Gives the player infinite sprint for 5 seconds. Permanent 5% damage reduction. Reduces severity of negative effect for 10 seconds. Applies 20 AHP for 10 seconds.
+Instantly restores 15 HP. Gives the player infinite sprint for 5 seconds.\nPermanent 5% damage reduction. Reduces severity of negative effect for 10 seconds.\nApplies 20 AHP for 10 seconds.\n<color=red>Turns you gay</color>
 <color=yellow>🍬 Yellow Candy 🍬</color>
 The overwhelming smell of lemon makes you cringe a little.
 Instantly restores 25% of Stamina. Gives the player infinite sprint for 8 seconds. Applies the 10% Movement Boost for 8 seconds.
