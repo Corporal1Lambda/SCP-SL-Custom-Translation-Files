@@ -9,7 +9,7 @@
 8~<color=#003DCA>💳 MTF Captain Keycard 💳</color>
 9~<color=#ba1846>💳 Facility Manager Keycard 💳</color>
 10~<color=#008F1C>📟 C.I. Breaking Card 📟</color>
-11~<color=#000000>💳 O5-level Keycard 💳</color>
+11~<color=#FFFFFF>💳 O5-level Keycard 💳</color>
 12~<color=#5B6370>📻 Radio 📻</color>
 13~<color=#FFFF7C>🔫 COM-15 🔫</color>
 14~<color=#FFFF7C>⚕ First Aid Kit ⚕</color>~Heals 65HP.
