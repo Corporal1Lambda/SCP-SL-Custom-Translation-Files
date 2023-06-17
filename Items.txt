@@ -23,7 +23,7 @@
 24~<color=#0D7D35>🔫 LGC5 🔫</color>
 25~<color=#0096FF>💣 HE Grenade 💣</color>~Kilogram trotylu w dźwigu osobowym.
 26~<color=#5B6370>💣 Flashbang Grenade 💣\nModel FG02</color>~Blind your teammates!\nNow with 3 seconds delay!
-30~<color=#5B6370>🔫 COM-18 🔫</color>
+30~<color=#5B6370>🔫 CUM-18</color><color=##FFFFFF>💦</color>
 31~<color=#ff0000>⚽ SCP-018 ⚽</color>~Superball able to bounce with extreme efficiency.
 32~<color=#ff0000>🎩 SCP-268 🎩</color>~Makes you go for milk for 15s.
 33~<color=#FFFF7C>💉 Adrenaline 💉</color>~Gives player 40AHP.\nRefills stamina bar.\nGives player infinite sprint for 8 seconds.
