@@ -1,20 +1,20 @@
 You can disarm a player by interacting with them while holding a firearm.
-There are four main zones in the Facility: <color=#f5eb9c>Light Containment</color>, <color=#ca2642>Heavy Containment</color>, <color=#bcfab2>Entrance</color>, and <color=#9cc7f5>Surface<color>.
-<color=#FFFF7C>Scientists</color> and <color=#FF8E00>Class-D</color> must reach the <color=#9cc7f5>Surface<color> to escape.
-<color=#5B6370>Facility Guards</color> are weak alone but have strength in numbers. Stick together!
+There are four main zones in the Facility: Light Containment, Heavy Containment, Entrance, and Surface.
+Scientists and Class-D must reach the surface to escape.
+Facility Guards are weak alone but have strength in numbers. Stick together!
 Your stamina is a precious resource, reserve some for emergencies!
-The <color=#bcfab2>Entrance Zone</color> has two gates that provide access to the <color=#9cc7f5>Surface<color>. You'll need a keycard to open them.
+The Entrance Zone has two gates that provide access to the surface. You'll need a keycard to open them.
 Using an elevator is a quick and easy way to escape most SCPs.
-Escaped <color=#FF8E00>Class-D</color> join the <color=#008F1C>Chaos Insurgency</color>, while escaped <color=#FFFF7C>Scientists</color> become <color=#0096FF>MTF</color>.
-<color=#FFFF7C>Adrenaline</color> can be used to instantly refresh your stamina and gives you an advantage in combat.
-<color=#5B6370>Radios</color> have four range settings. The longer the range, the faster the battery drains.
-<color=#f5650a>Tesla gates</color> are electric hazards found throughout the <color=#ca2642>Heavy Containment Zone</color>. Proceed with caution!
-<color=#0096FF>Mobile Task Force</color> units and <color=#008F1C>Chaos Insurgents</color> arrive at opposite ends of the <color=#9cc7f5>Surface Zone<color>.
-The <color=red>Alpha Warhead</color> kills anything inside the Facility when it detonates. It can be activated from the <color=#9cc7f5>Surface Zone<color>.
-The <color=red>Alpha Warhead</color> detonation sequence can be canceled from its room in <color=#ca2642>Heavy Containment</color>.
+Escaped Class-D join the Chaos Insurgency, while escaped Scientists become MTF.
+Adrenaline can be used to instantly refresh your stamina and gives you an advantage in combat.
+Radios have four range settings. The longer the range, the faster the battery drains.
+Tesla gates are electric hazards found throughout the Heavy Containment Zone. Proceed with caution!
+Mobile Task Force units and Chaos Insurgents arrive at opposite ends of the Surface Zone.
+The Alpha Warhead kills anything inside the Facility when it detonates. It can be activated from the Surface Zone.
+The Alpha Warhead detonation sequence can be canceled from its room in Heavy Containment.
 The Intercom room in the Entrance Zone can be used to broadcast a voice message to all players.
 You can throw items (‘T’ by default). This can be used to open keycard doors from a distance or to break glass.
-The <color=#f5eb9c>Light Containment Zone</color> will lock down after 15 minutes; killing anyone left inside. Escape while you can!
+The Light Containment Zone will lock down after 15 minutes; killing anyone left inside. Escape while you can!
 Maximize your advantage by adjusting your weapon attachments based on the situation you find yourself in.
 The more attachments a weapon has on it, the heavier it gets. This affects stamina usage and movement speed.
 Not only do suppressors muffle gunshots, they also hide muzzle flashes.
@@ -23,63 +23,62 @@ Wearing body armor increases the number of items and ammo you can carry.
 Armor-piercing rounds (AP) perform best against armored targets.
 Hollow-point rounds (JHP) do higher damage to unarmored targets but are weaker against armor.
 Press and hold the reload key to unload a weapon, adding its ammunition to your inventory.
-<color=#008F1C>Chaos Insurgency</color> weapons are powerful but their ammunition does not spawn in the Facility. Make it count.
-<color=#0096FF>Grenades</color> can be used to destroy doors.
-<color=#0096FF>Grenades</color> can be thrown with less force using the right mouse button.
-The <color=#003DCA>Micro H.I.D.</color> can kill most SCPs very quickly but has a limited power supply. Use it wisely!
-The <color=#003DCA>Micro H.I.D.</color> requires about five seconds of charging before it can fire.
-Holding right mouse button will keep the <color=#003DCA>Micro H.I.D.</color> at its ready-to-fire state; slowly draining energy.
-The <color=#003DCA>Micro H.I.D.</color> is very loud while charging. Make sure to use it while your targets can’t run away.
-Charging the <color=#003DCA>Micro H.I.D.</color> produces an intimidating sound which is enough to ruin your enemies' plans.
-A bottle of <color=red>SCP-207</color> not only increases your movement speed, but will partially restore your health as well.
-Up to four <color=red>SCP-207</color> bottles can be consumed, allowing for a significant multiplier to your speed.
-<color=red>SCP-500</color> not only heals you but removes most negative effects, and provides regeneration afterwards.
-While <color=red>SCP-268</color> makes you invisible to all humans, <color=#8080FF>SCP-079</color> can still notice you.
-<color=red>SCP-268</color> won’t save you from <color=red>SCP-096</color> if you’ve looked at him.
-<color=red>SCP-018</color> is highly unpredictable. When it’s thrown, take cover.
-<color=red>SCP-018</color> can be used to block off pursuers when bouncing in a hallway.
-<color=red>SCP-330</color> can dispense six unique candies, each with their own effects. Take no more than two!
-<color=red>SCP-1853</color> allows weapons to be reloaded faster, and decreases felt recoil.
-<color=red>SCP-2176</color> can be used to lock down a room, or unlock a room or door locked by <color=#8080FF>SCP-079</color>.
-<color=red>SCP-2176</color> can be used to stun <color=#8080FF>SCP-079</color> if used in a room currently being observed.
+Chaos Insurgency weapons are powerful but their ammunition does not spawn in the Facility. Make it count.
+Grenades can be used to destroy doors.
+Grenades can be thrown with less force using the right mouse button.
+The Micro H.I.D. can kill most SCPs very quickly but has a limited power supply. Use it wisely!
+The Micro H.I.D. requires about five seconds of charging before it can fire.
+Holding right mouse button will keep the Micro H.I.D. at its ready-to-fire state; slowly draining energy.
+The Micro H.I.D. is very loud while charging. Make sure to use it while your targets can’t run away.
+Charging the Micro H.I.D. produces an intimidating sound which is enough to ruin your enemies' plans.
+A bottle of SCP-207 not only increases your movement speed, but will partially restore your health as well.
+Up to four SCP-207 bottles can be consumed, allowing for a significant multiplier to your speed.
+SCP-500 not only heals you but removes most negative effects, and provides regeneration afterwards.
+While SCP-268 makes you invisible to all humans, SCP-079 can still notice you.
+SCP-268 won’t save you from SCP-096 if you’ve looked at him.
+SCP-018 is highly unpredictable. When it’s thrown, take cover.
+SCP-018 can be used to block off pursuers when bouncing in a hallway.
+SCP-330 can dispense six unique candies, each with their own effects. Take no more than two!
+SCP-1853 allows weapons to be reloaded faster, and decreases felt recoil.
+SCP-2176 can be used to lock down a room, or unlock a room or door locked by SCP-079.
+SCP-2176 can be used to stun SCP-079 if used in a room currently being observed.
 SCP-244 slows down the speed at which items can be picked up, and stops SCPs from regenerating their shields.
-<color=red>SCP-1576</color> allows living players to talk to spectators for a short time.
-<color=red>SCP-914</color> can change all items, including weapons and ammunition.
-<color=red>SCP-914</color> can recharge <color=#5B6370>radios</color> and the <color=#003DCA>Micro H.I.D.</color>
-<color=red>SCP-914</color> can create a number of unique items that can’t be found anywhere else. Feel free to experiment!
-<color=#8080FF>SCP-079</color> starts off relatively weak but gets more powerful as a match goes on.
-<color=#8080FF>SCP-079</color> can lock doors, turn off lights, and overcharge Tesla gates.
-A Tesla gate being looked at by <color=#8080FF>SCP-079</color> will always appear active.
-<color=#8080FF>SCP-079</color> is recontained using generators found in the Heavy Containment Zone, and a final button in its containment chamber.
-<color=#8080FF>SCP-079</color> can change its cameras’ zoom using the mouse wheel.
-The longer <color=#8080FF>SCP-079</color> has a door locked, the more power it will take to keep locked.
-<color=#8080FF>SCP-079</color> unlocks a breach scanner at level 4. If it detects a human hiding in a room, an alarm will sound.
-<color=#8080FF>SCP-079</color> can activate the <color=red>Alpha Warhead</color> at level 5. It will survive the detonation if it’s the one that starts the countdown.
-A camera being used by <color=#8080FF>SCP-079</color> will glow blue. Keep an eye out! You never know when it's watching.
-<color=red>SCP-173</color> can move freely in dark rooms, even if it's being looked at. Bring a flashlight!
-<color=red>SCP-173</color> can kill stealthily from behind.
-<color=red>SCP-173</color> can create a puddle that slows down humans that walk through it — creating quick and efficient area-denial.
-<color=red>SCP-106</color> can walk through doors and glass windows.
-While in Stalk, <color=red>SCP-106</color> can see humans in a short radius around him.
-<color=red>SCP-106</color> can open up a map of nearby rooms to teleport to, bound to ‘TAB’ by default.
-<color=red>SCP-106</color>’s abilities rely on a resource known as ‘Vigor’, which drains with each ability he uses.
-<color=red>SCP-106</color> is most vulnerable immediately after emerging from the ground.
-<color=red>SCP-096</color> is most vulnerable when it has just begun to calm down.
-<color=red>SCP-096</color> can charge forward while enraged — breaking doors and killing targets.
-<color=red>SCP-096</color> will destroy doors and pry open closed gates when enraged.
-<color=red>SCP-939</color> can mimic the voices of players it has previously killed.
-<color=red>SCP-939</color> can release a cloud of amnestic gas. Humans under its effects cannot perceive <color=red>SCP-939</color> until it attacks.
-Using <color=#FFFF7C>adrenaline</color> negates the effects of <color=red>SCP-939</color>’s amnestic cloud.
-Flashbangs are especially effective against <color=red>SCP-939</color>.
-The lower <color=red>SCP-939</color>’s stamina is, the poorer its perception of players becomes.
-The longer <color=red>SCP-939</color> is in Focus, the more effective Ultrasensitive becomes.
+SCP-1576 allows living players to talk to spectators for a short time.
+SCP-914 can change all items, including weapons and ammunition.
+SCP-914 can recharge radios and the Micro H.I.D.
+SCP-914 can create a number of unique items that can’t be found anywhere else. Feel free to experiment!
+SCP-079 starts off relatively weak but gets more powerful as a match goes on.
+SCP-079 can lock doors, turn off lights, and overcharge Tesla gates.
+A Tesla gate being looked at by SCP-079 will always appear active.
+SCP-079 is recontained using generators found in the Heavy Containment Zone, and a final button in its containment chamber.
+SCP-079 can change its cameras’ zoom using the mouse wheel.
+The longer SCP-079 has a door locked, the more power it will take to keep locked.
+SCP-079 unlocks a breach scanner at level 4. If it detects a human hiding in a room, an alarm will sound.
+SCP-079 can activate the Alpha Warhead at level 5. It will survive the detonation if it’s the one that starts the countdown.
+A camera being used by SCP-079 will glow blue. Keep an eye out! You never know when it's watching.
+SCP-173 can move freely in dark rooms, even if it's being looked at. Bring a flashlight!
+SCP-173 can kill stealthily from behind.
+SCP-173 can create a puddle that slows down humans that walk through it — creating quick and efficient area-denial.
+SCP-106 can walk through doors and glass windows.
+While in Stalk, SCP-106 can see humans in a short radius around him.
+SCP-106 can open up a map of nearby rooms to teleport to, bound to ‘TAB’ by default.
+SCP-106’s abilities rely on a resource known as ‘Vigor’, which drains with each ability he uses.
+SCP-106 is most vulnerable immediately after emerging from the ground.
+SCP-096 is most vulnerable when it has just begun to calm down.
+SCP-096 can charge forward while enraged — breaking doors and killing targets.
+SCP-096 will destroy doors and pry open closed gates when enraged.
+SCP-939 can mimic the voices of players it has previously killed.
+SCP-939 can release a cloud of amnestic gas. Humans under its effects cannot perceive SCP-939 until it attacks.
+Using adrenaline negates the effects of SCP-939’s amnestic cloud.
+Flashbangs are especially effective against SCP-939.
+The lower SCP-939’s stamina is, the poorer its perception of players becomes.
+The longer SCP-939 is in Focus, the more effective Ultrasensitive becomes.
 SCPs’ footsteps are distinct from human ones. Listen carefully!
-Being attacked by <color=red>SCP-049</color> inflicts cardiac arrest on a human. Health and stamina drain rapidly during this time.
-<color=red>SCP-049</color> can instantly kill any human already under the effects of cardiac arrest.
-Cardiac arrest drains your health rapidly. You’ll need <color=#FFFF7C>medical</color> supplies if you want to survive it.
-<color=red>SCP-049</color> can only reanimate corpses if they’re fresh.
-<color=red>SCP-049</color> can give a small shield to <color=red>SCP-049-2</color> instances who are nearby.
-<color=red>SCP-049-2</color> is vulnerable to headshots.
-<color=red>SCP-049-2</color>s make good scouts and are dangerous in large numbers.
-Most playable SCP instances have a secondary health bar called ‘<color=#6761ce>Hume Shield</color>’, which absorbs damage and regenerates over time.
-Half-Life! λ
+Being attacked by SCP-049 inflicts cardiac arrest on a human. Health and stamina drain rapidly during this time.
+SCP-049 can instantly kill any human already under the effects of cardiac arrest.
+Cardiac arrest drains your health rapidly. You’ll need medical supplies if you want to survive it.
+SCP-049 can only reanimate corpses if they’re fresh.
+SCP-049 can give a small shield to SCP-049-2 instances who are nearby.
+SCP-049-2 is vulnerable to headshots.
+SCP-049-2s make good scouts and are dangerous in large numbers.
+Most playable SCP instances have a secondary health bar called ‘Hume Shield’, which absorbs damage and regenerates over time.
