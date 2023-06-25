@@ -1,0 +1,20 @@
+Server-side User Tracking
+Allow
+Deny (DNT)
+If denied, forbids verified servers to use your data (IP address, user ID, etc) for purposes not related to the server security. Some server-specific features (like leaderboards, leveling systems, and similar) will not work correctly.
+Rich Presence
+Allows platforms (Steam and Discord) to display more information regarding your current in-game status.
+Steam Lobby Visibility
+Defines how other users can join the server through your Steam profile.
+Voice Chat Privacy Settings
+Profile on Player List
+Enables players to view your Steam profile by clicking an icon on the in-game player list.
+Shown
+Hidden
+Invite-only
+Public
+Changes will take place the next time you connect to a server (or on round restarts)
+Friends-only
+Privacy
+SCP Spawn Preferences
+Spawn preferences are used to improve automatic assigment of SCP roles among teammates. Please note it does not affect your chances of becoming an SCP instead of a human.

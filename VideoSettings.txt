@@ -34,8 +34,8 @@ Other
 1/4 Refresh Rate
 Selected aspect ratio is not supported by your monitor
 Exclusive Fullscreen
-Borderless Window
-Maximized Window
+Borderless Window - Keep Visible
+Borderless Window - Hide When Unfocused
 Windowed
 SMAA Quality Preset
 Ambient Occlusion
@@ -44,3 +44,5 @@ Disables physics for ragdolls (dead bodies) after a specified time to reduce CPU
 Aspect ratio of your current resolution is not supported!\nSome interface elements may not appear correct.
 Bullet Holes
 Blood Decals
+Target Display
+• Exclusive Fullscreen: The game has full control over the screen.\n• Borderless Window: Creates a full-screen effect by stretching the window to cover the screen. Different options control whether the game window should stay visible or automatically minimizes when it loses focus (for example, by user selecting another window).

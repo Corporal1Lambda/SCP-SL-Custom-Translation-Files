@@ -9,3 +9,5 @@ Toggle
 Aim Down Sights - Activation Mode
 Sprint - Activation Mode
 Pickup Items - Activation Mode
+Sneak - Activation Mode
+Mouse Look - Activation Mode
