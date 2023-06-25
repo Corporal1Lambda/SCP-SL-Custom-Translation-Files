@@ -9,7 +9,7 @@ Severe blood loss caused by deep wounds.
 You have bled out.
 Shattered legs and feet suggest fatal trauma caused by a fall.
 You have fallen down.
-Decayed in the Pocket Dimension.
+Corosion can be observed on the body.\n Caused By: <color=#e52121>SCP-106</color>
 Melted by a highly corrosive substance.\n Caused By: Failure to evacuate from <color=#e52121>L.C.Z.</color>
 Sickly yellow skin and a rancid smell.\n Caused By: <color=#F5650A>Poision Ingestion.</color>
 The poison has finished you.\n Caused by: mixing <color=#e52121>SCP-207</color> with <color=#e52121>SCP-1853</color>
