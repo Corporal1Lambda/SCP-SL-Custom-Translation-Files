@@ -16,7 +16,7 @@
 15~<color=#606770>🔦 Flashlight 🔦</color>
 16~<color=#003DCA>⚡ Micro H.I.D. ⚡</color>~Mobile High Intensity Discharge (H.I.D.)
 17~<color=#ff0000>💊 SCP-500 💊</color>~Fully heals player.\nCan regenerate up to 200hp.\nLet's just hope it's not estrogen
-18~<color=#ff0000>🍼 SCP-207 🍼</color>~<color=#F40009>COCA-COLA</color>\nDO NOT MIX WITH:\n<color=#95D600>MONSTER ENERGY</color> or <color=#004B93>PEPSI</color>
+18~<color=#ff0000>🍼 SCP-207 🍼</color>~<color=#F40009>COCK-COLA</color>\nDO NOT MIX WITH:\n<color=#95D600>MONSTREX ENERGY</color> or <color=#004B93>BEPIS</color>
 20~<color=#0096FF>🔫 MTF-Ԑ-11-SR 🔫\n<size=75%>Facility Recovery-Standard Rifle</size></color>
 21~<color=#70C3FF>🔫 Crossvec 🔫</color>
 23~<color=#5B6370>🔫 FSP-9 🔫</color>
@@ -39,7 +39,7 @@
 43~<color=#ff0000>💡 SCP-2176 💡</color>~Affects electricity in the room.
 44~<color=#ff0000>⚱ SCP-244-A ⚱</color>~An ancient vase. Creates a large cloud of icy fog when placed.
 45~<color=#ff0000>⚱ SCP-244-B ⚱</color>~An ancient bongo. Creates a large cloud of icy fog when placed.
-46~<color=red>💉 SCP-1853 💉~<color=#95D600>MONSTER ENERGY</color>\nDO NOT MIX WITH:\n<color=#F40009>COCA-COLA</color> or <color=#004B93>PEPSI</color>
+46~<color=red>💉 SCP-1853 💉~<color=#95D600>MONSTREX ENERGY</color>\nDO NOT MIX WITH:\n<color=#F40009>COCK-COLA</color> or <color=#004B93>BEPIS</color>
 47~<color=#003DCA>🔫 3-X Particle Disruptor 🔫</color>
 48~<color=#ff0000>🔫 COM-45 🔫\n<size=75%>Abomination</size></color>
 49~<color=#ff0000>🔊 SCP-1576 🔊</color>~Talk with those that are no longer with us.
