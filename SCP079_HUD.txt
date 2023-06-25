@@ -44,13 +44,9 @@ $<color=#FFD700>💡</color> BLACKOUT$ now available - press $[key]$ to disable 
 $<color=#FFD700>💡</color> BLACKOUT$ capacity increased to $[number]$ rooms.
 $<color=red>🔒</color> LOCKDOWN$ now available - press $[key]$ to temporarily lock down all doors in a room for 10s.
 +[amount] EXP - <color=#ff00b0>Admin Command</color>
-+[amount] EXP - <color=#FF8E00>Class-D Personnel</color> termination assist <color=#FF8E00>💀</color>
-+[amount] EXP - <color=#FFFF7C>Science Personnel</color> termination assist <color=#FFFF7C>💀</color>
-+[amount] EXP - <color=#5B6370>Security Guard</color> termination assist <color=#5B6370>💀</color>
-+[amount] EXP - <color=#0096FF>Epsilon-11</color> termination assist <color=#0096FF>💀</color>
-+[amount] EXP - <color=#008F1C>Chaos Insurgency</color> termination assist <color=#008F1C>💀</color>
-+[amount] EXP - <color=#00FF58>[REDACTED]</color> termination assist <color=#00FF58>💀</color>
-+[amount] EXP - Witnessed termination by a teammate <color=#8080FF>📷</color>
++[amount] EXP - [role] termination assist 💀
++[amount] EXP - [role] direct termination <color=red>💀</color>
++[amount] EXP - Witnessed termination of [role] by a teammate <color=#8080FF>📷</color>
 +[amount] EXP - Teammate's pursuit assist <color=#8080FF>🚪</color>
 +[amount] EXP - Protection of teammate(s) <color=#8080FF>🎽</color>
 +[amount] EXP - Prevented use of Micro H.I.D. <color=#8080FF>⚡</color>
