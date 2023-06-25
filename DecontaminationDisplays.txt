@@ -1,4 +1,4 @@
-<color=red><size=90%><b>DECONTAMINATION PROCESS BEGINS IN:</b></size></color>
+<color=#7cf58d><size=90%><b>DECONTAMINATION PROCESS BEGINS IN:</b></size></color>
 <color=red>⚠<b>-PLEASE EXIT THE AREA-</b>⚠</color>
 <color=red>⚠<b>-PLEASE EVACUATE-</b>⚠</color>
 <size=84%><b>THREAT ANALYSIS IN PROGRESS</b></size>

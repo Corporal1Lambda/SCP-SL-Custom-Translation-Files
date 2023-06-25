@@ -12,16 +12,16 @@ contained | <color=#008F1C>Chaos Insurgency</color>.
 <color=#EC2222>SCP-[scp]</color>
 contained | <color=#f5650a>Containment unit unknown</color>.
 contained | <color=#0096FF>Containment Unit [designation]</color>.
-lost in Decontamination Sequence.
+lost in <color=#7cf58d>Decontamination</color> Sequence.
 <color=#8080FF>[current]/[max]</color> generators activated.
 <split>All generators have been successfully engaged.
 <color=#8080FF>Overcharge in 3... 2... 1...</color>
 <color=#8080FF>Facility is back in operational mode.</color>
-<color=#EC2222>Light Containment Zone</color> decontamination process will occur in <color=#EC2222>15 minutes</color>.
-<color=#EC2222>Light Containment Zone</color> decontamination in <color=#EC2222>[time] minutes</color>.
-<color=#EC2222>Light Containment Zone</color> decontamination in <color=#EC2222>1 minute</color>.
-<color=#EC2222>Light Containment Zone</color> decontamination in <color=#EC2222>30 seconds</color>.<split>All checkpoint doors have been permanently opened. Please evacuate immediately.
-<color=#EC2222>Light Containment Zone</color> is locked down and ready for decontamination.<split>The removal of organic substances has now begun.
+<color=#EC2222>Light Containment Zone</color> <color=#7cf58d>decontamination</color> process will occur in <color=#EC2222>15 minutes</color>.
+<color=#EC2222>Light Containment Zone</color> <color=#7cf58d>decontamination</color> in <color=#EC2222>[time] minutes</color>.
+<color=#EC2222>Light Containment Zone</color> <color=#7cf58d>decontamination</color> in <color=#EC2222>1 minute</color>.
+<color=#EC2222>Light Containment Zone</color> <color=#7cf58d>decontamination</color> in <color=#EC2222>30 seconds</color>.<split>All checkpoint doors have been permanently opened. Please evacuate immediately.
+<color=#EC2222>Light Containment Zone</color> is locked down and ready for <color=#7cf58d>decontamination</color>.<split>The removal of organic substances has now begun.
 <color=#EC2222>ALPHA WARHEAD SEQUENCE ENGAGED | DETONATION IN [time] SECONDS</color>
 <color=#EC2222>DETONATION CANCELLED | RESTARTING SYSTEMS...</color>
 <color=#EC2222>DETONATION RESUMED | [time] SECONDS</color>
