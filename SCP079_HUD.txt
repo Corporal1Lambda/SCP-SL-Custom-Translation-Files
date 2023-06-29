@@ -45,12 +45,12 @@ $<color=#FFD700>💡</color> BLACKOUT$ capacity increased to $[number]$ rooms.
 $<color=red>🔒</color> LOCKDOWN$ now available - press $[key]$ to temporarily lock down all doors in a room for 10s.
 +[amount] EXP - <color=#ff00b0>Admin Command</color>
 +[amount] EXP - [role] termination assist 💀
-+[amount] EXP - [role] direct termination <color=red>💀</color>
++[amount] EXP - [role] <color=red>direct termination 💀</color>
 +[amount] EXP - Witnessed termination of [role] by a teammate <color=#8080FF>📷</color>
 +[amount] EXP - Teammate's pursuit assist <color=#8080FF>🚪</color>
 +[amount] EXP - Protection of teammate(s) <color=#8080FF>🎽</color>
 +[amount] EXP - Prevented use of Micro H.I.D. <color=#8080FF>⚡</color>
-CAMERA FEED: <color=#32CD32>ONLINE</color>
+<color=red>🔒 Door Lock is active 🔒</color>
 <color=#ff9e00>☀ ZONE-WIDE BLACKOUT</color> - disable zone lights for 60s - ([cost])
 $<color=#ff9e00>☀</color> ZONE-WIDE BLACKOUT$ now available - next to zone labels on the $Facility Map$.
 <color=yellow>⚠</color> ZONE-WIDE BLACKOUT COOLDOWN <color=yellow>⚠</color>
@@ -83,7 +83,7 @@ SELECTED ZONES: [cnt]
 Retrying in [time] seconds...
 <color=green>Scan successful</color> - $<b>[role]</b>$ detected - <color=red><b>[camera_name]</b></color> - <b>[zone]</b>
 <color=#8080FF>SCAN IN: [time]s</color>
-Scanning...
+<color=#8080FF>Scanning...</color>
 <color=red><b>SYSTEM OFFLINE</b></color>
 <color=#8080FF>SELECT TEAMS TO DETECT</color>
 Breach Scanner detects remaining targets that stay within the same area for an extended period of time.
