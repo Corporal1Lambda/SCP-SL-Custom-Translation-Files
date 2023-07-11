@@ -20,7 +20,7 @@ lost in <color=#7cf58d>Decontamination</color> Sequence.
 <color=#EC2222>Light Containment Zone</color> <color=#7cf58d>decontamination</color> in <color=#EC2222>15 minutes</color>.
 <color=#EC2222>Light Containment Zone</color> <color=#7cf58d>decontamination</color> in <color=#EC2222>[time] minutes</color>.
 <color=#EC2222>Light Containment Zone</color> <color=#7cf58d>decontamination</color> in <color=#EC2222>1 minute</color>.
-<color=#EC2222>Light Containment Zone</color> <color=#7cf58d>decontamination</color> in <color=#EC2222>30 seconds</color>.<split>All doors are open, evacuate yourself dumbass.
+<color=#EC2222>Light Containment Zone</color> <color=#7cf58d>decontamination</color> in <color=#EC2222>30 seconds</color>.<split>Evacuate yourself dumbass, doors are open.
 <color=#EC2222>Light Containment Zone</color> is locked down and ready for <color=#7cf58d>decontamination</color>.<split>The removal of organic substances has now begun.
 <color=#EC2222>ALPHA WARHEAD SEQUENCE ENGAGED | DETONATION IN [time] SECONDS</color>
 <color=#EC2222>DETONATION CANCELLED | RESTARTING SYSTEMS...</color>
