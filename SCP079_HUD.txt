@@ -16,7 +16,7 @@ ETA: [time] seconds
 <color=yellow>⚠</color> DOOR LOCK COOLDOWN <color=yellow>⚠</color>
 <color=#8080FF>⚡ AUXILIARY POWER</color>
 <color=yellow>⚠</color><color=red> ACTIVE GENERATOR </color><color=yellow>⚠</color>
-<color=green>🔓</color> RELEASE ALL DOOR LOCKS ([num] total)
+<color=green>🔓</color> RELEASE ALL DOOR LOCKS - [num]
 OPEN FACILITY MAP
 CLOSE 
 <color=#f5eb9c>LIGHT CONTAINMENT ZONE</color>
@@ -44,12 +44,12 @@ $<color=#FFD700>💡</color> BLACKOUT$ now available - press $[key]$ to disable 
 $<color=#FFD700>💡</color> BLACKOUT$ capacity increased to $[number]$ rooms.
 $<color=red>🔒</color> LOCKDOWN$ now available - press $[key]$ to temporarily lock down all doors in a room for 10s.
 +[amount] EXP - <color=#ff00b0>Admin Command</color>
-+[amount] EXP - [role] termination assist 💀
-+[amount] EXP - [role] <color=red>direct termination 💀</color>
-+[amount] EXP - Witnessed termination of [role] by a teammate <color=#8080FF>📷</color>
-+[amount] EXP - Teammate's pursuit assist <color=#8080FF>🚪</color>
-+[amount] EXP - Protection of teammate(s) <color=#8080FF>🎽</color>
-+[amount] EXP - Prevented use of Micro H.I.D. <color=#8080FF>⚡</color>
++[amount] EXP - [role] termination assist - 💀
++[amount] EXP - [role] <color=red>DIRECT TERMINATION - 💀</color>
++[amount] EXP - Witnessed termination of [role] by a teammate - <color=#8080FF>📷</color>
++[amount] EXP - Teammate's pursuit assist - <color=#8080FF>🚪</color>
++[amount] EXP - Protection of teammate(s) - <color=#8080FF>☂️</color>
++[amount] EXP - Prevented use of <color=#003DCA>Micro H.I.D.</color> - <color=#003DCA>⚡</color>
 <color=red>🔒 Door Lock is active 🔒</color>
 <color=#ff9e00>☀ ZONE-WIDE BLACKOUT</color> - disable zone lights for 60s - ([cost])
 $<color=#ff9e00>☀</color> ZONE-WIDE BLACKOUT$ now available - next to zone labels on the $Facility Map$.
