@@ -46,8 +46,8 @@ $<color=red>🔒</color> LOCKDOWN$ now available - press $[key]$ to temporarily 
 +[amount] EXP - <color=#ff00b0>Admin Command</color>
 +[amount] EXP - [role] termination assist - 💀
 +[amount] EXP - [role] <color=red>DIRECT TERMINATION - 💀</color>
-+[amount] EXP - Witnessed termination of [role] by a teammate - <color=#8080FF>📷</color>
-+[amount] EXP - Teammate's pursuit assist - <color=#8080FF>🚪</color>
++[amount] EXP - Witnessed termination of [role] - <color=#8080FF>📷</color>
++[amount] EXP - Pursuit assist - <color=#8080FF>🚪</color>
 +[amount] EXP - Protection of teammate(s) - <color=#8080FF>☂️</color>
 +[amount] EXP - Prevented use of <color=#003DCA>Micro H.I.D.</color> - <color=#003DCA>⚡</color>
 <color=red>🔒 Door Lock is active 🔒</color>
