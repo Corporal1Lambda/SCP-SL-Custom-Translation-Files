@@ -40,19 +40,19 @@ You will turn into <color=#FDBA31><b>furry</b></color> in [time]s
 <color=yellow>⚠</color> TESLA GATE ACTIVATION COOLDOWN <color=yellow>⚠</color>
 $<color=#8080FF>💳 Access Tier [tier]</color>$ - UNLOCKED
 $<color=#8080FF>⚡ AUXILIARY POWER</color>$ limit increased to $[limit]$.
-$<color=#FFD700>💡</color> BLACKOUT$ now available - press $[key]$ to disable room lights for 15s.
-$<color=#FFD700>💡</color> BLACKOUT$ capacity increased to $[number]$ rooms.
-$<color=red>🔒</color> LOCKDOWN$ now available - press $[key]$ to temporarily lock down all doors in a room for 10s.
-+[amount] EXP - <color=#ff00b0>Admin Command</color>
-+[amount] EXP - [role] termination assist - 💀
-+[amount] EXP - [role] <color=red>DIRECT TERMINATION - 💀</color>
-+[amount] EXP - Witnessed termination of [role] - <color=#8080FF>📷</color>
-+[amount] EXP - Pursuit assist - <color=#8080FF>🚪</color>
-+[amount] EXP - Protection of teammate(s) - <color=#8080FF>☂️</color>
-+[amount] EXP - Prevented use of <color=#003DCA>Micro H.I.D.</color> - <color=#003DCA>⚡</color>
+$<color=#FFD700>💡</color> <color=#8080FF>BLACKOUT</color>$ now available - press $[key]$ to disable room lights for <color=#8080FF>15s</color>.
+$<color=#FFD700>💡</color> <color=#8080FF>BLACKOUT</color>$ capacity increased to $<color=#8080FF>[number]</color>$ rooms.
+$<color=red>🔒</color> <color=#8080FF>LOCKDOWN</color>$ now available - press $<color=#8080FF>[key]</color>$ to temporarily lock down all doors in a room for <color=#8080FF>10s</color>.
+<color=#8080FF>+[amount] EXP</color> - <color=#ff00b0>Admin Command</color>
+<color=#8080FF>+[amount] EXP</color> - [role] termination assist - 💀
+<color=#8080FF>+[amount] EXP</color> - [role] <color=red>DIRECT TERMINATION - 💀</color>
+<color=#8080FF>+[amount] EXP</color> - Witnessed termination of [role] - 📷
+<color=#8080FF>+[amount] EXP</color> - Pursuit assist - 🚪
+<color=#8080FF>+[amount] EXP</color> - Protection of teammate(s) - ☂️
+<color=#8080FF>+[amount] EXP</color> - Prevented use of <color=#003DCA>Micro H.I.D.</color> - <color=#003DCA>⚡</color>
 <color=red>🔒 Door Lock is active 🔒</color>
 <color=#ff9e00>☀ ZONE-WIDE BLACKOUT</color> - disable zone lights for 60s - ([cost])
-$<color=#ff9e00>☀</color> ZONE-WIDE BLACKOUT$ now available - next to zone labels on the $Facility Map$.
+$<color=#ff9e00>☀</color> <color=#8080FF>ZONE-WIDE BLACKOUT</color>$ now available - next to zone labels on the $<color=#8080FF>Facility Map</color>$.
 <color=yellow>⚠</color> ZONE-WIDE BLACKOUT COOLDOWN <color=yellow>⚠</color>
 🚨 BLACKOUT ALREADY ACTIVE 🚨
 ❌ BLACKOUT UNAVAILABLE FOR THIS ZONE ❌

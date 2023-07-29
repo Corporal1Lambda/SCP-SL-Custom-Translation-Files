@@ -18,7 +18,7 @@
 17~<color=#ff0000>💊 SCP-500 💊</color>~Fully heals player.\nCan regenerate up to 200hp.\nLet's just hope it's not estrogen
 18~<color=#ff0000>🍼 SCP-207 🍼</color>~<color=#F40009>COCK-COLA</color>\nDO NOT MIX WITH:\n<color=#95D600>MONSTREX ENERGY</color> or <color=#004B93>BEPIS</color>
 20~<color=#0096FF>🔫 MTF-Ԑ-11-SR 🔫\n<size=75%>Facility Recovery-Standard Rifle</size></color>
-21~<color=#70C3FF>🔫 Crossvec 🔫</color>
+21~<color=#70C3FF>🔫 Crossvec 🔫\n<size=75%>C.R.O.S.S.</size></color>
 23~<color=#5B6370>🔫 FSP-9 🔫</color>
 24~<color=#0D7D35>🔫 LGC5 🔫</color>
 25~<color=#0096FF>💣 HE Grenade 💣</color>~Kilogram trotylu w dźwigu osobowym.
