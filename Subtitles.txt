@@ -1,17 +1,17 @@
 <color=#0096FF>MTF Unit Epsilon-11</color> | <color=#0096FF>[designation]</color> |
 <color=#EC2222> [count] SCP subjects</color>.
 <color=#EC2222> 1 SCP subject</color>.
-<color=#f5650a> Substantial threat to safety remains</color> | <color=#EC2222>exercise caution</color>.
+Substantial threat to safety remains | <color=#EC2222>exercise caution</color>.
 terminated | Termination cause unspecified.
-terminated by <color=#EC2222>SCP-[scp]</color>.
-terminated by <color=#f5650a>Automatic Security System</color>.
-terminated by <color=#EC2222>Alpha Warhead</color>.
-contained | <color=#FFFF7C>Science Personnel</color>.
-contained | <color=#FF8E00>Class-D Personnel</color>.
-contained | <color=#008F1C>Chaos Insurgency</color>.
+terminated by: <color=#EC2222>SCP-[scp]</color>.
+terminated by: <color=#f5650a>Automatic Security System</color>.
+terminated by: <color=#EC2222>Alpha Warhead</color>.
+contained by: <color=#FFFF7C>Science Personnel</color>.
+contained by: <color=#FF8E00>Class-D Personnel</color>.
+contained by: <color=#008F1C>Chaos Insurgency</color>.
 <color=#EC2222>SCP-[scp]</color>
-contained | <color=#f5650a>Containment unit unknown</color>.
-contained | <color=#0096FF>Containment Unit [designation]</color>.
+contained | Containment unit unknown.
+contained | Containment Unit: <color=#0096FF>[designation]</color>.
 lost in <color=#7cf58d>Decontamination</color> Sequence.
 <color=#8080FF>[current]/[max]</color> generators activated.
 <split>All generators have been successfully engaged.

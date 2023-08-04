@@ -44,3 +44,4 @@
 48~<color=#ff0000>🔫 COM-45 🔫\n<size=75%>Abomination</size></color>
 49~<color=#ff0000>🔊 SCP-1576 🔊</color>~Talk with those that are no longer with us.
 50~<color=#ff0000>🍭 Jailbird 🍭</color>~Big stunstick?
+51~<color=#004B93>BEPIS</color>~DO NOT MIX WITH:\n<color=#95D600>MONSTREX ENERGY</color> or <color=#F40009>COCK-COLA</color>
