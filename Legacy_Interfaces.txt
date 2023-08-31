@@ -1,6 +1,6 @@
-GIVE ORDERS
-FOLLOW ORDERS
-SAME RANK
+<color=#ff80bc>GIVE ORDERS</color>
+<color=#ff80bc>FOLLOW ORDERS</color>
+<color=#ff80bc>SAME RANK</color>
 Class-D Personnel escaped
 Scientists survived
 Killed by SCP

@@ -27,8 +27,8 @@ SUMMARY
 CONTINUE
 MAIN VOLUME
 connected
-You have escaped as a <color=#FFFF7C>Scientist</color>.
-You have escaped as a <color=#FF8E00>Class-D</color>.
+You have escaped as a Scientist.
+You have escaped as a Class-D.
 YOU ARE
 Escape time: [escape_minutes] minutes and [escape_seconds] seconds
 Wait [time] until you can use [item] again.
