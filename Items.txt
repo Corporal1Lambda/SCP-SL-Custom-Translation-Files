@@ -20,7 +20,7 @@
 20~<color=#0096FF>🔫 MTF-Ԑ-11-SR 🔫\n<size=75%>Facility Recovery-Standard Rifle</size></color>
 21~<color=#70C3FF>🔫 Crossvec 🔫\n<size=75%>C.R.O.S.S.</size></color>
 23~<color=#5B6370>🔫 FSP-9 🔫\n<size=75%>Foundation Security Pistol</size></color>
-24~<color=#0D7D35>🔫 LGC5 🔫</color>
+24~<color=#0D7D35>🔫 LGC5 🔫\n<size=75%>Logicer</size></color>
 25~<color=#0096FF>💥 HE Grenade 💥</color>~Kilogram trotylu w dźwigu osobowym.
 26~<color=#5B6370>💣 Flashbang Grenade 💣\nModel FG02</color>~Blind your teammates!\nNow with 3 seconds delay!
 30~<color=#5B6370>🔫 CSP-18 🔫\n<size=75%>Compact Security Pistol</size></color>
@@ -32,9 +32,9 @@
 36~<color=#5B6370>🎽 P.C.V. - Light 🎽</color>
 37~<color=#0096FF>🎽 P.C.V. - Standard 🎽</color>
 38~<color=#0D7D35>🎽 P.C.V. - Heavy 🎽</color>
-39~<color=#006826>🔫 .357 Magnum 🔫\n<size=75%>A GUN</size></color>
+39~<color=#006826>🔫 .357 Magnum 🔫\n<size=75%>A GUN!</size></color>
 40~<color=#008F1C>🔫 KEK-72B 🔫</color>
-41~<color=#006826>🔫 DBB 🔫</color>
+41~<color=#006826>🔫 DBB 🔫\n<size=75%>Double Barrel Baguette </size></color>
 42~<color=#ff0000>🍬 SCP-330 🍬</color>~A bag containing the following candies:
 43~<color=#ff0000>💡 SCP-2176 💡</color>~Disables all electronics in the room for a limited time.
 44~<color=#ff0000>⚱ SCP-244-A ⚱</color>~An ancient vase. Creates a large cloud of icy fog when placed.

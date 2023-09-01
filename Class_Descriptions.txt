@@ -1,21 +1,21 @@
-<b>MAIN OBJECTIVE:</b>\n\n Kill everyone.\nCooperate with other <color=#F00>SCP subjects</color>.
-<b>MAIN OBJECTIVE:</b>\n\nEscape from <color=#0096ff>Site-02</color>.\nCooperate with <color=#008F1e>Chaos Insurgents</color>.
+<b>♨️</b> MAIN OBJECTIVE <b>♨️</b>\n\n Kill everyone.\nCooperate with other <color=#F00>SCP subjects</color>.
+<b>♨️</b> MAIN OBJECTIVE <b>♨️</b>\n\nEscape from <color=#0096ff>Site-02</color>.\nCooperate with <color=#008F1e>Chaos Insurgents</color>.
 You will respawn soon.
-<b>MAIN OBJECTIVE:</b>\n\n Kill everyone.\nCooperate with other <color=#F00>SCP subjects</color>.
-<b>MAIN OBJECTIVE:</b>\n\nSecure<color=#0096ff>Site-02</color>.\nEvacuate all <color=#FFFF7CFF>Scientists</color>.\nTerminate all threats.
-<b>MAIN OBJECTIVE:</b>\n\n Cure everyone.\nCooperate with other <color=#F00>SCP subjects</color>.
-<b>MAIN OBJECTIVE:</b>\n\nEscape from <color=#0096ff>Site-02</color>.\nCooperate with <color=#0096FF>Foudation Forces</color>.
-<b>MAIN OBJECTIVE:</b>\n\n Help <color=#F00>SCP subjects</color> kill everyone.\nTake over <color=#0096ff>Site-02</color> systems.
-<b>MAIN OBJECTIVE:</b>\n\nTake over <color=#0096ff>Site-02</color>.\nEvacuate all <color=#FF8E00>Class-D Personnel</color>.\nTerminate all threats.
-<b>MAIN OBJECTIVE:</b>\n\n Kill everyone.\nCooperate with other <color=#F00>SCP subjects</color>.
-<b>MAIN OBJECTIVE:</b>\n\n Kill everyone.\nCooperate with other <color=#F00>SCP subjects</color>.
-<b>MAIN OBJECTIVE:</b>\n\nSecure <color=#0096ff>Site-02</color>.\nEvacuate all <color=#FFFF7CFF>Scientists</color>.\nTerminate all threats.
-<b>MAIN OBJECTIVE:</b>\n\nSecure <color=#0096ff>Site-02</color>.\nEvacuate all <color=#FFFF7CFF>Scientists</color>.\nTerminate all threats.
-<b>MAIN OBJECTIVE:</b>\n\nSecure <color=#0096ff>Site-02</color>.\nEvacuate all <color=#FFFF7CFF>Scientists</color>.\nTerminate all threats.
+<b>♨️</b> MAIN OBJECTIVE <b>♨️</b>\n\n Kill everyone.\nCooperate with other <color=#F00>SCP subjects</color>.
+<b>♨️</b> MAIN OBJECTIVE <b>♨️</b>\n\nSecure <color=#0096ff>Site-02</color>.\nEvacuate all <color=#FFFF7CFF>Scientists</color>.\nTerminate all threats.
+<b>♨️</b> MAIN OBJECTIVE <b>♨️</b>\n\n Cure everyone.\nCooperate with other <color=#F00>SCP subjects</color>.
+<b>♨️</b> MAIN OBJECTIVE <b>♨️</b>\n\nEscape from <color=#0096ff>Site-02</color>.\nCooperate with <color=#0096FF>Foudation Forces</color>.
+<b>♨️</b> MAIN OBJECTIVE <b>♨️</b>\n\n Help <color=#F00>SCP subjects</color> kill everyone.\nTake over <color=#0096ff>Site-02</color> systems.
+<b>♨️</b> MAIN OBJECTIVE <b>♨️</b>\n\nTake over <color=#0096ff>Site-02</color>.\nEvacuate all <color=#FF8E00>Class-D Personnel</color>.\nTerminate all threats.
+<b>♨️</b> MAIN OBJECTIVE <b>♨️</b>\n\n Kill everyone.\nCooperate with other <color=#F00>SCP subjects</color>.
+<b>♨️</b> MAIN OBJECTIVE <b>♨️</b>\n\n Kill everyone.\nCooperate with other <color=#F00>SCP subjects</color>.
+<b>♨️</b> MAIN OBJECTIVE <b>♨️</b>\n\nSecure <color=#0096ff>Site-02</color>.\nEvacuate all <color=#FFFF7CFF>Scientists</color>.\nTerminate all threats.
+<b>♨️</b> MAIN OBJECTIVE <b>♨️</b>\n\nSecure <color=#0096ff>Site-02</color>.\nEvacuate all <color=#FFFF7CFF>Scientists</color>.\nTerminate all threats.
+<b>♨️</b> MAIN OBJECTIVE <b>♨️</b>\n\nSecure <color=#0096ff>Site-02</color>.\nEvacuate all <color=#FFFF7CFF>Scientists</color>.\nTerminate all threats.
 Someone is getting banned.
-<b>MAIN OBJECTIVE:</b>\n\nSecure <color=#0096ff>Site-02</color>.\nEvacuate all <color=#FFFF7CFF>Scientists</color>.\nTerminate all threats.
-<b>MAIN OBJECTIVE:</b>\n\n Kill everyone.\nCooperate with other <color=#F00>SCP subjects</color>.
-<b>MAIN OBJECTIVE:</b>\n\n Kill everyone.\nCooperate with other <color=#F00>SCP subjects</color>.
-<b>MAIN OBJECTIVE:</b>\n\nTake over <color=#0096ff>Site-02</color>.\nEvacuate all <color=#FF8E00>Class-D Personnel</color>.\nTerminate all threats.
-<b>MAIN OBJECTIVE:</b>\n\nTake over <color=#0096ff>Site-02</color>.\nEvacuate all <color=#FF8E00>Class-D Personnel</color>.\nTerminate all threats.
-<b>MAIN OBJECTIVE:</b>\n\nTake over <color=#0096ff>Site-02</color>.\nEvacuate all <color=#FF8E00>Class-D Personnel</color>.\nTerminate all threats.
+<b>♨️</b> MAIN OBJECTIVE <b>♨️</b>\n\nSecure <color=#0096ff>Site-02</color>.\nEvacuate all <color=#FFFF7CFF>Scientists</color>.\nTerminate all threats.
+<b>♨️</b> MAIN OBJECTIVE <b>♨️</b>\n\n Kill everyone.\nCooperate with other <color=#F00>SCP subjects</color>.
+<b>♨️</b> MAIN OBJECTIVE <b>♨️</b>\n\n Kill everyone.\nCooperate with other <color=#F00>SCP subjects</color>.
+<b>♨️</b> MAIN OBJECTIVE <b>♨️</b>\n\nTake over <color=#0096ff>Site-02</color>.\nEvacuate all <color=#FF8E00>Class-D Personnel</color>.\nTerminate all threats.
+<b>♨️</b> MAIN OBJECTIVE <b>♨️</b>\n\nTake over <color=#0096ff>Site-02</color>.\nEvacuate all <color=#FF8E00>Class-D Personnel</color>.\nTerminate all threats.
+<b>♨️</b> MAIN OBJECTIVE <b>♨️</b>\n\nTake over <color=#0096ff>Site-02</color>.\nEvacuate all <color=#FF8E00>Class-D Personnel</color>.\nTerminate all threats.
