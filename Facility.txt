@@ -26,7 +26,7 @@ WAITING FOR PLAYERS
 SUMMARY
 CONTINUE
 MAIN VOLUME
-connected
+CONNECTED
 You have escaped as a Scientist.
 You have escaped as a Class-D.
 YOU ARE
@@ -37,7 +37,7 @@ Press <color=#ff80bc><b>F1</b></color> for help.
 You were recaptured by the <color=#0096FF>Foundation Forces</color>.
 You were taken prisoner by the <color=#008F1C>Chaos Insurgency</color>.
 ROUND STARTS IN: <color=#ff80bc>{0}</color>s
-ROUND START IS <color=red>PAUSED</color>
+ROUND START: <color=red>🔒</color>
 AIMING SENS. REDUCTION
 Press [key] to cancel the throw.
 ADS Toggle

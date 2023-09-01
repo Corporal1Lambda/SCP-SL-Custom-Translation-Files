@@ -1,22 +1,22 @@
 🍬Candies🍬
 <color=purple>🍬 R</color><color=yellow>a</color><color=red>i</color><color=#f47fff>n</color><color=blue>b</color><color=green>o</color><color=purple>w</color> <color=yellow>C</color><color=red>a</color><color=blue>n</color><color=green>d</color><color=#f47fff>y 🍬</color>
 Its a hard piece of rock candy, packed with all sorts of flavours.
-Instantly restores 15 HP. Gives the player infinite sprint for 5 seconds.\nPermanent 5% damage reduction. Reduces severity of negative effect for 10 seconds.\nApplies 20 AHP for 10 seconds.\n<color=red>Turns you gay</color>
+✚ Instantly restores 15 HP.\n🏃 Infinite sprint - 5 seconds.\n⛨ 5% damage reduction.\n⛨ Reduces severity of negative effect - 10s.\n⛨ Applies 20 AHP for 10s.\n
 <color=yellow>🍬 Yellow Candy 🍬</color>
 The overwhelming smell of lemon makes you cringe a little.
-Instantly restores 25% of Stamina. Gives the player infinite sprint for 8 seconds. Applies the 10% Movement Boost for 8 seconds.
+🏃 Restores 25% of Stamina.\n🏃 Infinite sprint - 8 s.\n🏃 10% Movement Boost - 8 seconds.
 <color=purple>🍬 Purple Candy 🍬</color>
 It has a juicy grape smell. Your mouth begins to water.
-20% damage reduction for 15 seconds. Regenerates 15HP (1.5HP/s for a total of ten seconds).
+⛨ 20% damage reduction - 15s.\n✚ Regenerates 15HP.
 <color=red>🍬 Red Candy 🍬</color>
 A strong scent of cherry fills the room. It’s a bit... <i>too</i> strong.
-Regenerates 45HP (9 HP/s for a total of five seconds).
+✚ Regenerates 45HP.
 <color=green>🍬 Green Candy 🍬</color>
 A nasty, herbal smell emits from the candy.
-Immunity to negative status effects for 30 seconds. Regenerates 120HP (1.5HP/s for a total of 80 seconds).
+⛨ Immunity to negative status effects - 30s.\n✚ Slowly regenerates 120HP.
 <color=blue>🍬 Blue Candy 🍬</color>
 It smells soft and sweet, something akin to a marshmallow.
-Applies 30 AHP.
+⛨ Applies 30 AHP.
 <color=#f47fff>🍬 Pink Candy 🍬</color>
 The strawberry scent is as gentle as it looks.
 Player instantly <color=#f47fff>████████</color>
