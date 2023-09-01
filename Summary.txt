@@ -11,7 +11,7 @@ Site-02 is under certain control, but not without cost. The victor is undetermin
 <color=#FFFF7C>🏃 [summary_s_escaped] Scientist(s) survived</color>
 <color=#EC2222>Alpha Warhead - DETONATED. Confirmed Terminations: [summary_warhead_kills].</color>
 <color=#EC2222>Alpha Warhead</color> - No detonation occured. Systems - Operational.
-The mission took [summary_round_minutes] minutes and [summary_round_seconds] seconds.
+The breach took [summary_round_minutes] minutes and [summary_round_seconds] seconds.
 <color=#EC2222>🌀 [summary_scp_terminated] recontained SCPs</color>
 Next round in [summary_next_round_countdown] seconds.
 <color=#EC2222>The SCPs killed [summary_scpfrags] human beings.</color>
