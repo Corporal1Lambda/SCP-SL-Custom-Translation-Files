@@ -1,0 +1,41 @@
+Hotkeys
+Create New Hotkey
+Hotkeys allow items to be assigned to keyboard keys, so you can equip them without having to open your inventory.
+Keycard
+Primary Weapon
+Secondary Weapon
+Medical
+Grenade
+Name
+Assigned key
+Appearance
+Queue mode
+Item selection priority
+Allows to set the starting point of the queued items based on the user-defined conditions.
+Hidden
+Normal Icon
+Small Icon
+Item queue
+Selection is based on the order of elements in the ‘Items’ pool below.
+Inventory order
+Selection is based on their order in the inventory.
+None
+Best medical
+Attempts to equip the best medical item based on your health, stamina amount, or status effects.
+Remember previous
+The sequence starting point will not reset when selecting a different item.
+Door access detection
+Prioritizes keycards that can access nearby doors.
+Skip empty firearms
+Prioritizes loaded firearms over empty ones.
+Items
+Match index
+This option allows the definition of an order as dictated by their position in the inventory. Inventory items not matching the selected filter above will be ignored when determining the order.
+Remove All Custom Hotkeys
+Restore Default (Hold)
+Edit: [hotkey]
+New Unnamed Hotkey
+Any Firearm
+Any Keycard
+Any Throwable
+Any SCP Item
