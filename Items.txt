@@ -47,5 +47,3 @@
 51~<color=cyan>🍼 SCP-207? 🍼</color>~<color=#004B93>BEPIS</color>\n\nDO NOT MIX WITH:\n<color=#95D600>MONSTREX ENERGY</color> or <color=#F40009>COCK-COLA</color>
 52~<color=#003DCA>🔫 MTF-Ԑ-11-MG 🔫\n<size=75%>Facility Recovery-Machine Gun</size></color>
 53~<color=#ff0000>🔫 A7 🔫\n<size=75%>Abomination</size></color>
-52~FR-MG-0
-53~A7
