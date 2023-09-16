@@ -6,8 +6,8 @@ ADS Accuracy
 Weight
 Length
 DROP:
-Helmet Efficacy
-Vest Efficacy
+Helmet Efficiency
+Vest Efficiency
 Stamina Usage
 Movement Speed
 Item Limits:

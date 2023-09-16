@@ -14,7 +14,7 @@
 13~<color=#FFFF7C>🔫 COM-15 🔫</color>
 14~<color=#FFFF7C>⚕ First Aid Kit ⚕</color>~✚ Heals 65 HP.
 15~<color=#606770>🔦 Flashlight 🔦</color>
-16~<color=#003DCA>⚡ Micro H.I.D. ⚡</color>~Mobile High Intensity Discharge (H.I.D.)
+16~<color=#003DCA>⚡ Micro H.I.D. ⚡</color>~「DPS」: 1150 DMG\n🏃 <size=90%>Stamina consumption - 50%.</size>
 17~<color=#ff0000>💊 SCP-500 💊</color>~✚ Fully heals player.
 18~<color=#ff0000>🍼 SCP-207 🍼</color>~Harmfully increases motor skills.\n\n<color=#F40009>COCK-COLA</color>\nDO NOT MIX WITH:\n<color=#95D600>MONSTREX ENERGY</color> or <color=#004B93>BEPIS</color>
 20~<color=#0096FF>🔫 MTF-Ԑ-11-SR 🔫\n<size=75%>Facility Recovery-Standard Rifle</size></color>
@@ -27,7 +27,7 @@
 31~<color=#ff0000>⚽ SCP-018 ⚽</color>~Bounces around, gaining momentum and damage with each bounce.
 32~<color=#ff0000>🎩 SCP-268 🎩</color>~Makes you go for milk for 15s.
 33~<color=#FFFF7C>💉 Adrenaline 💉</color>~⛨ Gives player 40 AHP.\n🏃 Refills stamina bar.\n🏃 Infinite sprint - 8s.
-34~<color=#FFFF7C>💊 Sanity Pills 💊</color>~✚ Regenerates 50 HP
+34~<color=#FFFF7C>💊 Painkiller 💊</color>~✚ Regenerates 50 HP.
 35~💿 Coin 💿
 36~<color=#5B6370>🎽 P.C.V. - Light 🎽</color>
 37~<color=#0096FF>🎽 P.C.V. - Standard 🎽</color>
@@ -44,6 +44,6 @@
 48~<color=#ff0000>🔫 COM-45 🔫\n<size=75%>Abomination</size></color>
 49~<color=#ff0000>🔊 SCP-1576 🔊</color>~Talk with those that are no longer with us.
 50~<color=#ff0000>🍭 Jailbird 🍭</color>~「LMB」: 50 DMG\n「RMB」: 200 DMG
-51~<color=#004B93>🍼 SCP-207? 🍼</color>~<color=#004B93>BEPIS</color>\n\nDO NOT MIX WITH:\n<color=#95D600>MONSTREX ENERGY</color> or <color=#F40009>COCK-COLA</color>
+51~<color=#004B93>🍼 SCP-207? 🍼</color>~Opposite day?\n\n<color=#004B93>BEPIS</color>\nDO NOT MIX WITH:\n<color=#95D600>MONSTREX ENERGY</color> or <color=#F40009>COCK-COLA</color>
 52~<color=#003DCA>🔫 MTF-Ԑ-11-MG 🔫\n<size=75%>Facility Recovery-Machine Gun</size></color>
 53~<color=#ff0000>🔫 A7 🔫\n<size=75%>Abomination</size></color>

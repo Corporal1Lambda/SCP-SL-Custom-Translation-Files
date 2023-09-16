@@ -19,6 +19,6 @@ None
 Custom Role
 <color=#008F1C>Trooper</color>
 <color=#006826>Executor</color>
-<color=#0D7D35>H.C.S.</color>
+<color=#0D7D35>Charger</color>
 「Overwatch」
 <color=#A020F0>「Filmmaker」</color>

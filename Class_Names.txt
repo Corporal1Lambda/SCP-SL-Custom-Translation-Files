@@ -18,4 +18,4 @@
 -
 <color=#008F1C>Chaos Trooper</color>
 <color=#006826>Chaos Executor</color>
-<color=#0D7D35>Chaos H.C.S.</color>
+<color=#0D7D35>Chaos Charger</color>

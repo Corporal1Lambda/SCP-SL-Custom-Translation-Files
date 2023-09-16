@@ -22,24 +22,24 @@ DOOR HAS BEEN LOCK-DOWN BY SCP-079
 Fullscreen mode
 Are you sure you want to leave the server?
 Basic options. Full list of settings in the menu.
-WAITING FOR PLAYERS
+\n「WAITING FOR PLAYERS」
 SUMMARY
 CONTINUE
 MAIN VOLUME
-CONNECTED
-You have escaped as a Scientist.
-You have escaped as a Class-D.
+<b>CONNECTED</b>
+-
+-
 YOU ARE
-Escape time: [escape_minutes] minutes and [escape_seconds] seconds
+Escape time: [escape_minutes]:[escape_seconds]
 Wait [time] until you can use [item] again.
 Press <color=#ff80bc><b>F1</b></color> for help.
 <size=40><color=red>Follow orders or ask teammates for help.</color></size>
-You were recaptured by the <color=#0096FF>Foundation Forces</color>.
-You were taken prisoner by the <color=#008F1C>Chaos Insurgency</color>.
-ROUND STARTS IN: <color=#ff80bc>{0}</color>s
-ROUND START: <color=red>🔒</color>
+-
+-
+<size=2000%>\n</size><size=110%><b><i>ROUND STARTS IN: <color=#ff80bc>{0}</color>s</i></b></size>
+<size=2000%>\n</size><size=110%><b><i><color=red>ROUND START:</i></b> 🔒 <b>LOCKED</b> 🔒</color></size>
 AIMING SENS. REDUCTION
-Press [key] to cancel the throw.
+Press <b>[key]</b> to cancel the throw.
 ADS Toggle
 Mute Spectator Chat
 Enable Noise Reduction (recommended)
