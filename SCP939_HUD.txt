@@ -19,7 +19,7 @@ Amnestic Cloud:Fill your air sacs with a dangerous neurochemical gas, projecting
 With Many Voices:Humans you kill have a chance at giving you their last words, allowing you to steal their voice and utilize it to deceive others. In addition, SCP-939 can also mimic some basic sounds, such as disguising their footsteps to match humans. 
 Ultrasensitive:SCP-939 is able to sense nearby heat sources, represented by a small radius of normal vision. Outside of this however, you must rely on sound in order to track nearby prey. The louder the sound, the further away you can hear it from. The range of your vision is affected by your stamina levels. 
 -
-Place Mimic Point 🌀
+🌀 Place Mimic Point 🌀
 Override position of Mimicry's sounds source
 ❌ Remove Mimic Point ❌
 Make all sounds come from your current location
@@ -38,7 +38,7 @@ Miscellaneous 💉
 -
 -
 Roles
-Hotkey  [key]
+Hotkey  <b>[key]</b>
 🔊 Play the selected sound (everyone can hear this)
 Stop the playback
 Drag to trim the recording

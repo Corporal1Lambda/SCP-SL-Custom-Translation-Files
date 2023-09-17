@@ -25,7 +25,7 @@
 26~<color=#5B6370>💣 Flashbang Grenade 💣\nModel FG02</color>~Blind your teammates!\nNow with 3 seconds delay!
 30~<color=#5B6370>🔫 CSP-18 🔫\n<size=75%>Compact Security Pistol</size></color>
 31~<color=#ff0000>⚽ SCP-018 ⚽</color>~Bounces around, gaining momentum and damage with each bounce.
-32~<color=#ff0000>🎩 SCP-268 🎩</color>~Makes you go for milk for 15s.
+32~<color=#ff0000>🎩 SCP-268 🎩</color>~◌ Invisibility - 15s.
 33~<color=#FFFF7C>💉 Adrenaline 💉</color>~⛨ Gives player 40 AHP.\n🏃 Refills stamina bar.\n🏃 Infinite sprint - 8s.
 34~<color=#FFFF7C>💊 Painkiller 💊</color>~✚ Regenerates 50 HP.
 35~💿 Coin 💿

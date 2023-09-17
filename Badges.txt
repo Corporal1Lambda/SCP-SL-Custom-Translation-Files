@@ -1,61 +1,61 @@
-Northwood Chief Executive Officer (Furry)
-Northwood Chief Information Officer (Furry)
-Northwood Chief Operations Officer (Furry)
-Northwood Community Director (Furry)
-Northwood Discord Manager (Furry)
-Northwood Executive Assistant (Furry)
-Northwood Feedback Manager (Furry)
-Northwood Human Resources (Furry)
-Northwood Human Resources Director (Furry)
-Northwood Marketing Platform Manager (Furry)
-Northwood Staff (Furry)
-Northwood Steam Manager (Furry)
-Northwood System Administrator (Furry)
-Northwood Wiki Manager (Furry)
-SCP:SL Art Manager (Furry)
-SCP:SL Art Supervisor (Furry)
-SCP:SL Artist (Furry)
-SCP:SL Backend Programmer (Furry)
-SCP:SL Backend Programming Manager (Furry)
-SCP:SL Developer (Furry)
-SCP:SL Event Winner (Furry)
-SCP:SL Fullstack Programmer (Furry)
-SCP:SL Game Designer (Furry)
-SCP:SL Gameplay Programmer (Furry)
-SCP:SL Global Moderation Manager (Furry)
-SCP:SL Global Moderator (Furry)
-SCP:SL Lead Game Designer (Furry)
-SCP:SL Lead Gameplay Programmer (Furry)
-SCP:SL Level Designer (Furry)
-SCP:SL Partner (Furry)
-SCP:SL Patreon Supporter (Furry)
-SCP:SL Quality Assurance Manager (Furry)
-SCP:SL Sound Designer (Furry)
+Northwood Chief Executive Officer 
+Northwood Chief Information Officer 
+Northwood Chief Operations Officer 
+Northwood Community Director 
+Northwood Discord Manager 
+Northwood Executive Assistant 
+Northwood Feedback Manager 
+Northwood Human Resources 
+Northwood Human Resources Director 
+Northwood Marketing Platform Manager 
+Northwood Staff 
+Northwood Steam Manager 
+Northwood System Administrator 
+Northwood Wiki Manager 
+SCP:SL Art Manager 
+SCP:SL Art Supervisor 
+SCP:SL Artist 
+SCP:SL Backend Programmer 
+SCP:SL Backend Programming Manager 
+SCP:SL Developer 
+SCP:SL Event Winner 
+SCP:SL Fullstack Programmer 
+SCP:SL Game Designer 
+SCP:SL Gameplay Programmer 
+SCP:SL Global Moderation Manager 
+SCP:SL Global Moderator 
+SCP:SL Lead Game Designer 
+SCP:SL Lead Gameplay Programmer 
+SCP:SL Level Designer 
+SCP:SL Partner 
+SCP:SL Patreon Supporter 
+SCP:SL Quality Assurance Manager 
+SCP:SL Sound Designer 
 SCP:SL Game Director
-SCP:SL Official Server Manager (Furry)
-Northwood Verification Specialist (Furry)
-SCP:SL Anti-Cheat Developer (Furry)
-SCP:SL Quality Assurance Tester (Furry)
-SCP:SL Quality Assurance Supervisor (Furry)
-SCP:SL Twitch Subscriber (Furry)
-SCP:SL Audio Manager (Furry)
-Northwood Feedback Coordinator (Furry)
-Northwood Verification Supervisor (Furry)
-SCP:SL Official Server Supervisor (Furry)
-Northwood Feedback Supervisor (Furry)
-Northwood Verification Manager (Furry)
-Northwood Bot Manager (Furry)
-Northwood Translation Manager (Furry)
-SCP:SL Game Design Manager (Furry)
-SCP:SL Animator (Furry)
-Northwood Public Relations Director (Furry)
-SCP:SL Community Helper (Furry)
-SCP:SL Voice Actor (Furry)
-SCP:SL Foundation Investor (Furry)
-Northwood Studio Director (Furry)
-SCP:SL Assistant Game Director (Furry)
-Northwood Tech Support Supervisor (Furry)
-Northwood Tech Support Manager (Furry)
-Northwood System Administration Manager (Furry)
-SCP:SL Narrative Designer (Furry)
-Northwood Marketing Platform Supervisor (Furry)
+SCP:SL Official Server Manager 
+Northwood Verification Specialist 
+SCP:SL Anti-Cheat Developer 
+SCP:SL Quality Assurance Tester 
+SCP:SL Quality Assurance Supervisor 
+SCP:SL Twitch Subscriber 
+SCP:SL Audio Manager 
+Northwood Feedback Coordinator 
+Northwood Verification Supervisor 
+SCP:SL Official Server Supervisor 
+Northwood Feedback Supervisor 
+Northwood Verification Manager 
+Northwood Bot Manager 
+Northwood Translation Manager 
+SCP:SL Game Design Manager 
+SCP:SL Animator 
+Northwood Public Relations Director 
+SCP:SL Community Helper 
+SCP:SL Voice Actor 
+SCP:SL Foundation Investor 
+Northwood Studio Director 
+SCP:SL Assistant Game Director 
+Northwood Tech Support Supervisor 
+Northwood Tech Support Manager 
+Northwood System Administration Manager 
+SCP:SL Narrative Designer 
+Northwood Marketing Platform Supervisor 

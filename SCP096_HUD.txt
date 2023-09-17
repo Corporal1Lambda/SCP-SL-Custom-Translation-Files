@@ -4,5 +4,5 @@ Melee Attack:Tear through anything in your way to get to those who've hurt you. 
 Charge:Cut their escapes short — they deserve it. You bolt straight ahead for a short distance, demolishing anything in your path.
 Rage Only
 Docile Only
-Hold [key] to enter Rage.
-Hold [key] to force-exit Rage.
+Hold <b>[key]</b> to enter Rage.
+Hold <b>[key]</b> to force-exit Rage.

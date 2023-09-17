@@ -33,11 +33,11 @@ YOU ARE
 Escape time: [escape_minutes]:[escape_seconds]
 Wait [time] until you can use [item] again.
 Press <color=#ff80bc><b>F1</b></color> for help.
-<size=40><color=red>Follow orders or ask teammates for help.</color></size>
+<size=40><color=EC2222>Follow orders or ask teammates for help.</color></size>
 -
 -
-<size=2000%>\n</size><size=110%><b><i>ROUND STARTS IN: <color=#ff80bc>{0}</color>s</i></b></size>
-<size=2000%>\n</size><size=110%><b><i><color=red>ROUND START:</i></b> 🔒 <b>LOCKED</b> 🔒</color></size>
+<size=2000%>\n</size><size=110%><b>ROUND STARTS IN:</size>\n<size=150%><color=#7CFC00>{0}</color>s</b></size>
+<size=2000%>\n</size><size=110%><b><color=EC2222>ROUND START:</b> 🔒 <b>LOCKED</b> 🔒</color></size>
 AIMING SENS. REDUCTION
 Press <b>[key]</b> to cancel the throw.
 ADS Toggle
