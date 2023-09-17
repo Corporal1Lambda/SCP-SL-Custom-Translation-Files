@@ -1,15 +1,15 @@
 <b>「<color=#58a4ef>🔊</color>」</b> - <color=#0096FF>MTF Unit Epsilon-11</color> <b>|</b> <color=#0096FF>[designation]</color> <b>|</b> 
-<color=EC2222> [count] SCP subjects</color>.
-<color=EC2222> 1 SCP subject</color>.
-Substantial threat to safety remains <b>|</b> <color=EC2222>exercise caution</color>.
+<color=#EC2222> [count] SCP subjects</color>.
+<color=#EC2222> 1 SCP subject</color>.
+Substantial threat to safety remains <b>|</b> <color=#EC2222>exercise caution</color>.
 terminated <b>|</b> Termination cause unspecified.
-terminated by: <color=EC2222>SCP-[scp]</color>.
+terminated by: <color=#EC2222>SCP-[scp]</color>.
 terminated by: <color=#f5650a>Automatic Security System</color>.
-terminated by: <color=EC2222>Alpha Warhead</color>.
+terminated by: <color=#EC2222>Alpha Warhead</color>.
 contained by: <color=#FFFF7C>Science Personnel</color>.
 contained by: <color=#FF8E00>Class-D Personnel</color>.
 contained by: <color=#008F1C>Chaos Insurgency</color>.
-<b>「<color=#58a4ef>🔊</color>」</b> - <color=EC2222>SCP-[scp]</color>
+<b>「<color=#58a4ef>🔊</color>」</b> - <color=#EC2222>SCP-[scp]</color>
 contained <b>|</b> Containment unit unknown.
 contained <b>|</b> Containment Unit: <color=#0096FF>[designation]</color>.
 lost in decontamination sequence.
@@ -17,11 +17,11 @@ lost in decontamination sequence.
 <split>All generators have been successfully engaged.
 <b>「<color=#58a4ef>🔊</color>」</b> - <color=#58a4ef>Overcharge in 3... 2... 1...</color>
 <b>「<color=#58a4ef>🔊</color>」</b> - <color=#58a4ef>Facility is back in operational mode.</color>
-<b>「<color=#f6b140>⚠</color>」</b> - <color=EC2222>Light Containment Zone</color> decontamination in <color=EC2222>15 minutes</color>.
-<b>「<color=#f6b140>⚠</color>」</b> - <color=EC2222>Light Containment Zone</color> decontamination in <color=EC2222>[time] minutes</color>.
-<b>「<color=#f6b140>⚠</color>」</b> - <color=EC2222>Light Containment Zone</color> decontamination in <color=EC2222>1 minute</color>.
-<b><color=#f6b140>「⚠」</color></b><color=EC2222>- Light Containment Zone</color> decontamination in <color=EC2222>30 seconds</color>.
-<b>「<color=#58a4ef>🔊</color>」</b> - <color=EC2222>Light Containment Zone</color> is locked down and ready for decontamination.
-<b><color=#ff4545>「⚠」</color></b><color=EC2222> - ALPHA WARHEAD SEQUENCE ENGAGED <b>|</b> DETONATION IN [time] SECONDS</color>
-<b><color=#ff4545>「❌」</color></b><color=EC2222> - DETONATION CANCELLED <b>|</b> RESTARTING SYSTEMS...</color>
-<b><color=#ff4545>「⚠」</color></b><color=EC2222> - DETONATION RESUMED <b>|</b> [time] SECONDS</color>
+<b>「<color=#f6b140>⚠</color>」</b> - <color=#EC2222>Light Containment Zone</color> decontamination in <color=#EC2222>15 minutes</color>.
+<b>「<color=#f6b140>⚠</color>」</b> - <color=#EC2222>Light Containment Zone</color> decontamination in <color=#EC2222>[time] minutes</color>.
+<b>「<color=#f6b140>⚠</color>」</b> - <color=#EC2222>Light Containment Zone</color> decontamination in <color=#EC2222>1 minute</color>.
+<b><color=#f6b140>「⚠」</color></b><color=#EC2222>- Light Containment Zone</color> decontamination in <color=#EC2222>30 seconds</color>.
+<b>「<color=#58a4ef>🔊</color>」</b> - <color=#EC2222>Light Containment Zone</color> is locked down and ready for decontamination.
+<b><color=#ff4545>「⚠」</color></b><color=#EC2222> - ALPHA WARHEAD SEQUENCE ENGAGED <b>|</b> DETONATION IN [time] SECONDS</color>
+<b><color=#ff4545>「❌」</color></b><color=#EC2222> - DETONATION CANCELLED <b>|</b> RESTARTING SYSTEMS...</color>
+<b><color=#ff4545>「⚠」</color></b><color=#EC2222> - DETONATION RESUMED <b>|</b> [time] SECONDS</color>
