@@ -10,19 +10,19 @@
 9~<color=#ba1846>💳 Facility Manager Keycard 💳</color>
 10~<color=#008F1C>📟 C.I. Breaking Card 📟</color>
 11~<color=#FFFFFF>💳 O5-level Keycard 💳</color>
-12~<color=#5B6370>📻 Radio 📻</color>
+12~<color=#5B6370>📻 Radio 📻</color>~Allows long range communication.\n\nSR - 108m\nMR - 180m\nLR - 1080m\nUR - 7200m
 13~<color=#FFFF7C>🔫 COM-15 🔫</color>
 14~<color=#FFFF7C>⚕ First Aid Kit ⚕</color>~✚ Heals 65 HP.
-15~<color=#606770>🔦 Flashlight 🔦</color>
+15~<color=#FF8E00>🔦 Flashlight 🔦</color>~Let there be light!
 16~<color=#003DCA>⚡ Micro H.I.D. ⚡</color>~「DPS」: 1150 DMG\n🏃 <size=90%>Stamina consumption - 50%.</size>
 17~<color=#ff0000>💊 SCP-500 💊</color>~✚ Fully heals player.
-18~<color=#ff0000>🍼 SCP-207 🍼</color>~Harmfully increases motor skills.\n\n<color=#F40009>COCK-COLA</color>\nDO NOT MIX WITH:\n<color=#95D600>MONSTREX ENERGY</color> or <color=#004B93>BEPIS</color>
+18~<color=#ff0000>🍼 SCP-207 🍼</color>~🏃 <size=90%>Increases movement speed</size>\n🏃 Infinite sprint\n💔 Drains HP\n\n<size=75%><color=#F40009>CONTA-COLA</color>\nDO NOT MIX WITH:\n<color=#95D600>MONSTREX ENERGY</color>\n<color=#004B93>BEPIS</color></size>
 20~<color=#0096FF>🔫 MTF-Ԑ-11-SR 🔫\n<size=75%>Facility Recovery-Standard Rifle</size></color>
 21~<color=#70C3FF>🔫 Crossvec 🔫\n<size=75%>C.R.O.S.S.</size></color>
 23~<color=#5B6370>🔫 FSP-9 🔫\n<size=75%>Foundation Security Pistol</size></color>
 24~<color=#0D7D35>🔫 LGC5 🔫\n<size=75%>Logicer</size></color>
 25~<color=#0096FF>💥 HE Grenade 💥</color>~Kilogram trotylu w dźwigu osobowym.
-26~<color=#5B6370>💣 Flashbang Grenade 💣\nModel FG02</color>~Blind your teammates!\nNow with 3 seconds delay!
+26~<color=#5B6370>💣 Flashbang Grenade 💣\nModel FG02</color>~Blind your <s>teammates</s> enemies!\nNow with 3 seconds delay!
 30~<color=#5B6370>🔫 CSP-18 🔫\n<size=75%>Compact Security Pistol</size></color>
 31~<color=#ff0000>⚽ SCP-018 ⚽</color>~Bounces around, gaining momentum and damage with each bounce.
 32~<color=#ff0000>🎩 SCP-268 🎩</color>~◌ Invisibility - 15s.
@@ -39,11 +39,11 @@
 43~<color=#ff0000>💡 SCP-2176 💡</color>~Disables all electronics in the room for a limited time.
 44~<color=#ff0000>⚱ SCP-244-A ⚱</color>~An ancient vase. Creates a large cloud of icy fog when placed.
 45~<color=#ff0000>⚱ SCP-244-B ⚱</color>~An ancient bongo. Creates a large cloud of icy fog when placed.
-46~<color=red>💉 SCP-1853 💉~Improves weapon manipulation skills.\n\n<color=#95D600>MONSTREX ENERGY</color>\nDO NOT MIX WITH:\n<color=#F40009>COCK-COLA</color> or <color=#004B93>BEPIS</color>
+46~<color=red>💉 SCP-1853 💉~🔫 <size=75%>Improves weapon manipulation</size>\n\n\n\n<size=75%><color=#95D600>MONSTREX ENERGY</color>\nDO NOT MIX WITH:\n<color=#F40009>CONTA-COLA</color>\n<color=#004B93>BEPIS</color></size>
 47~<color=#003DCA>🔫 3-X Particle Disruptor 🔫</color>
 48~<color=#ff0000>🔫 COM-45 🔫\n<size=75%>Abomination</size></color>
 49~<color=#ff0000>🔊 SCP-1576 🔊</color>~Talk with those that are no longer with us.
-50~<color=#ff0000>🍭 Jailbird 🍭</color>~「LMB」: 50 DMG\n「RMB」: 200 DMG
-51~<color=#004B93>🍼 SCP-207? 🍼</color>~Opposite day?\n\n<color=#004B93>BEPIS</color>\nDO NOT MIX WITH:\n<color=#95D600>MONSTREX ENERGY</color> or <color=#F40009>COCK-COLA</color>
+50~<color=#ff0000>🍭 Jailbird 🍭</color>~Swing 「LMB」: 50 DMG\nCharge 「RMB」: 200 DMG
+51~<color=#004B93>🍼 SCP-207? 🍼</color>~🐌 <size=90%>Decreases movement speed</size>\n❤️ Regenerates HP\n\n\n<size=75%><color=#004B93>BEPIS</color>\nDO NOT MIX WITH:\n<color=#95D600>MONSTREX ENERGY</color>\n<color=#F40009>CONTA-COLA</color></size>
 52~<color=#003DCA>🔫 MTF-Ԑ-11-MG 🔫\n<size=75%>Facility Recovery-Machine Gun</size></color>
 53~<color=#ff0000>🔫 A7 🔫\n<size=75%>Abomination</size></color>
