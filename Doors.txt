@@ -1,7 +1,7 @@
 <color=green><size=60>-○-</size>\n<size=30>OPENED</size></size></color>
 <color=#07A2FF><size=60>-●-</size>\n<size=30>CLOSED</size></size></color>
 <color=orange><size=40>┃⇆┃</size>\n<size=30>MOVING</size></color>
-<color=#b97cf5><size=50>-❌-</size></color>
+<color=red><size=50>-❌-</size></color>
 <color=yellow><size=50>-⚠-</size>\n<size=30>ERR606</size></color>
 <color=red><size=50>-❌-</size></color>
 <color=green><size=50>-✔-</size></color>
