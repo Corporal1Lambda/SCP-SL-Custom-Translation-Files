@@ -1,12 +1,12 @@
 Kill everyone inside <color=#0096ff>Site-02</color>.\n――――――――――――\nCooperate with other <color=#F00>SCP subjects</color>.
-Escape from the <color=#0096ff>Site-02</color>.\nCooperate with the <color=#008F1e>Chaos Insurgency</color>.\n――――――――――――\nAvoid <color=#0096ff>Foundation Staff</color> and <color=#F00>SCP subjects</color>.
+Escape from the <color=#0096ff>Site-02</color>.\nCooperate with the <color=#008F1e>Chaos Insurgency</color>.\n――――――――――――\nAvoid <color=#5B6370>Foundation Staff</color> and <color=#F00>SCP subjects</color>.
 You will respawn soon.
 Kill everyone inside <color=#0096ff>Site-02</color>.\n――――――――――――\nCooperate with other <color=#F00>SCP subjects</color>.
 Evacuate all <color=#FFFF7CFF>Scientists</color>.\nRecapture <color=#FF8E00>Class-D Personnel</color>.\n――――――――――――.\nSecure <color=#0096ff>Site-02</color>.\nTerminate all <color=#008F1e>Chaos Insurgency Agents</color>.\nInstruct your <color=#6dc3ff>soldiers</color>.\nFollow the orders of your <color=#003bca>superiors</color>.
 Kill everyone inside <color=#0096ff>Site-02</color>.\n――――――――――――\nCooperate with other <color=#F00>SCP subjects</color>.
-Escape from the <color=#0096ff>Site-02</color>.\nCooperate with other <color=#0096ff>Foundation Staff</color>.\n――――――――――――\nAvoid <color=#FF8E00>Class-D Personnel</color> and <color=#F00>SCP subjects</color>.
+Escape from the <color=#0096ff>Site-02</color>.\nCooperate with other <color=#5B6370>Foundation Staff</color>.\n――――――――――――\nAvoid <color=#FF8E00>Class-D Personnel</color> and <color=#F00>SCP subjects</color>.
 Take control over <color=#0096ff>Site-02</color> systems.\n――――――――――――\nAssist other <color=#F00>SCP subjects</color> and help them kill everyone.
-Evacuate all <color=#FF8E00>Class-D Personnel</color>.\nKidnap <color=#FFFF7CFF>Scientists</color>.\n――――――――――――\nTake over <color=#0096ff>Site-02</color>.\nTerminate all <color=##003bca>Foundation Forces</color>.
+Evacuate all <color=#FF8E00>Class-D Personnel</color>.\nKidnap <color=#FFFF7CFF>Scientists</color>.\n――――――――――――\nTake over <color=#0096ff>Site-02</color>.\nTerminate all <color=#5B6370>Foundation Forces</color>.
 Kill everyone inside <color=#0096ff>Site-02</color>.\n――――――――――――\nCooperate with other <color=#F00>SCP subjects</color>.
 Kill everyone inside <color=#0096ff>Site-02</color>.\n――――――――――――\nCooperate with other <color=#F00>SCP subjects</color>.
 Evacuate all <color=#FFFF7CFF>Scientists</color>.\nRecapture <color=#FF8E00>Class-D Personnel</color>.\n――――――――――――.\nSecure <color=#0096ff>Site-02</color>.\nTerminate all <color=#008F1e>Chaos Insurgency Agents</color>.\nInstruct your <color=#6dc3ff>soldiers</color>.\nFollow the orders of your <color=#003bca>superiors</color>.
@@ -16,6 +16,6 @@ Someone is getting banned.
 Evacuate all <color=#FFFF7CFF>Scientists</color>.\nRecapture <color=#FF8E00>Class-D Personnel</color>.\n――――――――――――.\nSecure <color=#0096ff>Site-02</color>.\nFollow the orders of <color=#003bca>Epsilon-11</color>.
 Kill everyone inside <color=#0096ff>Site-02</color>.\n――――――――――――\nCooperate with other <color=#F00>SCP subjects</color>.
 Kill everyone inside <color=#0096ff>Site-02</color>.\n――――――――――――\nCooperate with other <color=#F00>SCP subjects</color>.
-Evacuate all <color=#FF8E00>Class-D Personnel</color>.\nKidnap <color=#FFFF7CFF>Scientists</color>.\n――――――――――――\nTake over <color=#0096ff>Site-02</color>.\nTerminate all <color=##003bca>Foundation Forces</color>.
-Evacuate all <color=#FF8E00>Class-D Personnel</color>.\nKidnap <color=#FFFF7CFF>Scientists</color>.\n――――――――――――\nTake over <color=#0096ff>Site-02</color>.\nTerminate all <color=##003bca>Foundation Forces</color>.
-Evacuate all <color=#FF8E00>Class-D Personnel</color>.\nKidnap <color=#FFFF7CFF>Scientists</color>.\n――――――――――――\nTake over <color=#0096ff>Site-02</color>.\nTerminate all <color=##003bca>Foundation Forces</color>.
+Evacuate all <color=#FF8E00>Class-D Personnel</color>.\nKidnap <color=#FFFF7CFF>Scientists</color>.\n――――――――――――\nTake over <color=#0096ff>Site-02</color>.\nTerminate all <color=#5B6370>Foundation Forces</color>.
+Evacuate all <color=#FF8E00>Class-D Personnel</color>.\nKidnap <color=#FFFF7CFF>Scientists</color>.\n――――――――――――\nTake over <color=#0096ff>Site-02</color>.\nTerminate all <color=#5B6370>Foundation Forces</color>.
+Evacuate all <color=#FF8E00>Class-D Personnel</color>.\nKidnap <color=#FFFF7CFF>Scientists</color>.\n――――――――――――\nTake over <color=#0096ff>Site-02</color>.\nTerminate all <color=#5B6370>Foundation Forces</color>.

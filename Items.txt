@@ -27,7 +27,7 @@
 31~<color=#ff0000>⚽ SCP-018 ⚽</color>~Bounces around, gaining momentum and damage with each bounce.
 32~<color=#ff0000>🎩 SCP-268 🎩</color>~◌ Invisibility - 15s.
 33~<color=#FFFF7C>💉 Adrenaline 💉</color>~⛨ Gives player 40 AHP.\n🏃 Refills stamina bar.\n🏃 Infinite sprint - 8s.
-34~<color=#FFFF7C>💊 Painkiller 💊</color>~✚ Regenerates 50 HP.
+34~<color=#FFFF7C>💊 Painkillers 💊</color>~✚ Regenerates 50 HP.
 35~💿 Coin 💿
 36~<color=#5B6370>🎽 P.C.V. - Light 🎽</color>
 37~<color=#0096FF>🎽 P.C.V. - Standard 🎽</color>

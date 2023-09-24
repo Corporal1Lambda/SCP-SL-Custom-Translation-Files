@@ -21,7 +21,7 @@ lost in decontamination sequence.
 <b>「<color=#f6b140>⚠</color>」</b> - <color=#EC2222>Light Containment Zone</color> decontamination in <color=#EC2222>[time] minutes</color>.
 <b>「<color=#f6b140>⚠</color>」</b> - <color=#EC2222>Light Containment Zone</color> decontamination in <color=#EC2222>1 minute</color>.
 <b><color=#f6b140>「⚠」</color></b><color=#EC2222>- Light Containment Zone</color> decontamination in <color=#EC2222>30 seconds</color>.
-<b>「<color=#58a4ef>🔊</color>」</b> - <color=#EC2222>Light Containment Zone</color> is locked down and ready for decontamination.
+<b>「<color=#f6b140>🔊</color>」</b> - <color=#EC2222>Light Containment Zone</color> is locked down and ready for decontamination.
 <b><color=#ff4545>「⚠」</color></b><color=#EC2222> - ALPHA WARHEAD SEQUENCE ENGAGED <b>|</b> DETONATION IN [time] SECONDS</color>
 <b><color=#ff4545>「❌」</color></b><color=#EC2222> - DETONATION CANCELLED <b>|</b> RESTARTING SYSTEMS...</color>
 <b><color=#ff4545>「⚠」</color></b><color=#EC2222> - DETONATION RESUMED <b>|</b> [time] SECONDS</color>
