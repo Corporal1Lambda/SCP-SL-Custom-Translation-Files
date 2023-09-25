@@ -7,7 +7,7 @@ This corpse has already been consumed...
 Only human corpses may be consumed...
 ATTACK COOLDOWN
 You have denied further resurrection from <color=#EC2222>SCP-049</color>!
-Press [key] to deny further resurrection.
+Press <b>[key]</b> to deny further resurrection.
 No target found.
 You're already at full health.
 This corpse is already being consumed.
@@ -20,4 +20,4 @@ Waste Not, Want Not:Your medical instincts are not without a need for efficiency
 Lobotomized Bloodlust:Your mind was forcefully removed, leaving you with only violence. You find yourself pursuing humans faster and faster as you chase them down …
 Voracity:The cure isn't entirely without benefits. You can regenerate your flesh using the mass of any nearby corpse. There’s no sharing however, so make sure you’re the first to the feast.
 Revive
-Hold [key]
+Hold <b>[key]</b>

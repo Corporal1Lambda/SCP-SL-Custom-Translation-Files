@@ -3,21 +3,21 @@ Press [key_attack] or [key_jump] to Lunge.
 -
 ❌ Remove the voice (hold)
 🔊 Play the voice (everyone can hear this)
-SCP-939 has killed you and has stolen your voice!
+<color=#EC2222>SCP-939</color> has killed you and has stolen your voice!
 If you do not wish your voice to be used, you can turn this feature off.
 Remember my choice
 Delete
 OK
 More information
-CP-939 uses a mechanic where the last few seconds of your voice chat transmission is temporarily recorded. This can be played back by SCP-939 to lure out targets.\nThe recordings are automatically discarded if you leave the server, if SCP-939 dies, or upon round restart. Turning this feature off will remove all existing recordings of your transmissions.
-Cloud cannot be deployed at this position.
-Minimal Cloud size hasn't been reached. Hold the deploy key for longer.
-<color=red><size=75%>Woah hey you wouldn't fuck a 939 would you? I mean, I bet it'd feel amazing having your girthy cock pound my pussy mercilessly, must be pure ecstasy! But you wouldn't do that right? I know us 939s are literally built to take dicks of all sizes and can go on for hours and hours. For all I know, you could be imagining me getting mating pressed by you! God just image the sound of your heavy balls slapping against my ass while you're busy filling me up to the brim with your hot seed, pumping multiple loads into me till you completely empty your cum filled nuts! Surely you wouldn't do that, would you~?</size></color>
-Claw:Click to swipe your claw in a wide arc in front of you, ripping flesh and bone from your chosen victim. Whilst focusing, your primary attack will allow you to lunge at your prey. 
-Focus:Devoting your full energy to your senses, you can see prey from farther away, as well as being able to tell what type of prey they are, through the actions they perform. 
-Amnestic Cloud:Fill your air sacs with a dangerous neurochemical gas, projecting it in a radius which is determined by the time it was charged. Humans who inhale the gas lose perception of SCP-939, and cannot perform certain actions. Beware though, attacking or being attacked will reveal you for a short time.  
-With Many Voices:Humans you kill have a chance at giving you their last words, allowing you to steal their voice and utilize it to deceive others. In addition, SCP-939 can also mimic some basic sounds, such as disguising their footsteps to match humans. 
-Ultrasensitive:SCP-939 is able to sense nearby heat sources, represented by a small radius of normal vision. Outside of this however, you must rely on sound in order to track nearby prey. The louder the sound, the further away you can hear it from. The range of your vision is affected by your stamina levels. 
+<color=#EC2222>SCP-939</color> uses a mechanic where the last few seconds of your voice chat transmission is temporarily recorded. This can be played back by <color=#EC2222>SCP-939</color> to lure out targets.\nThe recordings are automatically discarded if you leave the server, if SCP-939 dies, or upon round restart. Turning this feature off will remove all existing recordings of your transmissions.
+<color=yellow>⚠</color> Cloud cannot be deployed at this position. <color=yellow>⚠</color>
+<color=yellow>⚠</color> Minimal Cloud size hasn't been reached. Hold the deploy key for longer. <color=yellow>⚠</color>
+<color=#EC2222>SCP-939</color> is blind, and sees through sound. It capitalizes on mistakes, using its silent steps and frightening speed to set up ambushes and go in for the kill.
+Claw:Click to swipe your claw in a wide arc in front of you, ripping flesh and bone from your chosen victim. Whilst focusing, your primary attack will allow you to lunge at your prey.
+Focus:Devoting your full energy to your senses, you can see prey from farther away, as well as being able to tell what type of prey they are, through the actions they perform.
+Amnestic Cloud:Fill your air sacs with a dangerous neurochemical gas, projecting it in a radius which is determined by the time it was charged. Humans who inhale the gas lose perception of SCP-939, and cannot perform certain actions. Beware though, attacking or being attacked will reveal you for a short time.
+With Many Voices:Humans you kill have a chance at giving you their last words, allowing you to steal their voice and utilize it to deceive others. In addition, SCP-939 can also mimic some basic sounds, such as disguising their footsteps to match humans.
+Ultrasensitive:SCP-939 is able to sense nearby heat sources, represented by a small radius of normal vision. Outside of this however, you must rely on sound in order to track nearby prey. The louder the sound, the further away you can hear it from. The range of your vision is affected by your stamina levels.
 -
 🌀 Place Mimic Point 🌀
 Override position of Mimicry's sounds source
