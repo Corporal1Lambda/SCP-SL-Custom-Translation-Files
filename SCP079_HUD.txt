@@ -44,8 +44,8 @@ $<color=#FFD700>💡</color> <color=#8080FF>BLACKOUT</color>$ now available - pr
 $<color=#FFD700>💡</color> <color=#8080FF>BLACKOUT</color>$ capacity increased to $<color=#8080FF>[number]</color>$ rooms.
 $<color=red>🔒</color> <color=#8080FF>LOCKDOWN</color>$ now available - press $<color=#8080FF>[key]</color>$ to temporarily lock down all doors in a room for <color=#8080FF>10s</color>.
 <color=#8080FF>+[amount] EXP</color> - <color=#ff00b0>Admin Command</color>
-<color=#8080FF>+[amount] EXP</color> - [role] termination assist - 💀
-<color=#8080FF>+[amount] EXP</color> - [role] <color=red>DIRECT TERMINATION - 💀</color>
+<color=#8080FF>+[amount] EXP</color> - [role] termination assist - 🎃
+<color=#8080FF>+[amount] EXP</color> - [role] <color=red>DIRECT TERMINATION - 🎃</color>
 <color=#8080FF>+[amount] EXP</color> - Witnessed termination of [role] - 📷
 <color=#8080FF>+[amount] EXP</color> - Pursuit assist - 🚪
 <color=#8080FF>+[amount] EXP</color> - Protection of teammate(s) - ☂️
@@ -57,8 +57,8 @@ $<color=#ff9e00>☀</color> <color=#8080FF>ZONE-WIDE BLACKOUT</color>$ now avail
 🚨 BLACKOUT ALREADY ACTIVE 🚨
 ❌ BLACKOUT UNAVAILABLE FOR THIS ZONE ❌
 🔬 TOTAL LIFEFORMS
-💀 TARGETS
-<color=#EC2222>🌀 SCP SUBJECTS</color>
+🎃 TARGETS
+<color=#EC2222>👻 SPECTERS</color>
 <color=#f5eb9c>📋 CIVILIAN</color>
 <color=#9cc7f5>🔫 MILITARY</color>
 <color=#8080FF>🔊</color> USE SPEAKER

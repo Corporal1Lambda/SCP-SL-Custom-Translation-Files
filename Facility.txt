@@ -32,7 +32,7 @@ MAIN VOLUME
 YOU ARE
 Escape time: [escape_minutes]:[escape_seconds]
 Wait [time] until you can use [item] again.
-Press <color=#ff80bc><b>F1</b></color> for help.
+Press <color=#ff80bc><b>F1</b></color> for more information.
 <size=40><color=#EC2222>Follow orders or ask teammates for help.</color></size>
 -
 -
