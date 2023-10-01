@@ -7,11 +7,11 @@ The round has finished!
 <color=#0096FF>All threats to safety have been neutralized. Site-02 is secure once again.</color>
 <color=#008F1C>Foundation presence has been exterminated. Operatives standing by for further orders.</color>
 Site-02 is under certain control, but not without cost. The victor is undetermined.
-<color=#FF8E00>🎃 [summary_d_escaped] Class-D survived</color>
-<color=#FFFF7C>👓 [summary_s_escaped] Scientist(s) survived</color>
+<color=#FF8E00>🎃 [summary_d_escaped] Lab Rats survived</color>
+<color=#FFFF7C>👓 [summary_s_escaped] Mad Scientist(s) survived</color>
 <color=#EC2222>Alpha Warhead - DETONATED. Confirmed Terminations: [summary_warhead_kills].</color>
 <color=#EC2222>Alpha Warhead</color> - No detonation occured. Systems - Operational.
 The breach took [summary_round_minutes] minutes and [summary_round_seconds] seconds.
-<color=#EC2222>👻 [summary_scp_terminated] recontained SCPs</color>
+<color=#EC2222><b>👻</b> [summary_scp_terminated] recontained Specters</color>
 Next round in [summary_next_round_countdown] seconds.
 <color=#EC2222>The SCPs killed [summary_scpfrags] human beings.</color>

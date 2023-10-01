@@ -1,6 +1,6 @@
 None
 <color=#EC2222>「Mr. Nutty」</color>
-<color=#FF8E00>Class-D</color>
+<color=#FF8E00>Lab Rat</color>
 「Spectator」
 <color=#EC2222>「Larry」</color>
 <color=#0096FF>Mu-13 Specialist</color>
@@ -14,7 +14,7 @@ None
 <color=#003DCA>Mu-13 Captain</color>
 <color=#70C3FF>Mu-13 Private</color>
 <color=#ff00b0>「Admin」</color>
-<color=#5B6370>Facility Guard</color>
+<color=#5B6370>Ghostbuster</color>
 <color=#EC2222>「Hellhound」</color>
 Custom Role
 <color=#008F1C>Trooper</color>
