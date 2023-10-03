@@ -16,15 +16,15 @@
 15~<color=#FF8E00>🔦 Flashlight 🔦</color>~Let there be light!
 16~<color=#003DCA>⚡ Micro H.I.D. ⚡</color>~「DPS」: 1150 DMG\n🏃 <size=90%>Stamina consumption - 50%.</size>
 17~<color=#ff0000>💊 SCP-500 💊</color>~✚ Fully heals player.
-18~<color=#ff0000>🍼 SCP-207 🍼</color>~🏃 <size=90%>Increases movement speed</size>\n🏃 Infinite sprint\n💔 Drains HP\n\n<size=75%><color=#F40009>CONTA-COLA</color>\nDO NOT MIX WITH:\n<color=#95D600>MONSTREX ENERGY</color>\n<color=#004B93>BEPIS</color></size>
+18~<color=#ff0000>🍼 SCP-207 🍼</color>~🏃 <size=90%>Increases movement speed</size>\n🏃 Infinite sprint\n💔 Drains HP\n\n<size=75%><color=#F40009>CONTA-COLA</color>\nDO NOT MIX WITH:\n<color=#95D600>SCP-1853</color>\n<color=#004B93>BEPIS</color></size>
 20~<color=#0096FF>🔫 MTF-Mu-13-SR 🔫\n<size=75%>Facility Recovery-Standard Rifle</size></color>
 21~<color=#70C3FF>🔫 Crossvec 🔫\n<size=75%>C.R.O.S.S.</size></color>
 23~<color=#5B6370>🔫 FSP-9 🔫\n<size=75%>Foundation Security Pistol</size></color>
 24~<color=#0D7D35>🔫 LGC5 🔫\n<size=75%>Logicer</size></color>
-25~<color=#0096FF>💥 HE Grenade 💥</color>~Kilogram trotylu w dźwigu osobowym.
-26~<color=#5B6370>💣 Flashbang Grenade 💣\nModel FG02</color>~Blind your <s>teammates</s> enemies!\nNow with 3 seconds delay!
+25~<color=#0096FF>💥 HE Grenade 💥</color>~💥 900 DMG to <color=red>SCPs</color>.\n💥 2x DMG to <color=#6661cd>Hume Shield</color>.\n🔥 Burns damaged players.\n🕒 3.5s fuse time.
+26~<color=#5B6370>💣 Flashbang Grenade 💣\nModel FG02</color>~💥 Blinds enemy players up to 5s.\n🕒 2.8s fuse time.
 30~<color=#5B6370>🔫 CSP-18 🔫\n<size=75%>Compact Security Pistol</size></color>
-31~<color=#ff0000>⚽ SCP-018 ⚽</color>~Bounces around, gaining momentum and damage with each bounce.
+31~<color=#ff0000>🎃 SCP-018 🎃</color>~<size=85%>👥 Friendly Fire Toleration - 10s.\n💨 Speed doubles with each bounce.\n⚽ 10x DMG to <color=red>SCPs</color>.\n💥 Explodes after 80s.</size>
 32~<color=#ff0000>🎩 SCP-268 🎩</color>~◌ Invisibility - 15s.
 33~<color=#FFFF7C>💉 Adrenaline 💉</color>~⛨ Gives player 40 AHP.\n🏃 Refills stamina bar.\n🏃 Infinite sprint - 8s.
 34~<color=#FFFF7C>💊 Painkillers 💊</color>~✚ Regenerates 50 HP.
@@ -36,14 +36,14 @@
 40~<color=#008F1C>🔫 KEK-72B 🔫</color>
 41~<color=#006826>🔫 DBB 🔫\n<size=75%>Double Barrel Baguette </size></color>
 42~<color=#ff0000>🍬 SCP-330 🍬</color>~Trick or Treat:
-43~<color=#ff0000>💡 SCP-2176 💡</color>~Disables all electronics in the room for a limited time.
+43~<color=#ff0000>💡 SCP-2176 👻</color>~💡 Blackout - 13s.\n🚪 Lockdown - 13s.\n⚡ Activates Tesla Gate.\n💻 Stuns <color=#8080FF>SCP-079</color> - 8s.\n\n<size=75%>If the room is blacked out or on lockdown SCP-2176 will do the opposite.</size>
 44~<color=#ff0000>⚱ SCP-244-A ⚱</color>~An ancient vase. Creates a large cloud of icy fog when placed.
 45~<color=#ff0000>⚱ SCP-244-B ⚱</color>~An ancient bongo. Creates a large cloud of icy fog when placed.
-46~<color=red>💉 SCP-1853 💉~🔫 <size=75%>Improves weapon manipulation</size>\n\n\n\n<size=75%><color=#95D600>MONSTREX ENERGY</color>\nDO NOT MIX WITH:\n<color=#F40009>CONTA-COLA</color>\n<color=#004B93>BEPIS</color></size>
+46~<color=red>💉 SCP-1853 💉~<size=80%>🔫 Reduced ADS inaccuracy - 30%.\n🔫 Reduced weapon recoil - 25%.\n🔫 Reduced reload time - 25%.\n💳 Picking up items increased - 60%.\n\n</size><size=75%><color=#95D600>SCP-1853</color>\nDO NOT MIX WITH:\n<color=#F40009>CONTA-COLA</color>\n<color=#004B93>BEPIS</color></size>
 47~<color=#003DCA>🔫 3-X Particle Disruptor 🔫</color>
 48~<color=#ff0000>🔫 COM-45 🔫\n<size=75%>Abomination</size></color>
-49~<color=#ff0000>🔊 SCP-1576 🔊</color>~Talk with those that are no longer with us.
-50~<color=#ff0000>🍭 Jailbird 🍭</color>~Swing 「LMB」: 50 DMG\nCharge 「RMB」: 200 DMG
-51~<color=#004B93>🍼 SCP-207? 🍼</color>~🐌 <size=90%>Decreases movement speed</size>\n❤️ Regenerates HP\n\n\n<size=75%><color=#004B93>BEPIS</color>\nDO NOT MIX WITH:\n<color=#95D600>MONSTREX ENERGY</color>\n<color=#F40009>CONTA-COLA</color></size>
+49~<color=#ff0000>🔊 SCP-1576 🔊</color>~👻 Talk with the dead.\n🕒 communication time - 30s.
+50~<color=#ff0000>🍭 Jailbird 🍭</color>~Swing 「LMB」: 50 DMG\nCharge 「RMB」: 200 DMG\n\n⛨ Penetrates <color=#6661cd>Hume Shield</color>.
+51~<color=#004B93>🍼 SCP-207? 🍼</color>~🐌 <size=90%>Decreases movement speed</size>\n❤️ Regenerates HP\n\n\n<size=75%><color=#004B93>BEPIS</color>\nDO NOT MIX WITH:\n<color=#95D600>SCP-1853</color>\n<color=#F40009>CONTA-COLA</color></size>
 52~<color=#003DCA>🔫 MTF-Mu-13-MG 🔫\n<size=75%>Facility Recovery-Machine Gun</size></color>
 53~<color=#ff0000>🔫 A7 🔫\n<size=75%>Abomination</size></color>

@@ -19,4 +19,4 @@
 <color=#FFFFFF>⛨ Applies 30 AHP.</color>
 <color=#f47fff>🍬 Pink Candy 🍬</color>
 \n<size=75%><color=#f47fff>The strawberry scent is as gentle as it looks.</color></size>
-<color=#FFFFFF>Player instantly </color><color=#f47fff>████████</color>
+<color=#FFFFFF>💥 Instant ████████</color>

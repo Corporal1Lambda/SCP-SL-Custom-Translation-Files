@@ -3,7 +3,7 @@
 「Spectator」
 <color=#EC2222>「Larry」</color>
 <color=#0096FF>Mu-13 Specialist</color>
-<color=#EC2222>「Plague Doctor」</color> 
+<color=#EC2222>「Dr. Zomboss」</color> 
 <color=#FFFF7C>Mad Scientist</color>
 <color=#8080FF>「Virus」</color>
 <color=#008F1C>Chaos Recon</color>
