@@ -37,8 +37,8 @@
 41~<color=#006826>🔫 DBB 🔫\n<size=75%>Double Barrel Baguette </size></color>
 42~<color=#ff0000>🍬 SCP-330 🍬</color>~Trick or Treat:
 43~<color=#ff0000>💡 SCP-2176 👻</color>~💡 Blackout - 13s.\n🚪 Lockdown - 13s.\n⚡ Activates Tesla Gate.\n💻 Stuns <color=#8080FF>SCP-079</color> - 8s.\n\n<size=75%>If the room is blacked out or on lockdown SCP-2176 will do the opposite.</size>
-44~<color=#ff0000>⚱ SCP-244-A ⚱</color>~An ancient vase. Creates a large cloud of icy fog when placed.
-45~<color=#ff0000>⚱ SCP-244-B ⚱</color>~An ancient bongo. Creates a large cloud of icy fog when placed.
+44~<color=#ff0000>⚱ SCP-244-A ⚱</color>~<b>☁️</b> Creates a cloud of icy fog.\n❄️ Fog applies hypothermia.
+45~<color=#ff0000>⚱ SCP-244-B ⚱</color>~<b>☁️</b> Creates a cloud of icy fog.\n❄️ Fog applies hypothermia.
 46~<color=red>💉 SCP-1853 💉~<size=80%>🔫 Reduced ADS inaccuracy - 30%.\n🔫 Reduced weapon recoil - 25%.\n🔫 Reduced reload time - 25%.\n💳 Picking up items increased - 60%.\n\n</size><size=75%><color=#95D600>SCP-1853</color>\nDO NOT MIX WITH:\n<color=#F40009>CONTA-COLA</color>\n<color=#004B93>BEPIS</color></size>
 47~<color=#003DCA>🔫 3-X Particle Disruptor 🔫</color>
 48~<color=#ff0000>🔫 COM-45 🔫\n<size=75%>Abomination</size></color>

@@ -4,11 +4,11 @@ Preset 📝#[index]
 <color=red>CLEAR ATTACHMENTS ❌</color>
 Default
 📝 PRESETS 📝
-<size=250><color=red>\n-🔒-</color></size>
+<size=250><color=red>\n-🎃-</color></size>
 <color=#0096FF>SITE-02</color> FIREARM CUSTOMIZATION POINT\n<size=75%>PLEASE TOUCH THE SCREEN TO BOOT UP THE WORKSTATION</size>
 WELCOME, USER!
 WORKSTATION IS BOOTING UP...
-<size=250><color=#00b300>\n-🔓-</color></size>
+<size=250><color=#00b300>\n-🎃-</color></size>
 <color=#0096FF>SITE-02</color> FIREARM CUSTOMIZATION POINT\n<size=75%>PLEASE EQUIP YOUR FIREARM TO PROCEED</size>
 POWERING DOWN...
 WORKSTATION IS SHUTTING DOWN...
