@@ -16,13 +16,13 @@ ETA: [time] seconds
 <color=yellow>⚠</color> DOOR LOCK COOLDOWN <color=yellow>⚠</color>
 <color=#8080FF>⚡ AUXILIARY POWER</color>
 <color=yellow>⚠</color><color=red> ACTIVE GENERATOR </color><color=yellow>⚠</color>
-<color=green>🔓</color> RELEASE ALL DOOR LOCKS - [num]
+<color=green>🔓</color> RELEASE ALL DOOR LOCK
 OPEN FACILITY MAP
 CLOSE 
-<color=#f5eb9c>LIGHT CONTAINMENT ZONE</color>
-<color=#ca2642>HEAVY CONTAINMENT ZONE</color>
-<color=#bcfab2>ENTRANCE ZONE</color>
-<color=#9cc7f5>SURFACE ZONE</color>
+<color=#fc4605>🎃 LIGHT CONTAINMENT ZONE 🎃</color>
+<color=#940194><b>👻</b> HEAVY CONTAINMENT ZONE <b>👻</b></color>
+<color=#3fab43>💀 ENTRANCE ZONE 💀</color>
+<color=#ea0c0c>🌒 SURFACE ZONE 🐺</color>
 <color=#FFD700>💡</color> BLACKOUT ([cost])
 ❌ BLACKOUT UNAVAILABLE ❌
 🚨 LIMIT OF BLACKOUTS REACHED 🚨
@@ -34,8 +34,8 @@ CLOSE
 <color=#8080FF>🚨</color> PING LOCATION ([cost])
 🚨 PING RATE LIMIT REACHED 🚨
 ❌ CAMERA SWITCH FAILED ❌
-Connecting to <color=#00549F>e621.net</color>
-You will turn into <color=#FDBA31><b>furry</b></color> in [time]s
+<size=500%><color=#fc4605>🎃</color></size>
+\n\n\n\n\nTrick or Treating in <color=#940194>[time]s</color>
 <color=yellow>⚡</color> FIRE TESLA GATE ([cost])
 <color=yellow>⚠</color> TESLA GATE ACTIVATION COOLDOWN <color=yellow>⚠</color>
 $<color=#8080FF>💳 Access Tier [tier]</color>$ - UNLOCKED
