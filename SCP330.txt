@@ -1,21 +1,21 @@
-🍬Candies🍬
+🍬Candies🎃
 <color=purple>🍬 R</color><color=yellow>a</color><color=red>i</color><color=#f47fff>n</color><color=blue>b</color><color=green>o</color><color=purple>w</color> <color=yellow>C</color><color=red>a</color><color=blue>n</color><color=green>d</color><color=#f47fff>y 🍬</color>
 \n\n\n<size=75%><color=#f47fff>Its a hard piece of rock candy, packed with all sorts of flavours.</color></size>
-\n\n\n\n<size=150%><color=#FFFFFF>✚ Instantly restores 15 HP.\n<color=#767676>🏃</color> Infinite <color=#767676>sprint</color> - 5 seconds.\n⛨ 5% damage reduction.\n⛨ Reduces severity of negative effect - 10s.\n<color=#55da09>⛨</color> Applies <color=#55da09>20 AHP</color> for 10s.</color></size>
+\n\n\n\n<size=150%><color=#FFFFFF><color=red>✚</color> Instantly restores 15 HP.\n<color=yellow>🏃</color> Infinite sprint - 5 seconds.\n<color=purple>⛨</color> 5% damage reduction.\n<color=green>⛨</color> Reduces severity of negative effect - 10s.\n<color=blue>⛨</color> Applies <color=#55da09>20 AHP</color> for 10s.</color></size>
 <color=yellow>🍬 Yellow Candy 🍬</color>
 \n<size=75%><color=yellow>The overwhelming smell of lemon makes you cringe a little.</color></size>
-\n\n<size=150%><color=#FFFFFF><color=#767676>🏃</color> Restores 25% of <color=#767676>Stamina</color>.\n<color=#767676>🏃</color> Infinite <color=#767676>sprint</color> - 8 s.\n<color=#767676>🏃</color> 10% Movement Boost - 8 seconds.</color></size>
+\n\n<size=150%><color=#FFFFFF><color=yellow>🏃</color> Restores 25% of Stamina.\n<color=yellow>🏃</color> Infinite sprint - 8 s.\n<color=yellow>🏃</color> 10% Movement Boost - 8 seconds.</color></size>
 <color=purple>🍬 Purple Candy 🍬</color>
 \n<size=75%><color=purple>It has a juicy grape smell. Your mouth begins to water.</color></size>
-\n\n\n\n<size=150%><color=#FFFFFF>⛨ 20% damage reduction - 15s.\n✚ Regenerates 15HP.</color></size>
+\n\n\n\n<size=150%><color=purple>⛨ <color=#FFFFFF>20% damage reduction - 15s.\n<color=purple>✚</color> Regenerates 15HP.</color></size>
 <color=red>🍬 Red Candy 🍬</color>
 \n<size=75%><color=red>A strong scent of cherry fills the room. It’s a bit... <i>too</i> strong.</color></size>
-<color=#FFFFFF>✚ Regenerates 45HP.</color>
+<color=#FFFFFF><color=red>✚</color> Regenerates 45HP.</color>
 <color=green>🍬 Green Candy 🍬</color>
 \n<size=75%><color=green>A nasty, herbal smell emits from the candy.</color></size>
-\n\n<size=150%><color=#FFFFFF>⛨ Immunity to negative status effects - 30s.\n✚ Slowly regenerates 120HP.</color></size>
+\n\n<size=150%><color=green>⛨ <color=#FFFFFF>Immunity to negative status effects - 30s.\n<color=green>✚</color> Slowly regenerates 120HP.</color></size>
 <color=blue>🍬 Blue Candy 🍬</color>
-\n<size=75%><color=#0e86d4>It smells soft and sweet, something akin to a marshmallow.</color></size>
+\n<size=75%><color=#6fcae8>It smells soft and sweet, something akin to a marshmallow.</color></size>
 <color=#55da09>⛨</color> <color=#FFFFFF>Applies</color> <color=#55da09>30 AHP.</color>
 <color=#f47fff>🍬 Pink Candy 🍬</color>
 \n<size=75%><color=#f47fff>The strawberry scent is as gentle as it looks.</color></size>
