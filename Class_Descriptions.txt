@@ -19,3 +19,6 @@ Kill everyone inside <color=#0096ff>Site-02</color>.\n――――――――�
 Take over <color=#0096ff>Site-02</color>.\nEvacuate all <color=#FF8E00>Class-D Personnel</color>.\n――――――――――――\nKidnap <color=#FFFF7CFF>Scientists</color>.\nTerminate all <color=#5B6370>Foundation Forces</color>.
 Take over <color=#0096ff>Site-02</color>.\nEvacuate all <color=#FF8E00>Class-D Personnel</color>.\n――――――――――――\nKidnap <color=#FFFF7CFF>Scientists</color>.\nTerminate all <color=#5B6370>Foundation Forces</color>.
 Take over <color=#0096ff>Site-02</color>.\nEvacuate all <color=#FF8E00>Class-D Personnel</color>.\n――――――――――――\nKidnap <color=#FFFF7CFF>Scientists</color>.\nTerminate all <color=#5B6370>Foundation Forces</color>.
+-
+-
+Kill everyone inside <color=#0096ff>Site-02</color>.\n――――――――――――\nCooperate with other <color=#F00>SCP subjects</color>.

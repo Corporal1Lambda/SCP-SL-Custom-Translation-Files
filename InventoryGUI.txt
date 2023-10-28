@@ -6,8 +6,8 @@ ADS Accuracy
 Weight
 Length
 DROP:
-Helmet Efficiency
-Vest Efficiency
+Helmet Efficacy
+Vest Efficacy
 Stamina Usage
 Movement Speed
 Item Limits:
@@ -15,3 +15,4 @@ Ammo Limits:
 {0} total
 Armor Penetration
 Running Accuracy
+Press [key] to cackle

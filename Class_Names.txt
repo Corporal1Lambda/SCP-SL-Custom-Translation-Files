@@ -19,3 +19,6 @@
 <color=#008F1C>Chaos Trooper</color>
 <color=#006826>Chaos Executor</color>
 <color=#0D7D35>Chaos Charger</color>
+Overwatch
+Filmmaker
+<color=#EC2222>「Skinwalker」</color>

@@ -1,22 +1,40 @@
 🍬Candies🎃
 <color=purple>🍬 R</color><color=yellow>a</color><color=red>i</color><color=#f47fff>n</color><color=blue>b</color><color=green>o</color><color=purple>w</color> <color=yellow>C</color><color=red>a</color><color=blue>n</color><color=green>d</color><color=#f47fff>y 🍬</color>
-\n\n\n<size=75%><color=#f47fff>Its a hard piece of rock candy, packed with all sorts of flavours.</color></size>
-\n\n\n\n<size=150%><color=#FFFFFF><color=red>✚</color> Instantly restores 15 HP.\n<color=yellow>🏃</color> Infinite sprint - 5 seconds.\n<color=purple>⛨</color> 5% damage reduction.\n<color=green>⛨</color> Reduces severity of negative effect - 10s.\n<color=blue>⛨</color> Applies <color=#55da09>20 AHP</color> for 10s.</color></size>
+Its a hard piece of rock candy, packed with all sorts of flavours. Trick or treat?
+Expels a prismatic cloud which grants buffs to nearby players. Allows all within range to cheat death.
 <color=yellow>🍬 Yellow Candy 🍬</color>
-\n<size=75%><color=yellow>The overwhelming smell of lemon makes you cringe a little.</color></size>
-\n\n<size=150%><color=#FFFFFF><color=yellow>🏃</color> Restores 25% of Stamina.\n<color=yellow>🏃</color> Infinite sprint - 8 s.\n<color=yellow>🏃</color> 10% Movement Boost - 8 seconds.</color></size>
+The overwhelming smell of lemon makes you cringe a little. Trick or treat?
+Can't stop, won't stop.
 <color=purple>🍬 Purple Candy 🍬</color>
-\n<size=75%><color=purple>It has a juicy grape smell. Your mouth begins to water.</color></size>
-\n\n\n\n<size=150%><color=purple>⛨ <color=#FFFFFF>20% damage reduction - 15s.\n<color=purple>✚</color> Regenerates 15HP.</color></size>
+It has a juicy grape smell. Your mouth begins to water.
+Slows your metabolism — but greatly increases your appetite.
 <color=red>🍬 Red Candy 🍬</color>
-\n<size=75%><color=red>A strong scent of cherry fills the room. It’s a bit... <i>too</i> strong.</color></size>
-<color=#FFFFFF><color=red>✚</color> Regenerates 45HP.</color>
+A strong scent of cherry fills the room. It’s a bit... <i>too</i> strong. Trick or treat?
+Causes a scorching hot wave of fire to spew from your mouth, damaging anyone in your vicinity.
 <color=green>🍬 Green Candy 🍬</color>
-\n<size=75%><color=green>A nasty, herbal smell emits from the candy.</color></size>
-\n\n<size=150%><color=green>⛨ <color=#FFFFFF>Immunity to negative status effects - 30s.\n<color=green>✚</color> Slowly regenerates 120HP.</color></size>
+A nasty, herbal smell emits from the candy. Trick or treat?
+A laced piece of candy with powerful regenerative properties. Grants a massive health bonus.
 <color=blue>🍬 Blue Candy 🍬</color>
-\n<size=75%><color=#6fcae8>It smells soft and sweet, something akin to a marshmallow.</color></size>
-<color=#55da09>⛨</color> <color=#FFFFFF>Applies</color> <color=#55da09>30 AHP.</color>
+It smells soft and sweet, something akin to a marshmallow. Trick or treat?
+Rapidly converts body tissue into marshmallow. Part Man, Part Marshmallow. All Carnage.
 <color=#f47fff>🍬 Pink Candy 🍬</color>
 \n<size=75%><color=#f47fff>The strawberry scent is as gentle as it looks.</color></size>
 <color=#FFFFFF>💥 Instant ████████</color>
+<color=orange>🍬 Orange Candy 🍬</color>
+The citrus-scented candy shines with an enticing luster. Trick or treat?
+Causes you to radiate a brilliant shade of orange. Enemies struggle to avert their eyes from you.  
+<color=#FFFFFF>🍬 White Candy 🍬</color>
+A distinctly sugary smell emanates from within the wrapper. There doesn’t seem to be any candy inside… Trick or treat?
+Temporarily transforms you into a ghost — turning you translucent and allowing you to pass through doors.
+<color=#808080>🍬 Gray Candy 🍬</color>
+The faint smell of lead emanates from this surprisingly heavy candy. Trick or treat?
+Turns you into an extremely heavy and damage resistant piece of lead. Watch out below!
+<color=#43464b>🍬 Black Candy 🍬</color>
+The overwhelming scent of nothingness makes you gag. You remember tasting it infinite times, but you can't recall the flavor. Trick or treat?
+Inflicts a random effect. Feeling Lucky?
+<color=#523a28>🍬 Brown Candy 🍬</color>
+The familiar scent of coffee entices you. Trick or treat?
+An extremely effective laxative. 
+<color=red>💀 Evil Candy 💀</color>
+The piece of candy pulses with an evil energy. Trick or treat?
+Turns you evil (really rare).
