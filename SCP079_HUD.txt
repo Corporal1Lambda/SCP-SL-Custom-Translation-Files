@@ -1,10 +1,10 @@
 🔍ZOOM [amount]x
 <color=#8080FF>💳 ACCESS TIER [tier]</color>
 📖 EXP [current] / [next]
-<color=#8080FF>💳 MAX TIER 🔓</color>
+<color=#8080FF>-----</color>
 ❌ NO CAMERA ❌
 <color=#8080FF>📡</color> GO TO: [camera] ([cost])
-❌ NOT ENOUGH AUXILIARY POWER ❌
+❌ NOT ENOUGH POWER ❌
 ETA: [time] seconds
 ⛔ ACCESS DENIED - HIGHER TIER REQUIRED ⛔
 ❌ INVALID CAMERA ❌
