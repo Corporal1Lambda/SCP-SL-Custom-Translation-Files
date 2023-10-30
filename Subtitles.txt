@@ -9,7 +9,7 @@ terminated by: <color=#EC2222>Alpha Warhead</color>.
 contained by: <color=#FFFF7C>Science Personnel</color>.
 contained by: <color=#FF8E00>Class-D Personnel</color>.
 contained by: <color=#008F1C>Chaos Insurgency</color>.
-<b>「<color=#58a4ef>👻</color>」</b> - <color=#EC2222>Specter: [scp]</color>
+<b>「<color=#58a4ef>👻</color>」</b> - <color=#EC2222>Specter-[scp]</color>
 contained <b>|</b> Containment unit unknown.
 contained <b>|</b> Containment Unit: <color=#0096FF>[designation]</color>.
 lost in decontamination sequence.
