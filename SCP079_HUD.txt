@@ -12,12 +12,12 @@ ETA: [time] seconds
 <color=green>○</color> OPEN DOOR ([cost])
 <color=#07A2FF>●</color> CLOSE DOOR ([cost])
 <color=red>🔒</color> LOCK DOOR ([cost])
-<color=green>🔓</color> UNLOCK DOOR 
+<color=green>🔓</color> UNLOCK DOOR
 <color=yellow>⚠</color> DOOR LOCK COOLDOWN <color=yellow>⚠</color>
 <color=#8080FF>⚡ AUXILIARY POWER</color>
 <color=yellow>⚠</color><color=red> ACTIVE GENERATOR </color><color=yellow>⚠</color>
-<color=green>🔓</color> RELEASE ALL DOOR LOCK
-OPEN FACILITY MAP
+<color=green>🔓</color> RELEASE DOOR LOCK
+FACILITY MAP
 CLOSE 
 <color=#fc4605>🎃 LIGHT CONTAINMENT ZONE 🎃</color>
 <color=#940194><b>👻</b> HEAVY CONTAINMENT ZONE <b>👻</b></color>
@@ -50,8 +50,8 @@ $<color=red>🔒</color> <color=#8080FF>LOCKDOWN</color>$ now available - press 
 <color=#8080FF>+[amount] EXP</color> - Pursuit assist - 🚪
 <color=#8080FF>+[amount] EXP</color> - Protection of teammate(s) - ☂️
 <color=#8080FF>+[amount] EXP</color> - Prevented use of <color=#003DCA>Micro H.I.D.</color> - <color=#003DCA>⚡</color>
-<color=red>🔒 Door Lock is active 🔒</color>
-<color=#ff9e00>☀ ZONE-WIDE BLACKOUT</color> - disable zone lights for 60s - ([cost])
+<color=red>🔒 DOOR LOCK ACTIVE 🔒</color>
+<color=#ff9e00>☀ ZONE-WIDE BLACKOUT</color> - ([cost])
 $<color=#ff9e00>☀</color> <color=#8080FF>ZONE-WIDE BLACKOUT</color>$ now available - next to zone labels on the $<color=#8080FF>Facility Map</color>$.
 <color=yellow>⚠</color> ZONE-WIDE BLACKOUT COOLDOWN <color=yellow>⚠</color>
 🚨 BLACKOUT ALREADY ACTIVE 🚨
@@ -79,12 +79,12 @@ RETURN TO MAP
 <color=#ffa500>🎥 BREACH SCANNER</color> - [cnt] zone(s)
 SELECTED ZONES: [cnt]
 <color=red>SELECT ZONES TO SCAN</color>
-<color=red>Scan failed</color> - No stationary targets detected
+<color=red>SCAN FAILED</color> - No stationary targets detected
 Retrying in [time] seconds...
-<color=green>Scan successful</color> - $<b>[role]</b>$ detected - <color=red><b>[camera_name]</b></color> - <b>[zone]</b>
+<color=green>SCAN SUCCESSFUL</color> - $<b>[role]</b>$ detected - <color=red><b>[camera_name]</b></color> - <b>[zone]</b>
 <color=#8080FF>SCAN IN: [time]s</color>
 <color=#8080FF>Scanning...</color>
 <color=red><b>SYSTEM OFFLINE</b></color>
 <color=#8080FF>SELECT TEAMS TO DETECT</color>
 Breach Scanner detects remaining targets that stay within the same area for an extended period of time.
-<color=yellow>⚠</color><color=red>Select at least one filter to continue!</color><color=yellow>⚠</color>
+<color=yellow>⚠</color><color=red> Select at least one filter to continue! </color><color=yellow>⚠</color>
