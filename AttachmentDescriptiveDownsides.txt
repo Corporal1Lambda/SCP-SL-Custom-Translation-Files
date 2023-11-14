@@ -1,1 +1,1 @@
-Laser is visible to others
+<color=red>Laser is visible to others</color>

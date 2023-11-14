@@ -1,17 +1,17 @@
-<b>Trick-or-treating has ended!</b>
-<color=#EC2222>「SPECTERS WIN」</color>
-<size=85%><color=#0096FF>「GHOSTBUSTERS WIN」</color></size>
-<size=85%><color=#FF8E00>「PUMPKINS WIN」</color></size>
+<b>The round has ended!</b>
+<color=#EC2222>「SCPS WIN」</color>
+<size=85%><color=#0096FF>「FOUNDATION WINS」</color></size>
+<size=85%><color=#008F1C>「INSURGENCY WINS」</color></size>
 「STALEMATE」
-<color=#EC2222>The escaped specters have overrun the facility. Emergency response has been scrambled.</color>
-<color=#0096FF>All threats to spookiness have been neutralized. Site-02 is secure once again.</color>
-<color=#008F1C>Ghostbusters presence has been exterminated. Operatives standing by for further orders.</color>
+<color=#EC2222>The escaped subjects have overrun the facility. Emergency response has been scrambled.</color>
+<color=#0096FF>All threats to safety have been neutralized. Site-02 is secure once again.</color>
+<color=#008F1C>Foundation presence has been exterminated. Operatives standing by for further orders.</color>
 Site-02 is under certain control, but not without cost. The victor is undetermined.
-<color=#FF8E00>🎃 [summary_d_escaped] Lab Rats survived</color>
-<color=#FFFF7C>👓 [summary_s_escaped] Mad Scientist(s) survived</color>
+<color=#FF8E00>🏃 [summary_d_escaped] Class-D survived</color>
+<color=#FFFF7C>👓 [summary_s_escaped] Scientist(s) survived</color>
 <color=#EC2222>Alpha Warhead - DETONATED. Confirmed Terminations: [summary_warhead_kills].</color>
 <color=#EC2222>Alpha Warhead</color> - No detonation occured. Systems - Operational.
-The trick-or-treating took [summary_round_minutes] minutes and [summary_round_seconds] seconds.
-<color=#EC2222><b>👻</b> [summary_scp_terminated] recontained Specters</color>
+The breach took [summary_round_minutes] minutes and [summary_round_seconds] seconds.
+<color=#EC2222>🌀 [summary_scp_terminated] recontained SCP Subjects</color>
 Next round in [summary_next_round_countdown] seconds.
-<color=#EC2222>The Specters killed [summary_scpfrags] trick-or-treaters.</color>
+<color=#EC2222>The SCPs killed [summary_scpfrags] beings.</color>

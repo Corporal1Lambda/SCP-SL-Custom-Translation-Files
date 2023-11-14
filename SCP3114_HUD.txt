@@ -1,11 +1,11 @@
 You are now disguised as a <b>[role_name]</b>.
 Unable to attack while disguised. Hold <b>[key]</b> to remove your current disguise.
-Items held as SCP-3114 cannot be used.
-Press [key] to communicate with humans while disguised.
+Items held as <color=red>SCP-3114</color> cannot be used.
+Press <b>[key]</b> to communicate with humans while disguised.
 This corpse has already been used for a disguise.
 You are already disguised. Hold <b>[key]</b> to remove your current disguise.
 Only human corpses can be used as a disguise.
-This unrecognisable pile of bones are likely the remains of <b>[player_name]</b>.
+💀 This pile of bones are remains of <color=#ff80bc><b>[user]</b>'s</color> 💀
 You can use this corpse to disguise as a <b>[role]</b>.
 <b>Disguise</b>
 Strangulation Cooldown

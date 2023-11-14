@@ -1,4 +1,4 @@
-Light Source
-Ammo Counter
-Flash Suppression
-Night Vision
+<color=#00b300>Light Source</color>
+<color=#00b300>Ammo Counter</color>
+<color=#00b300>Flash Suppression</color>
+<color=#00b300>Night Vision</color>

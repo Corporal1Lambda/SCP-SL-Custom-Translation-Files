@@ -1,10 +1,10 @@
 🔍ZOOM [amount]x
 <color=#8080FF>💳 ACCESS TIER [tier]</color>
 📖 EXP [current] / [next]
-<color=#8080FF>-----</color>
+<color=#8080FF>💳 MAX TIER 🔓</color>
 ❌ NO CAMERA ❌
 <color=#8080FF>📡</color> GO TO: [camera] ([cost])
-❌ NOT ENOUGH POWER ❌
+❌ NOT ENOUGH AUXILIARY POWER ❌
 ETA: [time] seconds
 ⛔ ACCESS DENIED - HIGHER TIER REQUIRED ⛔
 ❌ INVALID CAMERA ❌
@@ -12,17 +12,17 @@ ETA: [time] seconds
 <color=green>○</color> OPEN DOOR ([cost])
 <color=#07A2FF>●</color> CLOSE DOOR ([cost])
 <color=red>🔒</color> LOCK DOOR ([cost])
-<color=green>🔓</color> UNLOCK DOOR
+<color=green>🔓</color> UNLOCK DOOR 
 <color=yellow>⚠</color> DOOR LOCK COOLDOWN <color=yellow>⚠</color>
 <color=#8080FF>⚡ AUXILIARY POWER</color>
 <color=yellow>⚠</color><color=red> ACTIVE GENERATOR </color><color=yellow>⚠</color>
-<color=green>🔓</color> RELEASE DOOR LOCK
-FACILITY MAP
+<color=green>🔓</color> RELEASE ALL DOOR LOCKS - [num]
+OPEN FACILITY MAP
 CLOSE 
-<color=#fc4605>🎃 LIGHT CONTAINMENT ZONE 🎃</color>
-<color=#940194><b>👻</b> HEAVY CONTAINMENT ZONE <b>👻</b></color>
-<color=#3fab43>💀 ENTRANCE ZONE 💀</color>
-<color=#ea0c0c>🌒 SURFACE ZONE 🐺</color>
+<color=#f5eb9c>LIGHT CONTAINMENT ZONE</color>
+<color=#ca2642>HEAVY CONTAINMENT ZONE</color>
+<color=#bcfab2>ENTRANCE ZONE</color>
+<color=#9cc7f5>SURFACE ZONE</color>
 <color=#FFD700>💡</color> BLACKOUT ([cost])
 ❌ BLACKOUT UNAVAILABLE ❌
 🚨 LIMIT OF BLACKOUTS REACHED 🚨
@@ -34,31 +34,31 @@ CLOSE
 <color=#8080FF>🚨</color> PING LOCATION ([cost])
 🚨 PING RATE LIMIT REACHED 🚨
 ❌ CAMERA SWITCH FAILED ❌
-<size=500%><color=#fc4605>🎃</color></size>
-\n\n\n\n\nTrick or Treating in <color=#940194>[time]s</color>
+Connecting to <color=#00549F>e621.net</color>
+You will turn into <color=#FDBA31><b>furry</b></color> in [time]s
 <color=yellow>⚡</color> FIRE TESLA GATE ([cost])
 <color=yellow>⚠</color> TESLA GATE ACTIVATION COOLDOWN <color=yellow>⚠</color>
 $<color=#8080FF>💳 Access Tier [tier]</color>$ - UNLOCKED
-$<color=#8080FF>⚡ AUXILIARY POWER</color>$ limit increased to $<color=#8080FF>[limit]</color>$.
-$<color=#FFD700>💡</color> <color=#8080FF>BLACKOUT</color>$ now available - press $<color=#8080FF>[key]</color>$ to disable room lights for <color=#8080FF>15s</color>.
+$<color=#8080FF>⚡ AUXILIARY POWER</color>$ limit increased to $[limit]$.
+$<color=#FFD700>💡</color> <color=#8080FF>BLACKOUT</color>$ now available - press $[key]$ to disable room lights for <color=#8080FF>15s</color>.
 $<color=#FFD700>💡</color> <color=#8080FF>BLACKOUT</color>$ capacity increased to $<color=#8080FF>[number]</color>$ rooms.
 $<color=red>🔒</color> <color=#8080FF>LOCKDOWN</color>$ now available - press $<color=#8080FF>[key]</color>$ to temporarily lock down all doors in a room for <color=#8080FF>10s</color>.
 <color=#8080FF>+[amount] EXP</color> - <color=#ff00b0>Admin Command</color>
-<color=#8080FF>+[amount] EXP</color> - [role] termination assist - 🎃
-<color=#8080FF>+[amount] EXP</color> - [role] <color=red>DIRECT TERMINATION - 🎃</color>
-<color=#8080FF>+[amount] EXP</color> - Witnessed termination of [role] - 👻
+<color=#8080FF>+[amount] EXP</color> - [role] termination assist - 💀
+<color=#8080FF>+[amount] EXP</color> - [role] <color=red>DIRECT TERMINATION - 💀</color>
+<color=#8080FF>+[amount] EXP</color> - Witnessed termination of [role] - 📷
 <color=#8080FF>+[amount] EXP</color> - Pursuit assist - 🚪
 <color=#8080FF>+[amount] EXP</color> - Protection of teammate(s) - ☂️
 <color=#8080FF>+[amount] EXP</color> - Prevented use of <color=#003DCA>Micro H.I.D.</color> - <color=#003DCA>⚡</color>
-<color=red>🔒 DOOR LOCK ACTIVE 🔒</color>
-<color=#ff9e00>☀ ZONE-WIDE BLACKOUT</color> - ([cost])
+<color=red>🔒 Door Lock is active 🔒</color>
+<color=#ff9e00>☀ ZONE-WIDE BLACKOUT</color> - disable zone lights for 60s - ([cost])
 $<color=#ff9e00>☀</color> <color=#8080FF>ZONE-WIDE BLACKOUT</color>$ now available - next to zone labels on the $<color=#8080FF>Facility Map</color>$.
 <color=yellow>⚠</color> ZONE-WIDE BLACKOUT COOLDOWN <color=yellow>⚠</color>
 🚨 BLACKOUT ALREADY ACTIVE 🚨
 ❌ BLACKOUT UNAVAILABLE FOR THIS ZONE ❌
 🔬 TOTAL LIFEFORMS
-🎃 TARGETS
-<color=#EC2222>👻 SPECTERS</color>
+💀 TARGETS
+<color=#EC2222>🌀 SCP SUBJECTS</color>
 <color=#f5eb9c>📋 CIVILIAN</color>
 <color=#9cc7f5>🔫 MILITARY</color>
 <color=#8080FF>🔊</color> USE SPEAKER
@@ -68,7 +68,7 @@ Virtually Indestructible:There are three generators in Heavy Containment Zone. I
 Unlimited Access:You can manipulate numerous systems in the facility to assist the other SCPs. The top right of your screen shows what abilities are available. These abilities cost auxiliary power (AP) to use, which regenerates over time. 
 Deep Learning:Assisting in terminations, or performing helpful actions for the other SCPs will grant you experience towards a new access tier. Each new tier provides more AP, and grants you new abilities.
 Awake. Never Sleep. :Being everywhere and nowhere grants you a unique perspective. You can ping locations, people, and objects of interest, allowing you to assist in the slaughter. You are also able to access facility surveillance map.
-$<color=#ffa500>🎥</color><color=#8080FF>BREACH SCANNER</color>$ now available — select team(s)/zone(s) in $<color=#8080FF>Facility Map</color>$ to periodically scan for remaining survivors.
+$<color=#ffa500>🎥</color>BREACH SCANNER$ now available — select team(s)/zone(s) in $Facility Map$ to periodically scan for remaining survivors.
 <color=red>⚠ POWER REGEN SUSPENDED ⚠</color>
 <color=red>⚠ POWER REGEN REDUCED ([precentage]) ⚠</color>
 🚨 DOOR LOCK ACTIVE 🚨
@@ -79,12 +79,12 @@ RETURN TO MAP
 <color=#ffa500>🎥 BREACH SCANNER</color> - [cnt] zone(s)
 SELECTED ZONES: [cnt]
 <color=red>SELECT ZONES TO SCAN</color>
-<color=red>SCAN FAILED</color> - No stationary targets detected
+<color=red>Scan failed</color> - No stationary targets detected
 Retrying in [time] seconds...
-<color=green>SCAN SUCCESSFUL</color> - $<b>[role]</b>$ detected - <color=red><b>[camera_name]</b></color> - <b>[zone]</b>
+<color=green>Scan successful</color> - $<b>[role]</b>$ detected - <color=red><b>[camera_name]</b></color> - <b>[zone]</b>
 <color=#8080FF>SCAN IN: [time]s</color>
 <color=#8080FF>Scanning...</color>
 <color=red><b>SYSTEM OFFLINE</b></color>
 <color=#8080FF>SELECT TEAMS TO DETECT</color>
 Breach Scanner detects remaining targets that stay within the same area for an extended period of time.
-<color=yellow>⚠</color><color=red> Select at least one filter to continue! </color><color=yellow>⚠</color>
+<color=yellow>⚠</color><color=red>Select at least one filter to continue!</color><color=yellow>⚠</color>

@@ -17,10 +17,10 @@ Pale skin and blood leaking from the mouth. \n Caused By: <color=#e52121>SCP-207
 <color=#e52121>SCP-207</color> has finished you.
 You shouldn't have taken more than two!\n Caused By: <color=#e52121>SCP-330</color>
 You've been caught by a Tesla Gate.
-Shrapnel and severe burns present.\n Caused by: <color=#5180f7>High Explosive Grenade</color>/<color=#ff80bc>Funny</color>
+Shrapnel and severe burns present.\n Caused by: <color=orange>Explosion</color>
 You've been killed by a nearby explosion.\n Caused by: <color=#5180f7>High Explosive Grenade</color>/<color=#ff80bc>Funny</color>
 Massive lacerations and excessive blood loss.\n Caused By: <color=#e52121>SCP-096</color>
-Sticky substance and sweet smell suggest Mr. Nutty's doing!\n Caused By: <color=#e52121>SCP-173</color>
+Cervical fracture at the base of the skull.\n Caused By: <color=#e52121>SCP-173</color>
 The bite of 87\n Caused By: <color=#e52121>SCP-939</color>
 Blunt trauma and minor scratches present.\n Caused By: <color=#e52121>SCP-049-2</color>
 [ammotype] bullet wounds.
