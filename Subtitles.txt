@@ -1,6 +1,6 @@
 <b>「<color=#58a4ef>🔊</color>」</b> - <color=#0096FF>MTF Unit Epsilon-11</color> <b>|</b> <color=#0096FF>Designation: [designation]</color> <b>|</b> 
-<color=#EC2222>[count] SCPs</color>.
-<color=#EC2222>1 SCP</color>.
+<color=#EC2222>[count] SCP Subjects</color>.
+<color=#EC2222>1 SCP Subject</color>.
 <color=#EC2222>exercise caution</color>.
 terminated <b>|</b> Termination cause unspecified.
 terminated by: <color=#EC2222>SCP-[scp]</color>.
