@@ -1,10 +1,10 @@
-<b>「<color=#58a4ef>🔊</color>」</b> - <color=#0096FF>MTF Unit Epsilon-11</color> <b>|</b> <color=#0096FF>Designation: [designation]</color> <b>|</b> 
+<b>「<color=#58a4ef>🔊</color>」</b> - <color=#0096FF>MTF Unit Epsilon-11</color> <b>|</b> <color=#003DCA>Designation: [designation]</color> <b>|</b> 
 <color=#EC2222>[count] SCP Subjects</color>.
 <color=#EC2222>1 SCP Subject</color>.
 <color=#EC2222>exercise caution</color>.
 terminated <b>|</b> Termination cause unspecified.
 terminated by: <color=#EC2222>SCP-[scp]</color>.
-terminated by: <color=#f5650a>Automatic Spooky System</color>.
+terminated by: <color=#f5650a>Automatic Security System</color>.
 terminated by: <color=#EC2222>Alpha Warhead</color>.
 contained by: <color=#FFFF7C>Science Personnel</color>.
 contained by: <color=#FF8E00>Class-D Personnel</color>.
@@ -17,10 +17,10 @@ lost in decontamination sequence.
 <split>All generators have been successfully engaged.
 <b>「<color=#58a4ef>🔊</color>」</b> - <color=#58a4ef>Overcharge in 3... 2... 1...</color>
 <b>「<color=#58a4ef>🔊</color>」</b> - <color=#58a4ef>Facility is back in operational mode.</color>
-「<color=#f6b140>🔊</color>」 - <color=#EC2222>Light Containment Zone</color> decontamination in <color=#EC2222>15 minutes</color>.
-「<color=#f6b140>🔊</color>」 - <color=#EC2222>Light Containment Zone</color> decontamination in <color=#EC2222>[time] minutes</color>.
-「<color=#f6b140>🔊</color>」 - <color=#EC2222>Light Containment Zone</color> decontamination in <color=#EC2222>1 minute</color>.
-<color=#f6b140>「🔊」</color><color=#EC2222>- Light Containment Zone</color> decontamination in <color=#EC2222>30 seconds</color>.
+「<color=#f6b140>⚠️</color>」 - <color=#EC2222>Light Containment Zone</color> decontamination in <color=#EC2222>15 minutes</color>.
+「<color=#f6b140>⚠️</color>」 - <color=#EC2222>Light Containment Zone</color> decontamination in <color=#EC2222>[time] minutes</color>.
+「<color=#f6b140>⚠️</color>」 - <color=#EC2222>Light Containment Zone</color> decontamination in <color=#EC2222>1 minute</color>.
+<color=#f6b140>「⚠️」</color><color=#EC2222>- Light Containment Zone</color> decontamination in <color=#EC2222>30 seconds</color>.
 <b>「<color=#f6b140>🔊</color>」</b> - <color=#EC2222>Light Containment Zone</color> is locked down and ready for decontamination.
 <color=#ff4545>「⚠️」</color><color=#EC2222> - ALPHA WARHEAD SEQUENCE ENGAGED <b>|</b> DETONATION IN [time] SECONDS</color>
 <b><color=#ff4545>「❌」</color><color=#EC2222> - DETONATION CANCELLED <b>|</b> RESTARTING SYSTEMS...</color>
