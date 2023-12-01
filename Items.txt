@@ -12,7 +12,7 @@
 11~<color=#FFFFFF>💳 O5-level Keycard 💳</color>
 12~<color=#5B6370>📻 Radio 📻</color>~Allows long range communication.\n\nSR - 108m\nMR - 180m\nLR - 1080m\nUR - 7200m
 13~<color=#FFFF7C>🔫 COM-15 🔫</color>
-14~<color=#FFFF7C>⚕ First Aid Kit ⚕</color>~<color=red>✚</color> Heals 65 HP.
+14~<color=#FFFF7C>⚕ First Aid Present 🎁</color>~<color=red>✚</color> Heals 65 HP.
 15~<color=#FF8E00>🔦 Flashlight 🔦</color>~Let there be light!
 16~<color=#003DCA>⚡ Micro H.I.D. ⚡</color>~<size=75%>Heavy electrical weapon designed for the termination of anomalies.</size>\n\n「DPS」: 1150 DMG\n<color=#767676>🏃</color> <size=90%>Stamina consumption - 50%.</size>
 17~<color=#ff0000>💊 SCP-500 💊</color>~<color=red>✚</color> Fully heals player\n<color=red>❤️</color> Regenerates 200 HP
@@ -25,7 +25,7 @@
 26~<color=#5B6370>💣 Flashbang 💣\nModel FG02</color>~<color=#5B6370>💥</color> Blinds enemy players up to 5s.\n🕒 2.8s fuse time.
 30~<color=#5B6370>🔫 CSP-18 🔫\n<size=75%>Compact Security Pistol</size></color>
 31~<color=red>⚽ SCP-018 ⚽</color>~<size=85%><color=#ffeb00>👥</color> Friendly Fire Toleration - 10s.\n💨 Speed doubles with each bounce.\n⚽ 10x DMG to <color=red>SCPs</color>.\n<color=orange>💥</color> Explodes after 80s.</size>
-32~<color=#ff0000>🎩 SCP-207 🎩</color>~◌ Invisibility - 15s.
+32~<color=#ff0000>🎩 Santa's Hat 🎩</color>~◌ Invisibility - 15s.
 33~<color=#FFFF7C>💉 Adrenaline 💉</color>~<color=#55da09>⛨</color> Gives player <color=#55da09>40 AHP</color>.\n<color=#767676>🏃</color> Refills Stamina bar.\n<color=#767676>🏃</color> Infinite sprint - 8s.
 34~<color=#FFFF7C>💊 Painkillers 💊</color>~<color=red>❤️</color> Regenerates 50 HP.
 35~💿 Coin 💿
