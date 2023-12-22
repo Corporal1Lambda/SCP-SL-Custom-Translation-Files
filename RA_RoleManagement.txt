@@ -22,3 +22,4 @@ Custom Role
 <color=#0D7D35>Charger</color>
 「Overwatch」
 <color=#A020F0>「Filmmaker」</color>
+<color=#EC2222>「SCP-3114」</color>
