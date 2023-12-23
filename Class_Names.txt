@@ -22,3 +22,6 @@
 Overwatch
 Filmmaker
 <color=#EC2222>「SCP-3144」</color>
+<color=#FF59CA>「SCP-1507」</color>
+<color=#FF59CA>「SCP-1507-ALPHA」</color>
+<color=#EC2222>「SCP-1507-049」</color>

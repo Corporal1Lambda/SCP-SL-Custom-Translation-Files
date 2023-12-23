@@ -1,0 +1,5 @@
+Universally Hostile:Humans have nowhere to run. SCP-1507 instances can detect their targets through the environment.
+The Swarm:SCP-1507 instances will regenerate their health for as long as they remain in a flock.
+Peck:Sink your plastic beak into a target, inflicting deep wounds. You can forcefully open locked doors by pecking them.
+Vocalize:Let out a squawk, concussing nearby targets. The ability can be used to revive recently-deceased flamingos.
+Vocalize [key]
