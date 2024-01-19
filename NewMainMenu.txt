@@ -63,7 +63,7 @@ No
 Are you sure you want to quit?
 Screen Resolution
 Hide IP
-Merry Christmas, {username}!
+Welcome, {username}!
 Credits
 AUTHENTICATING
 Connecting to central servers...
