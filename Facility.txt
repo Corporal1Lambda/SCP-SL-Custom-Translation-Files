@@ -22,16 +22,16 @@ DOOR HAS BEEN LOCK-DOWN BY SCP-079
 Fullscreen mode
 Are you sure you want to leave the server?
 Basic options. Full list of settings in the menu.
-\n「WAITING FOR PLAYERS」
+\n「<color=#F7D007>W</color><color=#F7C514>A</color><color=#F7BA21>I</color><color=#F7AF2E>T</color><color=#F7A43B>I</color><color=#F79948>N</color><color=#F78E55>G</color> <color=#F7786F>F</color><color=#F76D7C>O</color><color=#F76289>R</color> <color=#F74CA3>P</color><color=#F741B0>L</color><color=#F736BD>A</color><color=#F72BCA>Y</color><color=#F720D7>E</color><color=#F715E4>R</color><color=#F70AF1>S</color>」
 SUMMARY
 CONTINUE
 MAIN VOLUME
 <b>CONNECTED</b>
--
--
+You have escaped as a <color=#FFFF7C>Scientist</color>.
+You have escaped as a <color=#FF8E00>Class-D</color>.
 YOU ARE
 Escape time: [escape_minutes]:[escape_seconds]
-Wait [time] until you can use [item] again.
+[time]\nCooldown: [item]
 Press <color=#ff80bc><b>F1</b></color> for more information.
 <size=40><color=#EC2222>Follow orders or ask teammates for help.</color></size>
 -

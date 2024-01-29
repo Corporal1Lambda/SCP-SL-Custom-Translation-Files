@@ -15,4 +15,3 @@ Ammo Limits:
 {0} total
 Armor Penetration
 Running Accuracy
-Press [key] to cackle

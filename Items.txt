@@ -21,7 +21,7 @@
 21~<color=#70C3FF>🔫 Crossvec 🔫\n<size=75%>C.R.O.S.S.</size></color>
 23~<color=#5B6370>🔫 FSP-9 🔫\n<size=75%>Foundation Security Pistol</size></color>
 24~<color=#0D7D35>🔫 LGC5 🔫\n<size=75%>Logicer</size></color>
-25~<color=#0096FF>💥 HE Grenade 💥</color>~<color=orange>💥</color> 900 DMG to <color=red>SCPs</color>.\n<color=#6d67da>⛨</color> 2x DMG to <color=#6d67da>Hume Shield</color>.\n<color=orange>🔥</color> Burns damaged players.\n🕒 3.5s fuse time.
+25~<color=#0096FF>💥 HE Grenade 💥</color>~<color=orange>💥</color> 900 DMG to <color=red>SCPs</color>.\n<color=#8079FF>⛨</color> 2x DMG to <color=#8079FF>Hume Shield</color>.\n<color=orange>🔥</color> Burns damaged players.\n🕒 3.5s fuse time.
 26~<color=#5B6370>💣 Flashbang 💣\nModel FG02</color>~<color=#5B6370>💥</color> Blinds enemy players up to 5s.\n🕒 2.8s fuse time.
 30~<color=#5B6370>🔫 CSP-18 🔫\n<size=75%>Compact Security Pistol</size></color>
 31~<color=red>⚽ SCP-018 ⚽</color>~<size=85%><color=#ffeb00>👥</color> Friendly Fire Toleration - 10s.\n💨 Speed doubles with each bounce.\n⚽ 10x DMG to <color=red>SCPs</color>.\n<color=orange>💥</color> Explodes after 80s.</size>
@@ -35,7 +35,7 @@
 39~<color=#006826>🔫 .357 🔫\n<size=75%>A GUN!</size></color>
 40~<color=#008F1C>🔫 KEK-72B 🔫</color>
 41~<color=#006826>🔫 DBB 🔫\n<size=75%>Double Barrel Baguette </size></color>
-42~<color=#ff0000>🍬 SCP-330 🍬</color>
+42~<color=#ff0000>🍬 SCP-330 🍬</color>~"Take only two"
 43~<color=#ff0000>💡 SCP-2176 👻</color>~<color=#f5f17c>💡</color> Blackout - 13s.\n<color=#b97cf5>🚪</color> Lockdown - 13s.\n<color=#7DF9FF>⚡</color> Activates Tesla Gate.\n<color=#8080FF>💻</color> Stuns <color=#8080FF>SCP-079</color> - 8s.\n\n<size=75%>If the room is blacked out or on lockdown SCP-2176 will do the opposite.</size>
 44~<color=#ff0000>⚱ SCP-244-A ⚱</color>~<b>☁️</b> Creates a cloud of icy fog.\n❄️ Fog applies hypothermia.
 45~<color=#ff0000>⚱ SCP-244-B ⚱</color>~<b>☁️</b> Creates a cloud of icy fog.\n❄️ Fog applies hypothermia.
@@ -43,12 +43,8 @@
 47~<color=#003DCA>🔫 3-X Particle Disruptor 🔫</color>
 48~<color=#ff0000>🔫 COM-45 🔫\n<size=75%>Abomination</size></color>
 49~<color=#ff0000>🔊 SCP-1576 🔊</color>~👻 Talk with the dead.\n🕒 communication time - 30s.
-50~<color=#ff0000>🍭 Jailbird 🍭</color>~<size=75%>It's a… Stun Baton!?</size>\n\nSwing 「LMB」: 50 DMG\nCharge 「RMB」: 200 DMG\n<color=#6d67da>⛨</color> Penetrates <color=#6d67da>Hume Shield</color>.
+50~<color=#ff0000>🍭 Jailbird 🍭</color>~<size=75%>It's a… Stun Baton!?</size>\n\nSwing 「LMB」: 50 DMG\nCharge 「RMB」: 200 DMG\n<color=#8079FF>⛨</color> Penetrates <color=#8079FF>Hume Shield</color>.
 51~<color=#004B93>🍼 SCP-207? 🍼</color>~<color=#767676>🐌</color> <size=90%>Decreases movement speed</size>\n<color=red>❤️</color> Regenerates HP\n\n\n<size=75%><color=#004B93>BEPIS</color>\nDO NOT MIX WITH:\n<color=#95D600>SCP-1853</color>\n<color=#F40009>CONTA-COLA</color></size>
 52~<color=#003DCA>🔫 MTF-Ԑ-11-MG 🔫\n<size=75%>Facility Recovery-Machine Gun</size></color>
 53~<color=#ff0000>🔫 A7 🔫\n<size=75%>Abomination</size></color>
 54~<color=#FF8E00>🏮 Lantern 🏮</color>~A classic oil lantern, inscribed with the name "Daniel".
-55~❄️ Snowball ❄️
-56~Coal 
-57~Coal?
-58~Tape Player?~Begin audio prompt in 3..2..1..
