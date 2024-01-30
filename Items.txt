@@ -35,7 +35,7 @@
 39~<color=#006826>🔫 .357 🔫\n<size=75%>A GUN!</size></color>
 40~<color=#008F1C>🔫 KEK-72B 🔫</color>
 41~<color=#006826>🔫 DBB 🔫\n<size=75%>Double Barrel Baguette </size></color>
-42~<color=#ff0000>🍬 SCP-330 🍬</color>~"Take only two"
+42~<color=#ff0000>🍬 SCP-330 🍬</color>~<size=25%>"Take only two"</color>
 43~<color=#ff0000>💡 SCP-2176 👻</color>~<color=#f5f17c>💡</color> Blackout - 13s.\n<color=#b97cf5>🚪</color> Lockdown - 13s.\n<color=#7DF9FF>⚡</color> Activates Tesla Gate.\n<color=#8080FF>💻</color> Stuns <color=#8080FF>SCP-079</color> - 8s.\n\n<size=75%>If the room is blacked out or on lockdown SCP-2176 will do the opposite.</size>
 44~<color=#ff0000>⚱ SCP-244-A ⚱</color>~<b>☁️</b> Creates a cloud of icy fog.\n❄️ Fog applies hypothermia.
 45~<color=#ff0000>⚱ SCP-244-B ⚱</color>~<b>☁️</b> Creates a cloud of icy fog.\n❄️ Fog applies hypothermia.
