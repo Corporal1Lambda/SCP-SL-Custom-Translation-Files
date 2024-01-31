@@ -11,3 +11,6 @@ Sprint - Activation Mode
 Pickup Items - Activation Mode
 Sneak - Activation Mode
 Mouse Look - Activation Mode
+Right-Click to Drop (Inventory)
+Inventory - Activation Mode
+Zone Switch Keybinds

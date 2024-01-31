@@ -19,3 +19,4 @@ Pellet spread
 Pattern consistency
 Projectiles number
 Reload speed
+Running accuracy
