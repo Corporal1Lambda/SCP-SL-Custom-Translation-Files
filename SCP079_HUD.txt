@@ -46,9 +46,9 @@ $<color=red>🔒</color> <color=#8080FF>LOCKDOWN</color>$ now available - press 
 <color=#8080FF>+[amount] EXP</color> - <color=#ff00b0>Admin Command</color>
 <color=#8080FF>+[amount] EXP</color> - [role] termination assist - 💀
 <color=#8080FF>+[amount] EXP</color> - [role] <color=red>DIRECT TERMINATION - 💀</color>
-<color=#8080FF>+[amount] EXP</color> - Witnessed termination of [role] - 📷
+<color=#8080FF>+[amount] EXP</color> - Witnessed termination of [role] - \uf06e
 <color=#8080FF>+[amount] EXP</color> - Pursuit assist - 🚪
-<color=#8080FF>+[amount] EXP</color> - Protection of teammate(s) - ☂️
+<color=#8080FF>+[amount] EXP</color> - Protection of teammate(s) - \uf3ed
 <color=#8080FF>+[amount] EXP</color> - Prevented use of <color=#003DCA>Micro H.I.D.</color> - <color=#003DCA>⚡</color>
 <color=red>🔒 DOOR LOCK ACTIVE 🔒</color>
 <color=#ff9e00>☀ ZONE-WIDE BLACKOUT</color> - disable zone lights for 60s - ([cost])

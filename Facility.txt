@@ -27,8 +27,8 @@ SUMMARY
 CONTINUE
 MAIN VOLUME
 <b>CONNECTED</b>
-You have escaped.
-You have escaped.
+-
+-
 YOU ARE
 Escape time: [escape_minutes]:[escape_seconds]
 Cooldown: [time]\n[item]
