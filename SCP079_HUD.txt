@@ -60,7 +60,7 @@ $<color=#ff9e00>☀</color> <color=#8080FF>ZONE-WIDE BLACKOUT</color>$ now avail
 💀 TARGETS
 <color=#EC2222>🌀 SCP SUBJECTS</color>
 <color=#f5eb9c>📋 CIVILIAN</color>
-<color=#9cc7f5>🔫 MILITARY</color>
+<color=#9cc7f5>\uf3ed MILITARY</color>
 <color=#8080FF>🔊</color> USE SPEAKER
 ⛔ ELEVATOR ACCESS DENIED ⛔
 SCP-079 has no direct combat or movement capabilities. Instead, you view and interact with the world through security cameras found in every room. All available abilities are listed in the top-right corner of your HUD.

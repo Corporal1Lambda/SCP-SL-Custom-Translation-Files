@@ -18,7 +18,6 @@ The Light Containment Zone will lock down after 15 minutes; killing anyone left 
 Maximize your advantage by adjusting your weapon attachments based on the situation you find yourself in.
 The more attachments a weapon has on it, the heavier it gets. This affects stamina usage and movement speed.
 Not only do suppressors muffle gunshots, they also hide muzzle flashes.
-It's been so long, since I last have seen my son lost to this monster... To the man behind the slaughter...
 Longer and heavier weapons are less accurate if fired while running.
 Wearing body armor increases the number of items and ammo you can carry.
 Armor-piercing rounds (AP) perform best against armored targets.
@@ -26,7 +25,6 @@ Hollow-point rounds (JHP) do higher damage to unarmored targets but are weaker a
 Press and hold the reload key to unload a weapon, adding its ammunition to your inventory.
 Chaos Insurgency weapons are powerful but their ammunition does not spawn in the Facility. Make it count.
 Grenades can be used to destroy doors.
-SCP-3114 is currently only accessible via Remote Admin or on modded servers.
 Grenades can be thrown with less force using the right mouse button.
 The Micro H.I.D. can kill most SCPs very quickly but has a limited power supply. Use it wisely!
 The Micro H.I.D. requires about five seconds of charging before it can fire.
@@ -35,7 +33,6 @@ The Micro H.I.D. is very loud while charging. Make sure to use it while your tar
 Charging the Micro H.I.D. produces an intimidating sound which is enough to ruin your enemies' plans.
 A bottle of SCP-207 not only increases your movement speed, but will partially restore your health as well.
 Up to four SCP-207 bottles can be consumed, allowing for a significant multiplier to your speed.
-Oh my God is that Freddy Fazbear? har har har har...
 SCP-500 not only heals you but removes most negative effects, and provides regeneration afterwards.
 While SCP-268 makes you invisible to all humans, SCP-079 can still notice you.
 SCP-268 won’t save you from SCP-096 if you’ve looked at him.
@@ -53,7 +50,7 @@ SCP-914 can create a number of unique items that can’t be found anywhere else.
 SCP-079 starts off relatively weak but gets more powerful as a match goes on.
 SCP-079 can lock doors, turn off lights, and overcharge Tesla gates.
 A Tesla gate being looked at by SCP-079 will always appear active.
-SCP-079 is recontained using generators found in the Heavy Containment Zone, and a final button in its chamber.
+SCP-079 is recontained using generators found in the Heavy Containment Zone, and a final button in its containment chamber.
 SCP-079 can change its cameras’ zoom using the mouse wheel.
 The longer SCP-079 has a door locked, the more power it will take to keep locked.
 SCP-079 unlocks a breach scanner at level 4. If it detects a human hiding in a room, an alarm will sound.
@@ -70,7 +67,6 @@ SCP-096 is most vulnerable when it has just begun to calm down.
 SCP-096 can charge forward while enraged — breaking doors and killing targets.
 SCP-096 will destroy doors and pry open closed gates when enraged.
 SCP-939 can mimic the voices of players it has previously killed.
-Spooky, scary skeletons, send shivers down your spine, shrieking skulls will shock your soul, seal your doom tonight..
 SCP-939 can release a cloud of amnestic gas. Humans under its effects cannot perceive SCP-939 until it attacks.
 Using adrenaline negates the effects of SCP-939’s amnestic cloud.
 Flashbangs are especially effective against SCP-939.
@@ -84,5 +80,4 @@ SCP-049 can only reanimate corpses if they’re fresh.
 SCP-049 can give a small shield to SCP-049-2 instances who are nearby.
 SCP-049-2 is vulnerable to headshots.
 SCP-049-2s make good scouts and are dangerous in large numbers.
-Most playable SCPs’ have a secondary health bar called ‘Hume Shield’, which absorbs damage and regenerates over time.
-To kill the SCPs’ you actually have to shoot them.
+Most playable SCP instances have a secondary health bar called ‘Hume Shield’, which absorbs damage and regenerates over time.
