@@ -2,6 +2,6 @@
 <color=red>⚠<b>-PLEASE EXIT THE AREA-</b>⚠</color>
 <color=red>⚠<b>-PLEASE EVACUATE-</b>⚠</color>
 <size=84%><b>SPOOKY ANALYSIS IN PROGRESS</b></size>
-<size=85%><b>PREPARING SPOOKY SYSTEMS</b></size>
+<size=85%><b>PREPARING SECURITY SYSTEMS</b></size>
 <size=84%><b>SYSTEMS READY TO COMMENCE</b></size>
 <color=red><size=90%>⚠<b>-INITIALIZING PROCEDURE P-B-3-</b>⚠</size></color>
