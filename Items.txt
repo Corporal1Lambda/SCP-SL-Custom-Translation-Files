@@ -16,7 +16,7 @@
 15~<color=#FF8E00>🔦 Flashlight 🔦</color>~Let there be light!
 16~<color=#003DCA>⚡ Micro H.I.D. ⚡</color>~<size=75%>Heavy electrical weapon designed for the termination of anomalies.</size>\n\n「DPS」: 1150 DMG\n<color=#767676>🏃</color> <size=90%>Stamina consumption - 50%.</size>
 17~<color=#ff0000>💊 SCP-500 💊</color>~<color=red>✚</color> Fully heals player\n<color=red>❤️</color> Regenerates 200 HP\n<color=#ffb4ff>♻️</color> Removes certain effects
-18~<color=#ff0000>🍼 SCP-207 🍼</color>~<color=#767676>🏃</color> <size=90%>Increases movement speed</size>\n<color=#767676>🏃</color> Infinite sprint\n<color=red>💔</color> Drains HP\n\n<size=75%><color=#F40009>CONTA-COLA</color>\nDO NOT MIX WITH:\n<color=#95D600>SCP-1853</color>\n<color=#004B93>BEPIS</color></size>
+18~<color=#ff0000>🍼 SCP-207-C 🍼</color>~<color=#767676>🏃</color> <size=90%>Increases movement speed</size>\n<color=#767676>🏃</color> Infinite sprint\n<color=red>💔</color> Drains HP\n\n<size=75%><color=#F40009>CONTA-COLA</color>\nDO NOT MIX WITH:\n<color=#95D600>SCP-1853</color>\n<color=#004B93>BEPIS</color></size>
 20~<color=#0096FF>🔫 MTF-Ԑ-11-SR 🔫\n<size=75%>Facility Recovery-Standard Rifle</size></color>
 21~<color=#70C3FF>🔫 Crossvec 🔫\n<size=75%>C.R.O.S.S.</size></color>
 23~<color=#5B6370>🔫 FSP-9 🔫\n<size=75%>Foundation Security Pistol</size></color>
