@@ -2,11 +2,11 @@
 <color=#FF8E00>Class-D Personnel</color>
 「Spectator」
 <color=#EC2222>「SCP-106」</color>
-<color=#0096FF>Epsilon-11 Specialist</color>
+<color=#00D9FF>Epsilon-11 Specialist</color>
 <color=#EC2222>「SCP-049」</color> 
 <color=#FFFF7C>Scientist</color>
 <color=#8080FF>「SCP-079」</color>
-<color=#008F1C>Chaos Recon</color>
+<color=#559100>Chaos Recon</color>
 <color=#EC2222>「SCP-096」</color> 
 <color=#8d1414>「SCP-049-2」</color>
 <color=#0096FF>Epsilon-11 Sergeant</color>
