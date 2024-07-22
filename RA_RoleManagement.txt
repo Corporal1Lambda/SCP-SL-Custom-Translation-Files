@@ -7,7 +7,7 @@ None
 <color=#EC2222>「SCP-049」</color>
 <color=#FFFF7C>Scientist</color>
 <color=#8080FF>「SCP-079」</color>
-<color=#559100>>Recon</color>
+<color=#559100>Recon</color>
 <color=#EC2222>「SCP-096」</color>
 <color=#CA1111>「SCP-049-2」</color>
 <color=#0096FF>MTF Sergeant</color>
