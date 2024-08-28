@@ -1,6 +1,6 @@
 <color=#e8b923>「⭐」</color> - You can disarm a player by interacting with them while holding a firearm.
 <color=#e8b923>「⭐」</color> - There are four main zones in the Facility: Light Containment, Heavy Containment, Entrance, and Surface.
-<color=#e8b923>「⭐」</color> - Scientists and <color=#FF8E00>Class-D</color> must reach the surface to escape.
+<color=#e8b923>「⭐」</color> - <color=#FFFF7C>Scientists</color> and <color=#FF8E00>Class-D</color> must reach the surface to escape.
 <color=#e8b923>「⭐」</color> - <color=#556278>Facility Guards</color> are weak alone but have strength in numbers. Stick together!
 <color=#e8b923>「⭐」</color> - Your stamina is a precious resource, reserve some for emergencies!
 <color=#e8b923>「⭐」</color> - The Entrance Zone has two gates that provide access to the surface. You'll need a keycard to open them.
