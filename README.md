@@ -7,3 +7,5 @@ Steam\steamapps\common\SCP Secret Laboratory\Translations.
 
 
 To find the folder go to Steam Library, right click on SCP:SL, go to Manage section and choose Browse local files, and then go to the folder called Translations
+
+Then open up your SL and change your in-game language to: English (Custom)
