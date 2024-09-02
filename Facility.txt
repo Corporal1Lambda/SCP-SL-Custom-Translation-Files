@@ -26,7 +26,7 @@ Basic options. Full list of settings in the menu.
 SUMMARY
 CONTINUE
 MAIN VOLUME
-<b>CONNECTED</b>
+\n<size=150%><color=#F70AF1>👥</color></size>\n<b>PLAYERS</b></color>
 -
 -
 YOU ARE
