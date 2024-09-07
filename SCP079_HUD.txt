@@ -35,7 +35,7 @@ CLOSE
 <size=150%>🚨 LIMIT REACHED 🚨</size>\nPING RATE
 <size=150%>❌ ERROR ❌</size>\nCAMERA SWITCH FAILED
 <size=75%><color=red>❌ CONNECTION LOST... 🔌</color></size>
-RECONNECTING TO SITE-02 SYSTEMS - ETA: [time]s
+RECONNECTING TO SITE-02 SYSTEMS\nETA: [time]s
 <color=yellow>⚡</color> FIRE TESLA GATE (<color=#8080FF>[cost]</color>)
 <color=yellow>⚠</color> TESLA GATE ACTIVATION COOLDOWN <color=yellow>⚠</color>
 ablt_log - $<color=#8080FF>💳 Access Tier [tier]</color>$ - UNLOCKED
