@@ -38,18 +38,18 @@ CLOSE
 RECONNECTING TO SITE-02 SYSTEMS\nETA: [time]s
 <color=yellow>⚡</color> FIRE TESLA GATE (<color=#8080FF>[cost]</color>)
 <color=yellow>⚠</color> TESLA GATE ACTIVATION COOLDOWN <color=yellow>⚠</color>
-ablt_log - $<color=#8080FF>💳 Access Tier [tier]</color>$ - UNLOCKED
+$<color=#8080FF>💳 Access Tier [tier]</color>$ - UNLOCKED
 $<color=#8080FF>⚡ AUXILIARY POWER</color>$ limit increased to $<color=#8080FF>[limit]</color>$.
 $<color=#FFD700>💡</color> <color=#8080FF>BLACKOUT</color>$ now available - press $<color=#8080FF>[key]</color>$ to disable room lights for <color=#8080FF>15s</color>.
 $<color=#FFD700>💡</color> <color=#8080FF>BLACKOUT</color>$ capacity increased to $<color=#8080FF>[number]</color>$ rooms.
 $<color=red>🔒</color> <color=#8080FF>LOCKDOWN</color>$ now available - press $<color=#8080FF>[key]</color>$ to temporarily lock down all doors in a room for <color=#8080FF>10s</color>.
-exp_log <color=#8080FF>+[amount]</color> - <color=#ff00b0>Admin Command</color>
-exp_log <color=#8080FF>+[amount]</color> - [role] - Termination Assist - 💀
-exp_log <color=#8080FF>+[amount]</color> - [role] <color=red>- Direct Termination - 💀</color>
-exp_log <color=#8080FF>+[amount]</color> - [role] - Witnessed Termination - \uf06e
-exp_log <color=#8080FF>+[amount]</color> - Pursuit Assist- 🚪
-exp_log <color=#8080FF>+[amount]</color> - Team Protection - \uf3ed
-exp_log <color=#8080FF>+[amount]</color> - Prevented use - <color=#003DCA>Micro H.I.D.</color> - <color=#003DCA>⚡</color>
+<color=#8080FF>+[amount]</color> - <color=#ff00b0>Admin Command</color>
+<color=#8080FF>+[amount]</color> - [role] - Termination Assist - 💀
+<color=#8080FF>+[amount]</color> - [role] <color=red>- Direct Termination - 💀</color>
+<color=#8080FF>+[amount]</color> - [role] - Witnessed Termination - \uf06e
+<color=#8080FF>+[amount]</color> - Pursuit Assist- 🚪
+<color=#8080FF>+[amount]</color> - Team Protection - \uf3ed
+<color=#8080FF>+[amount]</color> - Prevented use - <color=#003DCA>Micro H.I.D.</color> - <color=#003DCA>⚡</color>
 <color=red>🔒 DOOR LOCK ACTIVE 🔒</color>
 <color=#ff9e00>☀ ZONE-WIDE BLACKOUT</color> - disable zone lights for 60s - ([cost])
 $<color=#ff9e00>☀</color> <color=#8080FF>ZONE-WIDE BLACKOUT</color>$ now available - next to zone labels on the $<color=#8080FF>Facility Map</color>$.
@@ -60,7 +60,7 @@ $<color=#ff9e00>☀</color> <color=#8080FF>ZONE-WIDE BLACKOUT</color>$ now avail
 💀 HOSTILES
 <color=#EC2222>🌀 SCP SUBJECTS</color>
 <color=#f5eb9c>📋 CIVILIAN(S)</color>
-<color=#9cc7f5>\uf3ed MILITARY PERSONNEL</color>
+<color=#9cc7f5>\uf3ed MILITARY</color>
 <color=#8080FF>🔊</color> USE SPEAKER
 <size=150%>⛔ ERROR ⛔</size>\nELEVATOR ACCESS DENIED
 SCP-079 has no direct combat or movement capabilities. Instead, you view and interact with the world through security cameras found in every room. All available abilities are listed in the top-right corner of your HUD.

@@ -1,4 +1,4 @@
-Ammo {0}/{1} {2}
+<size=125%><color=#FFFFFF>{0}</color></size>/{1} - {2}
 Damage
 Fire Rate
 Hip Accuracy

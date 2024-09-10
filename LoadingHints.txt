@@ -1,3 +1,4 @@
+<size=125%><color=#e8b923>「⭐」</color> - 😽!</color>
 <color=#e8b923>「⭐」</color> - You can disarm a player by interacting with them while holding a firearm.
 <color=#e8b923>「⭐」</color> - There are four main zones in the Facility: Light Containment, Heavy Containment, Entrance, and Surface.
 <color=#e8b923>「⭐」</color> - <color=#FFFF7C>Scientists</color> and <color=#FF8E00>Class-D</color> must reach the surface to escape.
@@ -82,4 +83,4 @@
 <color=#e8b923>「⭐」</color> - <color=#EC2222>SCP-049-2</color>s make good scouts and are dangerous in large numbers.
 <color=#e8b923>「⭐」</color> - Most playable SCP instances have a secondary health bar called ‘Hume Shield’, which absorbs damage and regenerates over time.
 <color=#e8b923>「⭐」</color> - Anti-Cola provides regeneration at the cost of your speed, it can also save your life in certain situations!
-<color=#e8b923>「⭐」</color> - 🐺!
+<size=125%><color=#e8b923>「⭐」</color> - 😻!</color>

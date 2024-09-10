@@ -1,6 +1,6 @@
-<color=#EC2222>🌀 Specters</color>
-<color=#5B6370>\uf3ed Security Guards</color> & <color=#0096FF>\uf3ed MTF</color>
-<color=#008F1C>\uf406 Chaos Insurgency Agents </color>
+<color=#EC2222>🌀 SCP Subjects</color>
+<color=#5B6370>\uf3ed Security</color> & <color=#0096FF>\uf3ed MTF</color>
+<color=#008F1C>\uf406 Chaos Insurgency</color>
 <color=#FFFF7C>👓 Scientists</color>
 <color=#FF8E00>🏃 Class-D Personnel</color>
 💀 Dead
