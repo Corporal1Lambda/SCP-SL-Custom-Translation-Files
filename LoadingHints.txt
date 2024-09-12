@@ -36,7 +36,7 @@
 <color=#e8b923>「⭐」</color> - Up to three <color=#EC2222>SCP-207</color> bottles can be consumed, allowing for a significant multiplier to your speed.
 <color=#e8b923>「⭐」</color> - <color=#EC2222>SCP-500</color>  not only heals you but removes most negative effects, and provides regeneration afterwards.
 <color=#e8b923>「⭐」</color> - While <color=#EC2222>SCP-268</color>  makes you invisible to all humans, <color=#8080FF>SCP-079</color> can still notice you.
-<color=#e8b923>「⭐」</color> - <color=#EC2222>SCP-268</color> won’t save you from <color=#EC2222>SCP-096</color>  if you’ve looked at him.
+<color=#e8b923>「⭐」</color> - <color=#EC2222>SCP-268</color> won’t save you from <color=#EC2222>SCP-096</color> if you’ve looked at him.
 <color=#e8b923>「⭐」</color> - <color=#EC2222>SCP-018</color> is highly unpredictable. When it’s thrown, take cover.
 <color=#e8b923>「⭐」</color> - <color=#EC2222>SCP-018</color> can be used to block off pursuers when bouncing in a hallway.
 <color=#e8b923>「⭐」</color> - <color=#EC2222>SCP-330</color> can dispense six unique candies, each with their own effects. Take no more than two!
@@ -62,25 +62,25 @@
 <color=#e8b923>「⭐」</color> - <color=#EC2222>SCP-106</color> can walk through doors and glass windows.
 <color=#e8b923>「⭐」</color> - While in Stalk, <color=#EC2222>SCP-106</color> can only see humans in a short radius around him.
 <color=#e8b923>「⭐」</color> - <color=#EC2222>SCP-106</color> can open up a map of nearby rooms to teleport to, bound to ‘TAB’ by default.
-<color=#e8b923>「⭐」</color> - <color=#EC2222>SCP-106</color>’s abilities rely on a resource known as ‘Vigor’, which drains with each ability he uses.
+<color=#e8b923>「⭐」</color> - <color=#EC2222>SCP-106</color>’s abilities rely on a resource known as ‘<color=#00AFFD>Vigor</color>’, which drains with each ability he uses.
 <color=#e8b923>「⭐」</color> - <color=#EC2222>SCP-106</color> is most vulnerable immediately after emerging from the ground.
 <color=#e8b923>「⭐」</color> - <color=#EC2222>SCP-096</color> is most vulnerable when it has just begun to calm down.
 <color=#e8b923>「⭐」</color> - <color=#EC2222>SCP-096</color> can charge forward while enraged — breaking doors and killing targets.
 <color=#e8b923>「⭐」</color> - <color=#EC2222>SCP-096</color> will destroy doors and pry open closed gates when enraged.
 <color=#e8b923>「⭐」</color> - <color=#EC2222>SCP-939</color> can mimic the voices of players it has previously killed.
-<color=#e8b923>「⭐」</color> - <color=#EC2222>SCP-939</color> can release a cloud of amnestic gas. Humans under its effects cannot perceive <color=#EC2222>SCP-939</color>  until it attacks.
-<color=#e8b923>「⭐」</color> - Using adrenaline negates the effects of <color=#EC2222>SCP-939</color> ’s amnestic cloud.
+<color=#e8b923>「⭐」</color> - <color=#EC2222>SCP-939</color> can release a cloud of amnestic gas. Humans under its effects cannot perceive <color=#EC2222>SCP-939</color> until it attacks.
+<color=#e8b923>「⭐」</color> - Using adrenaline negates the effects of <color=#EC2222>SCP-939</color>’s amnestic cloud.
 <color=#e8b923>「⭐」</color> - Flashbangs are especially effective against <color=#EC2222>SCP-939</color> .
-<color=#e8b923>「⭐」</color> - The lower <color=#EC2222>SCP-939</color> ’s stamina is, the poorer its perception of players becomes.
+<color=#e8b923>「⭐」</color> - The lower <color=#EC2222>SCP-939</color>’s stamina is, the poorer its perception of players becomes.
 <color=#e8b923>「⭐」</color> - The longer <color=#EC2222>SCP-939</color>  is in Focus, the more effective Ultrasensitive becomes.
-<color=#e8b923>「⭐」</color> - SCPs’ footsteps are distinct from human ones. Listen carefully!
+<color=#e8b923>「⭐」</color> - <color=#EC2222>SCP</color> subjects have distinct footsteps from human ones. Listen carefully!
 <color=#e8b923>「⭐」</color> - Being attacked by <color=#EC2222>SCP-049</color> inflicts cardiac arrest on a human. Health and stamina drain rapidly during this time.
 <color=#e8b923>「⭐」</color> - <color=#EC2222>SCP-049</color> can instantly kill any human already under the effects of cardiac arrest.
 <color=#e8b923>「⭐」</color> - Cardiac arrest drains your health rapidly. You’ll need medical supplies if you want to survive it.
 <color=#e8b923>「⭐」</color> - <color=#EC2222>SCP-049</color> can only reanimate corpses if they’re fresh.
 <color=#e8b923>「⭐」</color> - <color=#EC2222>SCP-049</color> can give a small shield to <color=#EC2222>SCP-049-2</color> instances who are nearby.
-<color=#e8b923>「⭐」</color> - <color=#EC2222>SCP-049-2</color> are vulnerable to headshots.
-<color=#e8b923>「⭐」</color> - <color=#EC2222>SCP-049-2</color>s make good scouts and are dangerous in large numbers.
-<color=#e8b923>「⭐」</color> - Most playable SCP instances have a secondary health bar called ‘Hume Shield’, which absorbs damage and regenerates over time.
+<color=#e8b923>「⭐」</color> - <color=#EC2222>SCP-049-2</color> instances are vulnerable to headshots.
+<color=#e8b923>「⭐」</color> - <color=#EC2222>SCP-049-2</color> instances make good scouts and are dangerous in large numbers.
+<color=#e8b923>「⭐」</color> - Most playable <color=#EC2222>SCP</color> instances have a secondary health bar called ‘<color=#8079FF>Hume Shield</color>’, which absorbs damage and regenerates over time.
 <color=#e8b923>「⭐」</color> - Anti-Cola provides regeneration at the cost of your speed, it can also save your life in certain situations!
 <size=125%><color=#e8b923>「⭐」</color> - 😻!</color>

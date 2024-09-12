@@ -1,7 +1,7 @@
 "Take Only Two"
 <color=purple><b>🌈</b> R</color><color=#dca43c>a</color><color=#b40404>i</color><color=#f47fff>n</color><color=blue>b</color><color=#2a731f>o</color><color=purple>w</color> <color=#dca43c>C</color><color=#b40404>a</color><color=blue>n</color><color=#2a731f>d</color><color=#f47fff>y 🍬</color>
 \n\n\n<size=75%><color=#f47fff>Its a hard piece of rock candy, packed with all sorts of flavours.</color></size>
-\n\n\n\n<size=150%><color=#b40404>✚</color><color=#FFFFFF> Instantly restores 15 HP.\n<color=#dca43c>🏃</color><color=#FFFFFF> Infinite sprint - 5 seconds.\n<color=purple>⛨</color><color=#FFFFFF> 5% damage reduction.\n<color=#2a731f>⛨</color><color=#FFFFFF> reduces severity of negative effect - 10s.\n<color=blue>⛨</color><color=#FFFFFF> Applies 20 AHP for 10s.</color></size>
+\n\n\n\n<size=150%><color=#b40404>✚</color><color=#FFFFFF> Instantly restores 15 HP.\n<color=#dca43c>🏃</color><color=#FFFFFF> Infinite sprint - 5 seconds.\n<color=purple>⛨</color><color=#FFFFFF> 5% damage reduction.\n<color=#2a731f>⛨</color><color=#FFFFFF> reduces severity of negative effect - 10s.\n<color=#36a7d6>⛨</color><color=#FFFFFF> Applies 20 AHP for 10s.</color></size>
 <color=#dca43c>🍋 Yellow Candy 🍬</color>
 \n<size=75%><color=#dca43c>The overwhelming smell of lemon makes you cringe a little.</color></size>
 \n\n<size=150%><color=#dca43c>🏃</color><color=#FFFFFF> Restores 25% of Stamina.\n<color=#dca43c>🏃</color><color=#FFFFFF> Infinite sprint - 8 s.\n<color=#dca43c>🏃</color><color=#FFFFFF> 10% Movement Boost - 8 seconds.</color></size>

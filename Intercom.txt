@@ -1,8 +1,8 @@
-READY
-TRANSMITTING...\nTIME LEFT: {0}
-TRANSMITTING...\nBYPASS MODE
-RESTARTING\n{0}
-ADMIN IS USING\nTHE INTERCOM NOW
-YOU ARE MUTED BY ADMIN
-UNKNOWN
-...
+<size=200%>✔️</size>
+<size=200%>🔊</size>\n<size=75%><b>{0}s</b></size>
+<color=#ff00b0><size=200%>\uf3ed</size>\n<size=75%>OVERRIDE MODE</size></color>
+<color=#00FFFF><size=200%>🔃</size>\n<size=75%><b>{0}s</b></size></color>
+<color=#ff00b0><size=200%>\uf3ed</size>\n<size=75%>OVERRIDE MODE</size></color>
+<color=red><size=200%>🔇</size>\n<size=75%>MUTED BY ADMIN</size></color>
+<size=200%>❔</size>
+<size=200%>✔️</size>

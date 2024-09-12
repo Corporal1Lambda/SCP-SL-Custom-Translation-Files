@@ -1,5 +1,5 @@
-Video
-Audio
-Controls
-Interface
-Privacy
+Video 🎥
+Audio 🔉
+Controls 🎮
+Interface 💻
+Privacy \uf3ed

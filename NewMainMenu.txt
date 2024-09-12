@@ -1,7 +1,7 @@
 News
 Servers
 Settings
-Quit
+Quit 
 Social Media
 Internet
 Favourites
