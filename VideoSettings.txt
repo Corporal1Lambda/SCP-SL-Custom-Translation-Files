@@ -17,7 +17,7 @@ Anti-aliasing
 V-Sync
 Decals
 Texture Quality
-Brightness
+🔅 Brightness 🔆
 Screen Settings
 Quality & Performance
 Ragdoll Freezing

@@ -17,9 +17,9 @@ Allow game mechanics to use short recordings of your voice. This includes SCP-93
 Apply settings
 Return
 Press "[key]" and navigate to "Settings" to adjust.
-<b>👥</b> Mute alive players -
-<b>\uf06e</b> Mute other spectators -
-<b>🎮</b> Mute pre-game lobby -
+<size=135%><b>👥</b> Mute alive players -</size>
+<size=135%><b>\uf06e</b> Mute spectators -</size>
+<size=135%><b>🎮</b> Mute pre-game lobby -</size>
 Pre-game Lobby Chat
 Round Summary Global Chat
 Spectator Chat
