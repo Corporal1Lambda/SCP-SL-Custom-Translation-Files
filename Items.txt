@@ -33,7 +33,7 @@
 36~<color=#5B6370>\uf3ed P.C.V. - Light \uf3ed</color>
 37~<color=#0096FF>\uf3ed P.C.V. - Standard \uf3ed</color>
 38~<color=#0D7D35>\uf3ed P.C.V. - Heavy \uf3ed</color>
-39~<color=#006826>🔫 .357 🔫\n<size=75%>A GUN!</size></color>
+39~<color=#006826>🔫 .44 Magnum 🔫\n<size=75%>A GUN!</size></color>
 40~<color=#008F1C>🔫 KEK-72B 🔫</color>
 41~<color=#006826>🔫 DBB 🔫\n<size=75%>Double Barrel Baguette </size></color>
 42~<color=#ff0000>🍬 SCP-330 🍬</color>~<size=25%>"Take only two"</color>
