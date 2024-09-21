@@ -49,23 +49,23 @@
 <color=#EC2222>「💳」</color> - <color=#EC2222>SCP-244</color> slows down the speed at which items can be picked up, and stops SCPs from regenerating their shields.
 <color=#EC2222>「💳」</color> - <color=#EC2222>SCP-1576</color> allows living players to talk to spectators for a short time.
 <color=#EC2222>「💳」</color> - Anti-Cola (<color=#004B93>O-207-914 </color>) provides regeneration at the cost of your speed, it can also save your life in certain situations!
-<color=#0096FF>>「🔫」</color> - You can disarm a player by interacting with them while holding a firearm.
-<color=#0096FF>>「🔫」</color> - Maximize your advantage by adjusting your weapon attachments based on the situation you find yourself in.
-<color=#0096FF>>「🔫」</color> - The more attachments a weapon has on it, the heavier it gets. This affects stamina usage and movement speed.
-<color=#0096FF>>「🔫」</color> - Not only do suppressors muffle gunshots, they also hide muzzle flashes.
-<color=#0096FF>>「🔫」</color> - Longer and heavier weapons are less accurate if fired while running.
-<color=#0096FF>>「🔫」</color> - Armor-piercing rounds (AP) perform best against armored targets.
-<color=#0096FF>>「🔫」</color> - Hollow-point rounds (JHP) do higher damage to unarmored targets but are weaker against armor.
-<color=#0096FF>>「🔫」</color> - Press and hold the reload key to unload a weapon, adding its ammunition to your inventory.
-<color=#0096FF>>「🔫」</color> - <color=#008F1C>Chaos Insurgency</color> weapons are powerful but their ammunition does not spawn in the Facility. Make it count.
-<color=#0096FF>>「💥」</color> - Grenades can be used to destroy doors.
-<color=#0096FF>>「💥」</color> - Grenades can be thrown with less force using the right mouse button.
-<color=#0096FF>>「🔫」</color> - The <color=#003DCA>Micro H.I.D.</color> can kill most SCPs very quickly but has a limited power supply. Use it wisely!
-<color=#0096FF>>「🔫」</color> - The <color=#003DCA>Micro H.I.D.</color> requires about five seconds of charging before it can fire.
-<color=#0096FF>>「🔫」</color> - Holding right mouse button will keep the <color=#003DCA>Micro H.I.D.</color> at its ready-to-fire state; slowly draining energy.
-<color=#0096FF>>「🔫」</color> - The <color=#003DCA>Micro H.I.D.</color> is very loud while charging. Make sure to use it while your targets can’t run away.
-<color=#0096FF>>「🔫」</color> - Charging the <color=#003DCA>Micro H.I.D.</color> produces an intimidating sound which is enough to ruin your enemies' plans.
-<color=#0096FF>>「💥」</color> - Flashbangs are especially effective against <color=#EC2222>SCP-939</color>
+<color=#0096FF>「🔫」</color> - You can disarm a player by interacting with them while holding a firearm.
+<color=#0096FF>「🔫」</color> - Maximize your advantage by adjusting your weapon attachments based on the situation you find yourself in.
+<color=#0096FF>「🔫」</color> - The more attachments a weapon has on it, the heavier it gets. This affects stamina usage and movement speed.
+<color=#0096FF>「🔫」</color> - Not only do suppressors muffle gunshots, they also hide muzzle flashes.
+<color=#0096FF>「🔫」</color> - Longer and heavier weapons are less accurate if fired while running.
+<color=#0096FF>「🔫」</color> - Armor-piercing rounds (AP) perform best against armored targets.
+<color=#0096FF>「🔫」</color> - Hollow-point rounds (JHP) do higher damage to unarmored targets but are weaker against armor.
+<color=#0096FF>「🔫」</color> - Press and hold the reload key to unload a weapon, adding its ammunition to your inventory.
+<color=#0096FF>「🔫」</color> - <color=#008F1C>Chaos Insurgency</color> weapons are powerful but their ammunition does not spawn in the Facility. Make it count.
+<color=#0096FF>「💥」</color> - Grenades can be used to destroy doors.
+<color=#0096FF>「💥」</color> - Grenades can be thrown with less force using the right mouse button.
+<color=#0096FF>「🔫」</color> - The <color=#003DCA>Micro H.I.D.</color> can kill most SCPs very quickly but has a limited power supply. Use it wisely!
+<color=#0096FF>「🔫」</color> - The <color=#003DCA>Micro H.I.D.</color> requires about five seconds of charging before it can fire.
+<color=#0096FF>「🔫」</color> - Holding right mouse button will keep the <color=#003DCA>Micro H.I.D.</color> at its ready-to-fire state; slowly draining energy.
+<color=#0096FF>「🔫」</color> - The <color=#003DCA>Micro H.I.D.</color> is very loud while charging. Make sure to use it while your targets can’t run away.
+<color=#0096FF>「🔫」</color> - Charging the <color=#003DCA>Micro H.I.D.</color> produces an intimidating sound which is enough to ruin your enemies' plans.
+<color=#0096FF>「💥」</color> - Flashbangs are especially effective against <color=#EC2222>SCP-939</color>
 <color=#e8b923>「⭐」</color> - <color=#FFFF7C>Scientists</color> and <color=#FF8E00>Class-D</color> must reach the surface to escape.
 <color=#e8b923>「⭐」</color> - <color=#556278>Facility Guards</color> are weak alone but have strength in numbers. Stick together!
 <color=#e8b923>「⭐」</color> - Escaped <color=#FF8E00>Class-D</color> join the <color=#559100>Chaos Insurgency</color>, while escaped <color=#FFFF7C>Scientists</color> become <color=#00D9FF>MTF</color>.
