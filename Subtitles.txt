@@ -1,15 +1,15 @@
-<b>「<color=#58a4ef>\uf3ed</color>」</b> - <color=#0096FF>MTF Unit Epsilon-11</color> <b>|</b> <color=#003DCA>Designation: [designation]</color> <b>|</b> 
-<color=#EC2222>[count] SCP Subjects </color>.
-<color=#EC2222>1 SCP Subject</color>.
+<b>「<color=#58a4ef>\uf3ed</color>」</b> - <color=#0096FF>MTF Unit Mu-13 "Ghostbusters"</color> <b>|</b> <color=#003DCA>Designation: [designation]</color> <b>|</b> 
+<color=#EC2222>[count] Specters </color>.
+<color=#EC2222>1 Specter</color>.
 <color=#EC2222>exercise caution</color>.
 terminated <b>|</b> Termination cause unspecified.
-terminated by: <color=#EC2222>SCP-[scp]</color>.
+terminated by: <color=#EC2222>Specter #[scp]</color>.
 terminated by: <color=#f5650a>Automatic Security System</color>.
 terminated by: <color=#EC2222>Alpha Warhead</color>.
-contained by: <color=#FFFF7C>Science Personnel</color>.
-contained by: <color=#FF8E00>Class-D Personnel</color>.
+contained by: <color=#FFFF7C>Mad Scientist</color>.
+contained by: <color=#FF8E00>Lab Rat</color>.
 contained by: <color=#008F1C>Chaos Insurgency</color>.
-<b>「<color=#58a4ef>\uf06e</color>」</b> - <color=#EC2222>SCP-[scp]</color>
+<b>「<color=#58a4ef>\uf06e</color>」</b> - <color=#EC2222>Specter #[scp]</color>
 contained <b>|</b> Containment unit unknown.
 contained <b>|</b> Containment Unit: <color=#0096FF>[designation]</color>.
 lost in decontamination sequence.
