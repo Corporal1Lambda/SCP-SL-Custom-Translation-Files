@@ -49,3 +49,8 @@
 52~<color=#003DCA>🔫 MTF-Ԑ-11-MG 🔫\n<size=75%>Facility Recovery-Machine Gun</size></color>
 53~<color=#ff0000>🔫 A7 🔫\n<size=75%>Abomination</size></color>
 54~<color=#FF8E00>🏮 Lantern 🏮</color>~A classic oil lantern, inscribed with the name "Daniel".
+55~SCP-1344~A set of modified goggles that lets you perceive the positions of other players through walls. Once worn, they must never be removed!
+56~Snowball
+57~Coal
+58~Coal?
+59~Tape Player?~Contains an unlabeled tape. Please don’t play it. Please.
