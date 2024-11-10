@@ -66,24 +66,24 @@
 <color=#0096FF>「🔫」</color> - The <color=#003DCA>Micro H.I.D.</color> is very loud while charging. Make sure to use it while your targets can’t run away.
 <color=#0096FF>「🔫」</color> - Charging the <color=#003DCA>Micro H.I.D.</color> produces an intimidating sound which is enough to ruin your enemies' plans.
 <color=#0096FF>「💥」</color> - Flashbangs are especially effective against <color=#EC2222>SCP-939</color>
-<color=#e8b923>「🎃」</color> - <color=#FFFF7C>Scientists</color> and <color=#FF8E00>Class-D</color> must reach the surface to escape.
-<color=#e8b923>「🎃」</color> - <color=#556278>Facility Guards</color> are weak alone but have strength in numbers. Stick together!
-<color=#e8b923>「🎃」</color> - Escaped <color=#FF8E00>Class-D</color> join the <color=#559100>Chaos Insurgency</color>, while escaped <color=#FFFF7C>Scientists</color> become <color=#00D9FF>MTF</color>.
-<color=#e8b923>「🎃」</color> - <color=#0096FF>Mobile Task Force</color> units and <color=#008F1C>Chaos Insurgents</color> arrive at opposite ends of the Surface Zone.
-<color=#e8b923>「🎃」</color> - There are four main zones in the Facility: Light Containment, Heavy Containment, Entrance, and Surface.
-<color=#e8b923>「🎃」</color> - The Entrance Zone has two gates that provide access to the surface. You'll need a keycard to open them.
-<color=#e8b923>「🎃」</color> - Tesla gates are electric hazards found throughout the Heavy Containment Zone. Proceed with caution!
-<color=#e8b923>「🎃」</color> - The Alpha Warhead kills anything inside the Facility when it detonates. It can be activated from the Surface Zone.
-<color=#e8b923>「🎃」</color> - The Intercom room in the Entrance Zone can be used to broadcast a voice message to all players.
-<color=#e8b923>「🎃」</color> - The Light Containment Zone will lock down after 15 minutes; killing anyone left inside. Escape while you can!
-<color=#e8b923>「🎃」</color> - <color=#EC2222>SCP-914</color> can change all items, including weapons and ammunition.
-<color=#e8b923>「🎃」</color> - <color=#EC2222>SCP-914</color> can recharge radios and experimental weapons.
-<color=#e8b923>「🎃」</color> - <color=#EC2222>SCP-914</color> can create a number of unique items that can’t be found anywhere else. Feel free to experiment!
-<size=125%><color=#e8b923>「🎃」</color> - 😽!</color>
-<color=#e8b923>「🎃」</color> - Your stamina is a precious resource, reserve some for emergencies!
-<color=#e8b923>「🎃」</color> - Using an elevator is a quick and easy way to escape most <color=#EC2222>SCPs</color>.
-<color=#e8b923>「🎃」</color> - Adrenaline can be used to instantly refresh your stamina and gives you an advantage in combat.
-<color=#e8b923>「🎃」</color> - Radios have four range settings. The longer the range, the faster the battery drains.
-<color=#e8b923>「🎃」</color> - You can throw items (‘T’ by default). This can be used to open keycard doors from a distance or to break glass.
-<color=#e8b923>「🎃」</color> - Wearing body armor increases the number of items and ammo you can carry.
-<size=125%><color=#e8b923>「🎃」</color> - 😻!</color>
+<color=#e8b923>「⭐」</color> - <color=#FFFF7C>Scientists</color> and <color=#FF8E00>Class-D</color> must reach the surface to escape.
+<color=#e8b923>「⭐」</color> - <color=#556278>Facility Guards</color> are weak alone but have strength in numbers. Stick together!
+<color=#e8b923>「⭐」</color> - Escaped <color=#FF8E00>Class-D</color> join the <color=#559100>Chaos Insurgency</color>, while escaped <color=#FFFF7C>Scientists</color> become <color=#00D9FF>MTF</color>.
+<color=#e8b923>「⭐」</color> - <color=#0096FF>Mobile Task Force</color> units and <color=#008F1C>Chaos Insurgents</color> arrive at opposite ends of the Surface Zone.
+<color=#e8b923>「⭐」</color> - There are four main zones in the Facility: Light Containment, Heavy Containment, Entrance, and Surface.
+<color=#e8b923>「⭐」</color> - The Entrance Zone has two gates that provide access to the surface. You'll need a keycard to open them.
+<color=#e8b923>「⭐」</color> - Tesla gates are electric hazards found throughout the Heavy Containment Zone. Proceed with caution!
+<color=#e8b923>「⭐」</color> - The Alpha Warhead kills anything inside the Facility when it detonates. It can be activated from the Surface Zone.
+<color=#e8b923>「⭐」</color> - The Intercom room in the Entrance Zone can be used to broadcast a voice message to all players.
+<color=#e8b923>「⭐」</color> - The Light Containment Zone will lock down after 15 minutes; killing anyone left inside. Escape while you can!
+<color=#e8b923>「⭐」</color> - <color=#EC2222>SCP-914</color> can change all items, including weapons and ammunition.
+<color=#e8b923>「⭐」</color> - <color=#EC2222>SCP-914</color> can recharge radios and experimental weapons.
+<color=#e8b923>「⭐」</color> - <color=#EC2222>SCP-914</color> can create a number of unique items that can’t be found anywhere else. Feel free to experiment!
+<size=125%><color=#e8b923>「⭐」</color> - 😽!</color>
+<color=#e8b923>「⭐」</color> - Your stamina is a precious resource, reserve some for emergencies!
+<color=#e8b923>「⭐」</color> - Using an elevator is a quick and easy way to escape most <color=#EC2222>SCPs</color>.
+<color=#e8b923>「⭐」</color> - Adrenaline can be used to instantly refresh your stamina and gives you an advantage in combat.
+<color=#e8b923>「⭐」</color> - Radios have four range settings. The longer the range, the faster the battery drains.
+<color=#e8b923>「⭐」</color> - You can throw items (‘T’ by default). This can be used to open keycard doors from a distance or to break glass.
+<color=#e8b923>「⭐」</color> - Wearing body armor increases the number of items and ammo you can carry.
+<size=125%><color=#e8b923>「⭐」</color> - 😻!</color>
