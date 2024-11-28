@@ -5,6 +5,6 @@
 <color=#FFFFFF><b>Firearms</b></color>
 <color=#FFFFFF><b>Grenades</b></color>
 <color=#FFFFFF><b>SCP Items</b></color>
-<color=#FFFFFF><b>Micro H.I.D.</b></color>
+<color=#FFFFFF><b>Experimental Weapons</b></color>
 <color=#FFFFFF><b>Ammo</b></color>
 <color=#FFFFFF><b>Body Armor</b></color>
