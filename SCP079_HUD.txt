@@ -11,12 +11,12 @@ ETA: [time] seconds
 <size=150%>⛔ ERROR ⛔</size>\nDOOR ACCESS DENIED
 <color=green>○</color> OPEN DOOR (<color=#8080FF>[cost]</color>)
 <color=#07A2FF>●</color> CLOSE DOOR (<color=#8080FF>[cost]</color>)
-<color=red>🚪</color> LOCK DOOR (<color=#8080FF>[cost]</color>)
+<color=red>\uf023</color> LOCK DOOR (<color=#8080FF>[cost]</color>)
 <color=green>\uf09c</color> UNLOCK DOOR 
 <color=yellow>⚠</color> DOOR LOCK COOLDOWN <color=yellow>⚠</color>
 <color=#8080FF>⚡ AUXILIARY POWER</color>
 <color=yellow>⚠</color><color=red> ACTIVE GENERATOR </color><color=yellow>⚠</color>
-<color=green>🚪 </color> RELEASE DOOR LOCK
+<color=green>\uf09c</color> RELEASE DOOR LOCK
 \uf0e8 - OPEN FACILITY MAP
 CLOSE 
 <color=#f5eb9c>LIGHT CONTAINMENT ZONE</color>

@@ -1,9 +1,9 @@
  (%time% \uf2f2)
- (+%influence% \uf02c)
+ (+%influence% 👊)
 <color=%factionColor%>%timeDisplay%%influenceDisplay%</color>
 <color=#ff80bc>⚠️ - Completed objectives will show up here - ⚠️</color>
-<color=%achieverColor%>%achieverName%</color> killed <color=%victimColor%>%victimName%</color>
-<color=%achieverColor%>%achieverName%</color> damaged <color=%victimColor%>%victimName%</color>
-<color=%achieverColor%>%achieverName%</color> has escaped the Facility
-<color=%achieverColor%>%achieverName%</color> activated a <b>Generator</b>
-<color=%achieverColor%>%achieverName%</color> picked up <color=red>%itemName%</color>
+(\uf714) - <color=%achieverColor%>%achieverName%</color> killed <color=%victimColor%>%victimName%</color>.
+(💥) - <color=%achieverColor%>%achieverName%</color> damaged <color=%victimColor%>%victimName%</color>.
+(\uf70c) - <color=%achieverColor%>%achieverName%</color> has escaped <color=#0096ff>Site-02</color>.
+(\uf011) - <color=%achieverColor%>%achieverName%</color> activated a <color=#8080FF>Generator</color>.
+(\uf0b1) - <color=%achieverColor%>%achieverName%</color> picked up <color=red>%itemName%</color>.
