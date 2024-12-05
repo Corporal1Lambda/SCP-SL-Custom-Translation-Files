@@ -1,0 +1,9 @@
+ (%time% \uf2f2)
+ (+%influence% \uf02c)
+<color=%factionColor%>%timeDisplay%%influenceDisplay%</color>
+<color=#ff80bc>⚠️ - Completed objectives will show up here - ⚠️</color>
+<color=%achieverColor%>%achieverName%</color> killed <color=%victimColor%>%victimName%</color>
+<color=%achieverColor%>%achieverName%</color> damaged <color=%victimColor%>%victimName%</color>
+<color=%achieverColor%>%achieverName%</color> has escaped the Facility
+<color=%achieverColor%>%achieverName%</color> activated a <b>Generator</b>
+<color=%achieverColor%>%achieverName%</color> picked up <color=red>%itemName%</color>

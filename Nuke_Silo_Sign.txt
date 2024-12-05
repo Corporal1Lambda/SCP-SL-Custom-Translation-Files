@@ -3,8 +3,8 @@ SITE-02
 ALPHA
 WARHEAD
 SILO
--α-
+-\uf7ba-
 AUTHORISED
 PERSONNEL
 ONLY
--α-
+-\uf7ba-

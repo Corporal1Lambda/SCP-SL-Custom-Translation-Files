@@ -2,7 +2,7 @@
 <color=#8080FF>💳 ACCESS TIER [tier]</color>
 ⭐ EXP [current] / [next]
 <color=#8080FF>-</color>
-<color=red>❌ NO CAMERA ❌</color>
+<color=red>\uf4e2 NO CAMERA</color>
 <color=#8080FF>📡</color> GO TO: <color=#8080FF>[camera]</color> (<color=#8080FF>[cost]</color>)
 <size=150%>❌ ERROR ❌</size>\nNOT ENOUGH POWER
 ETA: [time] seconds
@@ -12,12 +12,12 @@ ETA: [time] seconds
 <color=green>○</color> OPEN DOOR (<color=#8080FF>[cost]</color>)
 <color=#07A2FF>●</color> CLOSE DOOR (<color=#8080FF>[cost]</color>)
 <color=red>🚪</color> LOCK DOOR (<color=#8080FF>[cost]</color>)
-<color=green>🔓</color> UNLOCK DOOR 
+<color=green>\uf09c</color> UNLOCK DOOR 
 <color=yellow>⚠</color> DOOR LOCK COOLDOWN <color=yellow>⚠</color>
 <color=#8080FF>⚡ AUXILIARY POWER</color>
 <color=yellow>⚠</color><color=red> ACTIVE GENERATOR </color><color=yellow>⚠</color>
 <color=green>🚪 </color> RELEASE DOOR LOCK
-OPEN FACILITY MAP
+\uf0e8 - OPEN FACILITY MAP
 CLOSE 
 <color=#f5eb9c>LIGHT CONTAINMENT ZONE</color>
 <color=#ca2642>HEAVY CONTAINMENT ZONE</color>
@@ -27,8 +27,8 @@ CLOSE
 <size=150%>❌ ERROR ❌</size>\nBLACKOUT UNAVAILABLE
 <size=150%>🚨 LIMIT REACHED 🚨</size>\nBLACKOUT
 <size=150%>❌ ERROR ❌</size>\nBLACKOUT COOLDONW
-<color=orange>🔺🔻</color> SEND ELEVATOR (<color=#8080FF>[cost]</color>)
-<color=red>🔒</color> LOCKDOWN (<color=#8080FF>[cost]</color>)
+<color=orange>\uf0dc</color> SEND ELEVATOR (<color=#8080FF>[cost]</color>)
+<color=red>\uf023</color> LOCKDOWN (<color=#8080FF>[cost]</color>)
 <size=150%>❌ ERROR ❌</size>\nLOCKDOWN COOLDONW
 <size=150%>❌ ERROR ❌</size>\nNO DOORS DETECTED
 <color=#8080FF>🚨</color> PING LOCATION (<color=#8080FF>[cost]</color>)
@@ -42,15 +42,15 @@ $<color=#8080FF>💳 Access Tier [tier]</color>$ - UNLOCKED
 $<color=#8080FF>⚡ AUXILIARY POWER</color>$ limit increased to $<color=#8080FF>[limit]</color>$.
 $<color=#FFD700>💡</color> <color=#8080FF>BLACKOUT</color>$ now available - press $<color=#8080FF>[key]</color>$ to disable room lights for <color=#8080FF>15s</color>.
 $<color=#FFD700>💡</color> <color=#8080FF>BLACKOUT</color>$ capacity increased to $<color=#8080FF>[number]</color>$ rooms.
-$<color=red>🔒</color> <color=#8080FF>LOCKDOWN</color>$ now available - press $<color=#8080FF>[key]</color>$ to temporarily lock down all doors in a room for <color=#8080FF>10s</color>.
+$<color=red>\uf023</color> <color=#8080FF>LOCKDOWN</color>$ now available - press $<color=#8080FF>[key]</color>$ to temporarily lock down all doors in a room for <color=#8080FF>10s</color>.
 <color=#8080FF>+[amount]</color> - <color=#ff00b0>Admin Command</color>
-<color=#8080FF>+[amount]</color> - [role] - Termination Assist - 💀
-<color=#8080FF>+[amount]</color> - [role] <color=red>- Direct Termination - 💀</color>
+<color=#8080FF>+[amount]</color> - [role] - Termination Assist - \uf54c
+<color=#8080FF>+[amount]</color> - [role] <color=red>- Direct Termination - \uf714</color>
 <color=#8080FF>+[amount]</color> - [role] - Witnessed Termination - \uf06e
 <color=#8080FF>+[amount]</color> - Pursuit Assist- 🚪
 <color=#8080FF>+[amount]</color> - Team Protection - \uf3ed
 <color=#8080FF>+[amount]</color> - Prevented use - <color=#003DCA>Micro H.I.D.</color> - <color=#003DCA>⚡</color>
-<color=red>🔒 DOOR LOCK ACTIVE 🔒</color>
+<color=red>\uf023 DOOR LOCK ACTIVE \uf023</color>
 <color=#ff9e00>☀ ZONE-WIDE BLACKOUT</color> - disable zone lights for 60s - ([cost])
 $<color=#ff9e00>☀</color> <color=#8080FF>ZONE-WIDE BLACKOUT</color>$ now available - next to zone labels on the $<color=#8080FF>Facility Map</color>$.
 <color=yellow>⚠</color> ZONE-WIDE BLACKOUT COOLDOWN <color=yellow>⚠</color>
@@ -64,16 +64,16 @@ $<color=#ff9e00>☀</color> <color=#8080FF>ZONE-WIDE BLACKOUT</color>$ now avail
 <color=#8080FF>🔊</color> USE SPEAKER
 <size=150%>⛔ ERROR ⛔</size>\nELEVATOR ACCESS DENIED
 SCP-079 has no direct combat or movement capabilities. Instead, you view and interact with the world through security cameras found in every room. All available abilities are listed in the top-right corner of your HUD.
-Virtually Indestructible:There are three generators in Heavy Containment Zone. If all are engaged, you can be recontained from your chamber. Generators have a countdown sequence that can be interrupted by pressing the "CANCEL" button on the generator.
-Unlimited Access:You can manipulate numerous systems in the facility to assist the other SCPs. The top right of your screen shows what abilities are available. These abilities cost auxiliary power (AP) to use, which regenerates over time. 
-Deep Learning:Assisting in terminations, or performing helpful actions for the other SCPs will grant you experience towards a new access tier. Each new tier provides more AP, and grants you new abilities.
-Awake. Never Sleep. :Being everywhere and nowhere grants you a unique perspective. You can ping locations, people, and objects of interest, allowing you to assist in the slaughter. You are also able to access facility surveillance map.
+<b>\uf6ff - Virtually Indestructible</b>:There are three generators in Heavy Containment Zone. If all are engaged, you can be recontained from your chamber. Generators have a countdown sequence that can be interrupted by pressing the "CANCEL" button on the generator.
+<b>\uf1eb - Unlimited Access</b>:You can manipulate numerous systems in the facility to assist the other SCPs. The top right of your screen shows what abilities are available. These abilities cost auxiliary power (AP) to use, which regenerates over time. 
+<b>\uf538 - Deep Learning</b>:Assisting in terminations, or performing helpful actions for the other SCPs will grant you experience towards a new access tier. Each new tier provides more AP, and grants you new abilities.
+<b>\uf06e - Awake. Never Sleep.</b>:Being everywhere and nowhere grants you a unique perspective. You can ping locations, people, and objects of interest, allowing you to assist in the slaughter. You are also able to access facility surveillance map.
 $<color=#ffa500>\uf06e </color><color=#8080FF>BREACH SCANNER</color>$ now available — select team(s)/zone(s) in $<color=#8080FF>Facility Map</color>$ to periodically scan for remaining survivors.
 <size=150%><color=red>AP_REG SUSPENDED ⚠</color></size>
 <size=150%><color=red>AP_REG REDUCED ([precentage]) ⚠</color></size>
 <size=125%>DOOR_LCK - ACTIVE 🚪</size>
 <size=125%><color=#8080FF>SPEAKER - ACTIVE 🔊</color></size>
-<size=125%>LCKD_PROT - ACTIVE - 🔒</size>
+<size=125%>LCKD_PROT - ACTIVE - \uf023</size>
 <color=#ffa500>\uf06e BREACH SCANNER</color>
 RETURN TO MAP
 <color=#ffa500>\uf06e BREACH SCANNER</color> - [cnt] zone(s)

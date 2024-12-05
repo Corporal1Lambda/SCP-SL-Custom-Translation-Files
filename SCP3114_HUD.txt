@@ -9,8 +9,8 @@ Only human corpses can be used as a disguise.
 You can use this corpse to disguise as a <b>[role]</b>.
 <b>Disguise</b>
 Strangulation Cooldown
-<b>Skeletons In Your Closet</b>:Your name and identity are hidden. You are but a blank canvas and the world is your muse. While disguised as a human, your basic strength allows for you to hold onto certain objects — but your lack of noticeable muscle prevents you from effectively using items.
-<b>Catch These Hands</b>:Unleash a flurry of light attacks that slowly scrape health from whomever you hit. These microscopic layers of allegedly calcium-rich skin somehow give you dexterity and strengthen your resolve, restoring a small amount of Hume Shield on each hit.
-<b>Strangulation</b>:Grab them by the neck and choke the life out of them. Look them in the eyes as they draw their last breaths. Their lives are but candles to be blown out, taking all but a mere few seconds. This attack can be interrupted.
-<b>Under Their Skin</b>:Steal yourself a nice, warm jacket (their skin) by interacting with their corpse. Temporarily embrace the warmth and wear their fleshy ‘meat suit’, mimicking the ability to hold certain items. Hold [key] to remove it abruptly!
+<b>\uf54c - Skeletons In Your Closet</b>:Your name and identity are hidden. You are but a blank canvas and the world is your muse. While disguised as a human, your basic strength allows for you to hold onto certain objects — but your lack of noticeable muscle prevents you from effectively using items.
+<b>\uf5d7 - Catch These Hands</b>:Unleash a flurry of light attacks that slowly scrape health from whomever you hit. These microscopic layers of allegedly calcium-rich skin somehow give you dexterity and strengthen your resolve, restoring a small amount of Hume Shield on each hit.
+<b>\uf714 - Strangulation</b>:Grab them by the neck and choke the life out of them. Look them in the eyes as they draw their last breaths. Their lives are but candles to be blown out, taking all but a mere few seconds. This attack can be interrupted.
+<b>\uf497 - Under Their Skin</b>:Steal yourself a nice, warm jacket (their skin) by interacting with their corpse. Temporarily embrace the warmth and wear their fleshy ‘meat suit’, mimicking the ability to hold certain items. Hold [key] to remove it abruptly!
 Press and hold <b>[key]</b> for longer to remove your current disguise.

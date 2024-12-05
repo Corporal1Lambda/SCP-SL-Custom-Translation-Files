@@ -13,11 +13,11 @@ Press <b>[key]</b> to deny further resurrection.
 <b>This corpse is already being consumed.</b>
 Slow and fragile, SCP-049 specializes as a support class, able to quickly turn the tide of a game with his army of "cured".
 Fast and dangerous, SCP-049-2 instances swarm ahead of their master to sow panic and chaos, creating new bodies to join the tide.
-<b>Cardiac Arrest</b>:You reach out your gloved hand to touch the hearts of those who suffer from the Pestilence, causing their bodily functions to fail rapidly; giving you the chance to administer your cure.
-<b>Good Sense of the Doctor</b>:You shift your full focus to a tainted soul. You move faster, determined to rid them of the Pestilence. You’re able to gauge a victim’s distance using the foul aroma of the disease.
-<b>The Doctor’s Call</b>:You signal your location to your army of cured. As they stand near you, their bodies toughen up to tolerate more damage. A great doctor always checks up on their patients, after all.
-<b>Waste Not, Want Not</b>:Your medical instincts are not without a need for efficiency; you can revive the cured again and again to provide more insights. It's not every day that the dead rise twice.
-<b>Lobotomized Bloodlust</b>:Your mind was forcefully removed, leaving you with only violence. You find yourself pursuing humans faster and faster as you chase them down …
-<b>Voracity</b>:The cure isn't entirely without benefits. You can regenerate your flesh using the mass of any nearby corpse. There’s no sharing however, so make sure you’re the first to the feast.
+<b>\uf21e - Cardiac Arrest</b>:You reach out your gloved hand to touch the hearts of those who suffer from the Pestilence, causing their bodily functions to fail rapidly; giving you the chance to administer your cure.
+<b>\uf0f1 - Good Sense of the Doctor</b>:You shift your full focus to a tainted soul. You move faster, determined to rid them of the Pestilence. You’re able to gauge a victim’s distance using the foul aroma of the disease.
+<b>\ue05c - The Doctor’s Call</b>:You signal your location to your army of cured. As they stand near you, their bodies toughen up to tolerate more damage. A great doctor always checks up on their patients, after all.
+<b>\uf621 - Waste Not, Want Not</b>:Your medical instincts are not without a need for efficiency; you can revive the cured again and again to provide more insights. It's not every day that the dead rise twice.
+<b>\ue064 - Lobotomized Bloodlust</b>:Your mind was forcefully removed, leaving you with only violence. You find yourself pursuing humans faster and faster as you chase them down …
+<b>\uf6d7 - Voracity</b>:The cure isn't entirely without benefits. You can regenerate your flesh using the mass of any nearby corpse. There’s no sharing however, so make sure you’re the first to the feast.
 <b>Cure</b>
 Hold <b>[key]</b>
