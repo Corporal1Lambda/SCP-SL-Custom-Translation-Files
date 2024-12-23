@@ -50,7 +50,7 @@
 53~<color=#ff0000>🔫 A7 🔫\n<size=75%>Abomination</size></color>
 54~<color=#FF8E00>🏮 Lantern 🏮</color>~A classic oil lantern, inscribed with the name "Daniel".
 55~<color=red>\uf729 SCP-1344-03 \uf729</color>~<size=80%><color=#ffb4ff>\uf06e</color> See players through walls.</size>\n\n<b>DO NOT REMOVE</b>
-56~\uf2dc Snowball \uf2dc~Normal 「LMB」: 15 DMG\nCharged 「RMB」: 30 DMG\nx2 Headshot DMG\n<color=#8079FF>⛨</color> Penetrates <color=#8079FF>Hume Shield</color>
+56~\uf2dc Snowball \uf2dc~「Normal」: 15 DMG\n「Charged」: 30 DMG\nx2 Headshot DMG\n<color=#8079FF>⛨</color> Penetrates <color=#8079FF>Hume Shield</color>
 57~Coal~You are on the naughty list!
 58~Coal?~Teleports player to the <color=red>SCP</color>
 59~<color=#FF59CA>📼 Tape Player 📼</color>~Begin audio prompt in 3..2..1..\n Summons the horde of:\n<color=#FF59CA>SCP-1507</color>
