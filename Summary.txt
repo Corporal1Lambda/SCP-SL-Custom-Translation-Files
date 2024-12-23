@@ -15,3 +15,5 @@ The breach took [summary_round_minutes] minutes and [summary_round_seconds] seco
 <color=#EC2222>🌀 [summary_scp_terminated] recontained SCP Subjects</color>
 Next round in [summary_next_round_countdown] seconds.
 <color=#EC2222>The SCPs killed [summary_scpfrags] beings.</color>
+<size=85%><color=#FF59CA>「FLAMINGOS WIN」</color></size>
+<color=#FF59CA>All other teams have been exterminated. Total flamingo victory has been achieved</color>
