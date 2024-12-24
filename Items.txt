@@ -28,7 +28,7 @@
 31~<color=red>⚽ SCP-018 ⚽</color>~<size=85%><color=#ffeb00>👥</color> Friendly Fire Toleration - 10s.\n💨 Speed doubles with each bounce.\n⚽ 10x DMG to <color=red>SCPs</color>.\n<color=orange>💥</color> Explodes after 80s.</size>
 32~<color=#ff0000>🎩 SCP-268 🎩</color>~◌ Invisibility - 15s.
 33~<color=#FFFF7C>💉 Adrenaline 💉</color>~<color=#55da09>⛨</color> Gives player <color=#55da09>40 AHP</color>.\n<color=#767676>🏃</color> Refills Stamina bar.\n<color=#767676>🏃</color> Infinite sprint - 8s.
-34~<color=#FFFF7C>\uf46b Painkillers \uf46b</color>~<color=#f57caa>✚</color> Regenerates 50 HP.
+34~<color=#FFFF7C>\uf490 Painkillers \uf490</color>~<color=#f57caa>✚</color> Regenerates 50 HP.
 35~💿 Coin 💿
 36~<color=#5B6370>\uf3ed P.C.V. - Light \uf3ed</color>
 37~<color=#0096FF>\uf3ed P.C.V. - Standard \uf3ed</color>

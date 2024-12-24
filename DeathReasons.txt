@@ -1,7 +1,7 @@
 💀 It's <color=#ff80bc><b>[user]</b>'s</color> body - they were [class]!\n Observation: [cause]
 Recontained.
 Vaporized by the Alpha Warhead.\n Caused By: <color=#f5650a>Failure to evacuate in time.</color>
-Cardiac Arrest\n Caused by: <color=#e52121>SCP-049</color>
+Cardiac Arrest | Blunt force trauma\n Caused by: <color=#e52121>SCP-049</color>/<color=#e52121>SCP-049-2</color>
 Unknown cause of death.\n Caused By: <color=#f5650a>Unknown</color>
 Severe electrical burns.
 Oxygen deprivation resulted in a death of asphyxia.
@@ -22,7 +22,7 @@ You've been killed by a nearby explosion.\n Caused by: <color=#5180f7>High Explo
 Massive lacerations and excessive blood loss.\n Caused By: <color=#e52121>SCP-096</color>
 Cervical fracture at the base of the skull.\n Caused By: <color=#e52121>SCP-173</color>
 The bite of 87\n Caused By: <color=#e52121>SCP-939</color>
-Blunt trauma and minor scratches present.\n Caused By: <color=#e52121>SCP-049-2</color>
+Large amount of minor scratches is present.\n Caused By: <color=#FF59CA>SCP-1507</color>
 [ammotype] bullet wounds.
 Badly mutilated and pulped.\n Caused By: <color=#e52121>SCP-018</color>
 Signs of severe trauma to both femur bones suggests death by circulatory shock.
@@ -33,3 +33,4 @@ You have frozen to death.\n Caused By: Spending too much time within <color=#e52
 Deep wounds and scratches are present on the body.\n Caused By: <color=#e52121>SCP-939</color>
 The Marshmallow Man has killed you!
 Killed by a falling metal pipe.
+956
