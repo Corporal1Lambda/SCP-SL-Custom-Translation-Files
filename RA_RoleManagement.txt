@@ -25,5 +25,5 @@ Custom Role
 <color=#EC2222>「SCP-3114」</color>
 Destroyed
 <color=#FF59CA>「SCP-1507」</color>
-<color=#FF59CA>「SCP-1507-Σ」</color>
+<color=#FF0099>「SCP-1507-Σ」</color>
 <color=#ff0000>「1507-049」</color>

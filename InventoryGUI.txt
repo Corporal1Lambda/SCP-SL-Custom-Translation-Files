@@ -16,10 +16,12 @@ Ammo Limits:
 Armor Penetration
 Running Accuracy
 Press <color=#ff80bc><b>[key]</b></color> to cackle
-Remaining charge: <color=#ff80bc><b>[percent]</b></color>
-Remaining ammo: <color=#ff80bc><b>[rem]</b></color>
-Hold <color=#ff80bc><b>[primary]</b></color> for quick-fire mode.
-Hold <color=#ff80bc><b>[secondary]</b></color> for a high-powered charge.
-Press <color=#ff80bc><b>[key]</b></color> to cycle firing modes.
-Press <color=#ff80bc><b>[key]</b></color> to attack.
-Hold <color=#ff80bc><b>[key]</b></color> to charge.
+<voffset=-2.5em><size=150%>Charge: <size=175%><b>[percent]</b></size></voffset>
+<voffset=-2.5em><size=150%>Ammo: <size=175%><b>[rem]</b></size></voffset>
+<size=750%>\n</size>Hold <b>[primary]</b> for Quick-Fire mode.
+Hold <b>[secondary]</b> for a High-Powered charge.
+<size=750%>\n</size><color=#00ff00><size=125%>「Ready to Fire」</size></color>\n<size=80%><b>[key]</b> to cycle firing modes.</size>
+<size=750%>\n</size>Press <b>[key]</b> to Swing.
+Hold <b>[key]</b> to Charge.
+<size=750%>\n</size><color=#00ff00><size=125%>「Ready to Fire」</size></color>\n<size=80%><b>[primary]</b> to activate.</size>
+<size=750%>\n</size><color=yellow>⚠</color> - MICRO H.I.D. DAMAGED - <color=yellow>⚠</color>\n<size=80%>Capabilities are limited.</size>
