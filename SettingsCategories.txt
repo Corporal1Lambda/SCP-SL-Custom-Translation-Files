@@ -1,5 +1,6 @@
-Video 🎥
+Video \uf03d
 Audio 🔉
 Controls 🎮
-Interface 💻
+Interface \uf26c
 Privacy \uf3ed
+Server Specific \uf233
