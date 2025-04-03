@@ -1,1 +1,2 @@
-<color=red>Laser is visible to others</color>
+Laser is visible to others
+No bonus damage for headshots

@@ -33,9 +33,9 @@ JHP Drum~High-capacity drum magazine that contains hollow-point bullets.
 Low-Cap FMJ Magazine~Low-capacity magazine that contains full metal jacket bullets.
 Low-Cap AP Magazine~Low-capacity magazine that contains armor-piercing bullets.
 Low-Cap JHP Magazine~Low-capacity magazine that contains hollow-point bullets.
-4-Shot Cylinder~Holds fewer cartridges but is capable of dealing increased damage to armored enemies.
+5-Shot Cylinder~Holds fewer cartridges but is capable of dealing increased damage to armored enemies.
 6-Shot Cylinder~The classic six-shooter.
-8-Shot Cylinder~Holds more cartridges, but the heavier trigger pull requires more time to perform accurate shots.
+7-Shot Buckshot Cylinder~Filled with shotgun-like cartridges, effective in close-quarters.
 Carbine Receiver~Regular carbine upper receiver that is considered a great compromise between firepower and mobility.
 Rifle Receiver~Full-size upper receiver improves firepower and accuracy, but a heavier gas system reduces the fire rate.
 Short Barrel~Shortened version of the standard barrel, used to improve draw speed and mobility.
