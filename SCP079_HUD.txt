@@ -17,8 +17,8 @@ ETA: [time] seconds
 <color=#8080FF>⚡ AUXILIARY POWER</color>
 <color=yellow>⚠</color><color=red> ACTIVE GENERATOR </color><color=yellow>⚠</color>
 <color=green>\uf09c</color> RELEASE DOOR LOCK
-\uf0e8 - OPEN FACILITY MAP
-CLOSE 
+<color=#8080FF>\uf0e8</color> - OPEN FACILITY MAP
+<color=#8080FF>\uf410</color> - CLOSE 
 <color=#f5eb9c>LIGHT CONTAINMENT ZONE</color>
 <color=#ca2642>HEAVY CONTAINMENT ZONE</color>
 <color=#bcfab2>ENTRANCE ZONE</color>
@@ -34,8 +34,8 @@ CLOSE
 <color=#8080FF>🚨</color> PING LOCATION (<color=#8080FF>[cost]</color>)
 <size=150%>🚨 LIMIT REACHED 🚨</size>\nPING RATE
 <size=150%>❌ ERROR ❌</size>\nCAMERA SWITCH FAILED
-<size=75%><color=red>❌ CONNECTION LOST... 🔌</color></size>
-RECONNECTING TO SITE-02 SYSTEMS\nETA: [time]s
+<color=red>\uf4e2</color>\n<size=75%>CONNECTION LOST</size>
+RETRYING IN: [time]s
 <color=yellow>⚡</color> FIRE TESLA GATE (<color=#8080FF>[cost]</color>)
 <color=yellow>⚠</color> TESLA GATE ACTIVATION COOLDOWN <color=yellow>⚠</color>
 $<color=#8080FF>💳 Access Tier [tier]</color>$ - UNLOCKED
@@ -56,11 +56,11 @@ $<color=#ff9e00>☀</color> <color=#8080FF>ZONE-WIDE BLACKOUT</color>$ now avail
 <color=yellow>⚠</color> ZONE-WIDE BLACKOUT COOLDOWN <color=yellow>⚠</color>
 <size=150%>🚨 ALREADY ACTIVE 🚨</size>\nBLACKOUT
 <size=150%>❌ ERROR ❌</size>\nBLACKOUT UNAVAILABLE
-🔬 TOTAL LIFEFORMS
-💀 HOSTILES
-<color=#EC2222>🌀 SCP SUBJECTS</color>
-<color=#f5eb9c>📋 CIVILIAN(S)</color>
-<color=#9cc7f5>\uf3ed MILITARY</color>
+\uf21e - TOTAL LIFEFORMS
+\uf54c - HOSTILES
+<color=#EC2222>\uf780 SCP SUBJECTS</color>
+<color=#f5eb9c>\uf007 CIVILIAN(S)</color>
+<color=#9cc7f5>\uf505 MILITARY</color>
 <color=#8080FF>🔊</color> USE SPEAKER
 <size=150%>⛔ ERROR ⛔</size>\nELEVATOR ACCESS DENIED
 SCP-079 has no direct combat or movement capabilities. Instead, you view and interact with the world through security cameras found in every room. All available abilities are listed in the top-right corner of your HUD.
@@ -68,7 +68,7 @@ SCP-079 has no direct combat or movement capabilities. Instead, you view and int
 <b>\uf1eb - Unlimited Access</b>:You can manipulate numerous systems in the facility to assist the other SCPs. The top right of your screen shows what abilities are available. These abilities cost auxiliary power (AP) to use, which regenerates over time. 
 <b>\uf538 - Deep Learning</b>:Assisting in terminations, or performing helpful actions for the other SCPs will grant you experience towards a new access tier. Each new tier provides more AP, and grants you new abilities.
 <b>\uf06e - Awake. Never Sleep.</b>:Being everywhere and nowhere grants you a unique perspective. You can ping locations, people, and objects of interest, allowing you to assist in the slaughter. You are also able to access facility surveillance map.
-$<color=#ffa500>\uf06e </color><color=#8080FF>BREACH SCANNER</color>$ now available — select team(s)/zone(s) in $<color=#8080FF>Facility Map</color>$ to periodically scan for remaining survivors.
+$<color=#ffa500>\uf06e </color><color=#8080FF>BREACH SCANNER</color>$ now available — select team(s)/zone(s) in $<color=#8080FF>Facility Map</color>$ to scan for survivors.
 <size=150%><color=red>AP_REG SUSPENDED ⚠</color></size>
 <size=150%><color=red>AP_REG REDUCED ([precentage]) ⚠</color></size>
 <size=125%>DOOR_LCK - ACTIVE \uf023</size>
@@ -79,9 +79,9 @@ RETURN TO MAP
 <color=#ffa500>\uf06e BREACH SCANNER</color> - [cnt] zone(s)
 SELECTED ZONES: [cnt]
 <color=red>SELECT ZONES TO SCAN</color>
-「<color=red>❌</color>」 - <color=red>SCAN FAIL</color> - No stationary targets detected
+「<color=red>\uf00d</color>」 - <color=red>SCAN FAIL</color> - No stationary targets detected
 Retrying in <color=#8080FF>[time]</color> seconds...
-「<color=green>✔️</color>」 - <color=green>SCAN SUCCESSFUL</color> - $<b>[role]</b>$ detected - <color=red><b>[camera_name]</b></color> - <b>[zone]</b>
+「<color=green>\uf00c</color>」 - <color=green>SCAN SUCCESSFUL</color> - $<b>[role]</b>$ detected - <color=red><b>[camera_name]</b></color> - <b>[zone]</b>
 <color=#8080FF>SCAN IN: [time]s</color>
 <color=#8080FF>Scanning...</color>
 <size=130%><color=red><b>SYSTEM: OFFLINE</b></color></size>
