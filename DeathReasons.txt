@@ -32,5 +32,4 @@ Cold skin and frostbitten fingers.\n Caused By: <color=#e52121>SCP-244</color> i
 You have frozen to death.\n Caused By: Spending too much time within <color=#e52121>SCP-244's</color> fog.
 Deep wounds and scratches are present on the body.\n Caused By: <color=#e52121>SCP-939</color>
 The Marshmallow Man has killed you!
-Killed by a falling metal pipe.
-956
+Bullet wounds with organic residue.\n Caused By: <color=red>SCP-127</color>

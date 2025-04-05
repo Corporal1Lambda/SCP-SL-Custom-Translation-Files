@@ -25,3 +25,4 @@ Hold <b>[secondary]</b> for a High-Powered charge.
 Hold <b>[key]</b> to Charge.
 <size=750%>\n</size><color=#00ff00><size=125%>「Ready to Fire」</size></color>\n<size=80%><b>[primary]</b> to activate.</size>
 <size=750%>\n</size><color=yellow>⚠</color> - MICRO H.I.D. DAMAGED - <color=yellow>⚠</color>\n<size=80%>Capabilities are limited.</size>
+SCP-127 grows in strength as your bond with it deepens.

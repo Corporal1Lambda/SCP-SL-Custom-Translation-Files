@@ -1,0 +1,3 @@
+Indicates the remaining time before the team respawns.\nFlashes when respawn is imminent.
+Indicates the amount of influence required to earn a new respawn.\nEach new respawn costs more influence points.
+Displays the number of respawns available for this team.\nWhen no more respawns are available, the Deadman's Sequence is activated.

@@ -54,3 +54,5 @@
 57~Coal~You are on the naughty list!
 58~Coal?~Teleports player to the <color=red>SCP</color>
 59~<color=#FF59CA>📼 Tape Player 📼</color>~Begin audio prompt in 3..2..1..\n Summons the horde of:\n<color=#FF59CA>SCP-1507</color>
+61~Surface Access Pass~Single-use access pass for opening exit gates.
+62~SCP-127

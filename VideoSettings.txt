@@ -17,7 +17,7 @@ Anti-aliasing
 V-Sync
 Decals
 Texture Quality
-🔅 Brightness 🔆
+Brightness
 Screen Settings
 Quality & Performance
 Ragdoll Freezing
@@ -46,3 +46,11 @@ Bullet Holes
 Blood Decals
 Target Display
 • Exclusive Fullscreen: The game has full control over the screen.\n• Borderless Window: Creates a full-screen effect by stretching the window to cover the screen. Different options control whether the game window should stay visible or automatically minimizes when it loses focus (for example, by user selecting another window).
+Graphics API
+Changes the 3D Graphics Library utilized by the game.\nThis option is experimental, and, as such, we recommend keeping it on Auto —unless you're attempting to resolve a specific rendering or performance issue with poorly supported hardware.
+Changes will take place following a game restart.
+Unavailable as a Graphics API was forced through launch parameters.
+Blood Decals Limit
+Bullet Holes Limit
+Show Needles
+SCP-939 Vision Blur
