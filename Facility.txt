@@ -22,7 +22,7 @@ DOOR HAS BEEN LOCK-DOWN BY SCP-079
 Fullscreen mode
 Are you sure you want to leave the server?
 Basic options. Full list of settings in the menu.
-\n「<color=#F7D007>W</color><color=#F7C514>A</color><color=#F7BA21>I</color><color=#F7AF2E>T</color><color=#F7A43B>I</color><color=#F79948>N</color><color=#F78E55>G</color> <color=#F7786F>F</color><color=#F76D7C>O</color><color=#F76289>R</color> <color=#F74CA3>P</color><color=#F741B0>L</color><color=#F736BD>A</color><color=#F72BCA>Y</color><color=#F720D7>E</color><color=#F715E4>R</color><color=#F70AF1>S</color>」
+「<color=#F7D007>W</color><color=#F7C514>A</color><color=#F7BA21>I</color><color=#F7AF2E>T</color><color=#F7A43B>I</color><color=#F79948>N</color><color=#F78E55>G</color> <color=#F7786F>F</color><color=#F76D7C>O</color><color=#F76289>R</color> <color=#F74CA3>P</color><color=#F741B0>L</color><color=#F736BD>A</color><color=#F72BCA>Y</color><color=#F720D7>E</color><color=#F715E4>R</color><color=#F70AF1>S</color>」
 SUMMARY
 CONTINUE
 MAIN VOLUME
@@ -36,8 +36,8 @@ Press <color=#ff80bc><b>F1</b></color> for more information.
 <size=40><color=#EC2222>Follow orders or ask teammates for help.</color></size>
 -
 -
-<size=2100%>\n</size><size=110%><b>ROUND STARTS IN:</size>\n<size=200%><color=green>{0}</color></b></size>
-<size=2000%>\n</size><size=110%><b>ROUND START:</b><color=#EC2222> \uf023 <b>LOCKED</b> \uf023</color></size>
+<size=110%><b>ROUND STARTS IN:</size>\n<size=200%><color=green>{0}</color></b></size>
+<size=110%><b>ROUND START:</b><color=#EC2222> \uf023 <b>LOCKED</b> \uf023</color></size>
 AIMING SENS. REDUCTION
 Press <b>[key]</b> to cancel the throw.
 ADS Toggle
