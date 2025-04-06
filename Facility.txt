@@ -36,7 +36,7 @@ Press <color=#ff80bc><b>F1</b></color> for more information.
 <size=40><color=#EC2222>Follow orders or ask teammates for help.</color></size>
 -
 -
-<size=110%><b>ROUND STARTS IN:</size>\n<size=200%><color=green>{0}</color></b></size>
+<size=110%><b>ROUND STARTS IN:</size> <size=200%><color=green>{0}</color></b></size>
 <size=110%><b>ROUND START:</b><color=#EC2222> \uf023 <b>LOCKED</b> \uf023</color></size>
 AIMING SENS. REDUCTION
 Press <b>[key]</b> to cancel the throw.
