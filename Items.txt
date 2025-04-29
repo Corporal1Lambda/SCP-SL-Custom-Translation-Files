@@ -1,46 +1,46 @@
-0~<color=#bcb1e4>💳 Janitor Keycard 💳</color>
-1~<color=#FFFF7C>💳 Junior Researcher Keycard 💳</color>
-2~<color=#ddab20>💳 Senior Researcher Keycard 💳</color>
-3~<color=#217778>💳 Zone Supervisor Keycard 💳</color>
-4~<color=#5B6370>💳 Guard Keycard 💳</color>
-5~<color=#70C3FF>💳 MTF Private Keycard 💳</color>
-6~<color=#b6887f>💳 Containment Specialist Keycard 💳</color>
-7~<color=#0096FF>💳 MTF Operative Keycard 💳</color>
-8~<color=#003DCA>💳 MTF Captain Keycard 💳</color>
-9~<color=#ba1846>💳 Site Director Keycard 💳</color>
-10~<color=#008F1C>📟 C.I. Breaking Card 📟</color>
-11~<color=#FFFFFF>💳 O5-level Keycard 💳</color>
-12~<color=#5B6370>📻 Radio 📻</color>~Allows long range communication.\n\nSR - 108m\nMR - 180m\nLR - 1080m\nUR - 7200m
+0~<color=#bcb1e4>💳 Putzkraft-Zugangskarte 💳</color>
+1~<color=#FFFF7C>💳 Forscher-Zugangskarte 💳</color>
+2~<color=#ddab20>💳 Forschungsleiter-Zugangskarte 💳</color>
+3~<color=#217778>💳 Hausmeister-Zugangskarte 💳</color>
+4~<color=#5B6370>💳 Wachtmeister-Zugangskarte 💳</color>
+5~<color=#70C3FF>💳 MTF Soldaten-Zugangskarte 💳</color>
+6~<color=#b6887f>💳 Eindämmungsspezialisten-Zugangskarte 💳</color>
+7~<color=#0096FF>💳 MTF Soldat-Zugangskarte 💳</color>
+8~<color=#003DCA>💳 MTF Kapitän-Zugangskarte 💳</color>
+9~<color=#ba1846>💳 Standortleiter-Zugangskarte 💳</color>
+10~<color=#008F1C>📟 Super-Gameboy 📟</color>
+11~<color=#FFFFFF>💳 0̵̳̩̏̓͝ͅ5̶̨̛̩̺̂̉-̶̢̞̲̗̂̏L̷͔͐̉̅̈́ę̷̜͈̍̈́v̵͙̘̘̼̈́͌̑͝e̶̟̞͌͝l̸̮̮̈́̉͝ Zugangskarte 💳</color>
+12~<color=#5B6370>📻 Funkgerät 📻</color>~Erlaubt Kommunikation auf großer Distanz.\n\nSR - 108m\nMR - 180m\nLR - 1080m\nUR - 7200m
 13~<color=#FFFF7C>\uf05b COM-15 \uf05b</color>
-14~<color=#FFFF7C>\uf0fa First Aid Kit \uf0fa</color>~<color=#f57caa>💗</color> Heals 65 HP.
-15~<color=#FF8E00>🔦 Flashlight 🔦</color>~Let there be light!
-16~<color=#003DCA>⚡ Micro H.I.D. ⚡</color>~<size=135%>Heavy electrical weapon designed for the termination of anomalies.\n\n「Primary」: 400 DPS\n「Charged」: 1000 DPS\n<color=#767676>🏃</color> Stamina penalty - 30%.</size>
-17~<color=#ff0000>💊 SCP-500 💊</color>~<color=#f57caa>💗</color> Fully heals player\n<color=#f57caa>✚</color> Regenerates 200 HP\n<color=#ffb4ff>♻️</color> Removes certain effects
-18~<color=#ff0000>\uf72f SCP-207-C \uf72f</color>~<color=#767676>🏃</color> <size=90%>Increases movement speed</size>\n<color=#767676>🏃</color> Infinite sprint\n<color=#f57caa>💔</color> Drains HP\n\n<size=75%>Harmfully increases motor skills.\nDO NOT MIX WITH:\n<color=red>SCP-1853</color>\n<color=#004B93>O-207-914</color></size>
-47~<color=#003DCA>\uf05b 3-X Particle Disruptor \uf05b</color>
-20~<color=#0096FF>\uf05b MTF-Ԑ-11-SR \uf05b\n<size=75%>Facility Recovery-Standard Rifle</size></color>
+14~<color=#FFFF7C>\uf0fa Erste-Hilfe-Set \uf0fa</color>~<color=#f57caa>💗</color> Heilt 65 HP.
+15~<color=#FF8E00>🔦 Taschenlampe 🔦</color>~Es werde Licht!
+16~<color=#003DCA>⚡ Micro H.I.D. ⚡</color>~<size=135%>Schweres Gerät mit dem Zweck SCPs auszulöschen!\n\n「Primär」: 400 DPS\n「Aufgeladen」: 1000 DPS\n<color=#767676>🏃</color> Ausdauerverbrauch - 130%.</size>
+17~<color=#ff0000>💊 SCP-500 💊</color>~<color=#f57caa>💗</color> Heilt vollständig\n<color=#f57caa>✚</color> Regeneriert 200 HP\n<color=#ffb4ff>♻️</color> Entfernt gewisse Effekte
+18~<color=#ff0000>\uf72f SCP-207-C \uf72f</color>~<color=#767676>🏃</color> <size=90%>Erhöht Geschwindigkeit</size>\n<color=#767676>🏃</color> Unendliche Ausdauer\n<color=#f57caa>💔</color> Verbraucht HP\n\n<size=75%>Verbessert motorische Fähigkeiten auf schmerzhafte Weise.\nNICHT MISCHEN MIT:\n<color=red>SCP-1853</color>\n<color=#004B93>O-207-914</color></size>
+47~<color=#003DCA>\uf05b 3-X Partikelstörer \uf05b</color>
+20~<color=#0096FF>\uf05b MTF-Ԑ-11-SR \uf05b\n<size=75%>Standort-Rückeroberungsstandartgewehr</size></color>
 21~<color=#70C3FF>\uf05b Crossvec \uf05b\n<size=75%>C.R.O.S.S.</size></color>
-23~<color=#5B6370>\uf05b FSP-9 \uf05b\n<size=75%>Foundation Security Pistol</size></color>
+23~<color=#5B6370>\uf05b FSP-9 \uf05b\n<size=75%>Sicherheitsgewehr</size></color>
 24~<color=#0D7D35>\uf05b LGC5 \uf05b\n<size=75%>Logicer</size></color>
-25~<color=#0096FF>💥 HE Grenade 💥</color>~<color=orange>💥</color> 900 DMG to <color=red>SCPs</color>.\n<color=#8079FF>\ue06c</color> 2x DMG to <color=#8079FF>Hume Shield</color>.\n<color=orange>🔥</color> Burns damaged players.\n\uf2f2 3.5s fuse time.
-26~<color=#5B6370>💣 Flashbang 💣\nModel FG02</color>~<color=#5B6370>\uf06e</color> Blinds enemy players up to 5s.\n\uf2f2 2.8s fuse time.
-30~<color=#5B6370>\uf05b CSP-18 \uf05b\n<size=75%>Compact Security Pistol</size></color>
-31~<color=red>⚽ SCP-018 ⚽</color>~<size=85%><color=#ffeb00>👥</color> Friendly Fire Toleration - 10s.\n💨 Speed doubles with each bounce.\n⚽ 10x DMG to <color=red>SCPs</color>.\n<color=orange>💥</color> Explodes after 80s.</size>
-32~<color=#ff0000>🎩 SCP-268 🎩</color>~◌ Invisibility - 15s.
-33~<color=#FFFF7C>💉 Adrenaline 💉</color>~<color=#55da09>⛨</color> Gives player <color=#55da09>40 AHP</color>.\n<color=#767676>🏃</color> Refills Stamina bar.\n<color=#767676>🏃</color> Infinite sprint - 8s.
-34~<color=#FFFF7C>\uf490 Painkillers \uf490</color>~<color=#f57caa>✚</color> Regenerates 50 HP.
-35~💿 Coin 💿
-36~<color=#5B6370>\uf3ed P.C.V. - Light \uf3ed</color>
-37~<color=#0096FF>\uf3ed P.C.V. - Standard \uf3ed</color>
-38~<color=#0D7D35>\uf3ed P.C.V. - Heavy \uf3ed</color>
-39~<color=#006826>\uf05b .44 Magnum \uf05b\n<size=75%>A GUN!</size></color>
+25~<color=#0096FF>💥 HE Grenade 💥</color>~<color=orange>💥</color> 900 DMG gegen <color=red>SCPs</color>.\n<color=#8079FF>\ue06c</color> 2x DMG gegen <color=#8079FF>Hume Schild</color>.\n<color=orange>🔥</color> Verbrennt Spieler\n\uf2f2 3.5s Detonationstimer.
+26~<color=#5B6370>💣 Blendgranate 💣\nModel FG02</color>~<color=#5B6370>\uf06e</color> Blendet bis zu 5s.\n\uf2f2 2.8s Detonationstimer.
+30~<color=#5B6370>\uf05b CSP-18 \uf05b\n<size=75%>Kompakte Sicherheitspistole</size></color>
+31~<color=red>⚽ SCP-018 ⚽</color>~<size=85%><color=#ffeb00>👥</color> Kein Eigenschaden - 10s.\n💨 Geschwindigkeit wird bei Aufprall verdoppelt.\n⚽ 10x DMG gegen <color=red>SCPs</color>.\n<color=orange>💥</color> Explodiert nach 80s.</size>
+32~<color=#ff0000>🎩 SCP-268 🎩</color>~◌ Unsichtbarkeit - 15s.
+33~<color=#FFFF7C>💉 Adrenalin 💉</color>~<color=#55da09>⛨</color> Gibt Spieler <color=#55da09>40 AHP</color>.\n<color=#767676>🏃</color> Füllt Ausdauer auf.\n<color=#767676>🏃</color> Unendliche Ausdauer - 8s.
+34~<color=#FFFF7C>\uf490 Schmerzmittel \uf490</color>~<color=#f57caa>✚</color> Regenerates 50 HP.
+35~💿 Münze 💿
+36~<color=#5B6370>\uf3ed P.C.V. - Leicht \uf3ed</color>
+37~<color=#0096FF>\uf3ed P.C.V. - Standart \uf3ed</color>
+38~<color=#0D7D35>\uf3ed P.C.V. - Schwer \uf3ed</color>
+39~<color=#006826>\uf05b .44 Magnum \uf05b\n<size=75%>EINE KNARRE!</size></color>
 40~<color=#008F1C>\uf05b KEK-72B \uf05b</color>
-41~<color=#006826>\uf05b DBB \uf05b\n<size=75%>Double Barrel Baguette </size></color>
-42~<color=#ff0000>🍬 SCP-330 🍬</color>~<size=25%>"Trick or Treat?"</color>
-43~<color=#ff0000>💡 SCP-2176 👻</color>~<color=#f5f17c>💡</color> Blackout - 13s.\n<color=#b97cf5>🚪</color> Lockdown - 13s.\n<color=#7DF9FF>⚡</color> Activates Tesla Gate.\n<color=#8080FF>💻</color> Stuns <color=#8080FF>SCP-079</color> - 8s.\n\n<size=75%>If the room is blacked out or on lockdown SCP-2176 will do the opposite.</size>
-44~<color=#ff0000>⚱ SCP-244-A ⚱</color>~<b>☁️</b> Creates a cloud of icy fog.\n❄️ Fog applies hypothermia.
-45~<color=#ff0000>⚱ SCP-244-B ⚱</color>~<b>☁️</b> Creates a cloud of icy fog.\n❄️ Fog applies hypothermia.
-46~<color=red>\uf492 SCP-1853 \uf492~<size=80%><color=#95D600>\uf05b</color> Reduced ADS inaccuracy - 30%.\n<color=#95D600>\uf05b</color> Reduced weapon recoil - 25%.\n<color=#95D600>\uf05b</color> Reduced reload time - 25%.\n<color=#95D600>💳</color> Picking up items increased - 60%.\n\n</size><size=75%>Increases performance when your life is in danger.\nDO NOT MIX WITH:\n<color=red>SCP-207</color>\n<color=#004B93>O-207-914</color></size>
+41~<color=#006826>\uf05b DD \uf05b\n<size=75%>Doppellauf Dinkelbrötchen </size></color>
+42~<color=#ff0000>🍬 SCP-330 🍬</color>~<size=25%>"Süßes oder Saures?"</color>
+43~<color=#ff0000>💡 SCP-2176 👻</color>~<color=#f5f17c>💡</color> Stromausfall - 13s.\n<color=#b97cf5>🚪</color> Quarantäne - 13s.\n<color=#7DF9FF>⚡</color> Aktiviert Tesla Gate.\n<color=#8080FF>💻</color> Deaktiviert <color=#8080FF>SCP-079</color> - 8s.\n\n<size=75%>Wenn ein Stromausfall oder Quarantäne herrscht wird SCP-2176 das Gegenteil tun.</size>
+44~<color=#ff0000>⚱ SCP-244-A ⚱</color>~<b>☁️</b> Erzeugt eiskalten Nebel.\n❄️ Nebel löst Hypothermie aus.
+45~<color=#ff0000>⚱ SCP-244-B ⚱</color>~<b>☁️</b> Erzeugt eiskalten Nebel.\n❄️ Nebel löst Hypothermie aus.
+46~<color=red>\uf492 SCP-1853 \uf492~<size=80%><color=#95D600>\uf05b</color> Senkt ADS Ungenauigkeit - 30%.\n<color=#95D600>\uf05b</color> Rückstoßsenkung - 25%.\n<color=#95D600>\uf05b</color> Reduced reload time - 25%.\n<color=#95D600>💳</color> Picking up items increased - 60%.\n\n</size><size=75%>Increases performance when your life is in danger.\nDO NOT MIX WITH:\n<color=red>SCP-207</color>\n<color=#004B93>O-207-914</color></size>
 47~<color=#003DCA>\uf05b 3-X Particle Disruptor \uf05b\n<size=75%>Experimental Fusion Rifle</size></color>
 48~<color=#ff0000>\uf05b COM-45 \uf05b\n<size=75%>Triple Full-auto Pistol</size></color>
 49~<color=#ff0000>🔊 SCP-1576 🔊</color>~👻 Talk with the dead.\n\uf2f2 Communication time - 30s.
