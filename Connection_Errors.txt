@@ -1,38 +1,38 @@
-<size=80>YOU HAVE BEEN KICKED</size>\nDer server ist gekommen.
-<size=80>DISCONNECTED</size>\nDer Server existiert nicht. - Angeblich
-<size=80>DISCONNECTED</size>\nDiese Verbindungs-ID funktioniert nicht.
-<size=80>DISCONNECTED</size>\nDieser Kanal exisitiert nicht
-<size=80>DISCONNECTED</size>\nDer Server ist zu klein für dein Volumen.
-<size=80>DISCONNECTED</size>\nDer Paketdienst hat sich verliefert...
-<size=80>DISCONNECTED</size>\nVerbindung verloren (timed out).
-<size=80>DISCONNECTED</size>\nVerbindung verloren (timed out).
-<size=80>DISCONNECTED</size>\nTja, das geht nich so leicht
-<size=80>DISCONNECTED</size>\nDeine Spieleversion ist inkompatibel - UPDATE DEIN SPIEL!
-<size=80>DISCONNECTED</size>\nDer Server hat wohl ein Problem mit den Einstellungen
-<size=80>DISCONNECTED</size>\nDie Adresse ist ungültig oder konnte nicht aufgelöst werden.
-<size=80>DISCONNECTED</size>\nStille... was ist gerade nur passiert???
+<size=80>DU WURDEST GETRETEN</size>\nDer server ist gekommen.
+<size=80>VERBINDUNG ABGEBROCHEN</size>\nDer Server existiert nicht. - Angeblich
+<size=80>VERBINDUNG ABGEBROCHEN</size>\nDiese Verbindungs-ID funktioniert nicht. - Angeblich
+<size=80>VERBINDUNG ABGEBROCHEN</size>\nDieser Kanal exisitiert nicht. - Angeblich
+<size=80>VERBINDUNG ABGEBROCHEN</size>\nDer Server ist zu klein für dein Volumen. - Angeblich
+<size=80>VERBINDUNG ABGEBROCHEN</size>\nDer Paketdienst hat sich verliefert...
+<size=80>VERBINDUNG ABGEBROCHEN</size>\nVerbindung verloren (timed out).
+<size=80>VERBINDUNG ABGEBROCHEN</size>\nVerbindung verloren (timed out).
+<size=80>VERBINDUNG ABGEBROCHEN</size>\nTja, das geht nich so leicht.
+<size=80>VERBINDUNG ABGEBROCHEN</size>\nDeine Spieleversion ist inkompatibel - UPDATE DEIN SPIEL!
+<size=80>VERBINDUNG ABGEBROCHEN</size>\nDer Server hat wohl ein Problem mit den Einstellungen
+<size=80>VERBINDUNG ABGEBROCHEN</size>\nDie Adresse ist ungültig oder konnte nicht aufgelöst werden.
+<size=80>VERBINDUNG ABGEBROCHEN</size>\nStille... was ist gerade nur passiert???
 <size=80>WARTE KURZ...</size>\n<size=35>Verbinde...</size>
-<size=80>ROUND RESTART</size>\n<size=35>Die Runde startet neu - Und das nur wegen dir</size>
+<size=80>RUNENNEUSTART</size>\n<size=35>Die Runde startet neu - Und das nur wegen dir</size>
 <size=80>WARTE KURZ...</size>\n<size=35>Lade tutorial...</size>
-<size=80>VERSION INCOMPATIBILITY</size>\nDeine Spieleversion ist inkompatibel - UPDATE DEIN SPIEL!\n(Du - [your]; Server - [server])
-<size=80>CONNECTED</size>\n<size=35>Lade Irrenanstalt...</size>
+<size=80>VERSION INKOMPATIBEL</size>\nDeine Spieleversion ist inkompatibel - UPDATE DEIN SPIEL!\n(Du - [your]; Server - [server])
+<size=80>VERBUNDEN</size>\n<size=35>Lade Irrenanstalt...</size>
 <size=35>Lade Irrenanstalt...</size>
-<size=80>DISCONNECTED</size>\nStille... was ist gerade nur passiert???
-<size=80>DISCONNECTED</size>\nDieser Server muss noch Verifiziert werden.
-<size=80>DISCONNECTED</size>\nAusländer sind hier nicht erlaubt.
-<size=80>DISCONNECTED</size>\nDu wirst jetzt nirgendwo mehr akzeptiert (Globaler Bann)
-<size=80>DISCONNECTED</size>\nDu wirst jetzt nirgendwo mehr akzeptiert (Globaler Bann wegen [reason])
-<size=80>DISCONNECTED</size>\nDu wurdest von diesem Server abgeschoben.
-<size=80>DISCONNECTED</size>\nDu wurdest von diesem Server abgeschoben.\nBann läuft ab: [date] [time]
-<size=80>DISCONNECTED</size>\nDein Authentifizierungstoken ist abgelaufen.\nEs kann aber auch sein, dass du wegen deiner Staatszugehörigkeit nicht angenommen wirst
-<size=80>DISCONNECTED</size>\nJETZT KNALLTS! Und wehe du joinst nochmal!
-<size=80>DISCONNECTED</size>\nDu wirst wegen deiner Staatszugehörigkeit nicht angenommen
-<size=80>DISCONNECTED</size>\nDer Admin will dich hier nicht haben\n\nGrund: [reason]
-<size=80>DISCONNECTED</size>\nDein Auth-Token wurde wohl nicht akzeptiert
-<size=80>DISCONNECTED</size>\nDu wurdest von diesem Server abgeschoben.\nGrund: [reason]
-<size=80>DISCONNECTED</size>\nDu wurdest von diesem Server abgeschoben.\nBann läuft ab: [date] [time]\nGrund: [reason]
-<size=80>WARTE KURZ...</size>\nProcessing server security verification...
-<size=80>DISCONNECTED</size>\nSicherheitsverifikatkokt... oder was auch immer
-<size=80>DISCONNECTED</size>\nSicherheitsverifikatkokt... oder was auch immer war zu langsam.\nProbier es ruhig noch einmal aus.
+<size=80>VERBINDUNG ABGEBROCHEN</size>\nStille... was ist gerade nur passiert???
+<size=80>VERBINDUNG ABGEBROCHEN</size>\nDieser Server muss noch Verifiziert werden.
+<size=80>VERBINDUNG ABGEBROCHEN</size>\nAusländer sind hier nicht erlaubt.
+<size=80>VERBINDUNG ABGEBROCHEN</size>\nDu wirst jetzt nirgendwo mehr akzeptiert (Globaler Bann)
+<size=80>VERBINDUNG ABGEBROCHEN</size>\nDu wirst jetzt nirgendwo mehr akzeptiert (Globaler Bann wegen [reason])
+<size=80>VERBINDUNG ABGEBROCHEN</size>\nDu wurdest von diesem Server abgeschoben.
+<size=80>VERBINDUNG ABGEBROCHEN</size>\nDu wurdest von diesem Server abgeschoben.\nBann läuft ab: [date] [time]
+<size=80>VERBINDUNG ABGEBROCHEN</size>\nDein Authentifizierungstoken ist abgelaufen.\nEs kann aber auch sein, dass du wegen deiner Staatszugehörigkeit nicht angenommen wirst
+<size=80>VERBINDUNG ABGEBROCHEN</size>\nJETZT KNALLTS! Und wehe du joinst nochmal!
+<size=80>VERBINDUNG ABGEBROCHEN</size>\nDu wirst wegen deiner Staatszugehörigkeit nicht angenommen
+<size=80>VERBINDUNG ABGEBROCHEN</size>\nDer Admin will dich hier nicht haben\n\nGrund: [reason]
+<size=80>VERBINDUNG ABGEBROCHEN</size>\nDein Auth-Token wurde wohl nicht akzeptiert
+<size=80>VERBINDUNG ABGEBROCHEN</size>\nDu wurdest von diesem Server abgeschoben.\nGrund: [reason]
+<size=80>VERBINDUNG ABGEBROCHEN</size>\nDu wurdest von diesem Server abgeschoben.\nBann läuft ab: [date] [time]\nGrund: [reason]
+<size=80>WARTE KURZ...</size>\nVerarbeite Sicherheitsverifikation...
+<size=80>VERBINDUNG ABGEBROCHEN</size>\nSicherheitsverifikatkokt... oder was auch immer
+<size=80>VERBINDUNG ABGEBROCHEN</size>\nSicherheitsverifikatkokt... oder was auch immer war zu langsam.\nProbier es ruhig noch einmal aus.
 <size=80>AUTH FEHLER</size>\nDie Matrix hat dir eine Nachricht gesendet: [message].
-<size=80>DISCONNECTED</size>\nServer stoppt - Und das nur wegen dir
+<size=80>VERBINDUNG ABGEBROCHEN</size>\nServer stoppt - Und das nur wegen dir
