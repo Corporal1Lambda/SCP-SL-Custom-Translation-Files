@@ -2,6 +2,6 @@
 <color=#5B6370>\uf3ed Sicherheitspersonal</color> & <color=#0096FF>\uf3ed MTF</color>
 <color=#008F1C>\uf406 Chaos Insurgency</color>
 <color=#FFFF7C>\uf610 Wissenschaftler</color>
-<color=#FF8E00>🏃 Class-D Personnel</color>
-\uf714 Dead
+<color=#FF8E00>🏃 Klasse-D Personal</color>
+\uf714 Tot
 <color=#ff00b0>\uf128</color>
