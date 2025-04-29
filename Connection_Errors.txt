@@ -1,38 +1,38 @@
-<size=80>YOU HAVE BEEN KICKED</size>\nThe server was forced to stop the connection.
-<size=80>DISCONNECTED</size>\nThe specified host is not available.
-<size=80>DISCONNECTED</size>\nThe specified connection ID does not exist.
-<size=80>DISCONNECTED</size>\nThe specified channel does not exist.
-<size=80>DISCONNECTED</size>\nServer is full.
-<size=80>DISCONNECTED</size>\nReceived wrong packet.
-<size=80>DISCONNECTED</size>\nConnection lost (timed out).
-<size=80>DISCONNECTED</size>\nConnection lost (timed out).
-<size=80>DISCONNECTED</size>\nOperation is not supported.
-<size=80>DISCONNECTED</size>\nYour game version is different from the server.
-<size=80>DISCONNECTED</size>\nInvalid server config.
-<size=80>DISCONNECTED</size>\nThe address is invalid or could not be resolved.
-<size=80>DISCONNECTED</size>\nAn unexpected problem has occurred!
-<size=80>PLEASE WAIT</size>\n<size=35>Establishing connection...</size>
-<size=80>ROUND RESTART</size>\n<size=35>The round is restarting...</size>
-<size=80>PLEASE WAIT</size>\n<size=35>Loading tutorial...</size>
-<size=80>VERSION INCOMPATIBILITY</size>\nYour game version is different from the server\n(Client - [your]; Server - [server])
-<size=80>CONNECTED</size>\n<size=35>Loading the level...</size>
-<size=35>Loading the facility...</size>
-<size=80>DISCONNECTED</size>\nUnspecified error occurred on the server.
-<size=80>DISCONNECTED</size>\nThis server requires authentication by central servers.
-<size=80>DISCONNECTED</size>\nYou are not whitelisted on this server.
-<size=80>DISCONNECTED</size>\nYou have been globally banned.
-<size=80>DISCONNECTED</size>\nYou have been globally banned: [reason].
-<size=80>DISCONNECTED</size>\nYou have been banned from this server.
-<size=80>DISCONNECTED</size>\nYou have been banned from this server.\nBan expires: [date] [time]
-<size=80>DISCONNECTED</size>\nYour authentication token has expired.\nServer might have invalid time or timezone set.\nPlease contact an server administrator.
-<size=80>DISCONNECTED</size>\nYou have been rate limited. Try again in a few seconds.
-<size=80>DISCONNECTED</size>\nServer is not accepting connections from your geographic location.\nServer name or info may contain more details.
-<size=80>DISCONNECTED</size>\nYou have been kicked by a server modification.\n\nReason: [reason]\nThis is a server modification, not a game feature.\nContact an server administrator for more information.
-<size=80>DISCONNECTED</size>\nYour authentication token has been rejected by the server.\nPlease restart the game and try again or contact studio technical support.
-<size=80>DISCONNECTED</size>\nYou have been banned from this server.\nReason: [reason]
-<size=80>DISCONNECTED</size>\nYou have been banned from this server.\nBan expires: [date] [time]\nReason: [reason]
-<size=80>Please wait</size>\nProcessing server security verification...
-<size=80>DISCONNECTED</size>\nFailed to process server security verification.
-<size=80>DISCONNECTED</size>\nProcessing of server security verification was too slow for the server.\nPlease try again or contact server administrator.
-<size=80>AUTH ERROR</size>\nCentral Server Message: [message].
-<size=80>DISCONNECTED</size>\nServer is shutting down.
+<size=80>YOU HAVE BEEN KICKED</size>\nDer server ist gekommen.
+<size=80>DISCONNECTED</size>\nDer Server existiert nicht. - Angeblich
+<size=80>DISCONNECTED</size>\nDiese Verbindungs-ID funktioniert nicht.
+<size=80>DISCONNECTED</size>\nDieser Kanal exisitiert nicht
+<size=80>DISCONNECTED</size>\nDer Server ist zu klein für dein Volumen.
+<size=80>DISCONNECTED</size>\nDer Paketdienst hat sich verliefert...
+<size=80>DISCONNECTED</size>\nVerbindung verloren (timed out).
+<size=80>DISCONNECTED</size>\nVerbindung verloren (timed out).
+<size=80>DISCONNECTED</size>\nTja, das geht nich so leicht
+<size=80>DISCONNECTED</size>\nDeine Spieleversion ist inkompatibel - UPDATE DEIN SPIEL!
+<size=80>DISCONNECTED</size>\nDer Server hat wohl ein Problem mit den Einstellungen
+<size=80>DISCONNECTED</size>\nDie Adresse ist ungültig oder konnte nicht aufgelöst werden.
+<size=80>DISCONNECTED</size>\nStille... was ist gerade nur passiert???
+<size=80>WARTE KURZ...</size>\n<size=35>Verbinde...</size>
+<size=80>ROUND RESTART</size>\n<size=35>Die Runde startet neu - Und das nur wegen dir</size>
+<size=80>WARTE KURZ...</size>\n<size=35>Lade tutorial...</size>
+<size=80>VERSION INCOMPATIBILITY</size>\nDeine Spieleversion ist inkompatibel - UPDATE DEIN SPIEL!\n(Du - [your]; Server - [server])
+<size=80>CONNECTED</size>\n<size=35>Lade Irrenanstalt...</size>
+<size=35>Lade Irrenanstalt...</size>
+<size=80>DISCONNECTED</size>\nStille... was ist gerade nur passiert???
+<size=80>DISCONNECTED</size>\nDieser Server muss noch Verifiziert werden.
+<size=80>DISCONNECTED</size>\nAusländer sind hier nicht erlaubt.
+<size=80>DISCONNECTED</size>\nDu wirst jetzt nirgendwo mehr akzeptiert (Globaler Bann)
+<size=80>DISCONNECTED</size>\nDu wirst jetzt nirgendwo mehr akzeptiert (Globaler Bann wegen [reason])
+<size=80>DISCONNECTED</size>\nDu wurdest von diesem Server abgeschoben.
+<size=80>DISCONNECTED</size>\nDu wurdest von diesem Server abgeschoben.\nBann läuft ab: [date] [time]
+<size=80>DISCONNECTED</size>\nDein Authentifizierungstoken ist abgelaufen.\nEs kann aber auch sein, dass du wegen deiner Staatszugehörigkeit nicht angenommen wirst
+<size=80>DISCONNECTED</size>\nJETZT KNALLTS! Und wehe du joinst nochmal!
+<size=80>DISCONNECTED</size>\nDu wirst wegen deiner Staatszugehörigkeit nicht angenommen
+<size=80>DISCONNECTED</size>\nDer Admin will dich hier nicht haben\n\nGrund: [reason]
+<size=80>DISCONNECTED</size>\nDein Auth-Token wurde wohl nicht akzeptiert
+<size=80>DISCONNECTED</size>\nDu wurdest von diesem Server abgeschoben.\nGrund: [reason]
+<size=80>DISCONNECTED</size>\nDu wurdest von diesem Server abgeschoben.\nBann läuft ab: [date] [time]\nGrund: [reason]
+<size=80>WARTE KURZ...</size>\nProcessing server security verification...
+<size=80>DISCONNECTED</size>\nSicherheitsverifikatkokt... oder was auch immer
+<size=80>DISCONNECTED</size>\nSicherheitsverifikatkokt... oder was auch immer war zu langsam.\nProbier es ruhig noch einmal aus.
+<size=80>AUTH FEHLER</size>\nDie Matrix hat dir eine Nachricht gesendet: [message].
+<size=80>DISCONNECTED</size>\nServer stoppt - Und das nur wegen dir
