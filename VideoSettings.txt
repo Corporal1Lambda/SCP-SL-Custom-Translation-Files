@@ -1,56 +1,56 @@
-Very Low
-Low
-Medium
-High
-Very High
+Sehr Niedrig
+Niedrig
+Mittel
+Hoch
+Sehr Hoch
 Ultra
-Enabled
-Disabled
-Shadows
-Shadow Resolution
-Facility Lights
-Resolution
-Aspect Ratio
-Display Mode
-Max Frame Rate
+Aktiviert
+Deaktiviert
+Schatten
+Schatten Auflösung
+Einrichtungsbeleuchtung
+Auflösung
+Verhältnis
+Display Modus
+Maximale FPS
 Anti-aliasing
 V-Sync
-Decals
-Texture Quality
-Brightness
-Screen Settings
-Quality & Performance
+Aufkleber
+Textur Qualität
+Helligkeit
+Bildschirmeinstellungen
+Qualität & Performance
 Ragdoll Freezing
-Ragdoll Freeze Time
-FPS Limiter
-Visual Effects
+Ragdoll Freeze Dauer
+FPS Limitierung
+Viselle Effekte
 Head Bobbing
 Explosion Screen Shake
 Flashbang Dark Mode
-All
-Other
+Alle
+Andere
 1/2 Refresh Rate
 1/3 Refresh Rate
 1/4 Refresh Rate
-Selected aspect ratio is not supported by your monitor
-Exclusive Fullscreen
-Borderless Window - Keep Visible
-Borderless Window - Hide When Unfocused
-Windowed
-SMAA Quality Preset
+Ausgewähltes Auflösungserhältnis wird nicht von deinem Bildschirm unterstützt
+Exklusiver Vollbildmodus
+Randloses Fenster - Bleibt sichtbar
+Randloses Fenster - Verstecken bei Wegklicken
+Fenster
+SMAA Qualität Voreinstellung
 Ambient Occlusion
-Bloom Quality
-Disables physics for ragdolls (dead bodies) after a specified time to reduce CPU usage.
-Aspect ratio of your current resolution is not supported!\nSome interface elements may not appear correct.
-Bullet Holes
-Blood Decals
+Bloom Qualität
+Schaltet die Physik von ragdolls (toten Körpern) nach einer eingestellten Dauer aus.
+Auflösungserhältnis deiner momentanen Auflösung ist nicht unterstützt!\nManches GUI kann falsch auftauchen.
+Schusslöcher
+Blutflecken
 Target Display
-• Exclusive Fullscreen: The game has full control over the screen.\n• Borderless Window: Creates a full-screen effect by stretching the window to cover the screen. Different options control whether the game window should stay visible or automatically minimizes when it loses focus (for example, by user selecting another window).
-Graphics API
-Changes the 3D Graphics Library utilized by the game.\nThis option is experimental, and, as such, we recommend keeping it on Auto —unless you're attempting to resolve a specific rendering or performance issue with poorly supported hardware.
-Changes will take place following a game restart.
-Unavailable as a Graphics API was forced through launch parameters.
-Blood Decals Limit
-Bullet Holes Limit
-Show Needles
-SCP-939 Vision Blur
+• Exklusiver Vollbildschirm: Das Spiel hat die volle Kontrolle über den Bildschirm.\n- Randloses Fenster: Erzeugt einen Vollbild-Effekt, indem das Fenster so gedehnt wird, dass es den gesamten Bildschirm abdeckt. Verschiedene Optionen steuern, ob das Spielfenster sichtbar bleibt oder automatisch minimiert wird, wenn es den Fokus verliert (z. B. wenn der Benutzer ein anderes Fenster auswählt).
+Grafik-API
+Ändert die 3D-Grafikbibliothek, die vom Spiel verwendet wird. Diese Option ist experimentell und wir empfehlen, sie auf Auto zu belassen, es sei denn, Sie versuchen, ein bestimmtes Rendering- oder Leistungsproblem mit schlecht unterstützter Hardware zu lösen.
+Änderungen werden nach einem Neustart des Spiels übernommen.
+Nicht verfügbar, da eine Grafik-API durch Startparameter erzwungen wurde.
+Blutflecken Limit
+Schusslöcher Limit
+Nadeln zeigen
+SCP-939 Verschwommene Sicht
