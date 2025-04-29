@@ -1,4 +1,4 @@
-"Take Only Two"
+"Nimm nur zwei, Freundchen!"
 <color=purple><b>🌈</b> Re</color><color=#dca43c>g</color><color=#b40404>e</color><color=#f47fff>nb</color><color=blue>o</color><color=#2a731f>g</color><color=purple>en</color> <color=#dca43c>Sü</color><color=#b40404>ß</color><color=blue>ig</color><color=#2a731f>ke</color><color=#f47fff>it 🍬</color>
 \n\n\n<size=75%><color=#f47fff>Ein Stück Kandiszucker, voll mit allen möglichen Geschmacksrichtungen.</color></size>
 \n\n\n\n<size=150%><color=#b40404>✚</color><color=#FFFFFF> Heilt sofort 15 HP.\n<color=#dca43c>🏃</color><color=#FFFFFF> Unendlicher Sprint - 5s.\n<color=purple>⛨</color><color=#FFFFFF> 5% Schadensreduktion.\n<color=#2a731f>⛨</color><color=#FFFFFF> Schwächt negative Effekte - 10s.\n<color=#36a7d6>⛨</color><color=#FFFFFF> Gibt 20 AHP für 10s.</color></size>
