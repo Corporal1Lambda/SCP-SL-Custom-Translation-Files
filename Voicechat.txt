@@ -17,12 +17,12 @@ Erlaube Spielmechaniken, kurze Aufnahmen deiner Stimme zu verwenden. Dazu gehör
 Einstellungen annehmen
 Zurück
 Drücke "[key]" und navigiere zu "Einstellungen" , um anzupassen.
-<size=135%><b>👥</b> Mute alive players -</size>
-<size=135%><b>\uf06e</b> Mute spectators -</size>
-<size=135%><b>🎮</b> Mute pre-game lobby -</size>
-Pre-game Lobby Chat
-Round Summary Global Chat
-Spectator Chat
-Alive Players' Chat while Spectating
+<size=135%><b>👥</b> Lebendige Spieler stummen -</size>
+<size=135%><b>\uf06e</b> Zuschauer stummen -</size>
+<size=135%><b>🎮</b> Lobby-Chat vor dem Spiel stummen -</size>
+Lobby-Chat vor dem Spiel
+Chat am Ende der Runde
+Zuschauer Chat
+Lebende Spieler' Rede mit ihnen
 Gestummt
 Entstummt
