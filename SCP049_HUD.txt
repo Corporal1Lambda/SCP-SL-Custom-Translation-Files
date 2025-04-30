@@ -1,23 +1,23 @@
-<b>This soul is no longer with us...</b>
-<b>This soul has decayed beyond a cure...</b>
-<b>This soul has been revived too many times...</b>
-<b>This soul no longer wants to be revived...</b>
-<b>This corpse cannot be revived...</b>
-<b>This corpse has already been consumed.</b>
-<b>Only human corpses may be consumed.</b>
-ATTACK COOLDOWN
-You have denied further resurrection from <color=#EC2222>SCP-049</color>!
-Press <b>[key]</b> to deny further resurrection.
-<b>You found no Pestilence to cure.</b>
-<b>You're already at full health.</b>
-<b>This corpse is already being consumed.</b>
-Slow and fragile, SCP-049 specializes as a support class, able to quickly turn the tide of a game with his army of "cured".
-Fast and dangerous, SCP-049-2 instances swarm ahead of their master to sow panic and chaos, creating new bodies to join the tide.
-<b>\uf21e - Cardiac Arrest</b>:You reach out your gloved hand to touch the hearts of those who suffer from the Pestilence, causing their bodily functions to fail rapidly; giving you the chance to administer your cure.
-<b>\uf0f1 - Good Sense of the Doctor</b>:You shift your full focus to a tainted soul. You move faster, determined to rid them of the Pestilence. You’re able to gauge a victim’s distance using the foul aroma of the disease.
-<b>\ue05c - The Doctor’s Call</b>:You signal your location to your army of cured. As they stand near you, their bodies toughen up to tolerate more damage. A great doctor always checks up on their patients, after all.
-<b>\uf621 - Waste Not, Want Not</b>:Your medical instincts are not without a need for efficiency; you can revive the cured again and again to provide more insights. It's not every day that the dead rise twice.
-<b>\ue064 - Lobotomized Bloodlust</b>:Your mind was forcefully removed, leaving you with only violence. You find yourself pursuing humans faster and faster as you chase them down …
-<b>\uf6d7 - Voracity</b>:The cure isn't entirely without benefits. You can regenerate your flesh using the mass of any nearby corpse. There’s no sharing however, so make sure you’re the first to the feast.
-<b>Cure</b>
-Hold <b>[key]</b>
+<b>Diese Seele weilt nicht mehr unter uns...</b>
+<b>Diese Leiche ist verfallen...</b>
+<b>Diese Seele wurde zu oft wiederbelebt...</b>
+<b>Diese Seele möchte nicht mehr wiederbelebt werden...</b>
+<b>Diese Leiche kann nicht wiederbelebt werden...</b>
+<b>Diese Leiche wurde bereits aufgefressen.</b>
+<b>Nur menschliche Leichen können absorbiert werden.</b>
+COOLDOWN
+Du hast eine weitere Wiederbelebung durch <color=#EC2222>SCP-049</color>verweigert!
+Drücke <b>[key]</b>, um eine weitere Wiederbelebung zu verweigern.
+<b>Kein Ziel gefunden.</b>
+<b>Du bist bereits bei voller Gesundheit.</b>
+<b>Diese Leiche wird bereits absorbiert.</b>
+Langsam und zerbrechlich, SCP-049 spezialisiert sich in hinterhältigen Angriffen. Und ist fähig, das Blatt des Spieles mit Horden von "geheiltem" Personal zu wenden.
+Schnell und gefährlich, SCP-049-2 Instanzen schwärmen aus, um Panik und Chaos für Ihren Meister zu verursachen, so können neue Körper dem Spiel beitreten.
+<b>\uf21e - Herzinfarkt</b>:Du streckst deine behandschuhte Hand aus, um die Herzen derjenigen zu berühren, die an der Pestilenz leiden, wodurch ihre Körperfunktionen schnell versagen. Das gibt dir die Möglichkeit, deine Heilung anzuwenden.
+<b>\uf0f1 - er gute Sinn des Doktors</b>:Du konzentrierst dich voll und ganz auf eine verdorbene Seele. Du bewegst dich schneller und entschlossen auf sie zu, um sie von der Seuche zu befreien. Du bist in der Lage, die Entfernung eines Opfers anhand des üblen Geruchs der Seuche zu bestimmen.
+<b>\ue05c - Der Ruf des Doktors</b>:Du signalisierst deinem geheilten Personal deinen Standort. Wenn diese in deiner Nähe sind, werden ihre Körper stärker und können mehr Schaden verkraften. Ein guter Arzt sorgt sich schließlich immer um seine Patienten.
+<b>\uf621 - Spare in der Zeit, so hast du in der Not</b>:Dein medizinischer Instinkt ist nicht ohne Effizienz; Du kannst die Geheilten immer wieder auferstehen lassen, um neue Erkenntnisse zu gewinnen. Es kommt nicht alle Tage vor, dass ein Toter zweimal aufersteht.
+<b>\ue064 - Lobotomisierte Blutrünstigkeit</b>:Dein Verstand wurde gewaltsam entfernt, sodass dir nur noch Gewalt übrig bleibt. Du ertappst dich dabei, wie du die Menschen immer schneller verfolgst...
+<b>\uf6d7 - Gefräßigkeit</b>:Die Heilung ist nicht ganz ohne Vorteile. Du kannst dein Fleisch mit der Masse einer beliebigen Leiche in der Nähe regenerieren. Allerdings kannst du sie nicht mit anderen teilen, also solltest du der Erste sein, der zum Festmahl geht.
+<b>Heilen</b>
+Halte <b>[key]</b>
