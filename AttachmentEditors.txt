@@ -1,18 +1,18 @@
-Custom 📝
-Preset 📝#[index]
-<color=green>SAVE ✔</color>
-<color=red>CLEAR ATTACHMENTS ❌</color>
-Default
-📝 PRESETS 📝
+Eigenes 📝
+Voreinstellung 📝#[index]
+<color=green>SPEICHERN ✔</color>
+<color=red>AUFSÄTZE LÖSCHEN ❌</color>
+Standart
+📝 VOREINSTELLUNGEN 📝
 <size=250><color=red>\n\uf023</color></size>
-<size=150%><color=#0096FF>SITE-02</color> FIREARM CUSTOMIZATION POINT</size>\nTOUCH THE SCREEN TO BOOT UP THE WORKSTATION
+<size=150%><color=#0096FF>STANDORT-02</color> WAFFEN-MODIFIZIERER</size>\nBILDSCHRIM ZUM HOCHFAHREN BERÜHREN
 <size=250><color=#00FFFF>\n🔘</color></size>
-<size=150%>LOADING FIREARM DATABASE\nPLEASE WAIT....</size>
+<size=150%>LADE DATENBANK...\nBITTE WARTEN....</size>
 <size=250><color=#00b300>\n\uf09c</color></size>
-<size=150%><color=#0096FF>SITE-02</color> FIREARM CUSTOMIZATION POINT</size>\nEQUIP YOUR FIREARM TO PROCEED
+<size=150%><color=#0096FF>SITE-02</color> WAFFEN-MODIFIZIERER</size>\nRÜSTEN SIE DIE WAFFE AUS
 <size=250><color=#00FFFF>\n🔘</color></size>
-<size=150%>SHUTTING DOWN...</size>
-SHOW SUMMARY
-CLOSE SUMMARY
-[Attachment] Customization
-Press [Key] to edit attachments.
+<size=150%>HERUNTERFAHREN...</size>
+ZEIGE ZUSAMMENFASSUNG
+SCHLIESSE ZUSAMMENFASSUNG
+[Attachment] Anpassung
+Drücke [Key] um Aufsätze zu bearbeiten.
