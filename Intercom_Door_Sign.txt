@@ -1,8 +1,6 @@
 #INFO FOR TRANSLATORS: In this file you can use as many lines as you want, all of them will be displayed on the display above the door.
-<color=#ff80bc>SITE-02</color>
 <color=#ff80bc>INTERCOM</color>
 <color=#ff80bc>---</color>
-<color=#ff80bc>AUTHORISED</color>
-<color=#ff80bc>PERSONNEL</color>
-<color=#ff80bc>ONLY</color>
+<color=#ff80bc>NUR</color>
+<color=#ff80bc>PERSONAL</color>
 <color=#ff80bc>---</color>
