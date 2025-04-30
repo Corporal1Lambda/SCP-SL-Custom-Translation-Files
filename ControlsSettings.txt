@@ -11,6 +11,8 @@ Sprinten - Aktivierungsmodus
 Gegenstände aufheben - Aktivierungsmodus
 Schleichen - Aktivierungsmodus
 Mausblick - Aktivierungsmodus
-Rechtsklick um Dinge aus dem Inventar fallen zu lassen.
-Inventar - Aktivierungsmodus
-Zonenwechsel Schnellzugriffstasten
+Rechtsklick zum Fallenlassen (Inventar)
+Inventar – Aktivierungsmodus
+Zonenwechsel-Tastenkürzel
+Automatischer Zuschauerwechsel
+Wechselt deine Kamera nach einer kurzen Verzögerung automatisch zu einem lebenden Spieler, wenn du niemanden beobachtest.
