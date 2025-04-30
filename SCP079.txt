@@ -7,7 +7,7 @@ Zusammenarbeit
 <color=#FF8E00>Klasse D</color> terminiert💀
 <color=#008F1E>CI Agent</color> terminiert💀
 <color=#0096FF>MTF Kämpfer</color> terminiert💀
-<color=#FFFF7CFF>Forscher</color> terminiert💀
+<color=#FFFF7CFF>Wissenschaftler</color> terminiert💀
 <color=#F00>SCP Subject</color> terminiert💀
 VERRIEGELTE TÜREN: [LOCKED_NUM]
 Allgemeine Interaktionen
