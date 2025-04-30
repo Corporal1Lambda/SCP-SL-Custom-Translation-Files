@@ -1,41 +1,41 @@
-Hotkeys
-Create New Hotkey
-Hotkeys allow items to be assigned to keyboard keys, so you can equip them without having to open your inventory.
-Keycard
-Primary Weapon
-Secondary Weapon
-Medical
-Grenade
+Schnellzugriffstasten
+Neue Schnellzugriffstaste erstellen
+Schnellzugriffstasten erlauben dir, Gegenstände bestimmten Tasten zuzuweisen, sodass du sie ausrüsten kannst, ohne dabei dein Inventar öffnen zu müssen.
+Zugangskarte
+Primärwaffe
+Sekundärwaffe
+Medizin
+Granate
 Name
-Assigned key
-Appearance
-Queue mode
-Item selection priority
-Allows to set the starting point of the queued items based on the user-defined conditions.
-Hidden
-Normal Icon
-Small Icon
-Item queue
-Selection is based on the order of elements in the ‘Items’ pool below.
-Inventory order
-Selection is based on their order in the inventory.
-None
-Best medical
-Attempts to equip the best medical item based on your health, stamina amount, or status effects.
-Remember previous
-The sequence starting point will not reset when selecting a different item.
-Door access detection
-Prioritizes keycards that can access nearby doors.
-Skip empty firearms
-Prioritizes loaded firearms over empty ones.
-Items
-Match index
-This option allows the definition of an order as dictated by their position in the inventory. Inventory items not matching the selected filter above will be ignored when determining the order.
-Remove All Custom Hotkeys
-Restore Default (Hold)
-Edit: [hotkey]
-New Unnamed Hotkey
-Any Firearm
-Any Keycard
-Any Throwable
-Any SCP Item
+Zugewiesene Taste
+Aussehen
+Reihenfolge-Modus
+Gegenstandsauswahlpriorität
+Legt den Startpunkt der Reihenfolge nach benutzerdefinierten Bedingungen fest.
+Versteckt
+Normales Symbol
+Schmales Symbol
+Reihenfolge der Gegenstände
+Auswahl basiert auf der Reihenfolge der Elemente des 'Gegenstände'-Pools unten.
+Inventarreihenfolge
+Auswahl basiert auf deren Reihenfolge im Inventar.
+Nichts
+Beste Medizin
+Versucht, den besten medizinischen Gegenstand - basierend auf deiner HP, Ausdauer oder anderen Statuseffekten - auszuwählen.
+Merke Vorherige
+Der Startpunkt der Reihenfolge wird nicht zurückgesetzt, wenn ein anderer Gegenstand ausgewählt wird.
+Türzugangserkennung
+Priorisiert Zugangskarten, die Türen in der Nähe öffnen können.
+Überspringe leere Waffen
+Priorisiert geladene Waffen gegenüber leeren
+Gegenstände
+Indexübereinstimmung
+Erlaubt die Definition einer Reihenfolge, welche ihrer Position im Inventar entspricht. Gegenstände, die nicht mit dem ausgewählten Filter übereinstimmen, werden ignoriert, wenn eine Reihenfolge berechnet wird.
+Entferne alle Schnellzugriffstasten
+Standard wiederherstellen (halten)
+Bearbeiten: [hotkey]
+Neue unbenannte Schnellzugriffstaste
+Beliebige Waffe
+Beliebige Zugangskarte
+Beliebiger Wurfgegenstand
+Beliebiger SCP-Gegenstand
