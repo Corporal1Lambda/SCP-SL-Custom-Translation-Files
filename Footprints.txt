@@ -1,9 +1,9 @@
  (%time% \uf2f2)
  (+%influence% 👊)
 <color=%factionColor%>%timeDisplay%%influenceDisplay%</color>
-<size=150%><mark=#ff80bc11><color=#ff80bc>⚠️ - Completed objectives will show up here - ⚠️</color></mark></size>
-「<color=%achieverColor%>\uf714</color>」 - <color=%achieverColor%>%achieverName%</color> killed <color=%victimColor%>%victimName%</color>
-「<color=%achieverColor%>💥</color>」 - <color=%achieverColor%>%achieverName%</color> damaged <color=%victimColor%>%victimName%</color>
-「<color=%achieverColor%>🏃</color>」 - <color=%achieverColor%>%achieverName%</color> has escaped <color=#0096ff>Site-02</color>
-「<color=%achieverColor%>\uf0e7</color>」 - <color=%achieverColor%>%achieverName%</color> activated a <color=#8080FF>Generator</color>
-「<color=%achieverColor%>\uf780</color>」 - <color=%achieverColor%>%achieverName%</color> picked up <color=red>%itemName%</color>
+<size=150%><mark=#ff80bc11><color=#ff80bc>⚠️ - Abgeschlossene Missionen erscheinen hier - ⚠️</color></mark></size>
+「<color=%achieverColor%>\uf714</color>」 - <color=%achieverColor%>%achieverName%</color> hat <color=%victimColor%>%victimName%</color> getötet
+「<color=%achieverColor%>💥</color>」 - <color=%achieverColor%>%achieverName%</color> hat <color=%victimColor%>%victimName%</color> verletzt
+「<color=%achieverColor%>🏃</color>」 - <color=%achieverColor%>%achieverName%</color> ist <color=#0096ff>Standort-02</color> entkommen
+「<color=%achieverColor%>\uf0e7</color>」 - <color=%achieverColor%>%achieverName%</color> hat einen <color=#8080FF>Generator</color> aktiviert
+「<color=%achieverColor%>\uf780</color>」 - <color=%achieverColor%>%achieverName%</color> hat <color=red>%itemName%</color> aufgenommen
