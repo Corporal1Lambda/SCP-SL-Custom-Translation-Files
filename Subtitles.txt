@@ -2,10 +2,10 @@
 <color=#EC2222>[count] SCPs</color>.
 <color=#EC2222>1 SCP</color>.
 <color=#EC2222>lasse achtung walten</color>.
-terminated <b>|</b> Sterbegrund unbekannt.
-terminated by: <color=#EC2222>SCP-[scp]</color>.
-terminated by: <color=#f5650a>Automatic Sicherheitssystem</color>.
-terminated by: <color=#EC2222>Alpha Kampfkopf</color>.
+terminiert <b>|</b> Sterbegrund unbekannt.
+terminiert durch: <color=#EC2222>SCP-[scp]</color>.
+terminiert durch: <color=#f5650a>Automatic Sicherheitssystem</color>.
+terminiert durch: <color=#EC2222>Alpha Kampfkopf</color>.
 eindämmung durch: <color=#FFFF7C>Wissenschaftler</color>.
 eindämmung durch: <color=#FF8E00>Klasse-D Personal</color>.
 eindämmung durch: <color=#008F1C>Chaos Insurgency</color>.
@@ -15,17 +15,17 @@ eingedämmt <b>|</b> Eindämmungseinheit: <color=#0096FF>[designation]</color>.
 lost in decontamination sequence.
 <b>「<color=#58a4ef>\uf0ad</color>」</b> - <color=#8080FF>[current]</color>/<color=#8080FF>[max]</color> Generatoren aktiviert.
 <split>Alle Generatoren wurden erfolgreich aktiviert.
-<b>「<color=#58a4ef>\uf0ad</color>」</b> - <color=#58a4ef>Overcharge in 3... 2... 1...</color>
-<b>「<color=#58a4ef>\uf0ad</color>」</b> - <color=#58a4ef>Facility is back in operational mode.</color>
-「<color=#f6b140>⚠️</color>」 - <color=#EC2222>Light Containment Zone</color> decontamination in <color=#EC2222>15 minutes</color>.
-「<color=#f6b140>⚠️</color>」 - <color=#EC2222>Light Containment Zone</color> decontamination in <color=#EC2222>[time] minutes</color>.
-「<color=#f6b140>⚠️</color>」 - <color=#EC2222>Light Containment Zone</color> decontamination in <color=#EC2222>1 minute</color>.
-<color=#f6b140>「⚠️」</color><color=#EC2222>- Light Containment Zone</color> decontamination in <color=#EC2222>30 seconds</color>.
-<b>「<color=#f6b140>🔊</color>」</b> - <color=#EC2222>Light Containment Zone</color> is locked down and ready for decontamination.
-<color=#ff4545>「\uf7ba」</color><color=#EC2222> - ALPHA WARHEAD SEQUENCE ENGAGED <b>|</b> DETONATION IN [time] SECONDS</color>
-<b><color=#ff4545>「❌」</color><color=#EC2222> - DETONATION CANCELLED <b>|</b> RESTARTING SYSTEMS...</color>
-<color=#ff4545>「\uf7ba」</color><color=#EC2222> - DETONATION RESUMED <b>|</b> [time] SECONDS</color>
-terminated by: <color=blue>Marshmallow Man</color>.
+<b>「<color=#58a4ef>\uf0ad</color>」</b> - <color=#58a4ef>Overflow in 3... 2... 1...</color>
+<b>「<color=#58a4ef>\uf0ad</color>」</b> - <color=#58a4ef>Die Einrichtung ist wieder in Betrieb.</color>
+「<color=#f6b140>⚠️</color>」 - <color=#EC2222>Leichtverwahrungzone</color> Dekontamination in <color=#EC2222>15 Minuten</color>.
+「<color=#f6b140>⚠️</color>」 - <color=#EC2222>Leichtverwahrungzone</color> Dekontamination in <color=#EC2222>[time] Minuten</color>.
+「<color=#f6b140>⚠️</color>」 - <color=#EC2222>Leichtverwahrungzone</color> Dekontamination in <color=#EC2222>1 Minute</color>.
+<color=#f6b140>「⚠️」</color><color=#EC2222>- Leichtverwahrungzone</color> Dekontamination in <color=#EC2222>30 Sekunden</color>.
+<b>「<color=#f6b140>🔊</color>」</b> - <color=#EC2222>Leichtverwahrungzone</color> ist abgeriegelt und bereit für die Dekontamination.
+<color=#ff4545>「\uf7ba」</color><color=#EC2222> - ALPHA KAMPFKOPF SEQUENZ AKTIVIERT <b>|</b> DETONATION IN [time] SEKUNDEN</color>
+<b><color=#ff4545>「❌」</color><color=#EC2222> - DETONATION ABGEBROCHEN <b>|</b> STARTE SYSTEME NEU...</color>
+<color=#ff4545>「\uf7ba」</color><color=#EC2222> - DETONATION FORTGESETZT <b>|</b> [time] SEKUNDEN</color>
+terminiert durch: <color=blue>Blauer Marshmallow Mann</color>.
 <b>「<color=#58a4ef>\uf3ed</color>」</b> - <color=#70C3FF>Nine-Tailed Fox</color> Backup Unit <b>|</b> <color=#0096FF>Designation: [designation]</color> <b>|</b>
-<b>「<color=#58a4ef>\uf06a</color>」</b> - <color=#5B6370>Security Alert</color> <b>|</b> <color=#066328>Chaos Insurgency</color> activity detected.
-<b>「<color=#58a4ef>\uf06a</color>」</b> - Attention <color=#5B6370>security personnel</color> <b>|</b> <color=#008F1C>Chaos Insurgency</color> spotted at Gate A.
+<b>「<color=#58a4ef>\uf06a</color>」</b> - <color=#5B6370>Sicherheitsalarm</color> <b>|</b> <color=#066328>Chaos Insurgency</color> aktivität festgestellt.
+<b>「<color=#58a4ef>\uf06a</color>」</b> - Achtung <color=#5B6370>Sicherheitspersonal</color> <b>|</b> <color=#008F1C>Chaos Insurgency</color> bei Gate A gesichtet.
