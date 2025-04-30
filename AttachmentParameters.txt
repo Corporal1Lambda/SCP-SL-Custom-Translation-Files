@@ -1,0 +1,24 @@
+Zoom beim Zielen
+---
+Schaden
+Durchschlagskraft
+Feuerrate
+Rückstoß
+Rückstoß beim Zielen
+Kugelgenauigkeit
+Hüftfeuergenauigkeit
+Zielgenauigkeit
+Ausrüstungszeit
+Schusslautstärke
+Magazinkapazität
+Ausrüstungszeit
+Nachladezeit
+---
+Zielgeschwindigkeit
+Schrotkugelstreuung
+Gleichmäßigkeit des Schussmusters
+Anzahl der Geschosse
+Nachladegeschwindigkeit
+---
+Genauigkeit beim Sprinten
+Schnelligkeit des Abzugs
