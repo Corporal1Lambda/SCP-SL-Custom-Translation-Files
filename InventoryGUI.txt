@@ -9,7 +9,7 @@ FALLEN LASSEN:
 Helm-Panzerung
 Schutzwesten-Panzerung
 Ausdauerverbrauch
-Bewegungsgeschwindigkeit
+Bewegungsgeschwindig.
 Gegenstand-Limits:
 Munitions-Limits:
 {0} insgesamt
