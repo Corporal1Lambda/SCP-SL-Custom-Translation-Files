@@ -4,8 +4,8 @@
 <color=#8080FF>-</color>
 <color=red>\uf4e2 KEINE KAMERA</color>
 <color=#8080FF>📡</color> GEHE ZU: <color=#8080FF>[camera]</color> (<color=#8080FF>[cost]</color>)
-<size=150%>❌ ERROR ❌</size>\nNICHT GENUG HILFSENERGIE
-ETA: [time] seconds
+<size=150%>❌ FEHLER ❌</size>\nNICHT GENUG HILFSENERGIE
+ETA: [time] Sekunden
 ⛔ ZUGRIFF VERWEIGERT - HÖHERE STUFE BENÖTIGT ⛔
 <size=150%>❌ FEHLER ❌</size>\nKAMERA INVALID
 <size=150%>⛔ FEHLER ⛔</size>\nTÜRZUGRIFF VERWEIGERT
