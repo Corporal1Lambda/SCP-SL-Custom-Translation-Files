@@ -14,7 +14,7 @@ Magazinkapazität
 Ausrüstungsdauer
 Nachladedauer
 ---
-Aiming speed
+Zielgeschwindigkeit
 Pellet spread
 Pattern consistency
 Projectiles number
