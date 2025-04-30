@@ -1,5 +1,5 @@
-\uf56b - Universell feindlich:Die Menschen können nicht entkommen. SCP-1507-Instanzen können ihre Ziele durch die Umgebung aufspüren.
-\uf0c0 - Der Schwarm:SCP-1507-Instanzen regenerieren ihre Gesundheit, solange sie in einem Schwarm bleiben.
-Hacken:Versenke deinen Plastikschnabel in einem Ziel und füge ihm tiefe Wunden zu. Du kannst verschlossene Türen gewaltsam öffnen, indem du sie aufpickst.
-\uf2ce - Schrei:Lass einen Schrei los, der Ziele in der Nähe erschüttert. Diese Fähigkeit kann verwendet werden, um kürzlich verstorbene Flamingos wiederzubeleben.
+<b>\uf56bUniversell feindlich</b>:Die Menschen können nicht entkommen. SCP-1507-Instanzen können ihre Ziele durch die Umgebung aufspüren.
+<b>\uf0c0 - Der Schwarm</b>:SCP-1507-Instanzen regenerieren ihre Gesundheit, solange sie in einem Schwarm bleiben.
+<b> - Hacken</b>:Versenke deinen Plastikschnabel in einem Ziel und füge ihm tiefe Wunden zu. Du kannst verschlossene Türen gewaltsam öffnen, indem du sie aufpickst.
+<b>\uf2ce - Schrei</b>:Lass einen Schrei los, der Ziele in der Nähe erschüttert. Diese Fähigkeit kann verwendet werden, um kürzlich verstorbene Flamingos wiederzubeleben.
 Schrei [key]
