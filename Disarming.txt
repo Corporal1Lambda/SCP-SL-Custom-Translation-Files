@@ -1,2 +1,2 @@
-<color=#ff80bc>You have been detained by <b>[player]</b></color>
-<color=red>an administrator</color>
+<color=#ff80bc>Du wurdest von <b>[player]</b> gefesselt.</color>
+<color=red>einem Administrator</color>
