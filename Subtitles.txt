@@ -26,6 +26,6 @@ lost in decontamination sequence.
 <b><color=#ff4545>「❌」</color><color=#EC2222> - DETONATION ABGEBROCHEN <b>|</b> STARTE SYSTEME NEU...</color>
 <color=#ff4545>「\uf7ba」</color><color=#EC2222> - DETONATION FORTGESETZT <b>|</b> [time] SEKUNDEN</color>
 terminiert durch: <color=blue>Blauer Marshmallow Mann</color>.
-<b>「<color=#58a4ef>\uf3ed</color>」</b> - <color=#70C3FF>Nine-Tailed Fox</color> Backup Unit <b>|</b> <color=#0096FF>Designation: [designation]</color> <b>|</b>
+<b>「<color=#58a4ef>\uf3ed</color>」</b> - <color=#70C3FF>Nine-Tailed Fox</color> Backup Einheit <b>|</b> <color=#0096FF>Codewort: [designation]</color> <b>|</b>
 <b>「<color=#58a4ef>\uf06a</color>」</b> - <color=#5B6370>Sicherheitsalarm</color> <b>|</b> <color=#066328>Chaos Insurgency</color> aktivität festgestellt.
 <b>「<color=#58a4ef>\uf06a</color>」</b> - Achtung <color=#5B6370>Sicherheitspersonal</color> <b>|</b> <color=#008F1C>Chaos Insurgency</color> bei Gate A gesichtet.
