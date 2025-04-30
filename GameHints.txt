@@ -1,6 +1,6 @@
-<color=red>Access denied</color>
-Reached the limit of <color=#ff80bc>[type] ammo</color> (<color=#ff80bc>[max_type_count] rounds</color>).
-<b>Already</b> reached the limit of <color=#ff80bc>[type] ammo</color> (<color=#ff80bc>[max_type_count] rounds</color>).
-Reached the limit of <color=#ff80bc>[type]</color> (<color=#ff80bc>[max_type_count] items</color>).
-<b>Already</b> reached the limit of <color=#ff80bc>[type]</color> (<color=#ff80bc>[max_type_count] items</color>).
-Only <color=#ff80bc>[max_item_count] items</color> can be carried.
+<color=red>Zugang verweigert</color>
+Munitionslimit für <color=#ff80bc>[type] Munition</color> erreicht (<color=yellow>[max_type_count] Schüsse</color>).
+Munitionslimit für <color=#ff80bc>[type] Munition</color> ist <b>schon</b> erreicht (<color=yellow>[max_type_count] Schüsse</color>)!
+Itemlimit für <color=#ff80bc>[type]</color> erreicht (<color=yellow>[max_type_count] Items</color>).
+Itemlimit für <color=#ff80bc>[type]</color> ist <b>schon</b> erreicht (<color=yellow>[max_type_count] Items</color>).
+Du kannst nur <color=#ff80bc>[max_item_count] Gegenstände</color> tragen.
