@@ -1,5 +1,5 @@
-\uf56b - Universally Hostile:Humans have nowhere to run. SCP-1507 instances can detect their targets through the environment.
-\uf0c0 - The Swarm:SCP-1507 instances will regenerate their health for as long as they remain in a flock.
-Peck:Sink your plastic beak into a target, inflicting deep wounds. You can forcefully open locked doors by pecking them.
-\uf2ce - Vocalize:Let out a squawk, concussing nearby targets. The ability can be used to revive recently-deceased flamingos.
-Vocalize [key]
+\uf56b - Universell feindlich:Die Menschen können nicht entkommen. SCP-1507-Instanzen können ihre Ziele durch die Umgebung aufspüren.
+\uf0c0 - Der Schwarm:SCP-1507-Instanzen regenerieren ihre Gesundheit, solange sie in einem Schwarm bleiben.
+Hacken:Versenke deinen Plastikschnabel in einem Ziel und füge ihm tiefe Wunden zu. Du kannst verschlossene Türen gewaltsam öffnen, indem du sie aufpickst.
+\uf2ce - Schrei:Lass einen Schrei los, der Ziele in der Nähe erschüttert. Diese Fähigkeit kann verwendet werden, um kürzlich verstorbene Flamingos wiederzubeleben.
+Schrei [key]
