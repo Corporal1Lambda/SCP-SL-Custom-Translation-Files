@@ -1,2 +1,2 @@
-Laser is visible to others
-No bonus damage for headshots
+Laser ist für Andere sichtbar!
+Kein Bonusschaden für Kopfschüsse.
