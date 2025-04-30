@@ -7,8 +7,8 @@ Nachladen
 Rennen
 Voice Chat
 Schleichen
-Forwärts Bewegen
-Rüchwärts Bewegen
+Vorwärts Bewegen
+Rückwärts Bewegen
 Links Bewegen
 Rechts Bewegen
 Spielerliste
