@@ -1,8 +1,8 @@
-ATTACK COOLDOWN
-Unavailable on Surface.
-Unavailable during elevator travel.
-An unstoppable force capable of easily bypassing any door in the facility.
-<b>\uf714 - Capture</b>:Ensnares a human in close distance, entrapping them within the pocket dimension — a deadly prison dictated by your rule. The joy of capturing new prey replenishes Vigor.
-<b>\uf21d - Stalk</b>:Submerges you into the floor. Move around quickly and invisibly, regenerate, and prepare to strike your prey. Uses Vigor, which regenerates slowly while Stalk is inactive.
-<b>\uf279 - Hunter’s Atlas</b>:Quickly move to a nearby room, at a great Vigor cost. Such movement is instinct to you, having prowled through the Site's corridors for as long as you have.
-<b>\uf728 - Blissful Agony</b>:While Stalking, you can only see injured humans. The greater their agony, the greater the distance you can spot them from. Escapees of the pocket dimension are traumatized, leaving them visible from anywhere.
+ANGRIFF-COOLDOWN
+Nicht verfügbar auf der Surface.
+Nicht verfügbar während Aufzugsfahrt.
+Eine unaufhaltsame Kraft, die in der Lage ist, jede Tür in der Einrichtung problemlos zu überwinden.
+<b>\uf714 - Gefangennahme</b>:Fängt einen Menschen aus nächster Nähe und sperrt ihn in die Pocket Dimension ein - ein tödliches Gefängnis, das durch deine Regeln bestimmt wird. Die Freude am Fangen neuer Beute füllt die Vitalität wieder auf.
+<b>\uf21d - Stalk</b>:Taucht dich in den Boden ein. Beweg dich schnell und unsichtbar, regeneriere dich und bereite dich darauf vor, deine Beute anzugreifen. Benötigt Vitalität, die sich langsam regeneriert, während Stalk inaktiv ist.
+<b>\uf279 - Atlas des Jägers</b>:Bewege dich schnell in einen nahe gelegenen Raum, was dich viel Vitalität kostet. Solche Bewegungen sind dir vertraut, da du schon so lange durch die Gänge der Einrichtung schleichst.
+<b>\uf728 - Glückselige Qualen</b>:Während du dich im Stalk-Modus befindest, kannst du nur verletzte Menschen sehen. Je größer ihr Leid ist, desto größer ist die Entfernung, aus der du sie sehen kannst. Entflohene aus der Pocket Dimension sind traumatisiert, sodass sie von überall aus sichtbar sind.
