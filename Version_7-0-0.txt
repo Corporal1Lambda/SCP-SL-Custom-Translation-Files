@@ -1,5 +1,5 @@
 DU BIST GESTORBEN - SKILLISSUE
-Drücke {KEYBINDING_INTERACTION} um das <color=yellow>Waffen Manager Tablet</color> zu platzieren.
-Drücke {KEYBINDING_INTERACTION} um das <color=yellow>Weapon Manager Tablet</color> aufzuheben.
-Diese <color=yellow>workstation</color> hat bereits das <color=yellow>Weapon Manager Tablet</color> von jemand anderem verbundem.
-Du brauchst ein <color=yellow>Waffen Manager Tablet</color> um diese <color=yellow>workstation</color> zu benutzen.
+Drücke {KEYBINDING_INTERACTION} um das <color=yellow>Waffenbearbeitungstablet</color> einzulegen.
+Drücke {KEYBINDING_INTERACTION} um das <color=yellow>Waffenbearbeitungstablet</color> aufzunehmen.
+In dieser <color=yellow>Werkbank</color> befindet sich das <color=yellow>Waffenbearbeitungstablet</color> von jemand anderem.
+Du brauchst ein <color=yellow>Waffenbearbeitungstablet</color> um diese <color=yellow>Werkbank</color> zu nutzen.
