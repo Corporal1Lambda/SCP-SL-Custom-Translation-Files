@@ -50,7 +50,7 @@
 53~<color=#ff0000>\uf05b A7 \uf05b\n<size=75%>Vollautomatischer Vollschaft</size></color>
 54~<color=#FF8E00>🏮 Lantern 🏮</color>~Eine klassische Öllaterne, mit dem Namen "Daniel".
   55~<color=red>\uf729 SCP-1344-03 \uf729</color>~<size=80%><color=#ffb4ff>\uf06e</color> Sehe andere durch Wände.</size>\n\n<b>NICHT GEWALTSAM ENTFERNEN!</b>
-56~\uf2dc Snowball \uf2dc~「Normal」: 15 DMG\n「Aufgeladen」: 30 DMG\nx2 Kopfschuss DMG\n<color=#8079FF>\ue06c</color> Umgeht <color=#8079FF>Hume Schild</color>
+56~\uf2dc Schneeball \uf2dc~「Normal」: 15 DMG\n「Aufgeladen」: 30 DMG\nx2 Kopfschuss DMG\n<color=#8079FF>\ue06c</color> Umgeht <color=#8079FF>Hume Schild</color>
 57~Coal~Du bist auf der unartigen Liste!
 58~Coal?~Teleportiert dich zum <color=red>SCP</color>
 59~<color=#FF59CA>📼 Kassettenspieler 📼</color>~Begin audio prompt in 3..2..1..\n Erschafft die Horde aus:\n<color=#FF59CA>SCP-1507</color>
