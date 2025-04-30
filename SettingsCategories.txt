@@ -1,6 +1,6 @@
 Video \uf03d
 Audio 🔉
-Controls 🎮
+Steuerung 🎮
 Interface \uf26c
-Other \uf3ed
-Server Specific \uf233
+Andere \uf3ed
+Server Spezifisch \uf233
