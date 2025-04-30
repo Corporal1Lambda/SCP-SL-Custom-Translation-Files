@@ -40,19 +40,19 @@
 43~<color=#ff0000>💡 SCP-2176 👻</color>~<color=#f5f17c>💡</color> Stromausfall - 13s.\n<color=#b97cf5>🚪</color> Quarantäne - 13s.\n<color=#7DF9FF>⚡</color> Aktiviert Tesla Gate.\n<color=#8080FF>💻</color> Deaktiviert <color=#8080FF>SCP-079</color> - 8s.\n\n<size=75%>Wenn ein Stromausfall oder Quarantäne herrscht wird SCP-2176 das Gegenteil tun.</size>
 44~<color=#ff0000>⚱ SCP-244-A ⚱</color>~<b>☁️</b> Erzeugt eiskalten Nebel.\n❄️ Nebel löst Hypothermie aus.
 45~<color=#ff0000>⚱ SCP-244-B ⚱</color>~<b>☁️</b> Erzeugt eiskalten Nebel.\n❄️ Nebel löst Hypothermie aus.
-46~<color=red>\uf492 SCP-1853 \uf492~<size=80%><color=#95D600>\uf05b</color> Senkt ADS Ungenauigkeit - 30%.\n<color=#95D600>\uf05b</color> Rückstoßsenkung - 25%.\n<color=#95D600>\uf05b</color> Reduced reload time - 25%.\n<color=#95D600>💳</color> Picking up items increased - 60%.\n\n</size><size=75%>Increases performance when your life is in danger.\nDO NOT MIX WITH:\n<color=red>SCP-207</color>\n<color=#004B93>O-207-914</color></size>
-47~<color=#003DCA>\uf05b 3-X Particle Disruptor \uf05b\n<size=75%>Experimental Fusion Rifle</size></color>
-48~<color=#ff0000>\uf05b COM-45 \uf05b\n<size=75%>Triple Full-auto Pistol</size></color>
-49~<color=#ff0000>🔊 SCP-1576 🔊</color>~👻 Talk with the dead.\n\uf2f2 Communication time - 30s.
-50~<color=#ff0000>🍭 Jailbird 🍭</color>~<size=75%>It's a… Stun Baton!?</size>\n\nSwing 「LMB」: 50 DMG\nCharge 「RMB」: 200 DMG\n<color=#8079FF>\ue06c</color> Penetrates <color=#8079FF>Hume Shield</color>.
-51~<color=#004B93>\uf72f O-207-914 \uf72f</color>~<color=#767676>🐌</color> <size=90%>Decreases movement speed</size>\n<color=#f57caa>✚</color> Regenerates HP\n<color=#55da09>⛨</color> Provides 75 AHP\n\n<size=75%>Will save your life in a pinch.\nDO NOT MIX WITH:\n<color=red>SCP-1853</color>\n<color=red>SCP-207</color></size>
-52~<color=#003DCA>\uf05b MTF-Ԑ-11-MG \uf05b\n<size=75%>Facility Recovery-Machine Gun</size></color>
-53~<color=#ff0000>\uf05b A7 \uf05b\n<size=75%>Full-auto Stock</size></color>
-54~<color=#FF8E00>🏮 Lantern 🏮</color>~A classic oil lantern, inscribed with the name "Daniel".
-55~<color=red>\uf729 SCP-1344-03 \uf729</color>~<size=80%><color=#ffb4ff>\uf06e</color> See players through walls.</size>\n\n<b>DO NOT REMOVE</b>
-56~\uf2dc Snowball \uf2dc~「Normal」: 15 DMG\n「Charged」: 30 DMG\nx2 Headshot DMG\n<color=#8079FF>\ue06c</color> Penetrates <color=#8079FF>Hume Shield</color>
-57~Coal~You are on the naughty list!
-58~Coal?~Teleports player to the <color=red>SCP</color>
-59~<color=#FF59CA>📼 Tape Player 📼</color>~Begin audio prompt in 3..2..1..\n Summons the horde of:\n<color=#FF59CA>SCP-1507</color>
-61~<color=#6f32b5>\uf09d Surface Pass \uf09d</color>~Single-use access pass for opening exit gates.
-62~<color=#ff0000>\uf05b SCP-127 \uf05b\n<size=75%>The living gun</size></color>
+46~<color=red>\uf492 SCP-1853 \uf492~<size=80%><color=#95D600>\uf05b</color> Senkt ADS Ungenauigkeit - 30%.\n<color=#95D600>\uf05b</color> Rückstoßsenkung - 25%.\n<color=#95D600>\uf05b</color> Reduzierte Nachladezeit - 25%.\n<color=#95D600>💳</color> Aufheben beschleunigt - 60%.\n\n</size><size=75%>Verbessert Leistung je mehr Lebensgefahr besteht.\nNICHT MISCHEN MIT:\n<color=red>SCP-207</color>\n<color=#004B93>O-207-914</color></size>
+47~<color=#003DCA>\uf05b 3-X Partikel Störer \uf05b\n<size=75%>Experimentelle Fusionswaffe</size></color>
+48~<color=#ff0000>\uf05b COM-45 \uf05b\n<size=75%>Dreifach Pistole - Vollautomatik</size></color>
+49~<color=#ff0000>🔊 SCP-1576 🔊</color>~👻 Sprich mit den Toten.\n\uf2f2 Kommunikationsdauer - 30s.
+50~<color=#ff0000>🍭 Jailbird 🍭</color>~<size=75%>Ein Elektroschockstab!?</size>\n\nSchlag 「LMB」: 50 DMG\nAufgeladen 「RMB」: 200 DMG\n<color=#8079FF>\ue06c</color> Umgeht <color=#8079FF>Hume Schild</color>.
+51~<color=#004B93>\uf72f O-207-914 \uf72f</color>~<color=#767676>🐌</color> <size=90%>Verlangsamt Geschwindigkeit</size>\n<color=#f57caa>✚</color> Regeneriert HP\n<color=#55da09>⛨</color> Gibt 75 AHP\n\n<size=75%>Kann dein Leben retten.\nNICHT MISCHEN MIT:\n<color=red>SCP-1853</color>\n<color=red>SCP-207</color></size>
+52~<color=#003DCA>\uf05b MTF-Ԑ-11-MG \uf05b\n<size=75%>Standort-Rückeroberungsmaschinenpistole</size></color>
+53~<color=#ff0000>\uf05b A7 \uf05b\n<size=75%>Vollautomatischer Vollschaft</size></color>
+54~<color=#FF8E00>🏮 Lantern 🏮</color>~Eine klassische Öllaterne, mit dem Namen "Daniel".
+  55~<color=red>\uf729 SCP-1344-03 \uf729</color>~<size=80%><color=#ffb4ff>\uf06e</color> Sehe andere durch Wände.</size>\n\n<b>NICHT GEWALTSAM ENTFERNEN!</b>
+56~\uf2dc Snowball \uf2dc~「Normal」: 15 DMG\n「Aufgeladen」: 30 DMG\nx2 Kopfschuss DMG\n<color=#8079FF>\ue06c</color> Umgeht <color=#8079FF>Hume Schild</color>
+57~Coal~Du bist auf der unartigen Liste!
+58~Coal?~Teleportiert dich zum <color=red>SCP</color>
+59~<color=#FF59CA>📼 Kassettenspieler 📼</color>~Begin audio prompt in 3..2..1..\n Erschafft die Horde aus:\n<color=#FF59CA>SCP-1507</color>
+61~<color=#6f32b5>\uf09d Oberflächenticket \uf09d</color>~Öffnet die Ausgangstore einmal.
+62~<color=#ff0000>\uf05b SCP-127 \uf05b\n<size=75%>Die lebende Waffe.</size></color>
