@@ -1,0 +1,46 @@
+Nichts~Standardoption ohne Effekte.
+Offene Visierung~Kimme und Korn deiner Waffe, ein einfaches und leichtes Visier.
+Reflexvisier~Ein Reflexvisier ohne Zoom, ausgestattet mit einem kleinen leuchtenden Punkt, der das Zielen vereinfacht.
+Holovisier~Holografisches Visier ohne Zoom, am effektivsten in Nahkämpfen.
+Nachtsichtvisier~Teleskopartiges Visier, ausgestattet mit einem Nachtsichtgerät. Schwer, aber effektiv in allen Lichtverhältnissen.
+Munitionszähler~Offene Visierung mit integriertem Munitionszähler.
+Zielfernrohr~Schweres Visier, welches optimalen optischen Zoom bietet. Perfekt für große Entfernungen, sorgt aber für Tunnelblick.
+Standard Schaft~Konventioneller Schaft, liefert bessere Kontrolle über die Waffe beim Zielen.
+Verlängerter Schaft~liefert bessere Kontrolle über die Waffe beim Zielen, erhöht allerdings die Ausrüstungszeit.
+Eingezogener Schaft~Macht die Waffe kompakter, dadurch wird die Mobiliät erhöht.
+Leichter Schaft~Reduziert das Gewicht der Waffe, wodurch allerdings der Rückstoß beim Zielen deutlich höher wird.
+Schwerer Schaft~Erhöhtes Gewicht verringert die Mobilität, dadurch verringert sich allerdings der Rückstoß beim Zielen.
+Rückstoßdämpfender Schaft~Mit einem System ausgestatteter Schaft, welches den Rückstoß zwischen einzelnen Schüssen kompensiert.
+Vordergriff~Vertikaler Vordergriff. Erleichtert es, den Rückstoß zu kontrollieren.
+Laser~Gibt einen Referenzpunkt auf das Ziel, was beim Schießen aus der Hüfte hilft, allerdings auch deine Position preisgibt.
+Taschenlampe~Einschaltbare Lichtquelle. Erhöht zwar das Gewicht deiner Waffe, kann aber in dunklen Räumen dein Leben retten.
+Munitionszähler~Gerät, welches deine Munition zählt. Experimentelle Technologie, die sich als nützlich bewiesen hat, insbesondere bei großen Magazinen.
+Standard Lauf~Konventioneller Lauf ohne Mündungsvorrichtung.
+Verlängerter Lauf~Verbessert die Feuerkraft, allerdings auf Kosten von Mobilität durch erhöhtes Gewicht and größerer Waffenlänge.
+Schalldämpfer~Reduziert die Lautstärke von Schüssen, erhöht aber die Länge und das Gewicht der Waffe.
+Mündungsfeuerdämpfer~Eliminiert das Mündungsfeuer. Macht das Schießen in dunkler Umgebung einfacher.
+Mündungsbremse~Rückstoßkompensator. Nutzt die Energie der Verbrennungsgase beim Schießen, um den Rückstoß zu verringern. Erhöht die Lautstärke der Schüsse.
+Mündungsverstärker~Erhöht die Feuerrate, resultiert in höherem Schaden pro Sekunde. Die Waffe ist dadurch schwerer zu kontrollieren.
+FMJ Magazin~Standardmagazin mit Vollmantelmunition.
+AP Magazin~Standardmagazin mit panzerbrechender Munition.
+JHP Magazin~Standardmagazin mit Hohlspitzmunition.
+Erweitertes FMJ Magazin~Großes Magazin mit Vollmantelmunition.
+Erweitertes AP Magazin~Großes Magazin mit panzerbrechender Munition.
+Erweitertes JHP Magazin~Großes Magazin mit Hohlspitzmunition.
+FMJ Trommelmagazin~Trommelmagazin mit Vollmantelmunition.
+AP Trommelmagazin~Trommelmagazin mit panzerbrechender Munition.
+JHP Trommelmagazin~Trommelmagazin mit Hohlspitzmunition.
+Kleines FMJ Magazin~Kleines Magazin mit Vollmantelmunition.
+Kleines AP Magazin~Kleines Magazin mit panzerbrechender Munition.
+Kleines JHP Magazin~Kleines Magazin mit Hohlspitzmunition.
+5-Schuss Zylinder~Enthält weniger Kugeln, aber ist in der Lage, mehr Schaden gegen gepanzerte Ziele auszurichten.
+6-Schuss Zylinder~Der Klassiker.
+7-Schuss Buckshot-Zylinder~Gefüllt mit schrotähnlichen Kugeln, effektiv im Nahkampf.
+Karabinerempfänger~Regulärer Karabinerempfänger, welcher einen guten Kompromiss zwischen Feuerkraft und Mobilität bietet.
+Gewehrempfänger~Größerer Empfänger, welcher die Feuerkraft und Genauigkeit erhöht, allerdings verringert das schwere Gassystem die Schussrate.
+Verkürzter Lauf~Kürzere Version des Standardlaufes, verringert die Ausrüstungszeit und erhöht die Mobilität.
+Choke~Erhöhte Streuung, aber verbesserte Gleichmäßigkeit des Schussmusters.
+Verlängerter Lauf~Verringert die Streuung minimal, erhöht allerdings das Gewicht und die Länge der Waffe.
+Kein Schaft~Kurze Waffen machen dich sehr mobil, aber den Schaft eines Gewehres mit hohem Rückstoß zu entfernen, ist nicht immer die beste Idee.
+Einzelschuss-System~Standard System. Ein Abzug führt zu einem Schuss.
+Doppelschuss-System~Modifizierter Abzugsmechanismus, der beide Abzüge auf einmal betätigt.
