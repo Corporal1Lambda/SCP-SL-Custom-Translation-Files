@@ -1,8 +1,8 @@
-Gameplay
-Weapons
-Movement
-Hotkeys
-Comms
+Spiel
+Waffen
+Bewegung
+Schnellzugriffstasten
+Sprache
 System
-Unbindable
+Unbelegbar
 SCP-079
