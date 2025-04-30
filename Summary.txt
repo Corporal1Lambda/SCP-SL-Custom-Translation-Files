@@ -9,8 +9,8 @@
 Site-02 is under certain control, but not without cost. The victor is undetermined.
 <color=#FF8E00>🏃 [summary_d_escaped] D-Klasse(n) haben überlebt</color>
 <color=#FFFF7C>👓 [summary_s_escaped] Wissenschaftler haben überlebt</color>
-<color=#EC2222>Alpha Kampfkopf - EXPLODIERT. Bestätigte Auslöschungen: [summary_warhead_kills].</color>
-<color=#EC2222>Alpha Kampfkopf</color> - Keine Detoantion. Systeme - Funktioinal.
+<color=#EC2222>Alpha Sprengkopf - EXPLODIERT. Bestätigte Auslöschungen: [summary_warhead_kills].</color>
+<color=#EC2222>Alpha Sprengkopf</color> - Keine Detoantion. Systeme - Funktioinal.
 Der Einbruch dauerte [summary_round_minutes] Minuten und [summary_round_seconds] Sekunden.
 <color=#EC2222>🌀 [summary_scp_terminated] wiedereingefangene SCP Subjekte</color>
 Nächste Runde in [summary_next_round_countdown] Sekunden.
