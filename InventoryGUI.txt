@@ -16,7 +16,7 @@ Munitions-Limits:
 Durchschlagskraft
 Genauigkeit beim Sprinten
 Klicke <color=#ff80bc><b>[key]</b></color> um zu kichern
-<voffset=-2.5em><size=150%>Ladunge: <size=175%><b>[percent]</b></size></voffset>
+<voffset=-2.5em><size=150%>BATTERIE: <size=175%><b>[percent]</b></size></voffset>
 <voffset=-2.5em><size=150%>Munition: <size=175%><b>[rem]</b></size></voffset>
 <size=750%>\n</size>Halte <b>[primary]</b> zum Schnellfeuern.
 Halte <b>[secondary]</b> für aufgeladenen Ladungsstoß.
