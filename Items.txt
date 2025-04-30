@@ -9,7 +9,7 @@
 8~<color=#003DCA>💳 MTF Kapitän-Zugangskarte 💳</color>
 9~<color=#ba1846>💳 Standortleiter-Zugangskarte 💳</color>
 10~<color=#008F1C>📟 Super-Gameboy 📟</color>
-11~<color=#FFFFFF>💳 0̵̳̩̏̓͝ͅ5̶̨̛̩̺̂̉-̶̢̞̲̗̂̏L̷͔͐̉̅̈́ę̷̜͈̍̈́v̵͙̘̘̼̈́͌̑͝e̶̟̞͌͝l̸̮̮̈́̉͝ Zugangskarte 💳</color>
+11~<color=#FFFFFF>💳 ０５－Ｌｅｖｅｌ 💳</color>
 12~<color=#5B6370>📻 Funkgerät 📻</color>~Erlaubt Kommunikation auf großer Distanz.\n\nSR - 108m\nMR - 180m\nLR - 1080m\nUR - 7200m
 13~<color=#FFFF7C>\uf05b COM-15 \uf05b</color>
 14~<color=#FFFF7C>\uf0fa Erste-Hilfe-Set \uf0fa</color>~<color=#f57caa>💗</color> Heilt 65 HP.
