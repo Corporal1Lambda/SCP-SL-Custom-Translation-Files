@@ -1,7 +1,7 @@
-Report Player
-Target:\nPlayer ID:\nDescription:
-Cancel
-Report for breaking server rules
-Report for cheating or raiding
-REPORTING
-Please wait...
+Spieler melden
+Ziel:\nPlayer ID:\nGrund:
+Abbrechen
+Melden für das Brechen von Serverregeln
+Melden für Cheating oder Raiding
+WIRD GEMELDET
+Bitte warten...
