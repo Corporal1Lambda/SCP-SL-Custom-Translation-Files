@@ -1,5 +1,5 @@
-Light Source
-Ammo Counter
-Flash Suppression
-Night Vision
-Buckshot
+Lichtquelle
+Munitionszähler
+Mündungsfeuerunterdrückung
+Nachtsicht
+Schrotkugeln
