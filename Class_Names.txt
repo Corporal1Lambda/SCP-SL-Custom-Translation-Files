@@ -1,6 +1,6 @@
 <color=red>「SCP-173」</color>
 <color=#ff8000>Klasse-D</color>
-「Spectator」
+「Zuschauer」
 <color=red>「SCP-106」</color>
 <color=#00d9ff>E-11 Spezialist</color>
 <color=red>「SCP-049」</color>
