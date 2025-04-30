@@ -47,7 +47,7 @@ Blutflecken
 Target Display
 • Exklusiver Vollbildschirm: Das Spiel hat die volle Kontrolle über den Bildschirm.\n- Randloses Fenster: Erzeugt einen Vollbild-Effekt, indem das Fenster so gedehnt wird, dass es den gesamten Bildschirm abdeckt. Verschiedene Optionen steuern, ob das Spielfenster sichtbar bleibt oder automatisch minimiert wird, wenn es den Fokus verliert (z. B. wenn der Benutzer ein anderes Fenster auswählt).
 Grafik-API
-Ändert die 3D-Grafikbibliothek, die vom Spiel verwendet wird. Diese Option ist experimentell und wir empfehlen, sie auf Auto zu belassen, es sei denn, Sie versuchen, ein bestimmtes Rendering- oder Leistungsproblem mit schlecht unterstützter Hardware zu lösen.
+Ändert die 3D-Grafikbibliothek, die vom Spiel verwendet wird. Diese Option ist experimentell und wir empfehlen, sie auf Auto zu belassen, es sei denn, du versuchst, ein bestimmtes Rendering- oder Leistungsproblem mit schlecht unterstützter Hardware zu lösen.
 Änderungen werden nach einem Neustart des Spiels übernommen.
 Nicht verfügbar, da eine Grafik-API durch Startparameter erzwungen wurde.
 Blutflecken Limit
