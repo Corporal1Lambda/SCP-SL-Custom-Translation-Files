@@ -1,19 +1,19 @@
 <b>Die Runde ist beendet!</b>
 <color=#EC2222>「SCPS GEWINNEN」</color>
-<size=85%><color=#0096FF>「FOUNDATION GEWINNT」</color></size>
-<size=85%><color=#008F1C>「INSURGENCY GEWINNT」</color></size>
+<size=85%><color=#0096FF>「STANDORT SIEGT」</color></size>
+<size=85%><color=#008F1C>「INSURGENCY SIEGT」</color></size>
 「UNENTSCHIEDEN」
-<color=#EC2222>The escaped subjects have overrun the facility. Emergency response has been scrambled.</color>
-<color=#0096FF>All threats to safety have been neutralized. Site-02 is secure once again.</color>
-<color=#008F1C>Foundation presence has been exterminated. Operatives standing by for further orders.</color>
-Site-02 is under certain control, but not without cost. The victor is undetermined.
-<color=#FF8E00>🏃 [summary_d_escaped] D-Klasse(n) haben überlebt</color>
+<color=#EC2222>Die entkommenen Subjekte haben die Einrichtung überrannt. Notfallmaßnahmen wurden eingeleitet.</color>
+<color=#0096FF>Alle Sicherheitsbedrohungen wurden neutralisiert. Site-02 ist nun wieder sicher.</color>
+<color=#008F1C>Einrichtung vernichtet. Einsatzkräfte stehen bereit für weitere Befehle.</color>
+Site-02 ist unter bestimmter Kontrolle, aber nicht umsonst. Der Gewinner ist unbestimmt.
+<color=#FF8E00>🏃 [summary_d_escaped] D Klasse(n) haben überlebt</color>
 <color=#FFFF7C>👓 [summary_s_escaped] Wissenschaftler haben überlebt</color>
-<color=#EC2222>Alpha Kampfkopf - EXPLODIERT. Bestätigte Auslöschungen: [summary_warhead_kills].</color>
-<color=#EC2222>Alpha Kampfkopf</color> - Keine Detoantion. Systeme - Funktioinal.
-Der Einbruch dauerte [summary_round_minutes] Minuten und [summary_round_seconds] Sekunden.
+<color=#EC2222>Alpha Sprengkopf - DETONIERT. Bestätigte Terminierungen: [summary_warhead_kills].</color>
+<color=#EC2222>Alpha Sprengkopf</color> - Keine Detonation. Systeme - Funktinal.
+Der Notfall dauerte [summary_round_minutes] Minuten und [summary_round_seconds] Sekunden.
 <color=#EC2222>🌀 [summary_scp_terminated] wiedereingefangene SCP Subjekte</color>
 Nächste Runde in [summary_next_round_countdown] Sekunden.
-<color=#EC2222>Die SCPs haben [summary_scpfrags] entitäten umgebracht.</color>
-<size=85%><color=#FF59CA>「FLAMINGOS GEWINNEN」</color></size>
+<color=#EC2222>Die SCPs haben [summary_scpfrags] Entitäten umgebracht.</color>
+<size=85%><color=#FF59CA>「FLAMINGOS SIEGEN」</color></size>
 <color=#FF59CA>Alle anderen Teams wurden ausgelöscht. Die Flamingos haben haushoch gewonnen.</color>

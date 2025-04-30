@@ -24,7 +24,7 @@ Globales Abzeichen präferieren
 Lokales Abzeichen präferieren
 Globales Abzeichen - Sichtbarkeitspräferenz
 Lokales Abzeichen - Sichtbarkeitspräferenz
-Von SCPs abmelden
-Wenn diese Option aktiviert ist, werden Sie nicht als SCP erscheinen. Falls jedoch nicht genügend Spieler für SCP angemeldet sind, könnten Sie dennoch als einer spawnen.
+Ich möchte kein SCP sein
+Wenn diese Option aktiviert ist, wirst du kein SCP. Falls jedoch nicht genügend Spieler für SCP sein möchten, könntest du dennoch als einer spawnen.
 Anmelden
 Abmelden

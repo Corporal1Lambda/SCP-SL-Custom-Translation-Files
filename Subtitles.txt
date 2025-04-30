@@ -1,11 +1,11 @@
 <b>「<color=#58a4ef>\uf3ed</color>」</b> - <color=#0096FF>MTF Einheit Epsilon-11</color> <b>|</b> <color=#003DCA>Ziel: [designation]</color> <b>|</b> 
 <color=#EC2222>[count] SCPs</color>.
 <color=#EC2222>1 SCP</color>.
-<color=#EC2222>lasse achtung walten</color>.
+<color=#EC2222>Vorsicht!</color>.
 terminiert <b>|</b> Sterbegrund unbekannt.
 terminiert durch: <color=#EC2222>SCP-[scp]</color>.
 terminiert durch: <color=#f5650a>Automatic Sicherheitssystem</color>.
-terminiert durch: <color=#EC2222>Alpha Kampfkopf</color>.
+terminiert durch: <color=#EC2222>Alpha Sprengkopf</color>.
 eindämmung durch: <color=#FFFF7C>Wissenschaftler</color>.
 eindämmung durch: <color=#FF8E00>Klasse-D Personal</color>.
 eindämmung durch: <color=#008F1C>Chaos Insurgency</color>.
@@ -22,7 +22,7 @@ lost in decontamination sequence.
 「<color=#f6b140>⚠️</color>」 - <color=#EC2222>Leichtverwahrungzone</color> Dekontamination in <color=#EC2222>1 Minute</color>.
 <color=#f6b140>「⚠️」</color><color=#EC2222>- Leichtverwahrungzone</color> Dekontamination in <color=#EC2222>30 Sekunden</color>.
 <b>「<color=#f6b140>🔊</color>」</b> - <color=#EC2222>Leichtverwahrungzone</color> ist abgeriegelt und bereit für die Dekontamination.
-<color=#ff4545>「\uf7ba」</color><color=#EC2222> - ALPHA KAMPFKOPF SEQUENZ AKTIVIERT <b>|</b> DETONATION IN [time] SEKUNDEN</color>
+<color=#ff4545>「\uf7ba」</color><color=#EC2222> - ALPHA SPRENGKOPF SEQUENZ AKTIVIERT <b>|</b> DETONATION IN [time] SEKUNDEN</color>
 <b><color=#ff4545>「❌」</color><color=#EC2222> - DETONATION ABGEBROCHEN <b>|</b> STARTE SYSTEME NEU...</color>
 <color=#ff4545>「\uf7ba」</color><color=#EC2222> - DETONATION FORTGESETZT <b>|</b> [time] SEKUNDEN</color>
 terminiert durch: <color=blue>Blauer Marshmallow Mann</color>.

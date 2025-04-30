@@ -1,13 +1,13 @@
-0~<color=#bcb1e4>💳 Putzkraft-Zugangskarte 💳</color>
-1~<color=#FFFF7C>💳 Forscher-Zugangskarte 💳</color>
-2~<color=#ddab20>💳 Forschungsleiter-Zugangskarte 💳</color>
-3~<color=#217778>💳 Hausmeister-Zugangskarte 💳</color>
-4~<color=#5B6370>💳 Wachtmeister-Zugangskarte 💳</color>
-5~<color=#70C3FF>💳 MTF Soldaten-Zugangskarte 💳</color>
-6~<color=#b6887f>💳 Eindämmungsspezialisten-Zugangskarte 💳</color>
-7~<color=#0096FF>💳 MTF Soldat-Zugangskarte 💳</color>
-8~<color=#003DCA>💳 MTF Kapitän-Zugangskarte 💳</color>
-9~<color=#ba1846>💳 Standortleiter-Zugangskarte 💳</color>
+0~<color=#bcb1e4>💳 Putzkraft-Karte 💳</color>
+1~<color=#FFFF7C>💳 Wissenschaftler-Karte 💳</color>
+2~<color=#ddab20>💳 Forschungsleiter-Karte 💳</color>
+3~<color=#217778>💳 Hausmeister-Karte 💳</color>
+4~<color=#5B6370>💳 Wachtmeister-Karte 💳</color>
+5~<color=#70C3FF>💳 MTF Soldaten-Karte 💳</color>
+6~<color=#b6887f>💳 Eindämmungsspezialisten-Karte 💳</color>
+7~<color=#0096FF>💳 MTF Soldat-Karte 💳</color>
+8~<color=#003DCA>💳 MTF Hauptmann-Karte 💳</color>
+9~<color=#ba1846>💳 Standortleiter-Karte 💳</color>
 10~<color=#008F1C>📟 Super-Gameboy 📟</color>
 11~<color=#FFFFFF>💳 ０５－Ｌｅｖｅｌ 💳</color>
 12~<color=#5B6370>📻 Funkgerät 📻</color>~Erlaubt Kommunikation auf großer Distanz.\n\nSR - 108m\nMR - 180m\nLR - 1080m\nUR - 7200m
@@ -28,7 +28,7 @@
 31~<color=red>⚽ SCP-018 ⚽</color>~<size=85%><color=#ffeb00>👥</color> Kein Eigenschaden - 10s.\n💨 Geschwindigkeit wird bei Aufprall verdoppelt.\n⚽ 10x DMG gegen <color=red>SCPs</color>.\n<color=orange>💥</color> Explodiert nach 80s.</size>
 32~<color=#ff0000>🎩 SCP-268 🎩</color>~◌ Unsichtbarkeit - 15s.
 33~<color=#FFFF7C>💉 Adrenalin 💉</color>~<color=#55da09>⛨</color> Gibt Spieler <color=#55da09>40 AHP</color>.\n<color=#767676>🏃</color> Füllt Ausdauer auf.\n<color=#767676>🏃</color> Unendliche Ausdauer - 8s.
-34~<color=#FFFF7C>\uf490 Schmerzmittel \uf490</color>~<color=#f57caa>✚</color> Regenerates 50 HP.
+34~<color=#FFFF7C>\uf490 Schmerzmittel \uf490</color>~<color=#f57caa>✚</color> Heilt 50 HP.
 35~💿 Münze 💿
 36~<color=#5B6370>\uf3ed P.C.V. - Leicht \uf3ed</color>
 37~<color=#0096FF>\uf3ed P.C.V. - Standart \uf3ed</color>

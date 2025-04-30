@@ -5,7 +5,7 @@ Keine
 <color=#EC2222>「SCP-106」</color>
 <color=#00D9FF>MTF Spezialist</color>
 <color=#EC2222>「SCP-049」</color>
-<color=#FFFF7C>Forscher</color>
+<color=#FFFF7C>Wissenschaftler</color>
 <color=#8080FF>「SCP-079」</color>
 <color=#559100>Rekrut</color>
 <color=#EC2222>「SCP-096」</color>
@@ -14,7 +14,7 @@ Keine
 <color=#003DCA>MTF Capitän</color>
 <color=#70C3FF>MTF Soldat</color>
 <color=#ff00b0>「Admin」</color>
-<color=#5B6370>Wachtmann</color>
+<color=#5B6370>Sicherheitspersonal</color>
 <color=#EC2222>「SCP-939」</color>
 Benutzerdefinierte Rolle
 <color=#008F1C>Infanterist</color>

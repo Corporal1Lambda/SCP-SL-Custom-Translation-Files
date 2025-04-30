@@ -7,11 +7,11 @@ Zusammenarbeit
 <color=#FF8E00>Klasse D</color> terminiert💀
 <color=#008F1E>CI Agent</color> terminiert💀
 <color=#0096FF>MTF Kämpfer</color> terminiert💀
-<color=#FFFF7CFF>Forscher</color> terminiert💀
+<color=#FFFF7CFF>Wissenschaftler</color> terminiert💀
 <color=#F00>SCP Subject</color> terminiert💀
 VERRIEGELTE TÜREN: [LOCKED_NUM]
 Allgemeine Interaktionen
 <color=#F00>Generator aktiviert!</color>
 <color=#F00>Generatoren wurden auf der Karte markiert!</color>
 <color=yellow>⚠</color>
-<color=#F00>SCP Subjects</color>{0}<color=#0096FF>MTF Kämpfer</color> & <color=#727472>Wachtmänner</color>{1}<color=#FFFF7CFF>Forscher</color>{2}<color=#FF8E00>Klasse D</color>{3}<color=#008F1E>CI Agenten</color>{4}
+<color=#F00>SCP Subjekte</color>{0}<color=#0096FF>MTF Kämpfer</color> & <color=#727472>Sicherheitspersonal</color>{1}<color=#FFFF7CFF>Wissenschaftler</color>{2}<color=#FF8E00>Klasse D</color>{3}<color=#008F1E>CI Agenten</color>{4}

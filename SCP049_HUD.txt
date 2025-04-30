@@ -1,7 +1,7 @@
 <b>Diese Seele weilt nicht mehr unter uns...</b>
 <b>Diese Leiche ist verfallen...</b>
 <b>Diese Seele wurde zu oft wiederbelebt...</b>
-<b>Diese Seele möchte nicht mehr wiederbelebt werden...</b>
+<b>Diese Seele mochte dich nicht...</b>
 <b>Diese Leiche kann nicht wiederbelebt werden...</b>
 <b>Diese Leiche wurde bereits aufgefressen.</b>
 <b>Nur menschliche Leichen können absorbiert werden.</b>
