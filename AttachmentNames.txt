@@ -1,46 +1,46 @@
-None~Default option with no effects.
-Iron Sights~A pair of alignment markers making up a simple, lightweight sighting device.
-Dot Sight~Non-magnifying reflex sight with a small illuminated dot indicating the point of aim.
-Holographic Sight~Non-magnifying sight with a holographic reticle. Effective in close-quarters combat.
-Night-Vision Scope~Telescopic sight augmented with a night-vision device. Heavy, but effective in all lighting conditions.
-Ammo Counter Sight~Iron sights with integrated ammunition counting device.
-Telescopic Sight~Heavy sighting device, providing optical magnification. Perfect for long-range, but limits the overall perception.
-Standard Stock~Regular stock, providing better control of the firearm when aiming down the sights.
-Extended Stock~Provides better control of the firearm when aiming down the sights, but increases the equipping time.
-Retracted Stock~Makes the firearm more compact, which increases mobility.
-Lightweight Stock~Reduces the weight of the firearm but makes it harder to control the recoil when aiming down the sights.
-Heavy Stock~Increased weight lowers mobility but makes the firearm more stable when aiming down the sights.
-Recoil-Reducing Stock~Stock equipped with a system that attempts to disperse force between individual shots.
-Foregrip~Vertical forward grip. Makes it easier to handle the muzzle rise.
-Laser Sight~Provides visual reference point onto the target, which helps in hip-firing but can easily reveal your position.
-Flashlight~Toggleable light source. Increases total weight of the firearm but can be life-saving in dark areas.
-Ammo Counter~Ammunition counting device. Experimental technology that has proven to be useful, especially with high-capacity magazines.
-Standard Barrel~Conventional barrel with no muzzle device.
-Extended Barrel~Improves the overall firepower, but contributes to low mobility caused by increased weight and length.
-Suppressor~Sound moderator. Reduces the loudness of gunshots, but increases the overall weight and length of the firearm.
-Flash Hider~Eliminates muzzle flash. Makes it easier to shoot in the darkness.
-Muzzle Brake~Recoil compensator. Uses propellant gases to reduce recoil, but increases the acoustic intensity of gunshots.
-Muzzle Booster~Improves fire rate, which results in more damage per second, but the weapon is harder to control.
-FMJ Magazine~Standard magazine that contains full metal jacket bullets.
-AP Magazine~Standard magazine that contains armor-piercing bullets.
-JHP Magazine~Standard magazine that contains hollow-point bullets.
-Extended FMJ Magazine~Extended magazine that contains full metal jacket bullets.
-Extended AP Magazine~Extended magazine that contains armor-piercing bullets.
-Extended JHP Magazine~Extended magazine that contains hollow-point bullets.
-FMJ Drum~High-capacity drum magazine that contains full metal jacket bullets.
-AP Drum~High-capacity drum magazine that contains armor-piercing bullets.
-JHP Drum~High-capacity drum magazine that contains hollow-point bullets.
-Low-Cap FMJ Magazine~Low-capacity magazine that contains full metal jacket bullets.
-Low-Cap AP Magazine~Low-capacity magazine that contains armor-piercing bullets.
-Low-Cap JHP Magazine~Low-capacity magazine that contains hollow-point bullets.
-5-Shot Cylinder~Holds fewer cartridges but is capable of dealing increased damage to armored enemies.
-6-Shot Cylinder~The classic six-shooter.
-7-Shot Buckshot Cylinder~Filled with shotgun-like cartridges, effective in close-quarters.
-Carbine Receiver~Regular carbine upper receiver that is considered a great compromise between firepower and mobility.
-Rifle Receiver~Full-size upper receiver improves firepower and accuracy, but a heavier gas system reduces the fire rate.
-Short Barrel~Shortened version of the standard barrel, used to improve draw speed and mobility.
-Choke~Increases total radius of spread but improves the consistency of the pattern.
-Extended Barrel~Slightly reduces the spread radius but increases the total firearm weight and length.
-No Stock~Short configurations come with high mobility, but removing stocks from a high-recoil rifle isn't always the best idea.
-Single-Shot System~Standard system. One trigger-pull leads to one discharge.
-Double-Shot System~Modified trigger mechanism which actuates both sears with a single pull.
+Nichts~Standardoption ohne Effekte.
+Offene Visierung~Kimme und Korn deiner Waffe, ein einfaches und leichtes Visier.
+Reflexvisier~Ein Reflexvisier ohne Zoom, ausgestattet mit einem kleinen leuchtenden Punkt, der das Zielen vereinfacht.
+Holovisier~Holografisches Visier ohne Zoom, am effektivsten in Nahkämpfen.
+Nachtsichtvisier~Teleskopartiges Visier, ausgestattet mit einem Nachtsichtgerät. Schwer, aber effektiv in allen Lichtverhältnissen.
+Munitionszähler~Offene Visierung mit integriertem Munitionszähler.
+Zielfernrohr~Schweres Visier, welches optimalen optischen Zoom bietet. Perfekt für große Entfernungen, sorgt aber für Tunnelblick.
+Standard Schaft~Konventioneller Schaft, liefert bessere Kontrolle über die Waffe beim Zielen.
+Verlängerter Schaft~liefert bessere Kontrolle über die Waffe beim Zielen, erhöht allerdings die Ausrüstungszeit.
+Eingezogener Schaft~Macht die Waffe kompakter, dadurch wird die Mobiliät erhöht.
+Leichter Schaft~Reduziert das Gewicht der Waffe, wodurch allerdings der Rückstoß beim Zielen deutlich höher wird.
+Schwerer Schaft~Erhöhtes Gewicht verringert die Mobilität, dadurch verringert sich allerdings der Rückstoß beim Zielen.
+Rückstoßdämpfender Schaft~Mit einem System ausgestatteter Schaft, welches den Rückstoß zwischen einzelnen Schüssen kompensiert.
+Vordergriff~Vertikaler Vordergriff. Erleichtert es, den Rückstoß zu kontrollieren.
+Laser~Gibt einen Referenzpunkt auf das Ziel, was beim Schießen aus der Hüfte hilft, allerdings auch deine Position preisgibt.
+Taschenlampe~Einschaltbare Lichtquelle. Erhöht zwar das Gewicht deiner Waffe, kann aber in dunklen Räumen dein Leben retten.
+Munitionszähler~Gerät, welches deine Munition zählt. Experimentelle Technologie, die sich als nützlich bewiesen hat, insbesondere bei großen Magazinen.
+Standard Lauf~Konventioneller Lauf ohne Mündungsvorrichtung.
+Verlängerter Lauf~Verbessert die Feuerkraft, allerdings auf Kosten von Mobilität durch erhöhtes Gewicht and größerer Waffenlänge.
+Schalldämpfer~Reduziert die Lautstärke von Schüssen, erhöht aber die Länge und das Gewicht der Waffe.
+Mündungsfeuerdämpfer~Eliminiert das Mündungsfeuer. Macht das Schießen in dunkler Umgebung einfacher.
+Mündungsbremse~Rückstoßkompensator. Nutzt die Energie der Verbrennungsgase beim Schießen, um den Rückstoß zu verringern. Erhöht die Lautstärke der Schüsse.
+Mündungsverstärker~Erhöht die Feuerrate, resultiert in höherem Schaden pro Sekunde. Die Waffe ist dadurch schwerer zu kontrollieren.
+FMJ Magazin~Standardmagazin mit Vollmantelmunition.
+AP Magazin~Standardmagazin mit panzerbrechender Munition.
+JHP Magazin~Standardmagazin mit Hohlspitzmunition.
+Erweitertes FMJ Magazin~Großes Magazin mit Vollmantelmunition.
+Erweitertes AP Magazin~Großes Magazin mit panzerbrechender Munition.
+Erweitertes JHP Magazin~Großes Magazin mit Hohlspitzmunition.
+FMJ Trommelmagazin~Trommelmagazin mit Vollmantelmunition.
+AP Trommelmagazin~Trommelmagazin mit panzerbrechender Munition.
+JHP Trommelmagazin~Trommelmagazin mit Hohlspitzmunition.
+Kleines FMJ Magazin~Kleines Magazin mit Vollmantelmunition.
+Kleines AP Magazin~Kleines Magazin mit panzerbrechender Munition.
+Kleines JHP Magazin~Kleines Magazin mit Hohlspitzmunition.
+5-Schuss Zylinder~Enthält weniger Kugeln, aber ist in der Lage, mehr Schaden gegen gepanzerte Ziele auszurichten.
+6-Schuss Zylinder~Der Klassiker.
+7-Schuss Buckshot-Zylinder~Gefüllt mit schrotähnlichen Kugeln, effektiv im Nahkampf.
+Karabinerempfänger~Regulärer Karabinerempfänger, welcher einen guten Kompromiss zwischen Feuerkraft und Mobilität bietet.
+Gewehrempfänger~Größerer Empfänger, welcher die Feuerkraft und Genauigkeit erhöht, allerdings verringert das schwere Gassystem die Schussrate.
+Verkürzter Lauf~Kürzere Version des Standardlaufes, verringert die Ausrüstungszeit und erhöht die Mobilität.
+Choke~Erhöhte Streuung, aber verbesserte Gleichmäßigkeit des Schussmusters.
+Verlängerter Lauf~Verringert die Streuung minimal, erhöht allerdings das Gewicht und die Länge der Waffe.
+Kein Schaft~Kurze Waffen machen dich sehr mobil, aber den Schaft eines Gewehres mit hohem Rückstoß zu entfernen, ist nicht immer die beste Idee.
+Einzelschuss-System~Standard System. Ein Abzug führt zu einem Schuss.
+Doppelschuss-System~Modifizierter Abzugsmechanismus, der beide Abzüge auf einmal betätigt.

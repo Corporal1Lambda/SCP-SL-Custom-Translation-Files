@@ -1,101 +1,101 @@
-JOIN
-CLOSE
-SHADOW RESOLUTION
-SETTINGS
-BASED ON <i>SCP: CONTAINMENT BREACH</i>
-BACK
-LANGUAGE
-ANTIALIASING
-Change details:\n-PIXEL LIGHT COUNT - Maximum number of light sources that have their light rendered on individual pixels.\n-V-Sync - Enable synchronising with the refresh rate of the display device.
-JOIN GAME
-POST\nPROCESSING
+BEITRETEN
+SCHLIESSEN
+Schattenauflösung
+EINSTELLUNGEN
+Basiert auf <i>SCP: CONTAINMENT BREACH</i>
+ZURÜCK
+SPRACHE
+KANTENGLÄTTUNG
+Ändere Details:\n-PIXEL LICHT QUELLEN- maximale Anzahl an Lichtquellen, welche in separaten Pixeln gerendert werden.\n-V-Sync - synchronisiert mit der Bildwiederholrate deines Monitors.
+SPIEL BEITRETEN
+Nach-\nbearbeitung
 CREDITS
-QUIT GAME
-Fullscreen mode
-SCREEN SETTINGS
-COLOR CORRECTION
-Enter IP Address...
-SCREEN RESOLUTION
-PLAY
-PIXEL LIGHT COUNT
-SHADOW TYPE
-SHADOWS
-CREATE GAME
-Change post-processing settings. These settings generally don't affect performance, leaving default values is recommended.
-Light rendering mode:\nWhen off, graphics quality is significantly reduced. Disabling this setting is only recommended for low-end computers.
+SPIEL BEENDEN
+VOLLBILDMODUS
+BILDSCHIRMEINSTELLUNGEN
+FARBKORREKTUR
+IP-Adresse eingeben...
+BILDSCHIRMAUFLÖSUNG
+SPIELEN
+PIXEL LICHT QUELLEN
+Schattentypen
+Schatten
+ERSTELLE SPIEL
+Das Ändern dieser Einstellung wirkt sich nicht auf die Spielperformance aus. Standardeinstellungen sind empfohlen.
+Rendere Licht:\nWenn aus - lässt das Spiel schlechter aussehen. Es ist empfohlen, diese Einstellung nur zu nutzen, wenn du ein schlechtes PC-Setup (low-end) besitzt.
 V-SYNC
-CONNECT
-QUALITY SETTINGS
-Change shadow preferences. Setting these sliders at lower values may increase gameplay smoothness.
-MAIN MENU
-RENDER LIGHTS
-MOTION BLUR
-SHADOW DISTANCE
-DETAILS
+VERBINDE
+QUALITÄTSEINSTELLUNGEN
+Das Verschieben des Reglers auf einen niedrigeren Wert kann die allgemeine Performance erhöhen.
+HAUPTMENÜ
+Rendere Licht
+BEWEGUNGSUNSCHÄRFE
+Schattendistanz
+Details
 3. SCP-914
 TUTORIALS
-WARNING
-Browse available servers
-Don't show it again
-How would you like to connect?
+WARNUNG
+Suche nach verfügbaren Servern.
+Nicht nochmal anzeigen
+Wie würdest du gerne beitreten?
 SERVER BROWSER
 OKAY
-FIND MATCH
-2. Using weapons
-We use Discord as a forum. No installation needed.\n(click the logo to join)
-By default, the server will set up on the local network.\nYour friends will need the direct IP address to connect.\nIf you want to set up a public server, select LocalAdmin.exe and follow the instructions.\nIf you have any questions, please ask our technical support (link in the main menu)
-1. The basics
-The presented game is still in a public beta.\nYou may experience connection problems and many other bugs.\nThe current state does not reflect the final version.
-4. (more tutorials later)
-DIRECT CONNECT
-TECH SUPPORT / FORUM
-SOUND VOLUME
-Enter the IP address of the specific server.
-DOWNLOADING DATA
-NO SERVERS AVAILABLE
-PRESS ESC TO CLOSE / CANCEL
-KEY BINDING
-MAX BLOOD AMOUNT
+SPIEL FINDEN
+2. Waffen nutzen
+Wir nutzen Discord als Forum. Keine Installation nötig.\n(klick auf das Logo, um beizutreten)
+Normalerweise wird der Server im lokalem Netzwerk aufgesetzt.\nSpieler brauchen deine <color=#ffff00>offene IP-Adresse und den Port (7777 bis 7782, Port forwarding nötig)</color> um beitreten zu können.\nWenn du einen öffentlichen Server aufsetzen willst, führe LocalAdmin.exe aus und folge den Anweisungen.\nWenn du Fragen hast, frage unseren Tech-Support. (Link im Hauptmenü)
+1. Die Grundlagen
+Das Spiel befindet sich immer noch in der öffentlichen Beta.\nEs können Fehler auftreten.\nDer jetzige Zustand reflektiert nicht das finale Spiel.
+4. (mehr Tutorials folgen)
+DIREKT VERBINDEN
+TECH-SUPPORT / FORUM
+Allgemeine Spiellautstärke
+Gib die IP-Adresse oder Domäne des Servers ein.
+DATEN WERDEN HERUNTERGELADEN
+KEINE SERVER VERFÜGBAR
+DRÜCKE ESC ZUM SCHLIESSEN / ABBRECHEN
+TASTENBELEGUNG
+MAX. SICHTBARES BLUT
 FPS Limit
-FPS Limit does not work when vSync is enabled!
-Set Default
-We use Steam Discussions as a forum. (Click the logo below to open the forum)
-AUDIO SETTINGS
-MASTER VOLUME
-MENU MUSIC
-VOICE CHAT
-SOUND EFFECTS
-GAMEPLAY OPTIONS
-FAST INTRO FADE
-Class intro text will fade out much more quickly.
-SCP-079 - TOGGLE VIEW MODE
-Press once to swap between camera modes.
-SCP-079 - POST-PROCESSING
-If disabled, camera effects will be heavily reduced.
-HEAD BOB
-Enables first-person camera bobbing during movement.
-TOGGLE SPRINT
-Sprinting toggles on and off, instead of being held down.
-SEPARATE ARTIFICIAL HP BAR
-Gives artificial HP its own health bar, instead of an overlay.
-Our translations are open-source on GitHub!\nWant to help? Click here to access the repo.
+FPS Limit funktioniert nicht, wenn V-Sync an ist!
+Zurücksetzen
+Wir nutzen die Steam-Diskussionen als Forum. (Klicke auf das Logo, um das Forum aufzurufen)
+AUDIO EINSTELLUNGEN
+ALLG.-LAUTSTÄRKE
+HAUPTMENÜ MUSIK
+SPRACHCHAT
+SOUNDEFFEKTE
+GAMEPLAY-OPTIONEN
+INTRO SCHNELL AUSBLENDEN
+Das Klassen-Intro wird bei Rundenstart schneller ausgeblendet.
+SCP-079 ANSICHT UMSCHALTEN
+Der Kameramodus wird durch einmaliges Betätigen umgeschaltet.
+SCP-079 NACHBEARBEITUNG
+Wenn ausgeschaltet, werden Kamera-Effekte stark reduziert.
+KAMERA-WACKELN
+Schaltet das Wackeln der first-person Kamera an, während sich der Spieler bewegt.
+SPRINTEN UMSCHALTEN
+Sprinten wird ein/ausgeschaltet, anstatt die Taste gedrückt zu halten.
+SEPARATER HP-BALKEN
+Künstliche HP hat einen eigenen HP-Balken, statt eines Overlays.
+Unsere Übersetzungen sind open-source auf Github!\nMöchtest du uns helfen? Dann klicke hier.
 RICH PRESENCE
-If enabled, your status will be displayed on Discord/Steam.
-DISPLAY EXACT HP VALUE
-Displays exact HP, instead of just the percentage.
-PUBLIC LOBBY
-If enabled, your steam friends can join you without permission.
-HIDE IP
-If enabled, any IP in client console is not displayed.
-TOGGLE SEARCH
-Item pickup will not require a held key; press again to cancel.
-Applies soft shadows to corners and tight areas to give models more depth.
-Gives the environment more depth at a high performance cost.
-Gives lighting more depth by applying a glow based on the light intensity.
-Toggle to show subtitles for cassie announcements.
-Flashes the taskbar when you spawn while the game is not in focus.
-Smoothes lines and removes visual distortions.
-Synchronizes the in-game frame rate with your monitor's refresh rate to stop screen tearing.
-Projected textures such as bullet holes or blood splatter.
-Toggle Dark Mode
-Toggle to change some bright elements to their dark-themed versions.
+Wenn eingeschaltet, wird dein Status auf Discord/Steam angezeigt.
+ZEIGE HP-PUNKTE AN
+Zeigt die exakte Anzahl an HP-Punkten an, anstelle von Prozent.
+ÖFFENTLICHE LOBBY
+Wenn eingeschaltet, können deine Steam-Freunde dir ohne Erlaubnis beitreten.
+IP VERBERGEN
+Wenn eingeschaltet, werden keine IPs in der Client-Konsole angezeigt.
+AUFHEBEN UMSCHALTEN
+Das Aufheben von Gegenständen erfordert kein Halten der Taste; Drücke erneut, um abzubrechen.
+Wendet weiche Schatten auf Ecken und enge Bereiche an, um Modellen mehr Tiefe zu verleihen.
+Gibt der Umgebung mehr Tiefe durch hohe Performanceeinbußen.
+Gibt Licht mehr Tiefe durch hinzufügen eines Leuchtens, basierend auf der Lichtintensität.
+Einschalten, um Untertitel für CASSIE-Durchsagen zu sehen.
+Lässt die Taskleiste blinken, wenn das Spiel nicht im Vordergrund ausgeführt wird.
+Glättet Linien und entfernt visuelle Verzerrungen.
+Synchronisiert die FPS mit deiner Monitorbildwiederholrate, um Bildverzerrung zu entfernen.
+Projiziert Texturen wie Schusslöcher oder Blutflecken.
+Dunkelmodus umschalten
+Einige helle Effekte werden durch dunkle Versionen ersetzt.

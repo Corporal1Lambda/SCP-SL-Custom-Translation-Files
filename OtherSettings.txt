@@ -1,20 +1,30 @@
-Server-side User Tracking
-Allow
-Deny (DNT)
-If denied, forbids verified servers to use your data (IP address, user ID, etc) for purposes not related to the server security. Some server-specific features (like leaderboards, leveling systems, and similar) will not work correctly.
+User-Tracking durch Server
+Zulassen
+Verweigern (DNT)
+Wenn diese Option verweigert wird, verbietest du verifizierten Servern, deine Daten (IP-Adresse, Benutzer-ID, usw.) für Zwecke zu verwenden, die nicht mit der Sicherheit des Servers zusammenhängen. Einige serverspezifische Funktionen (wie etwa Leaderboards, Leveling-Systeme und Ähnliches) funktionieren dann nicht einwandfrei.
 Rich Presence
-Allows platforms (Steam and Discord) to display more information regarding your current in-game status.
-Steam Lobby Visibility
-Defines how other users can join the server through your Steam profile.
-Voice Chat Privacy Settings
-Profile on Player List
-Enables players to view your Steam profile by clicking an icon on the in-game player list.
-Shown
-Hidden
-Invite-only
-Public
-Changes will take place the next time you connect to a server (or on round restarts)
-Friends-only
-Privacy
-🌀 <color=red>SCP Spawn Preferences</color>
-Spawn preferences are used to improve automatic assigment of SCP roles among teammates. <b>It does not affect your chances of becoming an SCP instead of a human.</b>
+Ermöglicht Plattformen (Steam und Discord), mehr Informationen über deinen aktuellen Status im Spiel anzuzeigen.
+Steam-Lobby Sichtbarkeit
+Legt fest, wie andere Benutzer dem Server über dein Steam-Profil beitreten können.
+Voicechat Privatsphäre-Einstellungen
+Profil auf Spielerliste
+Ermöglicht es Spielern, dein Steam-Profil durch das Klicken auf ein Symbol in der Spielerliste aufzurufen.
+Angezeigt
+Versteckt
+Nur mit Einladung
+Öffentlich
+Die Änderungen werden bei der nächsten Verbindung mit einem Server (oder beim Neustart einer Runde) übernommen.
+Nur Freunde
+Privatsphäre
+🌀 <color=red>SCP Spawn-Präferenzen</color>
+Spawn-Präferenzen werden verwendet, um die automatische Zuweisung von SCP-Rollen unter den Teamkameraden zu verbessern. Bitte beachte, dass dies keinen Einfluss auf deine Chancen hat, ein SCP anstelle eines Menschen zu werden.
+Abzeichen-Einstellungen
+Keine Präferenz
+Globales Abzeichen präferieren
+Lokales Abzeichen präferieren
+Globales Abzeichen - Sichtbarkeitspräferenz
+Lokales Abzeichen - Sichtbarkeitspräferenz
+Von SCPs abmelden
+Wenn diese Option aktiviert ist, werden Sie nicht als SCP erscheinen. Falls jedoch nicht genügend Spieler für SCP angemeldet sind, könnten Sie dennoch als einer spawnen.
+Anmelden
+Abmelden

@@ -1,61 +1,89 @@
-Northwood Chief Executive Officer 
-Northwood Chief Information Officer 
-Northwood Chief Operations Officer 
-Northwood Community Director 
-Northwood Discord Manager 
-Northwood Executive Assistant 
-Northwood Feedback Manager 
-Northwood Human Resources 
-Northwood Human Resources Director 
-Northwood Marketing Platform Manager 
-Northwood Staff 
-Northwood Steam Manager 
-Northwood System Administrator 
-Northwood Wiki Manager 
-SCP:SL Art Manager 
-SCP:SL Art Supervisor 
-SCP:SL Artist 
-SCP:SL Backend Programmer 
-SCP:SL Backend Programming Manager 
-SCP:SL Developer 
-SCP:SL Event Winner 
-SCP:SL Fullstack Programmer 
-SCP:SL Game Designer 
-SCP:SL Gameplay Programmer 
-SCP:SL Global Moderation Manager 
-SCP:SL Global Moderator 
-SCP:SL Lead Game Designer 
-SCP:SL Lead Gameplay Programmer 
-SCP:SL Level Designer 
-🐺 SCP:SL Partner (Furry) 🐺
-SCP:SL Patreon Supporter 
-SCP:SL Quality Assurance Manager 
-SCP:SL Sound Designer 
-SCP:SL Game Director
-SCP:SL Official Server Manager 
-Northwood Verification Specialist 
-SCP:SL Anti-Cheat Developer 
-SCP:SL Quality Assurance Tester 
-SCP:SL Quality Assurance Supervisor 
-SCP:SL Twitch Subscriber 
-SCP:SL Audio Manager 
-Northwood Feedback Coordinator 
-Northwood Verification Supervisor 
-SCP:SL Official Server Supervisor 
-Northwood Feedback Supervisor 
-Northwood Verification Manager 
-Northwood Bot Manager 
-Northwood Translation Manager 
-SCP:SL Game Design Manager 
-SCP:SL Animator 
-Northwood Public Relations Director 
-SCP:SL Community Helper 
-SCP:SL Voice Actor 
-SCP:SL Foundation Investor 
-Northwood Studio Director 
-SCP:SL Assistant Game Director 
-Northwood Tech Support Supervisor 
-Northwood Tech Support Manager 
-Northwood System Administration Manager 
-SCP:SL Narrative Designer 
-Northwood Marketing Platform Supervisor 
+Northwood Geschäftsführer
+Northwood Leiter der Informationstechnik
+Northwood Betriebsleiter
+Northwood Community-Direktor
+Northwood Discord-Manager
+Northwood Assistent der Geschäftsführung
+Northwood Feedback-Manager
+Northwood Personalabteilung
+Northwood Leiter der Personalabteilung
+Northwood Leiter der Marketing-Plattform
+Northwood Mitarbeiter
+Northwood Steam-Manager
+Northwood Systemadministrator
+Northwood Wiki-Manager
+SCP:SL Kunst-Manager
+SCP:SL Kunst-Supervisor
+SCP:SL Künstler
+SCP:SL Backend-Programmierer
+SCP:SL Backend-Leitung
+SCP:SL Entwickler
+SCP:SL Event-Gewinner
+SCP:SL Fullstack-Programmierer
+SCP:SL Game-Designer
+SCP:SL Gameplay-Programmierer
+SCP:SL Leiter der globalen Moderation
+SCP:SL Globaler Moderator
+SCP:SL Leitender Game-Designer
+SCP:SL Leitender Gameplay-Programmierer
+SCP:SL Level-Designer
+SCP:SL Partner
+SCP:SL Patreon-Supporter
+SCP:SL Qualitätssicherung-Leitung
+SCP:SL Sound-Designer
+SCP:SL Spieldirektor
+SCP:SL offizielle Server-Manager
+Northwood Verifikationsspezialist
+Northwood Anti-Cheat-Entwickler
+SCP:SL Qualitätssicherung-Tester
+SCP:SL Qualitätssicherung-Supervisor
+SCP:SL Twitch-Abonnent
+SCP:SL Audio-Manager
+Northwood Feedback-Koordinator
+Northwood Verifikation-Supervisor
+SCP:SL offizielle Server-Supervisor
+Northwood Feedback-Supervisor
+Northwood Verifikation-Manager
+Northwood Bot-Manager
+Northwood Übersetzungen-Manager
+SCP:SL Game-Design-Manager
+SCP:SL Animator
+Northwood Direktor der Öffentlichkeitsarbeit
+SCP:SL Gemeinschaftshelfer
+SCP:SL Stimmbildner
+SCP:SL Foundation-Investor
+Northwood Studiodirektor
+SCP:SL Assistent des Spieldirektors
+Northwood Tech Support-Supervisor
+Northwood Tech Support-Manager
+Northwood Systemadministrator-Manager
+SCP:SL Narrativer Designer
+Northwood Supervisor der Marketing-Plattform
+SCP:SL Audiotechnischer Leiter
+Northwood Übersetzungs-Koordinator
+Northwood Sicherheitsdirektor
+Northwood Sicherheitsberater
+Northwood Assistent des Sicherheitsdirektors
+Assistent des Direktors für Öffentlichkeitsarbeit
+Assistent des Direktors für Gemeinschaftsverwaltung
+Assistent des Direktors für Personalwesen
+SCP:SL Game Design-Supervisor
+SCP:SL Level Designer-Supervisor
+SCP:SL Globale Moderation-Supervisor
+Northwood Systemadministrator-Supervisor
+Northwood Webentwicklungs-Supervisor
+Northwood Webentwicklungs-Manager
+Northwood Inhaltsredaktions-Supervisor
+Northwood Inhaltsredaktions-Manager
+Northwood Patreon-Supervisor
+Northwood Patreon-Manager
+Northwood Soziale Medien-Supervisor
+Northwood Soziale Medien-Manager
+Northwood Übersetzungs-Supervisor
+Northwood Steam-Supervisor
+SCP:SL Level-Design-Manager
+SCP:SL Anticheat-Manager
+SCP:SL Anticheat-Supervisor
+Northwood Wiki-Supervisor
+SCP:SL API-Teamleiter
+SCP:SL API-Instandhalter

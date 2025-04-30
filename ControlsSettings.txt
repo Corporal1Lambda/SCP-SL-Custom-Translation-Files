@@ -1,16 +1,18 @@
-Mouse Settings
-Sensitivity
-Aiming Sens. Reduction
+Maus-Einstellungen
+Empfindlichkeit
+Empf.-Reduktion beim Zielen
 Raw Input
-Invert Y-Axis
-While aiming down sights, mouse sensitivity is divided by the scope's zoom amount. Targets will always appear to move by the same distance on the screen in relation to your mouse movement. You can increase or decrease the intensity of the reduction by adjusting this setting.
-Hold
-Toggle
-Aim Down Sights - Activation Mode
-Sprint - Activation Mode
-Pickup Items - Activation Mode
-Sneak - Activation Mode
-Mouse Look - Activation Mode
-Right-Click to Drop (Inventory)
-Inventory - Activation Mode
-Zone Switch Keybinds
+Y-Achse umdrehen
+Beim Anvisieren von Zielen wird die Mausempfindlichkeit durch den Zoomfaktor des Zielfernrohrs geteilt. Die Ziele werden sich auf dem Bildschirm in Relation zu deiner Mausbewegung immer um dieselbe Distanz bewegen. Du kannst die Intensität der Reduktion erhöhen oder verringern, indem du diese Einstellung anpasst.
+Halten
+Ein-/Ausschalten
+Zielen - Aktivierungsmodus
+Sprinten - Aktivierungsmodus
+Gegenstände aufheben - Aktivierungsmodus
+Schleichen - Aktivierungsmodus
+Mausblick - Aktivierungsmodus
+Rechtsklick zum Fallenlassen (Inventar)
+Inventar – Aktivierungsmodus
+Zonenwechsel-Tastenkürzel
+Automatischer Zuschauerwechsel
+Wechselt deine Kamera nach einer kurzen Verzögerung automatisch zu einem lebenden Spieler, wenn du niemanden beobachtest.

@@ -1,35 +1,35 @@
-💀 It's <color=#ff80bc><b>[user]</b>'s</color> body - they were [class]!\n Observation: [cause]
-Recontained.
-Vaporized by the Alpha Warhead.\n Caused By: <color=#f5650a>Failure to evacuate in time.</color>
-Cardiac Arrest | Blunt force trauma\n Caused by: <color=#e52121>SCP-049</color>/<color=#e52121>SCP-049-2</color>
-Unknown cause of death.\n Caused By: <color=#f5650a>Unknown</color>
-Severe electrical burns.
-Oxygen deprivation resulted in a death of asphyxia.
-Severe blood loss caused by deep wounds.
-You have bled out.
-Shattered legs and feet suggest fatal trauma caused by a fall.
-You have fallen down.
-Corosion can be observed on the body.\n Caused By: <color=#e52121>SCP-106</color>
-Melted by a highly corrosive substance.\n Caused By: <color=#7cf58d>Decontamination</color>
-Sickly yellow skin and a rancid smell.\n Caused By: <color=#F5650A>Poision Ingestion.</color>
-The poison has finished you.\n Caused by: mixing <color=#e52121>SCP-207</color> with <color=#e52121>SCP-1853</color>
-Pale skin and blood leaking from the mouth. \n Caused By: <color=#e52121>SCP-207</color>
-<color=#e52121>SCP-207</color> has finished you.
-You shouldn't have taken more than two!\n Caused By: <color=#e52121>SCP-330</color>
-You've been caught by a Tesla Gate.
-Shrapnel and severe burns present.\n Caused by: <color=orange>Explosion</color>
-You've been killed by a nearby explosion.\n Caused by: <color=#5180f7>High Explosive Grenade</color>/<color=#ff80bc>Funny</color>
-Massive lacerations and excessive blood loss.\n Caused By: <color=#e52121>SCP-096</color>
-Cervical fracture at the base of the skull.\n Caused By: <color=#e52121>SCP-173</color>
-The bite of 87\n Caused By: <color=#e52121>SCP-939</color>
-Large amount of minor scratches is present.\n Caused By: <color=#FF59CA>SCP-1507</color>
-[ammotype] bullet wounds.
-Badly mutilated and pulped.\n Caused By: <color=#e52121>SCP-018</color>
-Signs of severe trauma to both femur bones suggests death by circulatory shock.
-You've been sacrificed to recontain SCP-106.
-Automatically killed for friendly fire.
-Cold skin and frostbitten fingers.\n Caused By: <color=#e52121>SCP-244</color> induced hypothermia.
-You have frozen to death.\n Caused By: Spending too much time within <color=#e52121>SCP-244's</color> fog.
-Deep wounds and scratches are present on the body.\n Caused By: <color=#e52121>SCP-939</color>
-The Marshmallow Man has killed you!
-Bullet wounds with organic residue.\n Caused By: <color=red>SCP-127</color>
+💀 Es ist <color=#ff80bc><b>[user]</b>s</color> Körper! - Er gehörte einem [class]!\n Todesgrund: [cause]
+Eingedämmt.
+Vaporisiert durch den Alpha-Sprengkopf.\n Todesursache: <color=#f5650a>Nicht evakuiert..</color>
+Herzinfarkt | Rohe Gewaltanwendung\n Todesursache: <color=#e52121>SCP-049</color>/<color=#e52121>SCP-049-2</color>
+Ungewisser Todesgrund.\n Todesursache: <color=#f5650a>Unbekannt</color>
+Schwere elektrische Verbrennungen.
+Sauerstoffmangel resultierte in Erstickungstod.
+Massiver Blutverlust durch schwere Schnittwunden.
+Du bist verblutet.
+Gebrochene Beine und Füße suggerieren ein tödliches Trauma durch einen hohen Fall.
+Du bist gestürzt.
+Der Körper ist verätzt.\n Todesursache: <color=#e52121>SCP-106</color>
+Durch eine stark ätzende Substanz zerschmolzen.\n Todesursache: <color=#7cf58d>Dekontaminiation</color>
+Krankhaft gelbe Haut und ein ranziger Geruch.\n Todesursache: <color=#F5650A>Gift.</color>
+Das Gift hat dich getötet.\n Todesursache: Das Mischen von <color=#e52121>SCP-207</color> mit <color=#e52121>SCP-1853</color>
+Bleiche Haut und aus dem Mund austretendes Blut. \n Todesursache: <color=#e52121>SCP-207</color>
+<color=#e52121>SCP-207</color> hat dich getötet.
+Nimm nicht mehr als zwei Freundchen!\n Todesursache: <color=#e52121>SCP-330</color>
+Du wurdest von einem Tesla Gate erwischt.
+Splitterwunden und Verbrennungen.\n Todesursache: <color=orange>Explosion</color>
+Du wurdest durch eine nahe Explosion getötet.\n Todesursache: <color=#5180f7>Splittergranate</color>/<color=#ff80bc>Lustig</color>
+Schwere Verwundung und exzessiver Blutverlust.\n Todesursache: <color=#e52121>SCP-096</color>
+Frakturen an der Schädelbasis.\n Todesursache: <color=#e52121>SCP-173</color>
+The bite of 87\n Todesursache: <color=#e52121>SCP-939</color>
+Stumpfes Trauma und kleinere Kratzer sind zu sehen.\n Todesursache: <color=#FF59CA>SCP-1507</color>
+[ammotype] Schusswunden.
+Schwer verstümmelt und zerdrückt.\n Todesursache: <color=#e52121>SCP-018</color>
+Anzeichen eines schweren Traumas an beiden Oberschenkelknochen deuten auf einen Tod durch Kreislaufschock hin.
+Du wurdest geopfert, um SCP-106 wieder einzudämmen.
+Automatisch für Teambeschuss getötet.
+Kalte Haut und erfrorene Finger.\n Todesursache: Eine durch <color=#e52121>SCP-244</color> ausgelöste Hypothermie.
+Du bist erfroren.\n Todesgrund: Zu viel Zeit in <color=#e52121><s>Großmutter</s> SCP-244s</color> Nebel verbracht.
+Der Körper weist tiefe Platzwunden und Kratzer auf.\n Todesursache: <color=#e52121>SCP-939</color>
+Der Marshmallow-Mann hat dich getötet!
+Schusswunden mit organischen Rückständen.\n Todesursache: <color=red>SCP-127</color>

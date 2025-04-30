@@ -1,8 +1,8 @@
 <size=200%>✔️</size>
 <size=200%>\uf3c9</size>\n<size=75%><b>{0}s</b></size>
-<color=#ff00b0><size=200%>\uf590</size>\n<size=75%>OVERRIDE MODE</size></color>
+<color=#ff00b0><size=200%>\uf590</size>\n<size=75%>AUTOMATIKMODUS</size></color>
 <color=#00FFFF><size=200%>🔃</size>\n<size=75%><b>{0}s</b></size></color>
-<color=#ff00b0><size=200%>\uf590</size>\n<size=75%>OVERRIDE MODE</size></color>
-<color=red><size=200%>\uf539</size>\n<size=75%>MUTED BY ADMIN</size></color>
+<color=#ff00b0><size=200%>\uf590</size>\n<size=75%>AUTOMATIKMODUS</size></color>
+<color=red><size=200%>\uf539</size>\n<size=75%>VON ADMIN GESTUMMT</size></color>
 <size=200%>❔</size>
 <size=200%>✔️</size>

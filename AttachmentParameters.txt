@@ -1,24 +1,24 @@
-ADS zoom
+Zoom beim Zielen
 ---
-Damage
-Penetration
-Fire rate
-Recoil
-Recoil when aiming
-Bullet accuracy
-Hip-firing accuracy
-Aiming accuracy
-Equip time
-Gunshot loudness
-Magazine capacity
-Equip time
-Reload time
+Schaden
+Durchschlagskraft
+Feuerrate
+Rückstoß
+Rückstoß beim Zielen
+Kugelgenauigkeit
+Hüftfeuergenauigkeit
+Zielgenauigkeit
+Ausrüstungszeit
+Schusslautstärke
+Magazinkapazität
+Ausrüstungszeit
+Nachladezeit
 ---
-Aiming speed
-Pellet spread
-Pattern consistency
-Projectiles number
-Reload speed
+Zielgeschwindigkeit
+Schrotkugelstreuung
+Gleichmäßigkeit des Schussmusters
+Anzahl der Geschosse
+Nachladegeschwindigkeit
 ---
-Running accuracy
-Double-action speed
+Genauigkeit beim Sprinten
+Schnelligkeit des Abzugs

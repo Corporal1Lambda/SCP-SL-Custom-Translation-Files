@@ -1,26 +1,26 @@
 <color=red>「SCP-173」</color>
-<color=#ff8000>Class-D</color>
-「Spectator」
+<color=#ff8000>Klasse-D</color>
+「Zuschauer」
 <color=red>「SCP-106」</color>
-<color=#00d9ff>Epsilon-11 Specialist</color>
+<color=#00d9ff>E-11 Spezialist</color>
 <color=red>「SCP-049」</color>
-<color=#ffff7c>Scientist</color>
+<color=#ffff7c>Forscher</color>
 <color=#8080FF>「SCP-079」</color>
-<color=#559100>Chaos Recon</color>
+<color=#559100>Chaos Rekrut</color>
 <color=red>「SCP-096」</color>
 <color=#8d1414>「SCP-049-2」</color>
-<color=#0096ff>Epsilon-11 Sergeant</color>
-<color=#003dca>Epsilon-11 Captain</color>
-<color=#70c3ff>Epsilon-11 Private</color>
+<color=#0096ff>E-11 Unteroffizier</color>
+<color=#003dca>E-11 Capitän</color>
+<color=#70c3ff>E-11 Soldat</color>
 <color=#ff00b0>「Admin Abuse」</color>
-<color=#556278>Facility Guard</color>
+<color=#556278>Wachtmann</color>
 <color=red>「SCP-939-168」</color>
 -
-<color=#008F1C>Chaos Trooper</color>
-<color=#006826>Chaos Executor</color>
-<color=#0D7D35>Chaos Charger</color>
+<color=#008F1C>Chaos Infanterist</color>
+<color=#006826>Chaos Vollstrecker</color>
+<color=#0D7D35>Chaos Schwerkämpfer</color>
 Overwatch
-Filmmaker
+Filmemacher
 <color=red>「SCP-3114」</color>
 s1
 <color=#FF59CA>「SCP-1507」</color>

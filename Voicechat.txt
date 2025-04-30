@@ -1,28 +1,28 @@
-MUTED BY ADMIN
-GLOBALLY MUTED
-UNAUTHENTICATED
-ADJUST PRIVACY SETTINGS
-Your microphone is disabled due to your privacy settings.
-Voice Chat Privacy Settings
-This game uses voice chat. Using the push-to-talk keys (default "Q" and "V") will capture your microphone input and transmit it to other users connected to the server.\nCertain game features may temporarily store short samples of your transmissions, which will be automatically erased after disconnecting from the server.
-Reject all (disable microphone capture)
+Durch Admin gestummt
+Global gestummt
+NICHT AUTHENTIFIZIERT
+PRIVATSSPHÄREEINSTELLUNGEN ANPASSEN
+Mikrofon durch Privatssphäreeinstellungen deaktiviert.
+Voice Chat Privatssphäreeinstellungen
+Dieses Spiel verwendet Voice-Chat. Wenn Du die Push-to-Talk-Tasten (standardmäßig „Q“ und „V“) verwendest, werden deine Mikrofoneingaben aufgezeichnet und an andere mit dem Server verbundene Benutzer übertragen.\nBestimmte Spielfunktionen können vorübergehend kurze Proben deiner Übertragungen speichern, die nach dem Trennen der Verbindung zum Server automatisch gelöscht werden.
+Alle ablehnen (Mikrofonaufnahme deaktivieren)
 Personalize settings
-Accept all
-Accept
-Deny
-Microphone Capture
-Allow the game to capture your microphone and transmit it to users when push-to-talk keys are held. A microphone icon will be displayed at the bottom of the screen, indicating active transmission. The game will never transmit, or use your microphone without the indicator being visible.
-Short Recordings
-Allow game mechanics to use short recordings of your voice. This includes SCP-939's "With Many Voices" ability, which can record and play back short voice samples of killed players. All recordings are discarded the moment you leave the server, or once the round restarts.
-Apply settings
-Return
-Press "[key]" and navigate to "Settings" to adjust.
-<size=135%><b>👥</b> Mute alive players -</size>
-<size=135%><b>\uf06e</b> Mute spectators -</size>
-<size=135%><b>🎮</b> Mute pre-game lobby -</size>
-Pre-game Lobby Chat
-Round Summary Global Chat
-Spectator Chat
-Alive Players' Chat while Spectating
-Muted
-Unmuted
+Alle Anehmen
+Anehmen
+Ablehnen
+Mikrofonaufnahme
+Erlaube dem Spiel, dein Mikrofon zu erfassen und es an die Benutzer zu übertragen, wenn die Push-to-Talk-Tasten gedrückt werden. Ein Mikrofonsymbol wird am unteren Rand des Bildschirms angezeigt, um die aktive Übertragung anzuzeigen. Das Spiel wird niemals übertragen oder dein Mikrofon verwendet, wenn die Anzeige nicht sichtbar ist.
+Kurze Aufnahmen
+Erlaube Spielmechaniken, kurze Aufnahmen deiner Stimme zu verwenden. Dazu gehört die Fähigkeit „With Many Voices“ von SCP-939, die kurze Stimmproben von getöteten Spielern aufzeichnen und wiedergeben kann. Alle Aufnahmen werden in dem Moment verworfen, in dem du den Server verlässt, oder wenn die Runde neu beginnt.
+Einstellungen annehmen
+Zurück
+Drücke "[key]" und navigiere zu "Einstellungen" , um anzupassen.
+<size=135%><b>👥</b> Lebendige Spieler stummen -</size>
+<size=135%><b>\uf06e</b> Zuschauer stummen -</size>
+<size=135%><b>🎮</b> Lobby-Chat vor dem Spiel stummen -</size>
+Lobby-Chat vor dem Spiel
+Chat am Ende der Runde
+Zuschauer Chat
+Lebende Spieler' Rede mit ihnen
+Gestummt
+Entstummt

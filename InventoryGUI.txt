@@ -1,28 +1,28 @@
 <size=125%><color=#FFFFFF>{0}</color></size>/{1} - {2}
-Damage
-Fire Rate
-Hip Accuracy
-ADS Accuracy
-Weight
-Length
-DROP:
-Helmet Efficacy
-Vest Efficacy
-Stamina Usage
-Movement Speed
-Item Limits:
-Ammo Limits:
-{0} total
-Armor Penetration
-Running Accuracy
-Press <color=#ff80bc><b>[key]</b></color> to cackle
-<voffset=-2.5em><size=150%>Charge: <size=175%><b>[percent]</b></size></voffset>
-<voffset=-2.5em><size=150%>Ammo: <size=175%><b>[rem]</b></size></voffset>
-<size=750%>\n</size>Hold <b>[primary]</b> for Quick-Fire mode.
-Hold <b>[secondary]</b> for a High-Powered charge.
-<size=750%>\n</size><color=#00ff00><size=125%>「Ready to Fire」</size></color>\n<size=80%><b>[key]</b> to cycle firing modes.</size>
-<size=750%>\n</size>Press <b>[key]</b> to Swing.
-Hold <b>[key]</b> to Charge.
-<size=750%>\n</size><color=#00ff00><size=125%>「Ready to Fire」</size></color>\n<size=80%><b>[primary]</b> to activate.</size>
-<size=750%>\n</size><color=yellow>⚠</color> - MICRO H.I.D. DAMAGED - <color=yellow>⚠</color>\n<size=80%>Capabilities are limited.</size>
-<color=red>SCP-127</color> grows in strength as your bond with it deepens.
+Schaden
+Feuerrate
+Hüftfeuer-Genauigkeit
+Zielende Genauigkeit
+Gewicht
+Länge
+FALLEN LASSEN:
+Helm-Panzerung
+Schutzwesten-Panzerung
+Ausdauerverbrauch
+Bewegungsgeschwindigkeit
+Gegenstand-Limits:
+Munitions-Limits:
+{0} insgesamt
+Durchschlagskraft
+Genauigkeit beim Sprinten
+Klicke <color=#ff80bc><b>[key]</b></color> um zu kichern
+<voffset=-2.5em><size=150%>Ladunge: <size=175%><b>[percent]</b></size></voffset>
+<voffset=-2.5em><size=150%>Munition: <size=175%><b>[rem]</b></size></voffset>
+<size=750%>\n</size>Halte <b>[primary]</b> zum Schnellfeuern.
+Halte <b>[secondary]</b> für aufgeladenen Ladungsstoß.
+<size=750%>\n</size><color=#00ff00><size=125%>「Bereit」</size></color>\n<size=80%><b>[key]</b> um zwischen Feuermodi zu wechseln.</size>
+<size=750%>\n</size>Drücke <b>[key]</b> zum Angreifen.
+Drücke <b>[key]</b> zum Laden.
+<size=750%>\n</size><color=#00ff00><size=125%>「Bereit」</size></color>\n<size=80%><b>[primary]</b> zum feuern.</size>
+<size=750%>\n</size><color=yellow>⚠</color> - MICRO H.I.D. BESCHÄDIGT - <color=yellow>⚠</color>\n<size=80%>Fähigkeiten eingeschränkt.</size>
+<color=red>SCP-127</color> wird stärker, je tiefer eure Bindung wird.

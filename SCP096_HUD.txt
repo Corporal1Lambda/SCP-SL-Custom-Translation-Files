@@ -1,8 +1,8 @@
-SCP-096 starts docile, and can become enraged when someone sees its face, or harms it. Rage empowers with many abilities, which assist SCP-096 in following transgressor’s lights before the fury subsides.
-<b>\uf5b4 - Try Not to Cry</b>:It's hard to go on… but leaning on something helps you to calm down, either to hide… or to wait for someone to come by.
-<b>\uf2a7 - Melee Attack</b>:Tear through anything in your way to get to those who've hurt you. Your attacks will destroy doors and injure humans.
-<b>🏃 - Charge</b>:Cut their escapes short — they deserve it. You bolt straight ahead for a short distance, demolishing anything in your path.
-Rage Only
-Docile Only
-Hold <b>[key]</b> to enter Rage.
-Hold <b>[key]</b> to force-exit Rage.
+SCP-096 beginnt sanftmütig, kann aber wütend werden, wenn jemand sein Gesicht sieht oder ihn verletzt. Wut verleiht ihm viele Fähigkeiten, die SCP-096 dabei helfen, die Position seiner Opfer zu verfolgen, bevor seine Wut nachlässt.
+<b>\uf5b4 - Versuche, nicht zu weinen</b>:s ist einfach zu schwer... aber an etwas festzuhalten hilft, dich zu beruhigen. Entweder um dich zu verstecken... oder um zu warten, bis jemand zu dir kommt.
+<b>\uf2a7 - Nahkampf-Attacke</b>:Zerfetze alles und jeden in deinem Weg, um zu denen zu kommen, welche dich verletzt haben. Mit deinen Angriffen kannst du Türen zerstören und Menschen verletzen.
+<b>🏃 - Sturmattacke</b>:Schneide ihnen die Flucht ab - sie haben es verdient. Du stürmst eine kurze Strecke geradeaus und zerstörst alles, was sich dir in den Weg stellt.
+Nur Wut
+Nur Besänftigt
+Halte <b>[key]</b>, um in Wut zu verfallen.
+Halte <b>[key]</b>, um die Wut zu beenden.

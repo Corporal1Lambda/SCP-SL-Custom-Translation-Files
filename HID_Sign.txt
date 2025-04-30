@@ -1,10 +1,9 @@
 #INFO FOR TRANSLATORS: In this file you can use as many lines as you want, all of them will be displayed on the display above the door.
-SITE-02
-PROTOTYPE
-WEAPONRY
-STORAGE
+PROTOTYP
+WAFFEN
+LAGER
 ---
-AUTHORISED
-PERSONNEL
-ONLY
+NUR
+AUTORISIERTES
+PERSONAL
 ---

@@ -1,47 +1,47 @@
-Press [key_attack] or [key_jump] to Lunge.
-🔍 Preview the voice (only you can hear this)
+Klicke [key_attack] oder [key_jump], um zu springen.
+Vorschau der Stimme (nur du kannst dies hören)
 -
-❌ Remove the voice (hold)
-🔊 Play the voice (everyone can hear this)
-<color=#EC2222>SCP-939</color> has killed you and has stolen your voice!
-If you do not wish your voice to be used, you can turn this feature off.
-Remember my choice
-Delete
+Stimme entfernen (halten)
+Spiele die Stimme ab (jeder kann dies hören)
+SCP-939 hat dich getötet und deine Stimme gestohlen!
+Wenn du nicht möchtest, dass deine Stimme verwendet wird, kannst du diese Funktion ausschalten.
+Meine Auswahl merken
+Löschen
 OK
-More information
-<color=#EC2222>SCP-939</color> uses a mechanic where the last few seconds of your voice chat transmission is temporarily recorded. This can be played back by <color=#EC2222>SCP-939</color> to lure out targets.\nThe recordings are automatically discarded if you leave the server, if SCP-939 dies, or upon round restart. Turning this feature off will remove all existing recordings of your transmissions.
-<color=yellow>⚠</color> Cloud cannot be deployed at this position <color=yellow>⚠</color>
-<color=yellow>⚠</color> Minimal Cloud size hasn't been reached <color=yellow>⚠</color>
-SCP-939 is blind, and only hears sounds. It capitalizes on mistakes, using its silent steps and frightening speed to set up ambushes and go in for the kill.
-<b>\uf1b0 - Claw</b>:Click to swipe your claw in a wide arc in front of you, ripping flesh and bone from your chosen victim. Whilst focusing, your primary attack will allow you to lunge at your prey.
-<b>\uf2a8 - Focus</b>:Devoting your full energy to your senses, you can see prey from farther away, as well as being able to tell what type of prey they are, through the actions they perform.
-<b>\uf75f - Amnestic Cloud</b>:Fill your air sacs with a dangerous neurochemical gas, projecting it in a radius which is determined by the time it was charged. Humans who inhale the gas lose perception of SCP-939, and cannot perform certain actions. Beware though, attacking or being attacked will reveal you for a short time.
-\uf630<b> - With Many Voices</b>:Humans you kill have a chance at giving you their last words, allowing you to steal their voice and utilize it to deceive others. In addition, SCP-939 can also mimic some basic sounds, such as disguising their footsteps to match humans.
-<b>\uf491 - Ultrasensitive</b>:SCP-939 is able to sense nearby heat sources, represented by a small radius of normal vision. Outside of this however, you must rely on sound in order to track nearby prey. The louder the sound, the further away you can hear it from. The range of your vision is affected by your stamina levels.
+Mehr Informationen
+SCP-939 verwendet eine Mechanik, bei der die letzten wenigen Sekunden deines Sprachchats temporär aufgenommen werden. Dies kann durch SCP-939 wieder abgespielt werden, um Ziele anzulocken.\nDie Aufnahmen werden automatisch gelöscht, wenn du den Server verlässt, SCP-939 stirbt, oder die Runde endet. Wenn du dieses Feature ausschaltest, werden alle deine existierenden Aufnahmen gelöscht.
+Die Wolke kann an dieser Stelle nicht eingesetzt werden.
+Die minimale Wolken-Größe wurde nicht erreicht. Halte die Taste länger gedrückt.
+SCP-939 ist blind und sieht durch Schall. Es nutzt Fehler aus, indem es mit lautlosen Schritten und beängstigender Geschwindigkeit Hinterhalte vorbereitet und zum Töten aus dem Nichts auftaucht.
+Krallen:Klicke, um deine Klaue in einem weiten Bogen vor dir zu schwingen und deinem Opfer Fleisch und Knochen zu entreißen. Während du dich fokussierst, kannst du dich mit deinem primären Angriff auf deine Beute stürzen.
+Fokus:Wenn du deine gesamte Energie auf deine Sinne richtest, kannst du deine Beute aus größerer Entfernung sehen und anhand ihrer Aktionen erkennen, um welche Art von Beute es sich handelt.
+Amnestische Wolke:Fülle deine Lunge mit einem gefährlichen neurochemischen Gas, das in einem Radius ausgestoßen wird, der durch die Zeit bestimmt wird, in der es durch Halten der Taste vergrößert wurde. Menschen, die das Gas einatmen, können SCP-939 nicht mehr wahrnehmen und bestimmte Aktionen nicht mehr ausführen. Aber Vorsicht: Wenn du angreifst oder angegriffen wirst, wirst du für eine kurze Zeit sichtbar.
+Imitator:Menschen, die du tötest, haben die Möglichkeit, dir ihre letzten Worte mitzuteilen, so dass du ihre Stimme stehlen und sie zur Täuschung anderer einsetzen kannst. Darüber hinaus kann SCP-939 auch einige grundlegende Geräusche imitieren, z.B. seine Schritte so verstellen, dass sie denen von Menschen gleichen.
+Ultrasensitiv:SCP-939 ist in der Lage, Wärmequellen in der Nähe wahrzunehmen, was durch einen kleinen Radius der normalen Sicht dargestellt wird. Außerhalb dieses Radius musst du dich jedoch auf Geräusche verlassen, um Beute in der Nähe aufzuspüren. Je lauter das Geräusch ist, desto größer ist die Distanz, von der du es hören kannst. Die Reichweite deines Sehvermögens wird durch deine Ausdauer beeinflusst.
 -
-<color=red>🌀</color> Place Mimic Point <color=red>🌀</color>
-Override position of Mimicry's sounds source
-<color=red>❌</color> Remove Mimic Point <color=red>❌</color>
-Make all sounds come from your current location
-<color=red>🌀</color> Mimic Point set <color=red>🌀</color>
-<color=yellow>⚠</color> Mimic Point removed <color=yellow>⚠</color>
-<color=yellow>⚠</color> Mimic Point out of range <color=yellow>⚠</color>
-Stolen Voices 💀
+Imitator-Punkt platzieren
+Überschreibt Geräuschsposition der Imitator-Fähigkeit
+Imitator-Punkt entfernen
+Spiele alle Geräusche von deiner aktuellen Position ab
+Imitator-Punkt platziert!
+Imitator-Punkt entfernt!
+Imitator-Punkt zerstört. Du bist außer Reichweite.
+Gestohlene Stimmen
 -
-Environmental Mimicry 🔦
+Imitation der Umgebung
 -
-Cooldown: [time]s
+(Cooldown: [time]s)
 -
-Impersonation 📋
-Shooting 🔫
-Miscellaneous 💉
+Nachahmung
+Schießen
+Sonstiges
 -
 -
-Roles
-Hotkey  <b>[key]</b>
-🔊 Play the selected sound (<b>everyone</b> can hear this)
-Stop the playback
-Drag to trim the recording
-Toggle favorite - Recording will be bound to a hotkey
-Drag to reorganize recordings
-<color=red>⚠</color> You've stolen your target's voice! <color=red>🔊</color>
+Rollen
+Hotkey [key]
+Spiele den ausgewählten Sound ab (jeder kann dies hören)
+Stoppe die Wiedergabe
+Ziehen, um die Aufnahme zu schneiden
+Favorit umschalten. Als Favorit markierte Aufnahmen sind an einen Hotkey gebunden.
+Ziehen, um Aufnahmen neu zu organisieren
+Du hast die Stimme deines Ziels gestohlen!
