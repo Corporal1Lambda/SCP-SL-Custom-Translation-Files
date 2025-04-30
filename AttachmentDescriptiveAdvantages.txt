@@ -1,5 +1,5 @@
 Lichtquelle
 Munitionszähler
-Aufblitzunterdrücker
+Mündungsfeuerunterdrückung
 Nachtsicht
 Schrotkugeln

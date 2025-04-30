@@ -1,2 +1,2 @@
 Laser ist für Andere sichtbar!
-Kein Bonusschaden für Kopfschüsse.
+Kein Extraschaden für Kopfschüsse.
