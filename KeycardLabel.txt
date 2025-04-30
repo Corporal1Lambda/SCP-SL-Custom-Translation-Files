@@ -1,4 +1,4 @@
-<size=85%>\uf084</size> FORSCHER
+<size=85%>\uf084</size> WISSENSCHAFTLER
 <size=85%>\uf084</size> PUTZKRAFT
 <size=85%>\uf084</size> FORSCHUNGSLEITER
 <size=85%>\uf084</size> EINDÄMMUNGSSPEZIALIST
