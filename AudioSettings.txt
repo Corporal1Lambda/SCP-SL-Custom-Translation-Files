@@ -1,17 +1,17 @@
-Volume
+Lautstärke
 Master
-Voice Chat
-Sound Effects
-Microphone Capture
-Device
-Privacy Settings
-Adjust
-Main Menu
-Music
+Voicechat
+Soundeffekte
+Mikrofon-Aufnahme
+Gerät
+Privatsphäre-Einstellungen
+Ändern
+Hauptmenü
+Musik
 Interface
-Theme
-Noise Suppression
-Reduces unwanted background noise picked up by your microphone. Keeping this option enabled is highly recommended and should have no impact on the quality of your voice.
-Voice Lines
-SCP-127 Voice Volume
-SCP-3114 Voice Volume
+Soundtrack
+Geräuschunterdrückung
+Reduziert ungewollte Hintergrundgeräusche, die von deinem Mikrofon aufgenommen werden. Es wird empfohlen, die Einstellung immer aktiv zu haben, da sie die Qualität deiner Stimme nicht beeinträchtigen sollte.
+Sprachaufnahmen
+SCP-127 Sprachlautstärke
+SCP-3114 Sprachlautstärke
