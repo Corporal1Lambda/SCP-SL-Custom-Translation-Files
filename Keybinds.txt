@@ -5,7 +5,7 @@ Interagieren
 Inventar
 Nachladen
 Rennen
-Voice Chat
+Sprachchat
 Schleichen
 Vorwärts Bewegen
 Rückwärts Bewegen
@@ -15,13 +15,13 @@ Spielerliste
 Charakterinfo
 Remote Admin
 Taschenlanpe ein/aus
-Alt Voice Chat
+Alt. Sprachchat
 Noclip
 Spielekonsole
-Keycard Hotkey
+Schlüsselkartenschnellzugriff
 Inspizieren
-Revolverhahn/Schwanz ziehen
-Item werfen
+Revolverhahn ziehen
+Gegenstand werfen
 Primäre Waffe
 Sekundäre Waffe
 Heilungsgegenstände
@@ -35,4 +35,4 @@ Tür verriegeln
 Alle Türen entsperren
 Stromausfall
 Verriegelung
-Position pingen
+Position markieren
