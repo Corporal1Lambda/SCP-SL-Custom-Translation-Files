@@ -1,7 +1,7 @@
 <color=#8080FF>「🌀」</color> - <color=#8080FF>SCP-079</color> ist anfangs relativ schwach, wird aber im Laufe des Spiels immer stärker.
-<color=#8080FF>「🌀」</color> - <color=#8080FF>SCP-079</color> kann Türen verriegeln, das Licht ausschalten und Tesla-Tore überladen.
-<color=#8080FF>「🌀」</color> - Ein Tesla-Tor, das von <color=#8080FF>SCP-079</color> betrachtet wird, erscheint immer aktiv.
-<color=#8080FF>「🌀」</color> - <color=#8080FF>SCP-079</color> wird über Generatoren in der Schweren Eindämmungszone und einen finalen Knopf in seiner Eindämmungskammer reeingedämmt.
+<color=#8080FF>「🌀」</color> - <color=#8080FF>SCP-079</color> kann Türen verriegeln, das Licht ausschalten und Tesla-Gates überladen.
+<color=#8080FF>「🌀」</color> - Ein Tesla-Gate, das von <color=#8080FF>SCP-079</color> betrachtet wird, erscheint immer aktiv.
+<color=#8080FF>「🌀」</color> - <color=#8080FF>SCP-079</color> wird über Generatoren in der Hochverwarungszone und einen finalen Knopf in seiner Eindämmungskammer neutralisiert.
 <color=#8080FF>「🌀」</color> - <color=#8080FF>SCP-079</color> kann mit dem Mausrad die Zoomstufe seiner Kameras ändern.
 <color=#8080FF>「🌀」</color> - Je länger <color=#8080FF>SCP-079</color> eine Tür verriegelt hält, desto mehr Energie wird dafür benötigt.
 <color=#8080FF>「🌀」</color> - <color=#8080FF>SCP-079</color> schaltet auf Stufe 4 einen Eindringlings-Scanner frei. Erkennt er einen Menschen in einem Raum, ertönt ein Alarm.
@@ -28,7 +28,7 @@
 <color=#EC2222>「🌀」</color> - <color=#EC2222>SCP-049</color> kann <color=#EC2222>SCP-049-2</color>-Instanzen in seiner Nähe einen kleinen Schild verleihen.
 <color=#EC2222>「🌀」</color> - <color=#EC2222>SCP-049-2</color>-Instanzen sind anfällig für Kopfschüsse.
 <color=#EC2222>「🌀」</color> - <color=#EC2222>SCP-049-2</color>-Instanzen sind gute Späher und gefährlich in großer Zahl.
-<color=#EC2222>「🌀」</color> - Die meisten spielbaren <color=#EC2222>SCP</color>s besitzen eine zweite Gesundheitsleiste namens ‘<color=#8079FF>Hume-Schild</color>’.
+<color=#EC2222>「🌀」</color> - Die meisten spielbaren <color=#EC2222>SCPs</color> besitzen eine zweite Gesundheitsleiste namens ‘<color=#8079FF>Hume-Schild</color>’.
 <color=#EC2222>「🌀」</color> - <color=#EC2222>SCP</color>-Subjekte erzeugen andere Schrittgeräusche als Menschen. Hör genau hin!
 <color=#EC2222>「🌀」</color> - <color=#EC2222>SCP-3114</color> kann sich als menschliche Klasse tarnen. Sei vorsichtig, wem du vertraust!
 <color=#EC2222>「🌀」</color> - Nachdem <color=#EC2222>SCP-3114</color> Haut von einer Leiche gestohlen hat, bleibt ein Knochenhaufen zurück.
@@ -38,16 +38,16 @@
 <color=#EC2222>「💳」</color> - Eine Flasche <color=#EC2222>SCP-207</color> erhöht nicht nur die Bewegungsgeschwindigkeit, sondern stellt auch teilweise die Gesundheit wieder her.
 <color=#EC2222>「💳」</color> - Bis zu drei <color=#EC2222>SCP-207</color>-Flaschen können konsumiert werden, was die Geschwindigkeit erheblich steigert.
 <color=#EC2222>「💳」</color> - <color=#EC2222>SCP-500</color> heilt nicht nur, sondern entfernt auch viele negative Effekte und verleiht Regeneration.
-<color=#EC2222>「💳」</color> - Während <color=#EC2222>SCP-268</color> dich für andere unsichtbar macht, kann <color=#8080FF>SCP-079</color> dich weiterhin bemerken.
+<color=#EC2222>「💳」</color> - Während <color=#EC2222>SCP-268</color> dich für Lebewesen uninteressant macht, kann <color=#8080FF>SCP-079</color> dich weiterhin bemerken.
 <color=#EC2222>「💳」</color> - <color=#EC2222>SCP-268</color> schützt dich nicht vor <color=#EC2222>SCP-096</color>, wenn du ihn angesehen hast.
-<color=#EC2222>「💳」</color> - <color=#EC2222>SCP-018</color> ist äußerst unberechenbar. Wenn es geworfen wird: in Deckung gehen!
+<color=#EC2222>「💳」</color> - <color=#EC2222>SCP-018</color> ist äußerst unberechenbar. Wenn es geworfen wird: Geh in Deckung!
 <color=#EC2222>「💳」</color> - <color=#EC2222>SCP-018</color> kann beim Abprallen in einem Flur Verfolger aufhalten.
-<color=#EC2222>「💳」</color> - <color=#EC2222>SCP-330</color> gibt sechs einzigartige Bonbons mit eigenen Effekten aus. Nimm nicht mehr als zwei!
+<color=#EC2222>「💳」</color> - <color=#EC2222>SCP-330</color> gibt viele einzigartige Bonbons mit eigenen Effekten aus. Nimm nicht mehr als zwei!
 <color=#EC2222>「💳」</color> - <color=#EC2222>SCP-1853</color> beschleunigt das Nachladen und verringert den Rückstoß.
 <color=#EC2222>「💳」</color> - <color=#EC2222>SCP-2176</color> kann Räume verriegeln oder von <color=#8080FF>SCP-079</color> verriegelte Räume wieder öffnen.
 <color=#EC2222>「💳」</color> - <color=#EC2222>SCP-2176</color> kann <color=#8080FF>SCP-079</color> betäuben, wenn es in einem gerade überwachten Raum verwendet wird.
-<color=#EC2222>「💳」</color> - <color=#EC2222>SCP-244</color> verlangsamt das Aufnehmen von Gegenständen und verhindert die Regeneration von SCP-Schildern.
-<color=#EC2222>「💳」</color> - <color=#EC2222>SCP-1576</color> erlaubt lebenden Spielern, kurzzeitig mit Zuschauern zu sprechen.
+<color=#EC2222>「💳」</color> - <color=#EC2222>SCP-244</color> verlangsamt das Aufnehmen von Gegenständen und verhindert die Regeneration vom Hume-Schild.
+<color=#EC2222>「💳」</color> - <color=#EC2222>SCP-1576</color> erlaubt lebenden Spielern, kurzzeitig mit den Toten zu sprechen.
 <color=#EC2222>「💳」</color> - Anti-Cola (<color=#004B93>O-207-914</color>) verleiht Regeneration auf Kosten der Geschwindigkeit. In bestimmten Situationen kann sie dein Leben retten!
 <color=#0096FF>「\uf05b」</color> - Du kannst einen Spieler entwaffnen, indem du mit einer Waffe in der Hand mit ihm interagierst.
 <color=#0096FF>「\uf05b」</color> - Passe deine Waffenaufsätze der aktuellen Situation an, um den größtmöglichen Vorteil zu erhalten.
@@ -57,25 +57,25 @@
 <color=#0096FF>「\uf05b」</color> - Panzerbrechende Munition (AP) ist besonders effektiv gegen gepanzerte Ziele.
 <color=#0096FF>「\uf05b」</color> - Hohlspitzmunition (JHP) verursacht mehr Schaden bei ungepanzerten Zielen, ist aber gegen Rüstung schwächer.
 <color=#0096FF>「\uf05b」</color> - Halte die Nachladetaste gedrückt, um eine Waffe zu entladen und die Munition ins Inventar zu verschieben.
-<color=#0096FF>「\uf05b」</color> - <color=#008F1C>Chaos-Insurgenten</color>-Waffen sind mächtig, aber ihre Munition spawnt nicht in der Anlage. Nutze sie mit Bedacht.
+<color=#0096FF>「\uf05b」</color> - <color=#008F1C>Chaos</color>-Waffen sind mächtig, aber ihre Munition existiert nicht in der Anlage. Nutze sie mit Bedacht.
 <color=#0096FF>「💥」</color> - Granaten können Türen zerstören.
 <color=#0096FF>「💥」</color> - Granaten können mit der rechten Maustaste schwächer geworfen werden.
-<color=#0096FF>「\uf05b」</color> - Der <color=#003DCA>Micro H.I.D.</color> kann die meisten SCPs schnell töten, hat aber begrenzte Energie. Klug einsetzen!
-<color=#0096FF>「\uf05b」</color> - Der <color=#003DCA>Micro H.I.D.</color> benötigt etwa fünf Sekunden Ladezeit.
-<color=#0096FF>「\uf05b」</color> - Durch Halten der rechten Maustaste bleibt der <color=#003DCA>Micro H.I.D.</color> feuerbereit, verbraucht aber langsam Energie.
-<color=#0096FF>「\uf05b」</color> - Beim Aufladen ist der <color=#003DCA>Micro H.I.D.</color> sehr laut. Nutze ihn, bevor deine Ziele fliehen können.
-<color=#0096FF>「\uf05b」</color> - Das Aufladen des <color=#003DCA>Micro H.I.D.</color> erzeugt ein furchteinflößendes Geräusch, das Gegner abschrecken kann.
+<color=#0096FF>「\uf05b」</color> - Die <color=#003DCA>Micro H.I.D.</color> kann die meisten SCPs schnell töten, hat aber begrenzte Energie. Nutze Sie weise!!
+<color=#0096FF>「\uf05b」</color> - Die <color=#003DCA>Micro H.I.D.</color> benötigt je nach Modus 4-7 Sekunden Ladezeit.
+<color=#0096FF>「\uf05b」</color> - Durch das Halten der rechten Maustaste bleibt die <color=#003DCA>Micro H.I.D.</color> feuerbereit, verbraucht aber langsam Energie.
+<color=#0096FF>「\uf05b」</color> - Beim Aufladen ist die <color=#003DCA>Micro H.I.D.</color> sehr laut. Nutze Sie, bevor deine Ziele fliehen können.
+<color=#0096FF>「\uf05b」</color> - Das Aufladen der <color=#003DCA>Micro H.I.D.</color> erzeugt ein furchteinflößendes Geräusch, das Gegner abschrecken kann.
 <color=#0096FF>「💥」</color> - Blendgranaten sind besonders effektiv gegen <color=#EC2222>SCP-939</color>.
-<color=#e8b923>「⭐」</color> - <color=#FFFF7C>Wissenschaftler</color> und <color=#FF8E00>Class-D</color> müssen die Oberfläche erreichen, um zu entkommen.
+<color=#e8b923>「⭐」</color> - <color=#FFFF7C>Wissenschaftler</color> und <color=#FF8E00>Klasse-D</color> müssen die Oberfläche erreichen, um zu entkommen.
 <color=#e8b923>「⭐」</color> - <color=#556278>Sicherheitskräfte</color> sind allein schwach, aber gemeinsam stark. Bleibt zusammen!
-<color=#e8b923>「⭐」</color> - Entkommene <color=#FF8E00>Class-D</color> schließen sich der <color=#559100>Chaos-Insurgency</color> an, entkommene <color=#FFFF7C>Wissenschaftler</color> werden zu <color=#00D9FF>MTF</color>.
-<color=#e8b923>「⭐」</color> - <color=#0096FF>MTF</color>-Einheiten und <color=#008F1C>Chaos-Insurgenten</color> betreten die Oberfläche an gegenüberliegenden Seiten.
-<color=#e8b923>「⭐」</color> - Die Anlage besteht aus vier Hauptzonen: Leichte Eindämmung, Schwere Eindämmung, Eingang und Oberfläche.
+<color=#e8b923>「⭐」</color> - Entkommenes <color=#FF8E00>Klass-D-Personal</color> schließen sich der <color=#559100>Chaos-Insurgency</color> an, entkommene <color=#FFFF7C>Wissenschaftler</color> werden zu <color=#00D9FF>MTF</color>.
+<color=#e8b923>「⭐」</color> - <color=#0096FF>MTF-Einheiten</color> und <color=#008F1C>Chaos-Insurgency</color> betreten die Oberfläche an gegenüberliegenden Seiten.
+<color=#e8b923>「⭐」</color> - Die Anlage besteht aus vier Hauptzonen: Leichtverwarungszone, Hochverwarungszone, Eingangszone und Oberfläche.
 <color=#e8b923>「⭐」</color> - Die Eingangszone hat zwei Tore zur Oberfläche. Zum Öffnen wird eine Schlüsselkarte benötigt.
-<color=#e8b923>「⭐」</color> - Tesla-Tore sind elektrische Gefahren in der Schweren Eindämmungszone. Vorsicht!
+<color=#e8b923>「⭐」</color> - Tesla-Gates sind elektrische Gefahren in der Hochverwarungszone. Vorsicht!
 <color=#e8b923>「⭐」</color> - Der Alpha-Sprengkopf tötet alles in der Anlage bei Detonation. Er wird von der Oberfläche aus aktiviert.
 <color=#e8b923>「⭐」</color> - Der Intercom-Raum in der Eingangszone ermöglicht Sprachnachrichten an alle Spieler.
-<color=#e8b923>「⭐」</color> - Die Leichte Eindämmungszone wird nach 15 Minuten abgeriegelt. Wer zurückbleibt, stirbt. Flieh rechtzeitig!
+<color=#e8b923>「⭐」</color> - Die Leichtverwarungszone wird nach 15 Minuten abgeriegelt. Wer zurückbleibt, stirbt. Flieh rechtzeitig!
 <color=#e8b923>「⭐」</color> - <color=#EC2222>SCP-914</color> kann alle Gegenstände, einschließlich Waffen und Munition, verändern.
 <color=#e8b923>「⭐」</color> - <color=#EC2222>SCP-914</color> kann Funkgeräte und experimentelle Waffen aufladen.
 <color=#e8b923>「⭐」</color> - <color=#EC2222>SCP-914</color> kann einzigartige Gegenstände erzeugen, die sonst nirgendwo zu finden sind. Experimentiere ruhig!
