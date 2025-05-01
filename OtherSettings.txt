@@ -25,6 +25,6 @@ Lokales Abzeichen präferieren
 Globales Abzeichen - Sichtbarkeitspräferenz
 Lokales Abzeichen - Sichtbarkeitspräferenz
 Ich möchte kein SCP sein
-Wenn diese Option aktiviert ist, wirst du kein SCP. Falls jedoch nicht genügend Spieler für SCP sein möchten, könntest du dennoch als einer spawnen.
+Wenn diese Option aktiviert ist, wirst du kein SCP. Falls jedoch nicht genügend Spieler ein SCP sein möchten, könntest du dennoch als einer spawnen.
 Anmelden
 Abmelden
