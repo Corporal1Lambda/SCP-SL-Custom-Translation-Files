@@ -1,5 +1,5 @@
 <color=#FFFFFF><b>Keine</b></color>
-<color=#FFFFFF><bZugangskarte</b></color>
+<color=#FFFFFF><b>Zugangskarte</b></color>
 <color=#FFFFFF><b>Heilung</b></color>
 <color=#FFFFFF><b>Funkgerät</b></color>
 <color=#FFFFFF><b>Waffen</b></color>
