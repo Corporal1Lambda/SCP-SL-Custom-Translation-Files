@@ -1,8 +1,8 @@
-<size=85%>\uf084</size> WISSENSCHAFTLER
+<size=85%>\uf084</size> WISSENSCHAFT
 <size=85%>\uf084</size> PUTZKRAFT
-<size=85%>\uf084</size> FORSCHUNGSLEITER
+<size=85%>\uf084</size> FORSCHUNGSLEITUNG
 <size=85%>\uf084</size> EINDÄMMUNGSSPEZIALIST
-<size=85%>\uf084</size> WACHTMEISTER
+<size=85%>\uf084</size> SICHERHEIT
 <size=85%>\uf084</size> HAUSMEISTER
 <size=85%>\uf084</size> STANDORTLEITER
 <color=green>VERBLEIBENDE NUTZUNGEN: 1</color>
