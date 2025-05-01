@@ -25,7 +25,7 @@
 25~<color=#0096FF>💥 HE Grenade 💥</color>~<color=orange>💥</color> 900 DMG gegen <color=red>SCPs</color>.\n<color=#8079FF>\ue06c</color> 2x DMG gegen <color=#8079FF>Hume Schild</color>.\n<color=orange>🔥</color> Verbrennt Spieler\n\uf2f2 3.5s Detonationstimer.
 26~<color=#5B6370>💣 Blendgranate 💣\nModel FG02</color>~<color=#5B6370>\uf06e</color> Blendet bis zu 5s.\n\uf2f2 2.8s Detonationstimer.
 30~<color=#5B6370>\uf05b CSP-18 \uf05b\n<size=75%>Kompakte Sicherheitspistole</size></color>
-31~<color=red>⚽ SCP-018 ⚽</color>~<size=85%><color=#ffeb00>👥</color> Kein Eigenschaden - 10s.\n💨 Geschwindigkeit wird bei Aufprall verdoppelt.\n⚽ 10x DMG gegen <color=red>SCPs</color>.\n<color=orange>💥</color> Explodiert nach 80s.</size>
+31~<color=red>⚽ SCP-018 ⚽</color>~<size=85%><color=#ffeb00>👥</color> Kein Teamschaden - 10s.\n💨 Geschwindigkeit wird bei Aufprall verdoppelt.\n⚽ 10x DMG gegen <color=red>SCPs</color>.\n<color=orange>💥</color> Explodiert nach 80s.</size>
 32~<color=#ff0000>🎩 SCP-268 🎩</color>~◌ Unsichtbarkeit - 15s.
 33~<color=#FFFF7C>💉 Adrenalin 💉</color>~<color=#55da09>⛨</color> Gibt Spieler <color=#55da09>40 AHP</color>.\n<color=#767676>🏃</color> Füllt Ausdauer auf.\n<color=#767676>🏃</color> Unendliche Ausdauer - 8s.
 34~<color=#FFFF7C>\uf490 Schmerzmittel \uf490</color>~<color=#f57caa>✚</color> Heilt 50 HP.
