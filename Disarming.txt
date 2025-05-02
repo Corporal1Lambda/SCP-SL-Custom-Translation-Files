@@ -1,2 +1,3 @@
 <color=#ff80bc>Du wurdest von <b>[player]</b> gefesselt.</color>
 <color=red>einem Administrator</color>
+<color=teal>Befolge Befehle oder bitte deine Teamkameraden um Hilfe.</color>
