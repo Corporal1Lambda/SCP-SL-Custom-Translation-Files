@@ -1,7 +1,7 @@
 <b>「<color=#58a4ef>\uf3ed</color>」</b> - <color=#0096FF>MTF Einheit Epsilon-11</color> <b>|</b> <color=#003DCA>Ziel: [designation]</color> <b>|</b> 
 <color=#EC2222>[count] SCPs</color>.
 <color=#EC2222>1 SCP</color>.
-<color=#EC2222>Vorsicht!</color>.
+<color=#EC2222>Vorsicht!</color>
 terminiert <b>|</b> Sterbegrund unbekannt.
 terminiert durch: <color=#EC2222>SCP-[scp]</color>.
 terminiert durch: <color=#f5650a>Automatic Sicherheitssystem</color>.
