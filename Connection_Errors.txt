@@ -1,4 +1,4 @@
-<size=80>DU WURDEST GETRETEN</size>\nDer server ist gekommen.
+<size=80>DU WURDEST GETRETEN</size>\nDer Server ist gekommen.
 <size=80>VERBINDUNG ABGEBROCHEN</size>\nDer Server existiert nicht. - Angeblich
 <size=80>VERBINDUNG ABGEBROCHEN</size>\nDiese Verbindungs-ID funktioniert nicht. - Angeblich
 <size=80>VERBINDUNG ABGEBROCHEN</size>\nDieser Kanal exisitiert nicht. - Angeblich
@@ -13,12 +13,12 @@
 <size=80>VERBINDUNG ABGEBROCHEN</size>\nStille... was ist gerade nur passiert???
 <size=80>WARTE KURZ...</size>\n<size=35>Verbinde...</size>
 <size=80>RUNENNEUSTART</size>\n<size=35>Die Runde startet neu - Und das nur wegen dir</size>
-<size=80>WARTE KURZ...</size>\n<size=35>Lade tutorial...</size>
+<size=80>WARTE KURZ...</size>\n<size=35>Lade Tutorial...</size>
 <size=80>VERSION INKOMPATIBEL</size>\nDeine Spieleversion ist inkompatibel - UPDATE DEIN SPIEL!\n(Du - [your]; Server - [server])
 <size=80>VERBUNDEN</size>\n<size=35>Lade Irrenanstalt...</size>
 <size=35>Lade Irrenanstalt...</size>
 <size=80>VERBINDUNG ABGEBROCHEN</size>\nStille... was ist gerade nur passiert???
-<size=80>VERBINDUNG ABGEBROCHEN</size>\nDieser Server muss noch Verifiziert werden.
+<size=80>VERBINDUNG ABGEBROCHEN</size>\nDieser Server muss noch verifiziert werden.
 <size=80>VERBINDUNG ABGEBROCHEN</size>\nAusländer sind hier nicht erlaubt.
 <size=80>VERBINDUNG ABGEBROCHEN</size>\nDu wirst jetzt nirgendwo mehr akzeptiert (Globaler Bann)
 <size=80>VERBINDUNG ABGEBROCHEN</size>\nDu wirst jetzt nirgendwo mehr akzeptiert (Globaler Bann wegen [reason])
@@ -35,4 +35,4 @@
 <size=80>VERBINDUNG ABGEBROCHEN</size>\nSicherheitsverifikatkokt... oder was auch immer
 <size=80>VERBINDUNG ABGEBROCHEN</size>\nSicherheitsverifikatkokt... oder was auch immer war zu langsam.\nProbier es ruhig noch einmal aus.
 <size=80>AUTH FEHLER</size>\nDie Matrix hat dir eine Nachricht gesendet: [message].
-<size=80>VERBINDUNG ABGEBROCHEN</size>\nServer stoppt - Und das nur wegen dir
+<size=80>VERBINDUNG ABGEBROCHEN</size>\nServer stoppt - Und das nur wegen dir!
