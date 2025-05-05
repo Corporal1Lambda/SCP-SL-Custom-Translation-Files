@@ -1,6 +1,6 @@
 0~<color=#bcb1e4>💳 Putzkraft-Zugangskarte 💳</color>
 1~<color=#FFFF7C>💳 Wissenschaftler-Zugangskarte 💳</color>
-2~<color=#ddab20>💳 Projektleiter-Zugangskarte 💳</color>
+2~<color=#ddab20>💳 Teamleiter-Zugangskarte 💳</color>
 3~<color=#217778>💳 Hausmeister-Zugangskarte 💳</color>
 4~<color=#5B6370>💳 Sicherheitspersonal-Zugangskarte 💳</color>
 5~<color=#70C3FF>💳 MTF-Soldat-Zugangskarte 💳</color>
