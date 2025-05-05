@@ -1,6 +1,6 @@
 <size=85%>\uf084</size> FORSCHUNG
 <size=85%>\uf084</size> PUTZKRAFT
-<size=85%>\uf084</size> PROJEKTLEITER
+<size=85%>\uf084</size> TEAMLEITER
 <size=85%>\uf084</size> INGENIEUR
 <size=85%>\uf084</size> SICHERHEIT
 HAUSMEISTER
