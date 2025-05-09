@@ -26,3 +26,4 @@ Hold <b>[key]</b> to Charge.
 <size=750%>\n</size><color=#00ff00><size=125%>「Ready to Fire」</size></color>\n<size=80%><b>[primary]</b> to activate.</size>
 <size=750%>\n</size><color=yellow>⚠</color> - MICRO H.I.D. DAMAGED - <color=yellow>⚠</color>\n<size=80%>Capabilities are limited.</size>
 <color=red>SCP-127</color> grows in strength as your bond with it deepens.
+Use the $arrow keys$ or $[up], [left], [down], and [right]$ to control the Snake.

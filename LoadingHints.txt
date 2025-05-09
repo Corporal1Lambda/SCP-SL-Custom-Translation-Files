@@ -86,4 +86,4 @@
 <color=#e8b923>「⭐」</color> - Radios have four range settings. The longer the range, the faster the battery drains.
 <color=#e8b923>「⭐」</color> - You can throw items (‘T’ by default). This can be used to open keycard doors from a distance or to break glass.
 <color=#e8b923>「⭐」</color> - Wearing body armor increases the number of items and ammo you can carry.
-<size=125%><color=#e8b923>「⭐」</color> - 😻!</color>
+<color=#EC2222>「\uf05b」</color> - <color=#EC2222>SCP-127</color> creates a bond with it's host, the more you kill the stronger it gets!

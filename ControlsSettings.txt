@@ -14,3 +14,5 @@ Mouse Look - Activation Mode
 Right-Click to Drop (Inventory)
 Inventory - Activation Mode
 Zone Switch Keybinds
+Automatic Spectator Switch
+Automatically switches your camera to a living player after a brief delay when you're not spectating anyone.
