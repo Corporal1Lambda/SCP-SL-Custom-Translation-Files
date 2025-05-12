@@ -11,5 +11,5 @@ Wenn du einen Vorgeschmack haben möchtest, gibt es einige Bilder vom ursprüngl
 https://steamcommunity.com/sharedfiles/filedetails/?id=2989239726
 
 # Du willst uns helfen?
-Wir nehmen Hilfe beim Lösen von Fehlern oder beim Aktualisieren gerne an! Mach einfach eine Pull Request und wir sehen uns deine Arbeit an.
+Wir nehmen Hilfe beim Lösen von Fehlern oder beim Aktualisieren gerne an! Mach einfach eine Pull Request in den `dev`-branch und wir sehen uns deine Arbeit an.
 (Zur Vereinfachung wird auf Namensnennungen verzichtet, und nicht alles wird übernommen.)
