@@ -3,7 +3,7 @@ None
 <color=#FF8E00>Class-D</color>
 「Spectator」
 <color=#EC2222>「SCP-106」</color>
-<color=#00D9FF>MTF Specialist</color>
+<color=#00AFFF>MTF Specialist</color>
 <color=#EC2222>「SCP-049」</color>
 <color=#FFFF7C>Scientist</color>
 <color=#8080FF>「SCP-079」</color>

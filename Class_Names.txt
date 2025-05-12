@@ -2,7 +2,7 @@
 <color=#ff8000>Class-D</color>
 「Spectator」
 <color=red>「SCP-106」</color>
-<color=#00d9ff>Epsilon-11 Specialist</color>
+<color=#00AFFF>Epsilon-11 Specialist</color>
 <color=red>「SCP-049」</color>
 <color=#ffff7c>Scientist</color>
 <color=#8080FF>「SCP-079」</color>
