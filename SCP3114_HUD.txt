@@ -1,16 +1,16 @@
-Du bist jetzt als [role_name] verkleidet.
-Nicht möglich, anzugreifen wegen Verkleidung. Halte [key] gedrückt, um deine derzeitige Verkleidung zu entfernen.
-Gegenstände, die als SCP-3114 gehalten werden, können nicht genutzt werden.
-Drücke [key], um mit Menschen zu kommunizieren, während du verkleidet bist.
+Du bist jetzt als <b>[role_name]</b> verkleidet.
+Die Haut würde bei einer Attacke zerreißen. Halte <b>[key]</b> um sie loszuwerden.
+Gegenstände, die als <color=red>SCP-3114</color> gehalten werden, können nicht genutzt werden.
+Drücke <b>[key]</b>, um mit Menschen zu kommunizieren.
 Diese Leiche wurde bereits als Verkleidung genutzt.
-Du bist bereits verkleidet. Halte [key] gedrückt, um deine derzeitige Verkleidung zu entfernen.
+Du bist bereits verkleidet. Halte <b>[key]</b> gedrückt, um deine derzeitige Verkleidung zu entfernen.
 Nur menschliche Leichen können als Verkleidung genutzt werden.
-Dieser unerkennbare Knochenhaufen sind höchstwahrscheinlich die Überreste von <b>[player_name]</b>.
-Du kannst diese Leiche nutzen, um dich als [role] zu verkleiden.
-Verkleidung
-Strangulations-Cooldown
-<b> - Leichen im Keller</b>:Dein Name und Identität sind versteckt. Du bist eine leere Leinwand und die Welt ist deine Muse. Während du als Mensch verkleidet bist, erlaubt dir deine Kraft bestimmte Objekte zu halten — aber dein Mangel an Muskeln verhindert den Einsatz von Gegenständen.
-<b> - Nimm das</b>:Entfessel einen Schwall an schwachen Attacken, die langsam die Gesundheit des Getroffenen aufzehren. Diese mikroskopisch kleinen Schichten aus angeblich kalziumreicher Haut verleihen dir Geschicklichkeit und stärken deine Entschlossenheit, indem sie bei jedem Treffer eine kleine Menge des Hume-Schilds wiederherstellen. 
-<b> - Strangulation</b>:Packe sie am Hals und würge die Seele aus ihnen heraus. Schau ihnen in die Augen, wenn sie ihre letzten Atemzüge tun. Ihr Leben ist wie ein Orgasmus. Einen Moment nicht augepasst und alles ist voll. Dieser Angriff kann unterbrochen werden. 
+💀 Dieser Knochenhaufen ist der Überrest von <color=#ff80bc><b>[player_name]</b>'s</color> 💀
+Du kannst diese Leiche nutzen, um dich als <b>[role]</b> zu verkleiden.
+<b>Verkleiden</b>
+COOLDOWN
+<b>\uf54c - Leichen im Keller</b>:Dein Name und Identität sind versteckt. Du bist eine leere Leinwand und die Welt ist deine Muse. Als Mensch verkleidet kannst du Objekte zu halten — aber dein Mangel an Muskeln verhindert den Einsatz von Gegenständen.
+<b>\uf5d7 - Nimm das</b>:Entfessel einen Schwall an schwachen Attacken, die langsam die Gesundheit des Getroffenen aufzehren. Diese mikroskopisch kleinen Schichten aus angeblich kalziumreicher Haut verleihen dir Geschicklichkeit und stärken deine Entschlossenheit, indem sie bei jedem Treffer eine kleine Menge des Hume-Schilds wiederherstellen.
+<b>\uf714 - Erdrosseln</b>:Packe sie am Hals und würge die Seele aus ihnen heraus. Schau ihnen in die Augen, wenn sie ihre letzten Atemzüge tun. Ihr Leben ist wie eine Kerze: Leicht ausgeblasen. Dieser Angriff kann unterbrochen werden. 
 <b> - Unter die Haut</b>:Klaue dir eine schöne, warme Jacke (ihre Haut), indem du mit ihrer Leiche interagierst. Nimm vorübergehend die Wärme an und trage ihren fleischigen ‘Anzug‘, der die Fähigkeit, bestimmte Gegenstände zu halten, imitiert. Drücke [key], um ihn abrupt zu entfernen!
-Drücke und halte [key] für längere Zeit, um deine derzeitige Verkleidung zu entfernen.
+Drücke und halte <b>[key]</b> für längere Zeit, um deine derzeitige Verkleidung zu entfernen.

@@ -86,4 +86,4 @@
 <color=#e8b923>「⭐」</color> - Funkgeräte haben vier Reichweiten. Je höher die Reichweite, desto schneller leert sich die Batterie.
 <color=#e8b923>「⭐」</color> - Du kannst Gegenstände werfen (‘T’ standardmäßig). Damit lassen sich Türen aus der Ferne öffnen oder Glas zerschlagen.
 <color=#e8b923>「⭐」</color> - Körperschutz erhöht die Tragfähigkeit für Gegenstände und Munition.
-<size=125%><color=#e8b923>「⭐」</color> - 😻!</color>
+<color=#EC2222>「\uf05b」</color> - <color=#EC2222>SCP-127</color> baut eine Beziehung mit dem Träger auf. Je mehr du tötest, desto stärker wird sie!
