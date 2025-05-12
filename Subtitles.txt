@@ -4,7 +4,7 @@
 <color=#EC2222>Vorsicht!</color>
 terminiert <b>|</b> Todesgrund unbekannt.
 terminiert durch: <color=#EC2222>SCP-[scp]</color>.
-terminiert durch: <color=#f5650a>Automatic Sicherheitssystem</color>.
+terminiert durch: <color=#f5650a>Automatische Sicherheitssystem</color>.
 terminiert durch: <color=#EC2222>Alpha Sprengkopf</color>.
 eindämmung durch: <color=#FFFF7C>Wissenschaftler</color>.
 eindämmung durch: <color=#FF8E00>Klasse-D Personal</color>.
