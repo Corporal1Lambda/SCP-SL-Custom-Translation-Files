@@ -1,11 +1,11 @@
-Neuigkeiten
+Neues
 Server
 Einstellungen
 Beenden
 Soziale Medien
 Internet
 Favoriten
-Offizielle
+Offiziell
 Verlauf
 Freunde
 Suche Server
@@ -63,7 +63,7 @@ Nein
 Bist du dir sicher, dass du das Spiel beenden möchtest?
 Bildschirmauflösung
 Verstecke IP
-Willkommen zurück, {username}!
+Willkommen, {username}!
 Credits
 AUTHENTIFIZIERE
 Verbinde mit den Central Servern...
