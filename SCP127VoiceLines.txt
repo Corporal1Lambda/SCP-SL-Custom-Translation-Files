@@ -7,12 +7,12 @@
 😵 - Ahh! <pause> 😵 - Uff... Ich hasse diesen Teil!
 😵 - Nö... <pause> 😵 - Wird nie besser... <pause> 😵 - Ahh...
 😵 - Ahh! Urgh... <pause> 😵 - Das brennt!
-Ständig zu ertrinken ist eine Sache... <pause> Aber diese Typen? <pause> Nein, auf das, was die vorhaben, kann ich verzichten.
-Ashley, hör mir zu! <pause> Die sind keine gute Gesellschaft! <pause> Ich trau denen nicht.
-Nein... <pause> Nicht hier! <pause> Nicht schon wieder!
-Früher... <pause> war ich nicht allein unter Wasser.
-Schon wieder die?
-Das... wird nicht gut enden...
+🤨 - Ständig zu ertrinken ist eine Sache... <pause> 🤨 - Aber diese Typen? <pause> 😒 - Nein, auf das, was die vorhaben, kann ich verzichten.
+😫 - Ashley, hör mir zu! <pause> 😒 - Die sind keine gute Gesellschaft! <pause> 😒 - Ich trau denen nicht.
+😫 - Nein... <pause> 😫 - Nicht hier! <pause> 😫 - Nicht schon wieder!
+😕 - Früher... <pause> 😕 - war ich nicht allein unter Wasser.
+🤔 - Schon wieder die?
+😰 - Das... wird nicht gut enden...
 👋 - Ey Bruder was geht!
 👋 - Hallo nochmal!
 👋 - Na, hallo!
@@ -35,75 +35,75 @@ Das... wird nicht gut enden...
 😴 - Du weißt, wo du mich findest, Daddy!
 🤔 - Ich kenne 'ne richtig gute Bar in Queens, die erste Runde geht auf dich! <pause> 🤔 - Weil ich natürlich keinen Cent besitze.
 🤔 - Weißt du... <pause> 🤔 - Ich war mal in einer ganz anderen Anlage! <pause> 🤔 - Mmm... Genau! <pause> 🤔 - Erst ‘n bisschen Gebrumme hier, <pause> 🤔 - dann ein paar Explosionen da, <pause> 🤔 - und schwupps... bin ich hier! <pause> 🤔 -  Frag mich, was aus den anderen wurde, die da festsaßen... <pause> 🤔 - Hoffe, die haben’s rausgeschafft.
-Ich werd doch dafür bezahlt... <pause> oder?
-Oh! Hast du das gehört? <pause> Klang nach Tod! <pause> Irgendwer ist gestorben... <pause> Oder so. <pause> Passiert hier ständig. <pause> Jetzt wo ich drüber nachdenke... <pause> Der ganze Ort hallt nur so vom Tod wider!
-Aaaaaagh! Oh, psst... <pause> Sorry, Boss! <pause> Ich dachte, ich hätte was gehört— <pause> Moment! <pause> Nee, falscher Alarm.
-Ich sag’s dir... <pause> Der Laden hier ist grad echt ‘ne Katastrophe! <pause> Dabei sieht alles so sicher aus... <pause> Was ist bloß schiefgelaufen?
-Na, Daddy? <pause> Schon ‘ne Idee, was du machst, wenn du hier rauskommst?
-Hey, äh... kurze Frage, Boss! <pause> Musst nicht antworten, wenn du nicht willst, aber äh... <pause> Bist du sicher, dass du weißt, wo’s langgeht? <pause> Ich schwör, diesen Gang haben wir schon gesehen.
-Ähm, du... <pause> du hast fast was getroffen!
-Ich mag deinen Stil, Daddy!
-Ist dieser unsichtbare Hut-Typ hier irgendwo?
-Uhh... <pause> alles gut, Daddy?
-Aha! Verstärkung ist da!
-Lasst sie mich nicht nochmal mitnehmen!
-Sag nichts! Verlang einen Anwalt!
-Freunde von dir?
-Okay, ich hab 'nen Plan! <pause> Also... nein, das war gelogen... <pause> Aber ich arbeite dran!
-Oh... Das- ...das ist nicht gut, oder?
-Oh... Jetzt wird’s spannend...
-Oho! Sieht so aus, als bekommen wir Verstärkung!
-Peng!
-Mach dich vom Acker!
-Guter Treffer, Boss!
-Hey, das war stark!
-Gute Arbeit, Boss!
-Das war top, Boss!
-Hey! Sauber getroffen!
-Whoa-ho! Sauber!
-Zeig’s ihm!
-Piss dich!
-Wumm!
-Hust... Ohne Kaka? <pause> Der Typ, der Hälse knackt, bekommt ‘ne Zelle, und ich darf absaufen?
-(hustet) <pause> …Freut mich! <pause> Hier nennen sie mich Eins-Zwei-Sieben.
-Ahh! Noch Platz für einen mehr? <pause> (hustet)
-(hustet) <pause> …Sag mal, welches Jahr haben wir?
-Ahh! Oh, süßer Sauerstoff! <pause> Hab dich vermisst!
-Wrrghh... Das nennt ihr Waterboarding? <pause> Gebt euch mehr Mühe!
-Gasmaske? <pause> Gefällt mir, Kumpel!
-Schickes Outfit, Boss!
-Ihr, äh... <pause> Ihr seid nicht von hier, oder?
-Was sind schon ein paar Leichen für die Freiheit, hm, Boss?
-Hey, Chef! <pause> Brauchst du ‘ne helfende Hand beim Ausbrechen?
-Also gut, du und ich? <pause> Partner in Crime!
-Von einem Gefangenen zum anderen... <pause> Lass sie uns markieren, Boss!
-Hey! So einen Overall hatte ich auch mal!
-Woah! Ausbruch!
-Ah! <pause> Nicht so fest zupacken, Daddy!
-Hey, Boss! Wie läuft’s?
-(schluchzt leise)
-Hey, Daddy! Nimm mich mit!
-Gibt’s ‘ne Chance, dass ich gehen kann... <pause> wenn das hier vorbei ist? <pause> Nein? <pause> Okay...
-Ah, jeez! Wir können doch Freunde sein... <pause> oder, Daddy?
-Warst du nicht der, der mich letzte Woche in diesen Tank gesteckt hat?
-Hoffentlich sind die Gläser verschrieben!
-Du weißt schon, wie man schießt, oder? <pause> N-nicht böse gemeint, Boss... nur zur Sicherheit...
-Hey, bist du hier, um mich zu retten? Ha-ha-ha!
-Ich sag’s dir ganz ehrlich... <pause> du wirkst hier ein bisschen fehl am Platz, Boss!
+🤔 - Ich werd doch dafür bezahlt... <pause> 🤨 - Oder?
+😲 - Oh! Hast du das gehört? <pause> 😲 - Klang nach Tod! <pause> 😲 - Irgendwer ist gestorben... <pause> 🤔 - Oder so. <pause> 🤔 - Passiert hier ständig. <pause> 🤔 - Jetzt wo ich drüber nachdenke... <pause> 😬 - Der ganze Ort hallt nur so vom Tod wider!
+😱 - Aaaaaagh! Oh, psst... <pause> 😅 - 'tschuldigung Chef! <pause> 😅 - Ich dachte, ich hätte was gehört— <pause> 😲 - Moment! <pause> 😅 - Nee, falscher Alarm.
+🤔 - Ich sag’s dir... <pause> 😰 - Der Laden hier ist grad echt ‘ne Katastrophe! <pause> 🤔 - Dabei sieht alles so sicher aus... <pause> 🤔 - Was ist bloß schiefgelaufen?
+🤔 - Na, Kumpel? <pause> 🤔 - Schon ‘ne Idee, was du machst, wenn du hier rauskommst?
+😅 - Hey, äh... kurze Frage, Boss! <pause> 😅 - Musst nicht antworten, wenn du nicht willst, aber äh... <pause> 🤔 - Bist du sicher, dass du weißt, wo’s langgeht? <pause> 🤔 - Ich schwör, diesen Gang haben wir schon gesehen.
+😂 - Ähm, du... <pause> 😂 - du hast fast was getroffen!
+😂 - Ich mag deinen Stil, Chef!
+😂 - Ist dieser unsichtbare Hut-Typ hier irgendwo?
+🤔 - Uhh... <pause> 😂 - alles gut, Chef?
+👍 - Aha! Verstärkung ist da!
+😰 - Lasst sie mich nicht nochmal mitnehmen!
+😰 - Sag nichts! Verlang einen Anwalt!
+👍 - Freunde von dir?
+😰 - Okay, ich hab 'nen Plan! <pause> 😰 - Also... nein, das war gelogen... <pause> 😰 - Aber ich arbeite dran!
+😰 - Oh... Das- ...das ist nicht gut, oder?
+👍 - Oh... Jetzt wird’s spannend...
+👍 - Oho! Sieht so aus, als bekommen wir Verstärkung!
+🎯 - Peng!
+🎯 - Mach dich vom Acker!
+🎯 - Guter Treffer, Chef!
+🎯 - Hey, das war stark!
+🎯 - Gute Arbeit, Chef!
+🎯 - Das war top, Chef!
+🎯 - Hey! Sauber getroffen!
+🎯 - Whoa-ho! Sauber!
+🎯 - Zeig’s ihm!
+🎯 - Piss dich!
+🎯 - Wumm!
+😫 - Hust... Ohne Kaka? <pause> 😠 - Knackmax bekommt ‘ne Zelle, und ich darf absaufen?
+😫 <pause> 🥴 - …Freut mich! <pause> 😎 - Hier nennen sie mich Eins-Zwei-Sieben.
+🥴 - Ahh! Noch Platz für einen mehr? <pause> 😫
+😫 <pause> 🥴 - …Sag mal, welches Jahr haben wir?
+🥴 - Ahh! Oh, süßer Sauerstoff! <pause> 😩 - Hab dich vermisst!
+🥴 - Wrrghh... Das nennt ihr Waterboarding? <pause> 😠 - Gebt euch mehr Mühe!
+🤔 - Gasmaske? <pause> 😎 - Gefällt mir, Kumpel!
+😎 - Schickes Outfit, Chef!
+🤔 - Ihr, äh... <pause> 🤔 - Ihr seid nicht von hier, oder?
+😎 - Was sind schon ein paar Leichen für die Freiheit, hm, Boss?
+👋 - Hey, Chef! <pause> 😃 - Brauchst du ‘ne helfende Hand beim Ausbrechen?
+🤔 - Also gut, du und ich? <pause> 😎 - Partners in Crime!
+😃 - Von einem Gefangenen zum anderen... <pause> 😈 - Lass sie uns schnappen, Chef!
+😃 - Hey! So einen Overall hatte ich auch mal!
+😃 - Woah! Ausbruch!
+😲 - Ah! <pause> 😏 - Nicht so fest zupacken, Daddy!
+👋 - Hey, Kumpel! Wie läuft’s?
+😖 - (leises Schluchzen)
+👋 - Hey, Kumpel! Nimm mich mit!
+🥺 - Gibt’s ‘ne Chance, dass ich gehen kann... <pause> 🥺 - wenn das hier vorbei ist? <pause> 🥺 - Nein? <pause> 😞 - Okay...
+😒 - Ah, jeez! Wir können doch Freunde sein... <pause> 😁 - oder, Daddy?
+😳 - Warst du nicht der, der mich letzte Woche in diesen Tank gesteckt hat?
+😒 - Hoffentlich ist die Brille nicht nur Deko...
+🤔 - Du weißt schon, wie man schießt, oder? <pause> 😅 - N-nicht böse gemeint, Chef... nur zur Sicherheit...
+😁 - Hey, bist du hier, um mich zu retten? Ha-ha-ha!
+🤔 - Ich sag’s dir ganz ehrlich... <pause> 😁 - du wirkst hier ein bisschen fehl am Platz, Chef!
 💪 - Ganz ehrlich... <pause> 💪 - Das läuft viel besser als erwartet!
-💪 - Hey, Boss! <pause> 💪 - Ich würd sagen, wir schlagen uns echt gut!
+💪 - Hey, Kumpel! <pause> 💪 - Ich würd sagen, wir schlagen uns echt gut!
 💪 - Oh! Tut gut, wieder da zu sein!
 💪 - Das wird hier langsam irre... <pause> Ich glaub, wir gewinnen!
 💪 - (wahnsinniges Lachen, gefolgt von einem schmerzhaften Stöhnen)
 😈 - Sieh uns an! Partner in Crime! <pause> 😈 - Oder in der Gerechtigkeit... falls du das bevorzugst...
-😈 - Tja! Ein Apfel am Tag, oder, Boss?
+😈 - Tja! Ein Apfel am Tag, was Chef?
 😈 - Was auch immer hinter diesem Schnabel steckt... <pause> 😈 - Gut, dass wir’s nie gesehen haben!
 😈 - ICH BIN DER SCHWARZE TOD!
 😈 - Nenn Frau Schnabel jetzt mal ‘ne Witwe, Doc!
-😈 - Überdosis Blei! <pause> 😈 - Das ist mal was Neues, oder Boss?
+😈 - Überdosis Blei! <pause> 😈 - Das ist mal was Neues, oder Chef?
 😈 - Wiederbeleb das mal!
 😈 - Keine Sorge! <pause> 😈 - Wir kümmern uns gut um die Kids!
-😈 - 0101, du kleiner Stein!
+😈 - 0101, nicht meins!
 😈 - Ich sterb doch nicht an ‘nem Mini-Kühlschrank!
 😈 - Ja, ja... Behalt deine Kamera für dich, Blechperverso!
 😈 - Ich mochte diesen Toaster nie!
@@ -121,7 +121,7 @@ Ich sag’s dir ganz ehrlich... <pause> du wirkst hier ein bisschen fehl am Plat
 😈 - Du hast dir deine eigene Hölle geschaffen, <pause> 😈 - bleib doch ein Weilchen!
 😈 - Abgetaucht, als hätte er Betonstiefel an!
 😈 - Na ja... dein Tod war sicher ‘ne Erfahrung. <pause> 😈 - Eine echte Augenweide!
-Versuch DAS mal wieder zusammenzusetzen!
+😈 - Versuch DAS mal wieder zusammenzusetzen!
 😈 - Gott sei Dank! Dieses Kratzen ging mir echt auf die Nerven!
 😈 - Ah! Zerbrochen wie Glas!
 😈 - Was ist? Plötzlich still, was?
@@ -136,19 +136,19 @@ Versuch DAS mal wieder zusammenzusetzen!
 😈 - Ne Waffe schlägt, äh... <pause> 🧐 - was auch immer du bist!
 😈 - Waffe gewinnt gegen... <pause> 🧐 - das Ding da!
 😈 - Nicht mehr so stark, was?
-😈 - Warum ein ganzes Containment bauen, wenn eine Kugel reicht?!
+😈 - Warum eine ganze Zelle bauen, wenn eine Kugel reicht?!
 😈 - Für dich gibt’s keine Medizin, Kumpel! <pause> 😈 - Außer vielleicht... äh... was auch immer.
-😈 - Hol dir seine Lakaien, Boss!
+😈 - Hol dir seine Lakaien, Chef!
 😈 - Na schau mal einer an... <pause> 😈 - Herr Unter-der-Erde!
 😈 - Tja, Doc, deine Handlanger sind Geschichte!
 😈 - Und bleib liegen, du wandelnde Krankheit!
 😈 - Eins zu viel wiederbelebt, würde ich sagen!
 😈 - Was aufsteht, fällt auch wieder um, oder?
 😭 - Nein! <pause> 😭 - Ich hab Verlustängste!
-😭 - Boss...? <pause> 😭 - Boss?! <pause> 😭 - Boss!!!
+😭 - Chef...? <pause> 😭 - Chef?! <pause> 😭 - CHEF!!!
 😭 - Hey, hey! <pause> 😭 - Steh auf!
 😭 - Ich fing gerade an, dich zu mögen!
-😭 - Nein... <pause> 😭 - Nein, komm schon! <pause> Nicht jetzt!
+😭 - Nein... <pause> 😭 - Nein, komm schon! <pause> 😭 - NICHT JETZT!
 😭 - Nein... <pause> 😭 - Nein, komm schon! <pause> 😭 - Nicht jetzt...
 😭 - Nicht schon wieder, nicht schon wieder, nicht schon wieder!
 😭 - Nicht schon wieder?!
