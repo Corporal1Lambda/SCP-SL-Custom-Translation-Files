@@ -11,7 +11,7 @@
 😫 - Ashley, hör mir zu! <pause> Die sind keine gute Gesellschaft! <pause> Ich trau denen nicht.
 😫 - Nein... <pause> Nicht hier! <pause> Nicht schon wieder!
 😕 - Früher... <pause> war ich nicht allein unter Wasser.
-🤔 - Schon wieder die?
+🤨 - Schon wieder die?
 😰 - Das... wird nicht gut enden...
 👋 - Ey Bruder was geht!
 👋 - Hallo nochmal!
@@ -33,18 +33,18 @@
 😴 - Ist die Sicherung an?
 😴 - Bin dann mal weg!
 😴 - Du weißt, wo du mich findest, Daddy!
-🤔 - Ich kenne 'ne richtig gute Bar in Queens, die erste Runde geht auf dich! <pause> Weil ich natürlich keinen Cent besitze.
-🤔 - Weißt du... <pause> Ich war mal in einer ganz anderen Anlage! <pause> Mmm... Genau! <pause> Erst ‘n bisschen Gebrumme hier, <pause> dann ein paar Explosionen da, <pause> und schwupps... bin ich hier! <pause> Frag mich, was aus den anderen wurde, die da festsaßen... <pause> Hoffe, die haben’s rausgeschafft.
-🤔 - Ich werd doch dafür bezahlt... <pause> Oder?
+🤨 - Ich kenne 'ne richtig gute Bar in Queens, die erste Runde geht auf dich! <pause> Weil ich natürlich keinen Cent besitze.
+🤨 - Weißt du... <pause> Ich war mal in einer ganz anderen Anlage! <pause> Mmm... Genau! <pause> Erst ‘n bisschen Gebrumme hier, <pause> dann ein paar Explosionen da, <pause> und schwupps... bin ich hier! <pause> Frag mich, was aus den anderen wurde, die da festsaßen... <pause> Hoffe, die haben’s rausgeschafft.
+🤨 - Ich werd doch dafür bezahlt... <pause> Oder?
 😲 - Oh! Hast du das gehört? <pause> Klang nach Tod! <pause> Irgendwer ist gestorben... <pause> Oder so. <pause> Passiert hier ständig. <pause> Jetzt wo ich drüber nachdenke... <pause> Der ganze Ort hallt nur so vom Tod wider!
 😱 - Aaaaaagh! Oh, psst... <pause> 'tschuldigung Chef! <pause> Ich dachte, ich hätte was gehört— <pause> Moment! <pause> Nee, falscher Alarm.
-🤔 - Ich sag’s dir... <pause> Der Laden hier ist grad echt ‘ne Katastrophe! <pause> Dabei sieht alles so sicher aus... <pause> Was ist bloß schiefgelaufen?
-🤔 - Na, Kumpel? <pause> Schon ‘ne Idee, was du machst, wenn du hier rauskommst?
+🤨 - Ich sag’s dir... <pause> Der Laden hier ist grad echt ‘ne Katastrophe! <pause> Dabei sieht alles so sicher aus... <pause> Was ist bloß schiefgelaufen?
+🤨 - Na, Kumpel? <pause> Schon ‘ne Idee, was du machst, wenn du hier rauskommst?
 😅 - Hey, äh... kurze Frage, Boss! <pause> Musst nicht antworten, wenn du nicht willst, aber äh... <pause> Bist du sicher, dass du weißt, wo’s langgeht? <pause> Ich schwör, diesen Gang haben wir schon gesehen.
 😂 - Ähm, du... <pause> du hast fast was getroffen!
 😂 - Ich mag deinen Stil, Chef!
 😂 - Ist dieser unsichtbare Hut-Typ hier irgendwo?
-🤔 - Uhh... <pause> alles gut, Chef?
+🤨 - Uhh... <pause> alles gut, Chef?
 👍 - Aha! Verstärkung ist da!
 😰 - Lasst sie mich nicht nochmal mitnehmen!
 😰 - Sag nichts! Verlang einen Anwalt!
@@ -70,12 +70,12 @@
 😫 <pause> …Sag mal, welches Jahr haben wir?
 😫 - Ahh! Oh, süßer Sauerstoff! <pause> Hab dich vermisst!
 😫 - Wrrghh... Das nennt ihr Waterboarding? <pause> Gebt euch mehr Mühe!
-🤔 - Gasmaske? <pause> Gefällt mir, Kumpel!
+🤨 - Gasmaske? <pause> Gefällt mir, Kumpel!
 😎 - Schickes Outfit, Chef!
 🤔 - Ihr, äh... <pause> Ihr seid nicht von hier, oder?
 😎 - Was sind schon ein paar Leichen für die Freiheit, hm, Boss?
 👋 - Hey, Chef! <pause> Brauchst du ‘ne helfende Hand beim Ausbrechen?
-🤔 - Also gut, du und ich? <pause> Partners in Crime!
+🤨 - Also gut, du und ich? <pause> Partners in Crime!
 😃 - Von einem Gefangenen zum anderen... <pause> Lass sie uns schnappen, Chef!
 😃 - Hey! So einen Overall hatte ich auch mal!
 😃 - Woah! Ausbruch!
@@ -87,9 +87,9 @@
 😒 - Oh verdammt! Wir können doch Freunde sein... <pause> oder, Daddy?
 😳 - Warst du nicht der, der mich letzte Woche in diesen Tank gesteckt hat?
 😒 - Hoffentlich ist die Brille nicht nur Deko...
-🤔 - Du weißt schon, wie man schießt, oder? <pause> N-nicht böse gemeint, Chef... nur zur Sicherheit...
+🤨 - Du weißt schon, wie man schießt, oder? <pause> N-nicht böse gemeint, Chef... nur zur Sicherheit...
 😁 - Hey, bist du hier, um mich zu retten? Ha-ha-ha!
-🤔 - Ich sag’s dir ganz ehrlich... <pause> du wirkst hier ein bisschen fehl am Platz, Chef!
+🤨 - Ich sag’s dir ganz ehrlich... <pause> du wirkst hier ein bisschen fehl am Platz, Chef!
 💪 - Ganz ehrlich... <pause> Das läuft viel besser als erwartet!
 💪 - Hey, Kumpel! <pause> Ich würd sagen, wir schlagen uns echt gut!
 💪 - Oh! Tut gut, wieder da zu sein!
