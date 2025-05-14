@@ -1,19 +1,19 @@
-Server Setting Not Found
-Key Not Assigned
-Arrow Up
-Arrow Down
-Arrow Left
-Arrow Right
-Left Shift
-Right Shift
-Left Control
-Right Control
-Left Alt
-Right Alt
-Tab
-Space
-Enter
-Left Mouse Button
-Right Mouse Button
-Middle Mouse Button
-Mouse Button {0}
+Servereinstellungen nicht gefunden
+Taste nicht belegt
+oberer Pfeil
+unterer Pfeil
+linker Pfeil
+rechter Pfeil
+Linke Umschalttaste
+Rechte Umschalttaste
+Linke Steuerungstaste
+Rechte Steuerungstaste
+ALT
+ALT GR
+Tabulatortaste
+Leerzeichen
+Entertaste
+Linke Maustaste
+Rechte Maustaste
+Mittlere Maustaste
+Maustaste {0}
