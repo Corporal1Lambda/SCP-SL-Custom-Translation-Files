@@ -53,17 +53,17 @@
 😰 - Oh... Das- ...das ist nicht gut, oder?
 👍 - Oh... Jetzt wird’s spannend...
 👍 - Oho! Sieht so aus, als bekommen wir Verstärkung!
-☠️ - Peng!
-☠️ - Mach dich vom Acker!
-☠️ - Guter Treffer, Chef!
-☠️ - Hey, das war stark!
-☠️ - Gute Arbeit, Chef!
-☠️ - Das war top, Chef!
-☠️ - Hey! Sauber getroffen!
-☠️ - Whoa-ho! Sauber!
-☠️ - Zeig’s ihm!
-☠️ - Piss dich!
-☠️ - Wumm!
+🎯 - Peng!
+🎯 - Mach dich vom Acker!
+🎯 - Guter Treffer, Chef!
+🎯 - Hey, das war stark!
+🎯 - Gute Arbeit, Chef!
+🎯 - Das war top, Chef!
+🎯 - Hey! Sauber getroffen!
+🎯 - Whoa-ho! Sauber!
+🎯 - Zeig’s ihm!
+🎯 - Piss dich!
+🎯 - Wumm!
 😫 - Hust... Ohne Kaka? <pause> Knackmax bekommt ‘ne Zelle, und ich darf absaufen?
 😫 <pause> …Freut mich! <pause> Hier nennen sie mich Eins-Zwei-Sieben.
 😫 - Ahh! Noch Platz für einen mehr? <pause>
