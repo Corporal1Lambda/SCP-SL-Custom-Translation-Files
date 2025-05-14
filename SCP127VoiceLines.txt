@@ -68,8 +68,8 @@
 😫 <pause> …Freut mich! <pause> Hier nennen sie mich Eins-Zwei-Sieben.
 🥴 - Ahh! Noch Platz für einen mehr? <pause>
 😫 <pause> …Sag mal, welches Jahr haben wir?
-🥴 - Ahh! Oh, süßer Sauerstoff! <pause> Hab dich vermisst!
-🥴 - Wrrghh... Das nennt ihr Waterboarding? <pause> Gebt euch mehr Mühe!
+😫 - Ahh! Oh, süßer Sauerstoff! <pause> Hab dich vermisst!
+😫 - Wrrghh... Das nennt ihr Waterboarding? <pause> Gebt euch mehr Mühe!
 🤔 - Gasmaske? <pause> Gefällt mir, Kumpel!
 😎 - Schickes Outfit, Chef!
 🤔 - Ihr, äh... <pause> Ihr seid nicht von hier, oder?
@@ -83,7 +83,7 @@
 👋 - Hey, Kumpel! Wie läuft’s?
 😖 - (leises Schluchzen)
 👋 - Hey, Kumpel! Nimm mich mit!
-🥺 - Gibt’s ‘ne Chance, dass ich gehen kann... <pause> wenn das hier vorbei ist? <pause> Nein? <pause> Okay...
+😟 - Gibt’s ‘ne Chance, dass ich gehen kann... <pause> wenn das hier vorbei ist? <pause> Nein? <pause> Okay...
 😒 - Oh verdammt! Wir können doch Freunde sein... <pause> oder, Daddy?
 😳 - Warst du nicht der, der mich letzte Woche in diesen Tank gesteckt hat?
 😒 - Hoffentlich ist die Brille nicht nur Deko...
