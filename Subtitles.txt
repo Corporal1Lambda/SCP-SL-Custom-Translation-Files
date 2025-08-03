@@ -29,3 +29,4 @@ terminiert durch: <color=blue>Blauer Marshmallow Mann</color>.
 <b>「<color=#58a4ef>\uf3ed</color>」</b> - <color=#70C3FF>Nine-Tailed Fox</color> Backup Einheit <b>|</b> <color=#0096FF>Designierung: [designation]</color> <b>|</b>
 <b>「<color=#58a4ef>\uf06a</color>」</b> - <color=#5B6370>Sicherheitsalarm</color> <b>|</b> <color=#066328>Chaos Insurgency</color> Aktivität festgestellt.
 <b>「<color=#58a4ef>\uf06a</color>」</b> - Achtung <color=#5B6370>Sicherheitspersonal</color> <b>|</b> <color=#008F1C>Chaos Insurgency</color> bei Gate A gesichtet.
+<color=#ff4545>「\uf714」</color><color=#EC2222> - NACH BEFEHL DES 05-RATES: TOTMANNSSCHALTER-PROTOKOLL AKTIVIERT.
