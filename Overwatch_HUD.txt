@@ -1,0 +1,12 @@
+Drücke {0} um die Sprachkanalwahl zu öffnen.
+Sprachkanale
+Nähe
+Funkgeräte
+SCP-Chat
+Endergebnis
+Intercom
+Nachahmung
+SCP-1576
+<i>Räumliches Hören</i>
+<i>Verwaltet räumliches Hören in der Nähe. Wenn deaktiviert, wird jeder gehört, ohne Entfernung oder Funkgeräte zu beachten.</i>
+<i>Von jedem Spieler am Ende der Runde genutzt.</i>
