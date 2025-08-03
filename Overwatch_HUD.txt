@@ -1,0 +1,12 @@
+Press {0} to open the Voice Channel Selector.
+Voice Channel Selector
+Proximity
+Radio
+SCP Chat
+End Screen
+Intercom
+Mimicry
+SCP-1576
+<i>Spatial Audio</i>
+<i>Handles spatial audio in proximity. If disabled, anyone will be heard without taking distance or radios into account.</i>
+<i>Used by every player when the round ends.</i>
