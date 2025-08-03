@@ -9,7 +9,7 @@ Northwood Personalabteilung
 Northwood Leiter der Personalabteilung
 Northwood Leiter der Marketing-Plattform
 Northwood Mitarbeiter
-Northwood Steam-Manager
+Northwood Forumsmoderation-Manager
 Northwood Systemadministrator
 Northwood Wiki-Manager
 SCP:SL Kunst-Manager
@@ -22,8 +22,8 @@ SCP:SL Event-Gewinner
 SCP:SL Fullstack-Programmierer
 SCP:SL Game-Designer
 SCP:SL Gameplay-Programmierer
-SCP:SL Leiter der globalen Moderation
-SCP:SL Globaler Moderator
+SCP:SL Sicherheitseinhaltung-Manager
+SCP:SL Sicherheitseinhaltung-Spezialist
 SCP:SL Leitender Game-Designer
 SCP:SL Leitender Gameplay-Programmierer
 SCP:SL Level-Designer
@@ -86,4 +86,5 @@ SCP:SL Anticheat-Manager
 SCP:SL Anticheat-Supervisor
 Northwood Wiki-Supervisor
 SCP:SL API-Teamleiter
+
 SCP:SL API-Instandhalter
