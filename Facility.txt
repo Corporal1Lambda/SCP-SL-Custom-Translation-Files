@@ -33,7 +33,7 @@ DU BIST
 Fluchtzeit: [escape_minutes] Minuten und [escape_seconds] Sekunden.
 Warte [time] bis du wieder [item] benutzen kannst.
 Drücke <color=white><b>F1</b></color> für mehr Informationen.
-Du bist gefesselt\n<size=40>Folge den Anweisungen oder bitte deine Teammitglieder um Hilfe.</size>
+Du bist gefesselt\n<size=40>Folge den Anweisungen oder bitte deine Teamkameraden um Hilfe.</size>
 Du wurdest von der MTF wieder eingefangen.\nMit einer Gefahr weniger in der Einrichtung konnten sie Verstärkung holen.
 Du wurdest als Wissenschaftler von der Chaos Insurgency gefangen genommen.\nDeine Informationen waren sehr hilfreich für sie.
 RUNDE STARTET IN: <color=yellow>{0}</color>s
