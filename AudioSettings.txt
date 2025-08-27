@@ -15,3 +15,11 @@ Reduziert ungewollte Hintergrundgeräusche, die von deinem Mikrofon aufgenommen 
 Sprachaufnahmen
 SCP-127 Sprachlautstärke
 SCP-3114 Sprachlautstärke
+Soundeffekte
+Sprachchat Halleffekte
+Steuert, wie dumpf und nachhallend der Sprachchat wird, je weiter du dich von der Quelle entfernst.
+Standart
+Hoher Hall
+Niedriger Hall
+Durchsagenlautsprecher-Simulation
+Steuert, ob P.A. Systemdurchsagen (wie C.A.S.S.I.E.) durch den nächsten Lautsprecher oder global abgespielt werden.
