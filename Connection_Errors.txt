@@ -12,7 +12,7 @@
 <size=80>VERBINDUNG ABGEBROCHEN</size>\nDie Adresse ist ungültig oder konnte nicht aufgelöst werden.
 <size=80>VERBINDUNG ABGEBROCHEN</size>\nStille... was ist gerade nur passiert???
 <size=80>WARTE KURZ...</size>\n<size=35>Verbinde...</size>
-<size=80>RUNENNEUSTART</size>\n<size=35>Die Runde startet neu - Und das nur wegen dir</size>
+<size=80>RUNDENNEUSTART</size>\n<size=35>Die Runde startet neu - Und das nur wegen dir</size>
 <size=80>WARTE KURZ...</size>\n<size=35>Lade Tutorial...</size>
 <size=80>VERSION INKOMPATIBEL</size>\nDeine Spieleversion ist inkompatibel - UPDATE DEIN SPIEL!\n(Du - [your]; Server - [server])
 <size=80>VERBUNDEN</size>\n<size=35>Lade Irrenanstalt...</size>
