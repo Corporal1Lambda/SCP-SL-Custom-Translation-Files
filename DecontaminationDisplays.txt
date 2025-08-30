@@ -1,7 +1,7 @@
 <color=#7cf58d><size=90%><b>DEKONTAMINATION BEGINNT IN:</b></size></color>
-<color=red>⚠<b>-VERLASSEN SIE SOFORT DEN GESICHERTEN BEREICH-</b>⚠</color>
-<color=red>⚠<b>-SONST WIRD GAS FREIGESETZT-</b>⚠</color>
+<color=red>⚠<b>-BEREICH VERLASSEN-</b>⚠</color>
+<color=red>⚠<b>-SOFORT EVAKUIEREN-</b>⚠</color>
 <size=84%><b>Analyse in Bearbeitung</b></size>
 <size=85%><b>BEREITE SICHERHEITSSYSTEME VOR</b></size>
 <size=84%><b>SYSTEME BEREIT ZUM START</b></size>
-<color=red><size=90%>⚠<b>-INITIALISIERE PROTOKOLL P-B-3-</b>⚠</size></color>
+<color=red><size=90%>⚠<b>-GAS WIRD FREIGESETZT-</b>⚠</size></color>
