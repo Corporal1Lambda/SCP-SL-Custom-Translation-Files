@@ -26,7 +26,7 @@ lost in decontamination sequence.
 <b><color=#ff4545>「❌」</color><color=#EC2222> - DETONATION CANCELLED <b>|</b> RESTARTING SYSTEMS...</color>
 <color=#ff4545>「\uf7ba」</color><color=#EC2222> - DETONATION RESUMED <b>|</b> [time] SECONDS</color>
 terminated by: <color=blue>Marshmallow Man</color>.
-<b>「<color=#58a4ef>\uf3ed</color>」</b> - <color=#70C3FF>Nine-Tailed Fox</color> Backup Unit <b>|</b> <color=#0096FF>Designation: [designation]</color> <b>|</b>
+<b>「<color=#58a4ef>\uf3ed</color>」</b> - <color=#70C3FF>Nine-Tailed Fox</color> Backup Unit <b>|</b> <color=#0096FF>Designation: [designation]</color> <b>|</b> 
 <b>「<color=#58a4ef>\uf06a</color>」</b> - <color=#5B6370>Security Alert</color> <b>|</b> <color=#066328>Chaos Insurgency</color> activity detected.
 <b>「<color=#58a4ef>\uf06a</color>」</b> - Attention <color=#5B6370>security personnel</color> <b>|</b> <color=#008F1C>Chaos Insurgency</color> spotted at Gate A.
 <color=#ff4545>「\uf714」</color><color=#EC2222> - BY ORDER OF O5 COMMAND: DEAD MAN'S SWITCH SEQUENCE ACTIVATED.
