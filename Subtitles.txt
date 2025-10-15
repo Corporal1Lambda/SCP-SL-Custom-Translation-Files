@@ -1,15 +1,15 @@
-<b>「<color=#58a4ef>\uf3ed</color>」</b> - <color=#0096FF>MTF Unit Epsilon-11</color> <b>|</b> <color=#003DCA>Designation: [designation]</color> <b>|</b> 
-<color=#EC2222>[count] SCPs</color>.
-<color=#EC2222>1 SCP</color>.
+<b>「<color=#58a4ef>\uf3ed</color>」</b> - <color=#0096FF>MTF Unit Mu-13 Ghostbusters </color> <b>|</b> <color=#003DCA>Designation: [designation]</color> <b>|</b> 
+<color=#EC2222>[count] Specters</color>.
+<color=#EC2222>1 Specter</color>.
 <color=#EC2222>exercise caution</color>.
 terminated <b>|</b> Termination cause unspecified.
-terminated by: <color=#EC2222>SCP-[scp]</color>.
+terminated by: <color=#EC2222>Specter #[scp]</color>.
 terminated by: <color=#f5650a>Automatic Security System</color>.
 terminated by: <color=#EC2222>Alpha Warhead</color>.
-contained by: <color=#FFFF7C>Scientist</color>.
-contained by: <color=#FF8E00>Class-D Personnel</color>.
+contained by: <color=#FFFF7C>Dr. Frankenstein</color>.
+contained by: <color=#FF8E00>Lab Rat</color>.
 contained by: <color=#008F1C>Chaos Insurgency</color>.
-<b>「<color=#58a4ef>\uf06e</color>」</b> - <color=#EC2222>SCP-[scp]</color>
+<b>「<color=#58a4ef>\uf06e</color>」</b> - <color=#EC2222>Specter #[scp]</color>
 contained <b>|</b> Containment unit unknown.
 contained <b>|</b> Containment Unit: <color=#0096FF>[designation]</color>.
 lost in decontamination sequence.
@@ -26,7 +26,7 @@ lost in decontamination sequence.
 <b><color=#ff4545>「❌」</color><color=#EC2222> - DETONATION CANCELLED <b>|</b> RESTARTING SYSTEMS...</color>
 <color=#ff4545>「\uf7ba」</color><color=#EC2222> - DETONATION RESUMED <b>|</b> [time] SECONDS</color>
 terminated by: <color=blue>Marshmallow Man</color>.
-<b>「<color=#58a4ef>\uf3ed</color>」</b> - <color=#70C3FF>Nine-Tailed Fox</color> Backup Unit <b>|</b> <color=#0096FF>Designation: [designation]</color> <b>|</b> 
+<b>「<color=#58a4ef>\uf3ed</color>」</b> - <color=#70C3FF>Ghostbusters</color> Backup Unit <b>|</b> <color=#0096FF>Designation: [designation]</color> <b>|</b> 
 <b>「<color=#58a4ef>\uf06a</color>」</b> - <color=#5B6370>Security Alert</color> <b>|</b> <color=#066328>Chaos Insurgency</color> activity detected.
 <b>「<color=#58a4ef>\uf06a</color>」</b> - Attention <color=#5B6370>security personnel</color> <b>|</b> <color=#008F1C>Chaos Insurgency</color> spotted at Gate A.
-<color=#ff4545>「\uf714」</color><color=#EC2222> - BY ORDER OF O5 COMMAND: DEAD MAN'S SWITCH SEQUENCE ACTIVATED.
+<color=#ff4545>「\uf714」</color><color=#EC2222> - SITE RECOVERY FAILURE - DEAD MAN'S SWITCH ACTIVATED.
