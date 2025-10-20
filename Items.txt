@@ -18,7 +18,7 @@
 17~<color=#ff0000>💊 SCP-500 💊</color>~<color=#f57caa>💗</color> Fully heals player\n<color=#f57caa>✚</color> Regenerates 200 HP\n<color=#ffb4ff>♻️</color> Removes certain effects
 18~<color=#ff0000>\uf72f SCP-207-C \uf72f</color>~<color=#767676>🏃</color> <size=90%>Increases movement speed</size>\n<color=#767676>🏃</color> Infinite sprint\n<color=#f57caa>💔</color> Drains HP\n\n<size=75%>Harmfully increases motor skills.\nDO NOT MIX WITH:\n<color=red>SCP-1853</color>\n<color=#004B93>O-207-914</color></size>
 47~<color=#003DCA>\uf05b 3-X Particle Disruptor \uf05b</color>
-20~<color=#0096FF>\uf05b MTF-Ԑ-11-SR \uf05b\n<size=75%>Facility Recovery-Standard Rifle</size></color>
+20~<color=#0096FF>\uf05b MTF-Mu-13-SR \uf05b\n<size=75%>Facility Recovery-Standard Rifle</size></color>
 21~<color=#70C3FF>\uf05b Crossvec \uf05b\n<size=75%>C.R.O.S.S.</size></color>
 23~<color=#5B6370>\uf05b FSP-9 \uf05b\n<size=75%>Foundation Security Pistol</size></color>
 24~<color=#0D7D35>\uf05b LGC5 \uf05b\n<size=75%>Logicer</size></color>
@@ -46,7 +46,7 @@
 49~<color=#ff0000>🔊 SCP-1576 🔊</color>~👻 Talk with the dead.\n\uf2f2 Communication time - 30s.
 50~<color=#ff0000>🍭 Jailbird 🍭</color>~<size=75%>It's a… Stun Baton!?</size>\n\nSwing 「LMB」: 50 DMG\nCharge 「RMB」: 200 DMG\n<color=#8079FF>\ue06c</color> Penetrates <color=#8079FF>Hume Shield</color>.
 51~<color=#004B93>\uf72f O-207-914 \uf72f</color>~<color=#767676>🐌</color> <size=90%>Decreases movement speed</size>\n<color=#f57caa>✚</color> Regenerates HP\n<color=#55da09>⛨</color> Provides 75 AHP\n\n<size=75%>Will save your life in a pinch.\nDO NOT MIX WITH:\n<color=red>SCP-1853</color>\n<color=red>SCP-207</color></size>
-52~<color=#003DCA>\uf05b MTF-Ԑ-11-MG \uf05b\n<size=75%>Facility Recovery-Machine Gun</size></color>
+52~<color=#003DCA>\uf05b MTF-Mu-13-MG \uf05b\n<size=75%>Facility Recovery-Machine Gun</size></color>
 53~<color=#ff0000>\uf05b A7 \uf05b\n<size=75%>Full-auto Stock</size></color>
 54~<color=#FF8E00>🏮 Lantern 🏮</color>~A classic oil lantern, inscribed with the name "Daniel".
 55~<color=red>\uf729 SCP-1344-03 \uf729</color>~<size=80%><color=#ffb4ff>\uf06e</color> See players through walls.</size>\n\n<b>DO NOT REMOVE</b>
