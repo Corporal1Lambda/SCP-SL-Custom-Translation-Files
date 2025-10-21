@@ -56,3 +56,4 @@
 59~<color=#FF59CA>📼 Tape Player 📼</color>~Begin audio prompt in 3..2..1..\n Summons the horde of:\n<color=#FF59CA>SCP-1507</color>
 61~<color=#6f32b5>\uf09d Surface Pass \uf09d</color>~Single-use access pass for opening exit gates.
 62~<color=#ff0000>\uf05b SCP-127 \uf05b\n<size=75%>The living gun</size></color>
+68~<color=#ff0000>SCP-1509</color>~A bladed weapon that deals moderate damage. Killing a human with it will resurrect an ally.~The Blade of Rebirth

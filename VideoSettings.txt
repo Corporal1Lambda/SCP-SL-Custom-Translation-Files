@@ -54,3 +54,5 @@ Blood Decals Limit
 Bullet Holes Limit
 Show Needles
 SCP-939 Vision Blur
+Animation Quality
+Determines how often human model animations update based on their distance from the player. Lowering the quality can improve performance, but animations of distant models may appear choppy.

@@ -1,5 +1,5 @@
 ATTACK COOLDOWN
-Unavailable on Surface.
+Unavailable on this level.
 Unavailable during elevator travel.
 An unstoppable force capable of easily bypassing any door in the facility.
 <b>\uf714 - Capture</b>:Ensnares a human in close distance, entrapping them within the pocket dimension — a deadly prison dictated by your rule. The joy of capturing new prey replenishes Vigor.
