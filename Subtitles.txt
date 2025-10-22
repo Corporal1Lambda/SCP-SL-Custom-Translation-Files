@@ -1,32 +1,32 @@
-<b>「<color=#58a4ef>\uf3ed</color>」</b> - <color=#0096FF>MTF Unit Mu-13 Ghostbusters </color> <b>|</b> <color=#003DCA>Designation: [designation]</color> <b>|</b> 
-<color=#EC2222>[count] Specters</color>.
-<color=#EC2222>1 Specter</color>.
-<color=#EC2222>exercise caution</color>.
-terminated <b>|</b> Termination cause unspecified.
-terminated by: <color=#EC2222>Specter #[scp]</color>.
-terminated by: <color=#f5650a>Automatic Security System</color>.
-terminated by: <color=#EC2222>Alpha Warhead</color>.
-contained by: <color=#FFFF7C>Dr. Frankenstein</color>.
-contained by: <color=#FF8E00>Lab Rat</color>.
-contained by: <color=#008F1C>Chaos Insurgency</color>.
+<b>「<color=#58a4ef>\uf3ed</color>」</b> - <color=#0096FF>Mobile Task Force Unit Mu-13 Ghostbusters</color> designated: <color=#003DCA>[designation]</color> has entered the facility.<split>All remaining personnel are advised to proceed with standard evacuation protocols until an MTF squad reaches your destination.<split>
+Awaiting re-containment of: <color=#EC2222>[count] Specters</color>.
+Awaiting re-containment of: <color=#EC2222>1 Specter</color>.
+Substantial threat to safety remains within the facility - <color=#EC2222>exercise caution</color>.
+successfully terminated. Termination cause unspecified.
+successfully terminated by: <color=#EC2222>Specter #[scp]</color>.
+successfully terminated by: <color=#f5650a>Automatic Security System</color>.
+successfully terminated by: <color=#EC2222>Alpha Warhead</color>.
+contained successfully by: <color=#FFFF7C>Dr. Frankenstein</color>.
+contained successfully by: <color=#FF8E00>Lab Rat</color>.
+contained successfully by: <color=#008F1C>Chaos Insurgency</color>.
 <b>「<color=#58a4ef>\uf06e</color>」</b> - <color=#EC2222>Specter #[scp]</color>
-contained <b>|</b> Containment unit unknown.
-contained <b>|</b> Containment Unit: <color=#0096FF>[designation]</color>.
+contained successfully. Containment unit unknown.
+contained successfully. Containment Unit: <color=#0096FF>[designation]</color>.
 lost in decontamination sequence.
 <b>「<color=#58a4ef>\uf0ad</color>」</b> - <color=#8080FF>[current]</color>/<color=#8080FF>[max]</color> generators activated.
 <split>All generators have been successfully engaged.
 <b>「<color=#58a4ef>\uf0ad</color>」</b> - <color=#58a4ef>Overcharge in 3... 2... 1...</color>
 <b>「<color=#58a4ef>\uf0ad</color>」</b> - <color=#58a4ef>Facility is back in operational mode.</color>
-「<color=#f6b140>⚠️</color>」 - <color=#EC2222>Light Containment Zone</color> decontamination in <color=#EC2222>15 minutes</color>.
-「<color=#f6b140>⚠️</color>」 - <color=#EC2222>Light Containment Zone</color> decontamination in <color=#EC2222>[time] minutes</color>.
-「<color=#f6b140>⚠️</color>」 - <color=#EC2222>Light Containment Zone</color> decontamination in <color=#EC2222>1 minute</color>.
-<color=#f6b140>「⚠️」</color><color=#EC2222>- Light Containment Zone</color> decontamination in <color=#EC2222>30 seconds</color>.
-<b>「<color=#f6b140>🔊</color>」</b> - <color=#EC2222>Light Containment Zone</color> is locked down and ready for decontamination.
-<color=#ff4545>「\uf7ba」</color><color=#EC2222> - EMERGENCY DETONATION SEQUENCE: ACTIVATED <b>|</b> SELF-DESTRUCT IN: T-[time] SECONDS.</color>
+「<color=#f6b140>⚠️</color>」 - Attention, all personnel.<split>The <color=#EC2222>Light Containment Zone</color> decontamination in <color=#EC2222>15 minutes</color>.
+「<color=#f6b140>⚠️</color>」 - Danger. <color=#EC2222>Light Containment Zone</color> decontamination in <color=#EC2222>[time] minutes</color>.
+「<color=#f6b140>⚠️</color>」 - Danger. <color=#EC2222>Light Containment Zone</color> decontamination in <color=#EC2222>1 minute</color>.
+「<color=#f6b140>⚠️</color>」 - Danger. <color=#EC2222>Light Containment Zone</color> decontamination in <color=#EC2222>30 seconds</color>.<split>All checkpoint doors have been permanently opened. Please evacuate <b>immediately</b>.
+<b>「<color=#f6b140>🔊</color>」</b> - <color=#EC2222>Light Containment Zone</color> is locked down and ready for decontamination.<split>The removal of organic substances has now begun.
+<color=#ff4545>「\uf7ba」</color><color=#EC2222> - EMERGENCY DETONATION SEQUENCE: ACTIVATED.<split>THE UNDERGROUND SECTION OF THIS FACILITY IS SET TO SELF-DESTRUCT IN: T-[time] SECONDS.</color>
 <b><color=#ff4545>「❌」</color><color=#EC2222> - DETONATION SEQUENCE: CANCELLED.</color>
 <color=#ff4545>「\uf7ba」</color><color=#EC2222> - EMERGENCY DETONATION SEQUENCE: RESUMED. T-[time] SECONDS.</color>
 terminated by: <color=#36a7d6>Marshmallow Man</color>.
-<b>「<color=#58a4ef>\uf3ed</color>」</b> - <color=#70C3FF>Ghostbusters</color> Backup Unit <b>|</b> 
-<b>「<color=#58a4ef>\uf06a</color>」</b> - Detected [number] <color=#066328>Chaos Insurgency</color> forces at Gate A <b>|</b> Lethal force authorized.
-<b>「<color=#58a4ef>\uf06a</color>」</b> - Acquired [number] additional hostile forces at Gate A. <b>|</b> Defense model: updated.
-<color=#ff4545>「\uf714」</color><color=#EC2222> - SITE RECOVERY FAILURE — DEAD MAN's SWITCH ACTIVATED. <b>|</b> SELF-DESTRUCT IN: T-[time] SECONDS.</color>
+<b>「<color=#58a4ef>\uf3ed</color>」</b> - <color=#70C3FF>Ghostbusters</color> Backup Unit has entered the facility.<split>
+<b>「<color=#58a4ef>\uf06a</color>」</b> - Attention, all personnel. Detected <color=#066328>[number]</color> <color=#066328>Chaos Insurgency</color> forces at <color=#9cc7f5>Gate A</color>.<split>Lethal force authorized.
+<b>「<color=#58a4ef>\uf06a</color>」</b> - Acquired <color=#066328>[number]</color> additional <color=#066328>Hostile</color> forces at <color=#9cc7f5>Gate A</color>.<split><color=#58a4ef>Defense model: updated.</color>
+<color=#ff4545>「\uf714」</color><color=#EC2222> - SITE RECOVERY FAILURE — DEAD MAN's SWITCH ACTIVATED.<split>THE UNDERGROUND SECTION OF THIS FACILITY <b>WILL</b> SELF-DESTRUCT IN: T-[time] SECONDS.</color>
