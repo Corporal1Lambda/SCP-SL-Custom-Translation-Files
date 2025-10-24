@@ -56,4 +56,4 @@
 59~<color=#FF59CA>📼 Tape Player 📼</color>~Begin audio prompt in 3..2..1..\n Summons the horde of:\n<color=#FF59CA>SCP-1507</color>
 61~<color=#6f32b5>\uf09d Surface Pass \uf09d</color>~Single-use access pass for opening exit gates.
 62~<color=#ff0000>\uf05b SCP-127 \uf05b\n<size=75%>The living gun</size></color>
-68~<color=#ff0000>SCP-1509</color>~<size=75%>The Blade of Rebirth</size>\n\nSwing 「LMB」: 50 DMG\n<color=#8079FF>\ue06c</color> Gives player <color=#8079FF>35 HS</color>.\n<color=red>\uf714</color>Respawns a dead teammate.
+68~<color=#ff0000>🔪 SCP-1509 🔪</color>~<size=75%>The Blade of Rebirth</size>\n\n「LMB」: 50 DMG\n<color=#8079FF>\ue06c</color> Gives player <color=#8079FF>35 HS</color>.\n<color=red>👻</color> Respawns a dead teammate.
