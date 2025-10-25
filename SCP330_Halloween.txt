@@ -2,16 +2,16 @@
 <color=purple><b>🌈</b> R</color><color=#dca43c>a</color><color=#b40404>i</color><color=#f47fff>n</color><color=blue>b</color><color=#2a731f>o</color><color=purple>w</color> <color=#dca43c>C</color><color=#b40404>a</color><color=blue>n</color><color=#2a731f>d</color><color=#f47fff>y 🍬</color>
 Its a hard piece of rock candy, packed with all sorts of flavours. Trick or treat?
 Expels a prismatic cloud which grants buffs to nearby players. Allows all within range to cheat death.
-<color=yellow>🍋 Yellow Candy 🍬</color>
+<color=#dca43c>🍋 Yellow Candy 🍬</color>
 The overwhelming smell of lemon makes you cringe a little. Trick or treat?
 Can't stop, won't stop.
 <color=purple><b>🍇</b> Purple Candy 🍬</color>
 It has a juicy grape smell. Your mouth begins to water.
 Slows your metabolism — but greatly increases your appetite.
-<color=red><b>🍒</b> Red Candy 🔥</color>
+<color=#b40404><b>🍒</b> Red Candy 🍬</color>
 A strong scent of cherry fills the room. It’s a bit... <i>too</i> strong. Trick or treat?
 Causes a scorching hot wave of fire to spew from your mouth, damaging anyone in your vicinity.
-<color=green>🌿 Green Candy 🍬</color>
+<color=#2a731f>🌿 Green Candy 🍬</color>
 A nasty, herbal smell emits from the candy. Trick or treat?
 A laced piece of candy with powerful regenerative properties. Grants a massive health bonus.
 <color=#36a7d6>🍬 Blue Candy 🍬</color>
