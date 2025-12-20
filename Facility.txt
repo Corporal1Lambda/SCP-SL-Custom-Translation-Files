@@ -46,3 +46,4 @@ Enable Noise Reduction (recommended)
 Automatic (System Default)
 No Microphone Detected!
 INPUT DEVICE
+Press [key] to blow out the candles.

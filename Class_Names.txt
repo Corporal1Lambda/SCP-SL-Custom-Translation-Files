@@ -26,3 +26,5 @@ s1
 <color=#FF59CA>「SCP-1507」</color>
 <color=#FF0099>「SCP-1507-SIGMA」</color>
 <color=#ff0000>「SCP-1507-049」</color>
+<color=#0096ff>UN Flamingo</color>
+<color=#559100>Chaos Flamingo</color>

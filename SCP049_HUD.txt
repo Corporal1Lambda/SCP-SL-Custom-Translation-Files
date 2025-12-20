@@ -1,23 +1,24 @@
-<b>This soul is no longer with us...</b>
-<b>This soul has decayed beyond a cure...</b>
-<b>This soul has been revived too many times...</b>
-<b>This soul no longer wants to be revived...</b>
-<b>This corpse cannot be revived...</b>
-<b>This corpse has already been consumed.</b>
-<b>Only human corpses may be consumed.</b>
+This soul is no longer with us.
+This corpse has expired.
+This soul has been revived too many times.
+This soul no longer wants to be revived.
+This corpse cannot be revived.
+This corpse has already been consumed.
+Only human corpses may be consumed.
 ATTACK COOLDOWN
-You have denied further resurrection from <color=#EC2222>SCP-049</color>!
-Press <b>[key]</b> to deny further resurrection.
-<b>You found no Pestilence to cure.</b>
-<b>You're already at full health.</b>
-<b>This corpse is already being consumed.</b>
-Slow and fragile, SCP-049 specializes as a support class, able to quickly turn the tide of a game with his army of "cured".
-Fast and dangerous, SCP-049-2 instances swarm ahead of their master to sow panic and chaos, creating new bodies to join the tide.
-<b>\uf21e - Cardiac Arrest</b>:You reach out your gloved hand to touch the hearts of those who suffer from the Pestilence, causing their bodily functions to fail rapidly; giving you the chance to administer your cure.
-<b>\uf0f1 - Good Sense of the Doctor</b>:You shift your full focus to a tainted soul. You move faster, determined to rid them of the Pestilence. You’re able to gauge a victim’s distance using the foul aroma of the disease.
-<b>\ue05c - The Doctor’s Call</b>:You signal your location to your army of cured. As they stand near you, their bodies toughen up to tolerate more damage. A great doctor always checks up on their patients, after all.
-<b>\uf621 - Waste Not, Want Not</b>:Your medical instincts are not without a need for efficiency; you can revive the cured again and again to provide more insights. It's not every day that the dead rise twice.
-<b>\ue064 - Lobotomized Bloodlust</b>:Your mind was forcefully removed, leaving you with only violence. You find yourself pursuing humans faster and faster as you chase them down …
-<b>\uf6d7 - Voracity</b>:The cure isn't entirely without benefits. You can regenerate your flesh using the mass of any nearby corpse. There’s no sharing however, so make sure you’re the first to the feast.
-<b>Cure</b>
-Hold <b>[key]</b>
+You have denied further resurrection from SCP-049!
+Press [key] to deny further resurrection.
+No target found.
+You're already at full health.
+This corpse is already being consumed.
+Work together with your <color=#F00>SCP teammates</color>. Use your abilities to raise and maintain a horde of reanimated corpses, turning the tide of the game in your favor.
+Work together with your <color=#F00>SCP teammates</color>. Follow <color=#F00>SCP-049’s</color> command and take down your targets, creating fresh bodies to join the horde.
+Cardiac Attack:Press [key] on a nearby human to inflict them with Cardiac Arrest, eventually resulting in their death if medical aid is not administered in time. If the victim is already suffering from Cardiac Arrest, this attack will instantly kill them.
+Good Sense of the Doctor:Press [key] on a target in your line of sight to mark them, increasing your movement speed and tracking capabilities.
+The Doctor’s Call:Press [key] to generate Hume Shield for nearby SCP-049-2 instances.
+Resurrection:Hold [key] on a recently deceased corpse to resurrect them, turning them into an SCP-049-2 instance.
+Lobotomized Bloodlust:As you chase humans, keeping them within your light of sight will gradually increase your movement speed. This is represented by a red eye near the center of your display.
+Voracity:Press [key] on a human corpse to consume it. Consuming a corpse regenerates health.
+Revive
+Hold [key]
+Swipe:Press [key] on a nearby human to attack them, dealing moderate damage.

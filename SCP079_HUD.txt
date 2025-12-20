@@ -63,11 +63,11 @@ $<color=#ff9e00>☀</color> <color=#8080FF>ZONE-WIDE BLACKOUT</color>$ now avail
 <color=#9cc7f5>\uf505 MILITARY</color>
 <color=#8080FF>🔊</color> USE SPEAKER
 <size=150%>⛔ ERROR ⛔</size>\nELEVATOR ACCESS DENIED
-SCP-079 has no direct combat or movement capabilities. Instead, you view and interact with the world through security cameras found in every room. All available abilities are listed in the top-right corner of your HUD.
-<b>\uf6ff - Virtually Indestructible</b>:There are three generators in Heavy Containment Zone. If all are engaged, you can be recontained from your chamber. Generators have a countdown sequence that can be interrupted by pressing the "CANCEL" button on the generator.
-<b>\uf1eb - Unlimited Access</b>:You can manipulate numerous systems in the facility to assist the other SCPs. The top right of your screen shows what abilities are available. These abilities cost auxiliary power (AP) to use, which regenerates over time. 
-<b>\uf538 - Deep Learning</b>:Assisting in terminations, or performing helpful actions for the other SCPs will grant you experience towards a new access tier. Each new tier provides more AP, and grants you new abilities.
-<b>\uf06e - Awake. Never Sleep.</b>:Being everywhere and nowhere grants you a unique perspective. You can ping locations, people, and objects of interest, allowing you to assist in the slaughter. You are also able to access facility surveillance map.
+Assist your <color=#F00>SCP teammates</color>. Use facility systems against humans to help your team secure kills and provide vital intel. Level up your Access Tier by performing these actions to unlock new abilities.
+Virtually Indestructible:You can only be defeated if all of your SCP teammates are killed, or if humans engage all three generators and activate the Facility Overcharge. Rooms with active generators are highlighted on your map. Your teammates must deactivate them to prevent you from being shut down.
+Auxiliary Power:Using your abilities consumes Auxiliary Power (AP). AP is visible as a meter in the bottom right of your display and passively regenerates. You can view available abilities and their AP cost at the top right of your display.
+Deep Learning:Assisting your teammates in killing humans will grant you Experience (EXP). Gaining EXP grants progress towards the next Access Tier, which will grant you new abilities. EXP gains and level increases will be shown in the bottom left of your display.
+Overwatch:You view and traverse the facility through cameras. Press [key] on a camera icon to switch to that camera, or open the map by pressing Tab to switch to a specific room’s camera by selecting it.
 $<color=#ffa500>\uf06e </color><color=#8080FF>BREACH SCANNER</color>$ now available — select team(s)/zone(s) in $<color=#8080FF>Facility Map</color>$ to scan for survivors.
 <size=150%><color=red>AP_REG SUSPENDED ⚠</color></size>
 <size=150%><color=red>AP_REG REDUCED ([precentage]) ⚠</color></size>

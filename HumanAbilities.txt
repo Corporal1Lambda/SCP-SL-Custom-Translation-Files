@@ -1,7 +1,8 @@
-Sprint:Increases your movement speed, but also increases sound made while moving.
-Sneak:Your movements become silent, at the cost of a lot of speed.
-Inventory:Open your inventory and select an item you have picked up using LMB, or drop it using RMB.
-Unarmed:You have nothing. Find something. Anything.
-Access Card:You have an access card, it's not the best but don't lose it.
-Standard Issue:You are equipped with a Firearm, an Access Card, and some utility items.
-Armed & Dangerous:You have been consigned with heavy weaponry, an Access Device, and medical supplies.
+Sprint:Hold [key] to consume stamina and move at a faster pace. Stamina regenerates when you stop sprinting. Be mindful of its usage!
+Sneak:Press [key] to sneak. This makes your footsteps silent at the cost of speed.
+Inventory:Press [key] to open your inventory, displaying your items and ammo. Hover over an item with your mouse to examine it. Press LMB to equip items, and RMB to drop them.
+Empty Pockets:As a Class-D, you start the round with nothing. You must work together with your teammates and scavenge for items to survive.
+Basic Access:As a Scientist, you start the round with a basic keycard and a medkit. You must work together with your teammates and scavenge for items to survive.
+Standard Issue:You have been issued a set of military-grade weaponry and armor, effective against most targets. Make use of them and work with your teammates to contain the threat.
+Consigned Arms:You have been issued a set of military-grade weaponry and armor, effective against most targets. Make use of them and work with your teammates to capture the facility.
+Basic Gear:You have been issued a standard set of security gear, including a subpar SMG, a basic keycard, and a flashbang. Stick with your team to be effective and scavenge to find better items.

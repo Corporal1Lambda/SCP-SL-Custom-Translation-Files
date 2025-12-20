@@ -1,8 +1,9 @@
-SCP-096 starts docile, and can become enraged when someone sees its face, or harms it. Rage empowers with many abilities, which assist SCP-096 in following transgressor’s lights before the fury subsides.
-<b>\uf5b4 - Try Not to Cry</b>:It's hard to go on… but leaning on something helps you to calm down, either to hide… or to wait for someone to come by.
-<b>\uf2a7 - Melee Attack</b>:Tear through anything in your way to get to those who've hurt you. Your attacks will destroy doors and injure humans.
-<b>🏃 - Charge</b>:Cut their escapes short — they deserve it. You bolt straight ahead for a short distance, demolishing anything in your path.
+Work together with your <color=#F00>SCP teammates</color>. You begin in a Docile state, unable to attack. Punish humans that observe you by unleashing powerful attacks during your Enraged state.
+Try Not to Cry:When in the Docile State, press [key] on a flat wall or door to lean against it. While leaning, your cries are hushed and your Hume Shield regeneration rate is doubled.
+Melee Attack:When in the Enraged state, press [key] to unleash a strong melee attack on nearby humans and doors. This attack cannot damage humans who have not looked at your face.
+Charge:When in the Enraged state, press [key] to propel yourself at extreme speeds in a straight line. This attack deals massive damage to humans.
 Rage Only
 Docile Only
-Hold <b>[key]</b> to enter Rage.
-Hold <b>[key]</b> to force-exit Rage.
+Hold [key] to enter Rage.
+Hold [key] to force-exit Rage.
+Scopophobia:You begin in a Docile state. In this state, you are unable to attack and move around slowly. If a human looks at your face, you gain the ability to enter the Enraged state. When Enraged, you move rapidly and gain powerful attacks, but can only see players who have looked at you.

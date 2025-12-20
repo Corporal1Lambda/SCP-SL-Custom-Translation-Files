@@ -24,3 +24,5 @@ Minimal Reverb
 Announcement Speaker Simulation
 Controls whether P.A. system announcements (such as C.A.S.S.I.E.) are played through the nearest speaker or broadcast globally.
 Chase Themes
+Mute sound effects
+Sound Effects while Spectating
