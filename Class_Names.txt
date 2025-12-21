@@ -22,7 +22,7 @@
 Overwatch
 Filmmaker
 <color=red>「SCP-3114」</color>
-s1
+-
 <color=#FF59CA>「SCP-1507」</color>
 <color=#FF0099>「SCP-1507-SIGMA」</color>
 <color=#ff0000>「SCP-1507-049」</color>

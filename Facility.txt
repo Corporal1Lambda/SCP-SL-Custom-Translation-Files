@@ -32,7 +32,7 @@ MAIN VOLUME
 YOU ARE
 Escape time: [escape_minutes]:[escape_seconds]
 Cooldown: [time]\n[item]
-Press <color=#ff80bc><b>F1</b></color> for more information.
+\n\n\nPress <color=#ff80bc><b>F1</b></color> for more information.
 <size=40><color=#EC2222>Follow orders or ask teammates for help.</color></size>
 -
 -
