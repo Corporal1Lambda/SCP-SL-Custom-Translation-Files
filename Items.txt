@@ -41,7 +41,7 @@
 44~<color=#ff0000>⚱ SCP-244-A ⚱</color>~<b>☁️</b> Creates a cloud of icy fog.\n❄️ Fog applies hypothermia.
 45~<color=#ff0000>⚱ SCP-244-B ⚱</color>~<b>☁️</b> Creates a cloud of icy fog.\n❄️ Fog applies hypothermia.
 46~<color=red>\uf492 SCP-1853 \uf492~<size=80%><color=#95D600>\uf05b</color> Reduced ADS inaccuracy - 30%.\n<color=#95D600>\uf05b</color> Reduced weapon recoil - 25%.\n<color=#95D600>\uf05b</color> Reduced reload time - 25%.\n<color=#95D600>💳</color> Picking up items increased - 60%.\n\n</size><size=75%>Increases performance when your life is in danger.\nDO NOT MIX WITH:\n<color=red>SCP-207</color>\n<color=#004B93>O-207-914</color></size>
-47~<color=#003DCA>\uf05b 3-X Particle Disruptor \uf05b\n<size=75%>Experimental Fusion Rifle</size></color>
+47~<color=#003DCA>\uf05b 3-X Particle Disruptor \uf05b\n<size=75%>Experimental Ontokinergy Rifle</size></color>
 48~<color=#ff0000>\uf05b COM-45 \uf05b\n<size=75%>Triple Full-auto Pistol</size></color>
 49~<color=#ff0000>🔊 SCP-1576 🔊</color>~👻 Talk with the dead.\n\uf2f2 Communication time - 30s.
 50~<color=#ff0000>🍭 Jailbird 🍭</color>~<size=75%>It's a… Stun Baton!?</size>\n\nSwing 「LMB」: 50 DMG\nCharge 「RMB」: 200 DMG\n<color=#8079FF>\ue06c</color> Penetrates <color=#8079FF>Hume Shield</color>.

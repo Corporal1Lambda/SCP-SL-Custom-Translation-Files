@@ -20,3 +20,21 @@
 <color=#f47fff>🍓 Pink Candy 🍬</color>
 \n<size=75%><color=#f47fff>The strawberry scent is as gentle as it looks.</color></size>
 <color=#FFFFFF>💥 Instant ████████</color>
+<color=orange><b>🍊</b> Orange Candy 🍬</color>
+The citrus-scented candy shines with an enticing luster. Trick or treat?
+Causes you to radiate a brilliant shade of orange. Enemies struggle to avert their eyes from you.  
+<color=#FFFFFF><b>👻</b> White Candy 🍬</color>
+A distinctly sugary smell emanates from within the wrapper. There doesn’t seem to be any candy inside… Trick or treat?
+Temporarily transforms you into a ghost — turning you translucent and allowing you to pass through doors.
+<color=#808080>🍬 Gray Candy 🍬</color>
+The faint smell of lead emanates from this surprisingly heavy candy. Trick or treat?
+Turns you into an extremely heavy and damage resistant piece of lead. Metal_pipe.mp3
+<color=#43464b>🍬 Black Candy 🍬</color>
+The overwhelming scent of nothingness makes you gag. You remember tasting it infinite times, but you can't recall the flavor. Trick or treat?
+Inflicts a random effect. Feeling Lucky?
+<color=#523a28><b>☕️</b> Brown Candy 🍬</color>
+The familiar scent of coffee entices you. Trick or treat?
+An extremely effective laxative. 
+<color=red>💀 Evil Candy 💀</color>
+The piece of candy pulses with an evil energy. Trick or treat?
+Rapidly converts body tissue into marshmallow. Part Man, Part Marshmallow. All <b>EVIL</b>.
