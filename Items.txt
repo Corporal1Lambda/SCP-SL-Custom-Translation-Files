@@ -52,7 +52,7 @@
 55~<color=red>\uf729 SCP-1344-03 \uf729</color>~<size=80%><color=#ffb4ff>\uf06e</color> See players through walls.</size>\n\n<b>DO NOT REMOVE</b>
 56~\uf2dc Snowball \uf2dc~「Normal」: 15 DMG\n「Charged」: 30 DMG\nx2 Headshot DMG\n<color=#8079FF>\ue06c</color> Penetrates <color=#8079FF>Hume Shield</color>
 57~Coal~You are on the naughty list!
-58~Coal?~Teleports player to the <color=red>SCP</color>
+58~SCP-2536-2~Teleports player to a random <color=red>SCP</color>.
 59~<color=#FF59CA>📼 Tape Player 📼</color>~Begin audio prompt in 3..2..1..\n Summons the horde of:\n<color=#FF59CA>SCP-1507</color>
 61~<color=#6f32b5>\uf09d Surface Pass \uf09d</color>~Single-use access pass for opening exit gates.
 62~<color=#ff0000>\uf05b SCP-127 \uf05b\n<size=75%>The living gun</size></color>

@@ -22,7 +22,7 @@ You've been killed by a nearby explosion.\n Caused by: <color=#5180f7>High Explo
 Massive lacerations and excessive blood loss.\n Caused By: <color=#e52121>SCP-096</color>
 Cervical fracture at the base of the skull.\n Caused By: <color=#e52121>SCP-173</color>
 The bite of 87\n Caused By: <color=#e52121>SCP-939</color>
-Large amount of minor scratches is present.\n Caused By: <color=#FF59CA>SCP-1507</color>
+Large amount of minor scratches is present.\n Caused By: <color=#FF59CA>SCP-1507</color>/<color=#e52121>SCP-3114</color>/<color=#36a7d6>Marshmallow Man</color>/I DON'T F**KING KNOW ANYMORE THERE'S SO MANY THINGS THAT CAN KILL YOU WITH THIS DEATH REASON - WHYYY??!?
 [ammotype] bullet wounds.
 Badly mutilated and pulped.\n Caused By: <color=#e52121>SCP-018</color>
 Signs of severe trauma to both femur bones suggests death by circulatory shock.
