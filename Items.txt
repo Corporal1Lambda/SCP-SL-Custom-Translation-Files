@@ -8,7 +8,7 @@
 7~<color=#0096FF>💳 MTF Operative Keycard 💳</color>
 8~<color=#003DCA>💳 MTF Captain Keycard 💳</color>
 9~<color=#ba1846>💳 Site Director Keycard 💳</color>
-10~<color=#008F1C>📟 C.I. Breaking Card 📟</color>
+10~<color=#008F1C>📟 C.I. Access Device 📟</color>
 11~<color=#FFFFFF>💳 O5-level Keycard 💳</color>
 12~<color=#5B6370>📻 Radio 📻</color>~Allows long range communication.\n\nSR - 108m\nMR - 180m\nLR - 1080m\nUR - 7200m
 13~<color=#FFFF7C>\uf05b COM-15 \uf05b</color>
@@ -16,7 +16,7 @@
 15~<color=#FF8E00>🔦 Flashlight 🔦</color>~Let there be light!
 16~<color=#003DCA>⚡ Micro H.I.D. ⚡</color>~<size=135%>Heavy electrical weapon designed for the termination of anomalies.\n\n「Primary」: 400 DPS\n「Charged」: 1000 DPS\n<color=#767676>🏃</color> Stamina penalty - 30%.</size>
 17~<color=#ff0000>💊 SCP-500 💊</color>~<color=#f57caa>💗</color> Fully heals player\n<color=#f57caa>✚</color> Regenerates 200 HP\n<color=#ffb4ff>♻️</color> Removes certain effects
-18~<color=#ff0000>\uf72f SCP-207-C \uf72f</color>~<color=#767676>🏃</color> <size=90%>Increases movement speed</size>\n<color=#767676>🏃</color> Infinite sprint\n<color=#f57caa>💔</color> Drains HP\n\n<size=75%>Harmfully increases motor skills.\nDO NOT MIX WITH:\n<color=red>SCP-1853</color>\n<color=#004B93>O-207-914</color></size>
+18~<color=#ff0000>\uf72f SCP-207 \uf72f</color>~<color=#767676>🏃</color> <size=90%>Increases movement speed</size>\n<color=#767676>🏃</color> Infinite sprint\n<color=#f57caa>💔</color> Drains HP\n\n<size=75%>Harmfully increases motor skills.\nDO NOT MIX WITH:\n<color=red>SCP-1853</color>\n<color=#004B93>O-207-914</color></size>
 47~<color=#003DCA>\uf05b 3-X Particle Disruptor \uf05b</color>
 20~<color=#0096FF>\uf05b MTF-ε-11-SR \uf05b\n<size=75%>Facility Recovery-Standard Rifle</size></color>
 21~<color=#70C3FF>\uf05b Crossvec \uf05b\n<size=75%>C.R.O.S.S.</size></color>
@@ -25,7 +25,7 @@
 25~<color=#0096FF>💥 HE Grenade 💥</color>~<color=orange>💥</color> 900 DMG to <color=red>SCPs</color>.\n<color=#8079FF>\ue06c</color> 2x DMG to <color=#8079FF>Hume Shield</color>.\n<color=orange>🔥</color> Burns damaged players.\n\uf2f2 3.5s fuse time.
 26~<color=#5B6370>💣 Flashbang 💣\nModel FG02</color>~<color=#5B6370>\uf06e</color> Blinds enemy players up to 5s.\n\uf2f2 2.8s fuse time.
 30~<color=#5B6370>\uf05b CSP-18 \uf05b\n<size=75%>Compact Security Pistol</size></color>
-31~<color=red>⚽ SCP-018 ⚽</color>~<size=85%><color=#ffeb00>👥</color> Friendly Fire Toleration - 10s.\n💨 Speed doubles with each bounce.\n⚽ 10x DMG to <color=red>SCPs</color>.\n<color=orange>💥</color> Explodes after 80s.</size>
+31~<color=red>🎃 SCP-018 🎃</color>~<size=85%><color=#ffeb00>👥</color> Friendly Fire Toleration - 10s.\n💨 Speed doubles with each bounce.\n⚽ 10x DMG to <color=red>SCPs</color>.\n<color=orange>💥</color> Explodes after 80s.</size>
 32~<color=#ff0000>🎩 SCP-268 🎩</color>~◌ Invisibility - 15s.
 33~<color=#FFFF7C>💉 Adrenaline 💉</color>~<color=#55da09>⛨</color> Gives player <color=#55da09>40 AHP</color>.\n<color=#767676>🏃</color> Refills Stamina bar.\n<color=#767676>🏃</color> Infinite sprint - 8s.
 34~<color=#FFFF7C>\uf490 Painkillers \uf490</color>~<color=#f57caa>✚</color> Regenerates 50 HP.
@@ -45,16 +45,16 @@
 48~<color=#ff0000>\uf05b COM-45 \uf05b\n<size=75%>Triple Full-auto Pistol</size></color>
 49~<color=#ff0000>🔊 SCP-1576 🔊</color>~👻 Talk with the dead.\n\uf2f2 Communication time - 30s.
 50~<color=#ff0000>🍭 Jailbird 🍭</color>~<size=75%>It's a… Stun Baton!?</size>\n\nSwing 「LMB」: 50 DMG\nCharge 「RMB」: 200 DMG\n<color=#8079FF>\ue06c</color> Penetrates <color=#8079FF>Hume Shield</color>.
-51~<color=#004B93>\uf72f O-207-914 \uf72f</color>~<color=#767676>🐌</color> <size=90%>Decreases movement speed</size>\n<color=#f57caa>✚</color> Regenerates HP\n<color=#55da09>⛨</color> Provides 75 AHP\n\n<size=75%>Will save your life in a pinch.\nDO NOT MIX WITH:\n<color=red>SCP-1853</color>\n<color=red>SCP-207</color></size>
+51~<color=#004B93>\uf72f Anti-SCP-207 \uf72f</color>~<color=#767676>🐌</color> <size=90%>Decreases movement speed</size>\n<color=#f57caa>✚</color> Regenerates HP\n<color=#55da09>⛨</color> Provides 75 AHP\n\n<size=75%>Will save your life in a pinch.\nDO NOT MIX WITH:\n<color=red>SCP-1853</color>\n<color=red>SCP-207</color></size>
 52~<color=#003DCA>\uf05b MTF-ε-11-MG \uf05b\n<size=75%>Facility Recovery-Machine Gun</size></color>
 53~<color=#ff0000>\uf05b A7 \uf05b\n<size=75%>Full-auto Stock</size></color>
-54~<color=#FF8E00>🏮 Lantern 🏮</color>~A classic oil lantern, inscribed with the name "Daniel".
+54~<color=#FF8E00>🏮 Lantern 🏮</color>~A classic oil lantern.
 55~<color=red>\uf729 SCP-1344-03 \uf729</color>~<size=80%><color=#ffb4ff>\uf06e</color> See players through walls.</size>\n\n<b>DO NOT REMOVE</b>
 56~\uf2dc Snowball \uf2dc~「Normal」: 15 DMG\n「Charged」: 30 DMG\nx2 Headshot DMG\n<color=#8079FF>\ue06c</color> Penetrates <color=#8079FF>Hume Shield</color>
 57~Coal~You are on the naughty list!
 58~SCP-2536-2~Teleports player to a random <color=red>SCP</color>.
 59~<color=#FF59CA>📼 Tape Player 📼</color>~Begin audio prompt in 3..2..1..\n Summons the horde of:\n<color=#FF59CA>SCP-1507</color>
 61~<color=#6f32b5>\uf09d Surface Pass \uf09d</color>~Single-use access pass for opening exit gates.
-62~<color=#ff0000>\uf05b SCP-127 \uf05b\n<size=75%>The living gun</size></color>
+62~<color=#ff0000>\uf5c9 SCP-127 \uf5c9\n<size=75%>The living gun</size></color>
 68~<color=#ff0000>🔪 SCP-1509 🔪</color>~<size=75%>The Blade of Rebirth</size>\n\n「LMB」: 50 DMG\n<color=#8079FF>\ue06c</color> Gives player <color=#8079FF>35 HS</color>.\n<color=red>👻</color> Respawns a dead teammate.
 69~<color=#ff0000>💀 SCP-021-J 💀</color>~Rapidly converts body tissue into marshmallow.\nPart Man, Part Marshmallow.\nAll <b>EVIL</b>.
