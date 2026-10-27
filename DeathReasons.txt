@@ -23,6 +23,7 @@ Massive lacerations and excessive blood loss.\n Caused By: <color=#EC2222>SCP-09
 Cervical fracture at the base of the skull.\n Caused By: <color=#EC2222>SCP-173</color>
 The bite of 87\n Caused By: <color=#EC2222>SCP-939</color>
 Large amount of minor scratches is present.\n Caused By: <color=#FF59CA>Unsp</color><color=#EC2222>eci</color><color=#36a7d6>fied</color>
+[ammotype] bullet wounds.
 Badly mutilated and pulped.
 Signs of severe trauma to both femur bones suggests death by circulatory shock.
 You've been sacrificed to recontain SCP-106.
